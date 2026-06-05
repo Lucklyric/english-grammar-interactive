@@ -33,7 +33,7 @@ function render() {
   syncToggle();
   const lang = getLang();
   const q = ($('#search').value || '').trim().toLowerCase();
-  const all = [...MANIFEST.lessons].sort((a, b) => a.order - b.order);
+  const all = [...MANIFEST.lessons].sort((a, b) => Number(a.id) - Number(b.id));
   const match = (l) => !q || pick(l.title).toLowerCase().includes(q) || (l.title.en + l.title.zh + (l.keywords || '')).toLowerCase().includes(q) || l.id.includes(q);
   const shown = all.filter(match);
 
