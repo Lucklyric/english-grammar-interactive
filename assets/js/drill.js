@@ -11,20 +11,31 @@ const STR = {
 };
 const s = (k) => (STR[getLang()] || STR.en)[k] || k;
 
-let queue = [], i = 0, results = [], startTs = 0;
+let queue = [], i = 0, results = [], startTs = 0, sectionTrick = null;
 
 async function main() {
   initLang(); wireToggle();
   queue = await buildQueue();
+  renderTrick();
   if (!queue.length) { $('#drill').innerHTML = `<div class="card"><p>${s('empty')}</p><p><a href="vocab.html">${s('back')}</a></p></div>`; return; }
-  document.addEventListener('langchange', () => { if (i < queue.length) renderCard(); });
+  document.addEventListener('langchange', () => { renderTrick(); if (i < queue.length) renderCard(); });
   next();
+}
+
+function renderTrick() {
+  const el = $('#trickcard'); if (!el) return;
+  if (!sectionTrick) { el.innerHTML = ''; return; }
+  const tk = sectionTrick;
+  el.innerHTML = `<details class="trick" open><summary>${escapeHtml(pick(tk.heading))}</summary>`
+    + `<p>${escapeHtml(pick(tk.body))}</p>`
+    + (tk.examples || []).map((e) => `<p class="trick-ex"><code>${escapeHtml(e.text)}</code>${e.note ? ` — ${escapeHtml(pick(e.note))}` : ''}</p>`).join('')
+    + `</details>`;
 }
 
 async function buildQueue() {
   const pack = params.get('pack'), section = params.get('section'), due = params.get('due');
   if (pack) { const P = await fetch(`data/vocab/packs/${pack}.json`).then((r) => r.json()).catch(() => null); return P ? P.words.filter((w) => w.gloss) : []; }
-  if (section) { const S = await fetch(`data/vocab/be850/${section}.json`).then((r) => r.json()).catch(() => null); return S ? S.words.filter((w) => w.gloss) : []; }
+  if (section) { const S = await fetch(`data/vocab/be850/${section}.json`).then((r) => r.json()).catch(() => null); if (S) sectionTrick = S.trick || null; return S ? S.words.filter((w) => w.gloss) : []; }
   if (due) {
     const all = await fetch('data/vocab/all-words.json').then((r) => r.json()).catch(() => ({}));
     const dueWords = store.due(Object.keys(all));

@@ -181,3 +181,9 @@ a:hover { text-decoration: underline; }
 .drill-summary { text-align: center; }
 .big-score { font-size: 2rem; font-weight: 800; color: var(--accent); margin: 8px 0; }
 .drill-btn-link { display: inline-block; margin-top: 12px; }
+
+/* Foundation grammar trick card */
+.trick { background: var(--accent-soft); border: 1px solid #ddd6fe; border-radius: var(--radius); padding: 14px 18px; margin: 8px 0 18px; }
+.trick summary { font-weight: 800; color: var(--accent); cursor: pointer; font-size: 1.05rem; }
+.trick p { margin: 8px 0 0; color: var(--ink); }
+.trick-ex code { background: #fff; border: 1px solid #ddd6fe; border-radius: 6px; padding: 1px 6px; font-weight: 700; color: var(--accent); }
