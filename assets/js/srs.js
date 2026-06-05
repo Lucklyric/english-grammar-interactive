@@ -32,5 +32,8 @@ export const store = {
   // ids: array of headwords to consider; returns those due today.
   due(ids) { const s = read(); const t = dayNumber(); return ids.filter((w) => isDue(s.words[w], t)); },
   masteredCount(ids) { const s = read(); return ids.filter((w) => isMastered(s.words[w])).length; },
+  // Game stats (XP + best combo) for motivation; stored alongside word state.
+  stats() { const s = read(); return s.meta || { xp: 0, bestCombo: 0 }; },
+  addXp(n, combo) { const s = read(); s.meta = s.meta || { xp: 0, bestCombo: 0 }; s.meta.xp += n; s.meta.bestCombo = Math.max(s.meta.bestCombo, combo || 0); write(s); },
   reset() { Object.keys(localStorage).filter((k) => k.startsWith('egi:')).forEach((k) => localStorage.removeItem(k)); },
 };
