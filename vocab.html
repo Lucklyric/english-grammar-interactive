@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Vocabulary Trainer · 词汇训练</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body class="home-page">
+  <header class="topbar">
+    <a class="brand" href="index.html">兔 Grammar</a>
+    <nav class="track-switch">
+      <a href="index.html">Grammar</a>
+      <a href="vocab.html" class="active">Vocabulary</a>
+    </nav>
+    <div class="topbar-actions">
+      <button id="reset" class="ghost-btn" type="button">Reset</button>
+      <button id="lang-toggle" class="lang-toggle" type="button" aria-label="Toggle language">EN</button>
+    </div>
+  </header>
+
+  <section class="hero">
+    <h1 id="vtitle">Vocabulary Trainer</h1>
+    <a id="daily-btn" class="daily-review" href="drill.html?due=1">
+      <span id="daily-label">Daily review</span> · <span id="daily-count">0 due</span>
+    </a>
+    <div class="progress-wrap" aria-label="mastery">
+      <div class="progress-track"><div id="mastery-bar" class="progress-fill"></div></div>
+      <span id="mastery" class="progress-text"></span>
+    </div>
+  </section>
+
+  <main class="container">
+    <div id="tracks"></div>
+  </main>
+
+  <footer class="sitefoot">
+    <p>Basic English 850 → CEFR C2 · headwords sourced from public CEFR/Oxford lists · independent learning tool.</p>
+  </footer>
+  <script type="module" src="assets/js/vocab.js"></script>
+</body>
+</html>
