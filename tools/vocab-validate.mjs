@@ -44,7 +44,7 @@ for (const f of files) {
     if (!hasGloss) { stubs++; errors.push(`${where}: "${hw}" missing gloss{en,zh} (stub not completed)`); continue; }
     withGloss++;
     if (!w.example || typeof w.example !== 'string' || !w.example.trim()) errors.push(`${where}: "${hw}" missing example`);
-    else if (!w.blank || !w.example.includes(w.blank)) errors.push(`${where}: "${hw}" blank "${w.blank}" not a substring of example`);
+    else if (w.blank && !w.example.includes(w.blank)) errors.push(`${where}: "${hw}" blank "${w.blank}" not a substring of example`); // blank "" = gap-fill disabled (ok)
   }
 }
 
