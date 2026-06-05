@@ -1,0 +1,1300 @@
+{
+  "id": "33",
+  "slug": "english-grammar-adjectives",
+  "category": "parts-of-speech",
+  "shape": "deep-dive",
+  "order": 37,
+  "title": {
+    "en": "Adjectives (Pre/Post-positioned, Simple, Compound, Comparative, Superlative)",
+    "zh": "形容词（前置、后置、简单、复合、比较级、最高级）"
+  },
+  "summary": {
+    "en": "Adjectives describe people and things. They work as attributive, subject complement, object complement, and adverbial; they sit before or after the noun, follow a strict ordering, form compounds, and inflect into comparative and superlative degrees.",
+    "zh": "形容词用来描述人和物。它们可作定语、表语、宾语补语和状语；可前置或后置，前置时有固定顺序，可构成复合形容词，并能变成比较级和最高级。"
+  },
+  "source": {
+    "videoId": "3hvp25Ef0Ig",
+    "youtube": "https://www.youtube.com/watch?v=3hvp25Ef0Ig",
+    "duration": "18:09",
+    "script": "scripts/33-english-grammar-adjectives.md"
+  },
+  "tags": [
+    {
+      "id": "adjective",
+      "abbr": "Adj",
+      "color": "#9333ea",
+      "underline": "solid",
+      "label": {
+        "en": "adjective",
+        "zh": "形容词"
+      }
+    },
+    {
+      "id": "comparative",
+      "abbr": "Cmp",
+      "color": "#0891b2",
+      "underline": "dotted",
+      "label": {
+        "en": "comparative",
+        "zh": "比较级"
+      }
+    },
+    {
+      "id": "superlative",
+      "abbr": "Sup",
+      "color": "#0e7490",
+      "underline": "dotted",
+      "label": {
+        "en": "superlative",
+        "zh": "最高级"
+      }
+    },
+    {
+      "id": "noun",
+      "abbr": "N",
+      "color": "#1d4ed8",
+      "underline": "dashed",
+      "label": {
+        "en": "noun",
+        "zh": "名词"
+      }
+    },
+    {
+      "id": "adverb",
+      "abbr": "Adv",
+      "color": "#c026d3",
+      "underline": "dashed",
+      "label": {
+        "en": "adverb",
+        "zh": "副词"
+      }
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": {
+        "en": "Pre-positioned attributive adjective",
+        "zh": "前置定语形容词"
+      },
+      "body": {
+        "en": "The simplest, most direct use is to put the adjective right before the thing it describes. In 'a hungry rabbit', 'hungry' restricts and describes the noun — it is an attributive. An adjective acting as an attributive usually goes before its noun, which is called a pre-positioned attributive.",
+        "zh": "最简单直接的用法就是把形容词直接放在要描述的对象之前。如 a hungry rabbit，hungry 起限定描述作用，是定语。这样作定语的形容词一般放在要描述对象之前，叫前置定语。"
+      },
+      "exampleRefs": [
+        "e1"
+      ],
+      "sourceRef": "这个形容词hungry直接起限定描述作用，所以是定语"
+    },
+    {
+      "id": "c2",
+      "heading": {
+        "en": "Order of stacked pre-positioned adjectives",
+        "zh": "多个前置形容词的顺序"
+      },
+      "body": {
+        "en": "When several adjectives without hyphens stack before a noun, order matters. 'A little white rabbit' sounds right; 'a white little rabbit' is understandable but sounds odd. The usual order is: determiner + opinion/subjective + size + shape + age (new/old) + colour + origin + material + purpose.",
+        "zh": "当多个不加连字符的形容词作前置定语时，顺序很重要。a little white rabbit 听上去自然，a white little rabbit 意思没问题却怪怪的。一般顺序是：限定词 + 主观特征 + 尺寸 + 形状 + 新旧 + 颜色 + 来源 + 材料 + 用途。"
+      },
+      "exampleRefs": [
+        "e3"
+      ],
+      "sourceRef": "限定词，也就是冠词、物主代词等，加主观特征，加尺寸加形状，加新旧，加颜色加来源，加材料加用途"
+    },
+    {
+      "id": "c3",
+      "heading": {
+        "en": "Post-positioned attributive: compound indefinite pronouns",
+        "zh": "后置定语：复合不定代词"
+      },
+      "body": {
+        "en": "In some cases an adjective can only follow the noun (a post-positioned attributive). When it modifies a compound indefinite pronoun such as somebody, anybody, everything, or nothing, it must come after: 'somebody nice', 'anybody absent', 'everything possible', 'nothing wrong'.",
+        "zh": "某些情况下形容词只能后置作定语，即后置定语。修饰复合不定代词 somebody, anybody, everything, nothing 等时只能后置：somebody nice、anybody absent、everything possible、nothing wrong。"
+      },
+      "exampleRefs": [
+        "e4"
+      ],
+      "sourceRef": "用形容词修饰复合不定代词，somebody, anybody, everything, nothing等时，咱们只能说somebody nice"
+    },
+    {
+      "id": "c4",
+      "heading": {
+        "en": "Post-positioned attributive: adjective phrases",
+        "zh": "后置定语：形容词短语"
+      },
+      "body": {
+        "en": "An adjective phrase is generally placed after the thing it describes, e.g. 'carrots good for the rabbit'. Phrases built with non-finite verbs work the same way: 'the rabbit eager to eat carrots' (adjective + infinitive) and 'the rabbit busy eating carrots' (adjective + gerund). Each can be rewritten as a relative clause: 'the rabbit that is eager to eat carrots'.",
+        "zh": "形容词短语一般放在描述对象之后，如 carrots good for the rabbit。用非谓语动词构成的短语同理：the rabbit eager to eat carrots（形容词加不定式）、the rabbit busy eating carrots（形容词加动名词）。它们都可用定语从句替换，如 the rabbit that is eager to eat carrots。"
+      },
+      "exampleRefs": [
+        "e5"
+      ],
+      "sourceRef": "一般说来，形容词短语会放在描述的对象之后，比如carrots good for the rabbit"
+    },
+    {
+      "id": "c5",
+      "heading": {
+        "en": "Subject complement (predicative) after a linking verb",
+        "zh": "系动词后的主语补语（表语）"
+      },
+      "body": {
+        "en": "A linking verb connects what comes before it with what comes after, giving the latter's quality to the former. In 'the rabbit is hungry', 'is' is a linking verb: it gives the quality 'hungry' to the subject 'the rabbit'. The adjective after it supplements the subject — the subject complement, also called the predicative (表语).",
+        "zh": "系动词把它前后联系起来，把后者的性质赋予前者。the rabbit is hungry 中 is 是系动词，把 hungry 这个性质赋予主语 the rabbit。它后面的形容词补充说明主语，就是主语补语，又叫表语。"
+      },
+      "exampleRefs": [
+        "e7"
+      ],
+      "sourceRef": "把后者表达的性质赋予前者"
+    },
+    {
+      "id": "c6",
+      "heading": {
+        "en": "Predicative-only adjectives (a-prefix, health)",
+        "zh": "只作表语的形容词（a-前缀、身体状况）"
+      },
+      "body": {
+        "en": "Some adjectives normally work only as predicatives. Many beginning with the prefix 'a-', like alive, asleep, alone, can only say 'the rabbit is alive/asleep/alone', not 'an alive rabbit'. For an attributive you switch words: a living, sleeping, lonely rabbit. Some health adjectives like ill and well behave the same — 'the rabbit is ill/well', not 'an ill rabbit'; use a sick or healthy rabbit instead.",
+        "zh": "有些形容词通常只作表语。许多以前缀 a- 开头的，如 alive, asleep, alone，只能说 the rabbit is alive/asleep/alone，不能说 an alive rabbit。想作定语要换词：a living, sleeping, lonely rabbit。某些表身体状况的如 ill, well 同理，只能说 the rabbit is ill/well，作定语要换成 a sick, healthy rabbit。"
+      },
+      "exampleRefs": [
+        "e8"
+      ],
+      "sourceRef": "有些英语形容词通常只做表语，比如一些以这个前缀开头的形容词，像是 alive, asleep, alone"
+    },
+    {
+      "id": "c7",
+      "heading": {
+        "en": "Object complement and adverbial uses",
+        "zh": "宾语补语与状语用法"
+      },
+      "body": {
+        "en": "Beyond attributive and predicative, an adjective can be an object complement: in 'carrots make rabbits happy', 'happy' supplements the object 'rabbits'. More advanced still, an adjective phrase can act as an adverbial: in 'the rabbit came home tired and hungry', 'tired and hungry' shows the rabbit's state on arriving home.",
+        "zh": "除了定语和表语，形容词还能作宾语补语：carrots make rabbits happy 中 happy 补充宾语 rabbits 的状态。更高级的是作状语：the rabbit came home tired and hungry 中 tired and hungry 表现兔子回到家时的状态，作状语。"
+      },
+      "exampleRefs": [
+        "e9",
+        "e10"
+      ],
+      "sourceRef": "形容词 happy 补充说明了宾语 rabbits 的状态，做宾语补语"
+    },
+    {
+      "id": "c8",
+      "heading": {
+        "en": "Compound adjectives: adjective-based",
+        "zh": "复合形容词：以形容词为首"
+      },
+      "body": {
+        "en": "Besides simple adjectives, there are compound adjectives built from several words. The easiest is adjective + adjective, e.g. 'a red hot coal'. Since present and past participles can act as adjectives, we also get adjective + present participle ('a good looking rabbit') and adjective + past participle ('a new born baby').",
+        "zh": "除了简单形容词，还有由多个词构成的复合形容词。最好理解的是形容词加形容词，如 a red hot coal。由于现在分词和过去分词可作形容词，于是有形容词加现在分词（a good looking rabbit）和形容词加过去分词（a new born baby）。"
+      },
+      "exampleRefs": [
+        "e12"
+      ],
+      "sourceRef": "形容词加形容词的构成是最好理解的，比如 a red hot coal"
+    },
+    {
+      "id": "c9",
+      "heading": {
+        "en": "Compound adjectives: adverb-based",
+        "zh": "复合形容词：以副词为首"
+      },
+      "body": {
+        "en": "An adverb can sit before an adjective to modify it, so adverb-based compounds are also easy: 'all round' (adverb + adjective), 'hard working' (adverb + present participle), 'recently built' (adverb + past participle).",
+        "zh": "副词可放在形容词前修饰它，所以以副词为首的复合形容词也不难：all round（副词加形容词）、hard working（副词加现在分词）、recently built（副词加过去分词）。"
+      },
+      "exampleRefs": [
+        "e14"
+      ],
+      "sourceRef": "副词也可以放在形容词前修饰形容词"
+    },
+    {
+      "id": "c10",
+      "heading": {
+        "en": "Compound adjectives: adjective + noun (= a clause)",
+        "zh": "复合形容词：形容词加名词（相当于从句）"
+      },
+      "body": {
+        "en": "An adjective + noun compound is a bit special: it is equivalent to a relative clause. 'A white haired man' = 'a man whose hair is white'; 'a kind hearted woman' = 'a woman whose heart is kind'. The second word (the noun) usually takes an '-ed' ending — unrelated to the past tense. Because these use 'whose', they describe people or animals that can own such attributes.",
+        "zh": "形容词加名词的复合稍特殊：相当于定语从句。a white haired man = a man whose hair is white；a kind hearted woman = a woman whose heart is kind。第二个词（名词）通常加 -ed，与动词过去时无关。因为用 whose，这类形容词往往修饰有所有者属性的人或动物。"
+      },
+      "exampleRefs": [
+        "e15"
+      ],
+      "sourceRef": "a white haired man 等于 a man whose hair is white"
+    },
+    {
+      "id": "c11",
+      "heading": {
+        "en": "Compound adjectives: noun-based",
+        "zh": "复合形容词：以名词为首"
+      },
+      "body": {
+        "en": "Noun-first compounds follow the same clause-equivalent logic. 'A snow white rabbit' (noun + adjective) = 'a rabbit that is white like snow'; 'a carrot eating rabbit' (noun + present participle) = 'a rabbit that eats carrots'; 'a heartbroken rabbit' (noun + past participle) = 'a rabbit whose heart is broken'. Numbers behave like adjectives too, e.g. 'a one way street'.",
+        "zh": "以名词为首的复合形容词同样遵循从句等效逻辑。a snow white rabbit（名词加形容词）= a rabbit that is white like snow；a carrot eating rabbit（名词加现在分词）= a rabbit that eats carrots；a heartbroken rabbit（名词加过去分词）= a rabbit whose heart is broken。数字也像形容词，如 a one way street。"
+      },
+      "exampleRefs": [
+        "e17",
+        "e19"
+      ],
+      "sourceRef": "\"a snow white rabbit\"，名词加形容词，等于 \"a rabbit that is white like snow\""
+    },
+    {
+      "id": "c12",
+      "heading": {
+        "en": "Comparative & superlative: regular -er / -est",
+        "zh": "比较级与最高级：规则 -er / -est"
+      },
+      "body": {
+        "en": "Comparative and superlative degrees express 'more' and 'most'. The basic rule adds '-er' and '-est' to the adjective: long, longer, longest; tall, taller, tallest. Words ending in 'e' just add '-r' and '-st' (late, later, latest; large, larger, largest) to avoid mis-spelling and mis-reading.",
+        "zh": "比较级和最高级表达“更”和“最”。基本规则是在词尾加 -er 和 -est：long, longer, longest；tall, taller, tallest。以 e 结尾的词只加 -r 和 -st（late, later, latest；large, larger, largest），以防拼写出错导致读音出错。"
+      },
+      "exampleRefs": [
+        "e20"
+      ],
+      "sourceRef": "构成比较级和最高级形容词直接在形容词词尾加 \"er\" 和 \"est\" 就好"
+    },
+    {
+      "id": "c13",
+      "heading": {
+        "en": "Spelling rules: -y, doubled consonant",
+        "zh": "拼写规则：-y、双写辅音"
+      },
+      "body": {
+        "en": "A word ending in consonant + 'y' changes 'y' to 'i' before '-er'/'-est': happy, happier, happiest; busy, busier, busiest. A stressed closed-syllable word doubles its final consonant first: big, bigger, biggest; fat, fatter, fattest. These spellings prevent mis-reading.",
+        "zh": "辅音字母加 y 结尾的词，把 y 变 i 再加 -er/-est：happy, happier, happiest；busy, busier, busiest。重读闭音节单词先双写词尾辅音字母再加：big, bigger, biggest；fat, fatter, fattest。这些拼写是为防止误读。"
+      },
+      "sourceRef": "辅音字母加 \"y\" 结尾的词，把 \"y\" 变 \"i\" 再加 \"er\" 和 \"est\"",
+      "exampleRefs": [
+        "e22"
+      ]
+    },
+    {
+      "id": "c14",
+      "heading": {
+        "en": "Comparative & superlative: more / most",
+        "zh": "比较级与最高级：more / most"
+      },
+      "body": {
+        "en": "Multi-syllable words and some two-syllable words take 'more' and 'most' before the adjective instead: interesting, more interesting, most interesting; difficult, more difficult, most difficult. 'More beautiful' is the comparative of 'beautiful'; 'the fairest' is the superlative of 'fair'.",
+        "zh": "多音节词和部分双音节词在词前加 more 和 most：interesting, more interesting, most interesting；difficult, more difficult, most difficult。more beautiful 是 beautiful 的比较级；the fairest 是 fair 的最高级。"
+      },
+      "exampleRefs": [
+        "e23"
+      ],
+      "sourceRef": "多音节词和部分双音节词则是在词前加 \"more\" 和 \"most\""
+    },
+    {
+      "id": "c15",
+      "heading": {
+        "en": "Irregular comparison",
+        "zh": "不规则变化"
+      },
+      "body": {
+        "en": "Some adjectives change irregularly: good, better, best; bad, worse, worst; many, more, most; little, less, least.",
+        "zh": "有些形容词不规则变化：good, better, best；bad, worse, worst；many, more, most；little, less, least。"
+      },
+      "exampleRefs": [
+        "e24"
+      ],
+      "sourceRef": "好更好最好"
+    },
+    {
+      "id": "c16",
+      "heading": {
+        "en": "Comparative with 'than' and multiples",
+        "zh": "比较级与 than 及倍数"
+      },
+      "body": {
+        "en": "The basic pattern is 'A is + comparative + than + B': 'this carrot is bigger than that one'. To show a multiple, add 'times' before the comparative: 'this carrot is three times bigger than that one'.",
+        "zh": "基本句型是“A is 比较级 than B”：this carrot is bigger than that one。表示倍数时在比较级前加 times：this carrot is three times bigger than that one。"
+      },
+      "exampleRefs": [
+        "e25"
+      ],
+      "sourceRef": "this carrot is three times bigger than that one"
+    },
+    {
+      "id": "c17",
+      "heading": {
+        "en": "Equal comparison: as ... as",
+        "zh": "同级比较：as ... as"
+      },
+      "body": {
+        "en": "To say two things are equally something, use 'as + positive degree + as' — no comparative, just the base form: 'this carrot is as big as that one'. For a multiple, put 'times' before the first 'as': 'this carrot is three times as big as that one'.",
+        "zh": "表示两者一样时用“as 原级 as”——不用比较级，只用原级：this carrot is as big as that one。表示倍数时在第一个 as 前加 times：this carrot is three times as big as that one。"
+      },
+      "sourceRef": "this carrot is as big as that one",
+      "exampleRefs": [
+        "e27"
+      ]
+    },
+    {
+      "id": "c18",
+      "heading": {
+        "en": "'-er and -er' = more and more",
+        "zh": "“比较级 and 比较级”= 越来越"
+      },
+      "body": {
+        "en": "A repeated comparative expresses 'more and more'. For '-er' words, use comparative + 'and' + comparative: 'prettier and prettier', 'smarter and smarter'. For 'more' words, don't repeat the whole phrase — use 'more and more + adjective': 'more and more beautiful', not 'more beautiful and more beautiful'.",
+        "zh": "重复比较级表达“越来越”。对加 -er 的词用“比较级 and 比较级”：prettier and prettier、smarter and smarter。对用 more 的词不要整段重复，用“more and more 加形容词”：more and more beautiful，而非 more beautiful and more beautiful。"
+      },
+      "exampleRefs": [
+        "e29"
+      ],
+      "sourceRef": "“more and more beautiful”，越来越漂亮"
+    },
+    {
+      "id": "c19",
+      "heading": {
+        "en": "'The + comparative, the + comparative'",
+        "zh": "“the 比较级, the 比较级”句型"
+      },
+      "body": {
+        "en": "To say 'the more X (cause), the more Y (result)', use 'the + comparative + ..., the + comparative + ...': 'The more carrots the rabbit eats, the smarter he will become.' For a past fact, use past tense: 'the more carrots the rabbit ate, the smarter he became.' Context can shorten it: 'the more the better'.",
+        "zh": "表达“越……（原因），就越……（结果）”，用“the 比较级 ……, the 比较级 ……”：The more carrots the rabbit eats, the smarter he will become。描述过去事实用过去时：the more carrots the rabbit ate, the smarter he became。靠语境可省略：the more the better。"
+      },
+      "exampleRefs": [
+        "e31"
+      ],
+      "sourceRef": "The more carrots the rabbit eats, the smarter he will become"
+    },
+    {
+      "id": "c20",
+      "heading": {
+        "en": "Superlative: range, 'the', and 'a most'",
+        "zh": "最高级：范围、the 与 a most"
+      },
+      "body": {
+        "en": "The superlative comes with a preset range, usually 'in + place' or 'of + group': 'who is the fairest one of all?' A superlative modifying a noun normally takes 'the' because there is only one: 'Snow White is the most beautiful woman in the world.' But 'a most beautiful woman' uses 'a' because here 'most' means 'very' — 'a most beautiful woman' = 'a very beautiful woman'.",
+        "zh": "最高级常和预设范围连用，通常是 in 加地点或 of 加所属：who is the fairest one of all。最高级修饰名词时一般加 the，因为只有一个：Snow White is the most beautiful woman in the world。但 a most beautiful woman 用 a，因为这里 most 表示“非常”——a most beautiful woman = a very beautiful woman。"
+      },
+      "exampleRefs": [
+        "e33",
+        "e34",
+        "e35"
+      ],
+      "sourceRef": "之所以用“the”，就是因为最高级只有一个"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "a hungry rabbit",
+      "annotations": [
+        {
+          "quote": "hungry",
+          "tag": "adjective"
+        },
+        {
+          "quote": "rabbit",
+          "tag": "noun"
+        }
+      ],
+      "note": {
+        "en": "'Hungry' is a pre-positioned attributive describing 'rabbit'.",
+        "zh": "hungry 是前置定语，描述 rabbit。"
+      }
+    },
+    {
+      "id": "e3",
+      "text": "a beautiful big round new black Chinese wooden table",
+      "annotations": [
+        {
+          "quote": "a",
+          "tag": "article",
+          "occurrence": 1
+        },
+        {
+          "quote": "beautiful",
+          "tag": "adjective"
+        },
+        {
+          "quote": "big",
+          "tag": "adjective"
+        },
+        {
+          "quote": "round",
+          "tag": "adjective"
+        },
+        {
+          "quote": "new",
+          "tag": "adjective"
+        },
+        {
+          "quote": "black",
+          "tag": "adjective"
+        },
+        {
+          "quote": "Chinese",
+          "tag": "adjective"
+        },
+        {
+          "quote": "wooden",
+          "tag": "adjective"
+        },
+        {
+          "quote": "table",
+          "tag": "noun"
+        }
+      ],
+      "note": {
+        "en": "Determiner + opinion + size + shape + age + colour + origin + material + noun — the full adjective-order rainbow.",
+        "zh": "限定词 + 主观 + 尺寸 + 形状 + 新旧 + 颜色 + 来源 + 材料 + 名词——完整的形容词顺序彩虹。"
+      }
+    },
+    {
+      "id": "e4",
+      "text": "everything possible",
+      "annotations": [
+        {
+          "quote": "possible",
+          "tag": "adjective"
+        }
+      ],
+      "note": {
+        "en": "With a compound indefinite pronoun, the adjective must follow — a post-positioned attributive.",
+        "zh": "修饰复合不定代词时形容词必须后置——后置定语。"
+      }
+    },
+    {
+      "id": "e5",
+      "text": "carrots good for the rabbit",
+      "annotations": [
+        {
+          "quote": "good for the rabbit",
+          "tag": "adjective"
+        }
+      ],
+      "note": {
+        "en": "An adjective phrase placed after the noun 'carrots'.",
+        "zh": "形容词短语放在名词 carrots 之后。"
+      }
+    },
+    {
+      "id": "e7",
+      "text": "the rabbit is hungry",
+      "annotations": [
+        {
+          "quote": "is",
+          "tag": "verb-linking"
+        },
+        {
+          "quote": "hungry",
+          "tag": "subject-complement"
+        }
+      ],
+      "note": {
+        "en": "Linking verb 'is' gives 'hungry' to the subject; 'hungry' is the subject complement (predicative).",
+        "zh": "系动词 is 把 hungry 赋予主语；hungry 是主语补语（表语）。"
+      }
+    },
+    {
+      "id": "e8",
+      "text": "the rabbit is asleep",
+      "annotations": [
+        {
+          "quote": "is",
+          "tag": "verb-linking"
+        },
+        {
+          "quote": "asleep",
+          "tag": "subject-complement"
+        }
+      ],
+      "note": {
+        "en": "'Asleep' (a-prefix) is predicative-only; for an attributive say 'a sleeping rabbit'.",
+        "zh": "asleep（a- 前缀）只作表语；作定语要说 a sleeping rabbit。"
+      }
+    },
+    {
+      "id": "e9",
+      "text": "carrots make rabbits happy",
+      "annotations": [
+        {
+          "quote": "make",
+          "tag": "verb-transitive"
+        },
+        {
+          "quote": "rabbits",
+          "tag": "object"
+        },
+        {
+          "quote": "happy",
+          "tag": "object-complement"
+        }
+      ],
+      "note": {
+        "en": "'Happy' supplements the object 'rabbits' — an object complement.",
+        "zh": "happy 补充宾语 rabbits——宾语补语。"
+      }
+    },
+    {
+      "id": "e10",
+      "text": "the rabbit came home tired and hungry",
+      "annotations": [
+        {
+          "quote": "came",
+          "tag": "verb-intransitive"
+        },
+        {
+          "quote": "tired and hungry",
+          "tag": "adverbial"
+        }
+      ],
+      "note": {
+        "en": "The adjective phrase 'tired and hungry' shows the rabbit's state on arriving — an adverbial.",
+        "zh": "形容词短语 tired and hungry 表现到家时的状态——作状语。"
+      }
+    },
+    {
+      "id": "e12",
+      "text": "a good looking rabbit",
+      "annotations": [
+        {
+          "quote": "good",
+          "tag": "adjective"
+        },
+        {
+          "quote": "looking",
+          "tag": "non-finite"
+        }
+      ],
+      "note": {
+        "en": "Adjective + present participle compound.",
+        "zh": "形容词加现在分词的复合。"
+      }
+    },
+    {
+      "id": "e14",
+      "text": "hard working",
+      "annotations": [
+        {
+          "quote": "hard",
+          "tag": "adverb"
+        },
+        {
+          "quote": "working",
+          "tag": "non-finite"
+        }
+      ],
+      "note": {
+        "en": "Adverb + present participle compound (cf. 'all round', 'recently built').",
+        "zh": "副词加现在分词的复合（参 all round、recently built）。"
+      }
+    },
+    {
+      "id": "e15",
+      "text": "a white haired man",
+      "annotations": [
+        {
+          "quote": "white",
+          "tag": "adjective"
+        },
+        {
+          "quote": "haired",
+          "tag": "noun"
+        }
+      ],
+      "note": {
+        "en": "Adjective + noun(+ed) = 'a man whose hair is white'.",
+        "zh": "形容词加名词(+ed) = a man whose hair is white。"
+      }
+    },
+    {
+      "id": "e17",
+      "text": "a snow white rabbit",
+      "annotations": [
+        {
+          "quote": "snow",
+          "tag": "noun"
+        },
+        {
+          "quote": "white",
+          "tag": "adjective"
+        }
+      ],
+      "note": {
+        "en": "Noun + adjective = 'a rabbit that is white like snow'.",
+        "zh": "名词加形容词 = a rabbit that is white like snow。"
+      }
+    },
+    {
+      "id": "e19",
+      "text": "a heartbroken rabbit",
+      "annotations": [
+        {
+          "quote": "heartbroken",
+          "tag": "adjective"
+        }
+      ],
+      "note": {
+        "en": "Noun + past participle = 'a rabbit whose heart is broken'.",
+        "zh": "名词加过去分词 = a rabbit whose heart is broken。"
+      }
+    },
+    {
+      "id": "e20",
+      "text": "long, longer, longest",
+      "annotations": [
+        {
+          "quote": "long",
+          "tag": "adjective",
+          "occurrence": 1
+        },
+        {
+          "quote": "longer",
+          "tag": "comparative"
+        },
+        {
+          "quote": "longest",
+          "tag": "superlative"
+        }
+      ],
+      "note": {
+        "en": "Regular -er / -est on a short adjective.",
+        "zh": "短形容词的规则 -er / -est。"
+      }
+    },
+    {
+      "id": "e22",
+      "text": "big, bigger, biggest",
+      "annotations": [
+        {
+          "quote": "big",
+          "tag": "adjective",
+          "occurrence": 1
+        },
+        {
+          "quote": "bigger",
+          "tag": "comparative"
+        },
+        {
+          "quote": "biggest",
+          "tag": "superlative"
+        }
+      ],
+      "note": {
+        "en": "Stressed closed syllable: double the final consonant.",
+        "zh": "重读闭音节：双写词尾辅音。"
+      }
+    },
+    {
+      "id": "e23",
+      "text": "interesting, more interesting, most interesting",
+      "annotations": [
+        {
+          "quote": "interesting",
+          "tag": "adjective",
+          "occurrence": 1
+        },
+        {
+          "quote": "more interesting",
+          "tag": "comparative"
+        },
+        {
+          "quote": "most interesting",
+          "tag": "superlative"
+        }
+      ],
+      "note": {
+        "en": "Multi-syllable adjective takes 'more' / 'most'.",
+        "zh": "多音节形容词用 more / most。"
+      }
+    },
+    {
+      "id": "e24",
+      "text": "good, better, best",
+      "annotations": [
+        {
+          "quote": "good",
+          "tag": "adjective"
+        },
+        {
+          "quote": "better",
+          "tag": "comparative"
+        },
+        {
+          "quote": "best",
+          "tag": "superlative"
+        }
+      ],
+      "note": {
+        "en": "Irregular comparison (cf. bad/worse/worst, many/more/most, little/less/least).",
+        "zh": "不规则变化（参 bad/worse/worst、many/more/most、little/less/least）。"
+      }
+    },
+    {
+      "id": "e25",
+      "text": "this carrot is bigger than that one",
+      "annotations": [
+        {
+          "quote": "bigger",
+          "tag": "comparative"
+        },
+        {
+          "quote": "than",
+          "tag": "conjunction"
+        }
+      ],
+      "note": {
+        "en": "Basic comparative pattern: A is + comparative + than + B.",
+        "zh": "基本比较级句型：A is 比较级 than B。"
+      }
+    },
+    {
+      "id": "e27",
+      "text": "this carrot is as big as that one",
+      "annotations": [
+        {
+          "quote": "as big as",
+          "tag": "adjective"
+        }
+      ],
+      "note": {
+        "en": "Equal comparison uses the positive degree inside 'as ... as'.",
+        "zh": "同级比较在 as ... as 中用原级。"
+      }
+    },
+    {
+      "id": "e29",
+      "text": "the rabbit is smarter and smarter",
+      "annotations": [
+        {
+          "quote": "smarter and smarter",
+          "tag": "comparative"
+        }
+      ],
+      "note": {
+        "en": "Repeated comparative = 'more and more': the rabbit gets smarter and smarter.",
+        "zh": "重复比较级 = 越来越：兔子越来越聪明。"
+      }
+    },
+    {
+      "id": "e31",
+      "text": "The more carrots the rabbit eats, the smarter he will become.",
+      "annotations": [
+        {
+          "quote": "The more",
+          "tag": "comparative"
+        },
+        {
+          "quote": "the smarter",
+          "tag": "comparative"
+        }
+      ],
+      "note": {
+        "en": "'The + comparative, the + comparative' — cause then result (a hypothesis, so will-future).",
+        "zh": "“the 比较级, the 比较级”——先因后果（表假设，用 will 将来）。"
+      }
+    },
+    {
+      "id": "e33",
+      "text": "who is the fairest one of all?",
+      "annotations": [
+        {
+          "quote": "the fairest",
+          "tag": "superlative"
+        },
+        {
+          "quote": "of all",
+          "tag": "preposition"
+        }
+      ],
+      "note": {
+        "en": "Superlative with 'of + group' as the range.",
+        "zh": "最高级配 of 加范围。"
+      }
+    },
+    {
+      "id": "e34",
+      "text": "Snow White is the most beautiful woman in the world.",
+      "annotations": [
+        {
+          "quote": "the most beautiful",
+          "tag": "superlative"
+        },
+        {
+          "quote": "in",
+          "tag": "preposition"
+        }
+      ],
+      "note": {
+        "en": "Superlative takes 'the' (only one) plus 'in + place' as the range.",
+        "zh": "最高级加 the（仅一个）并用 in 加地点作范围。"
+      }
+    },
+    {
+      "id": "e35",
+      "text": "The queen is a most beautiful woman.",
+      "annotations": [
+        {
+          "quote": "a",
+          "tag": "article",
+          "occurrence": 1
+        },
+        {
+          "quote": "most beautiful",
+          "tag": "adjective"
+        }
+      ],
+      "note": {
+        "en": "Here 'most' means 'very', so 'a' replaces 'the': = a very beautiful woman.",
+        "zh": "这里 most 表示“非常”，故用 a 而非 the：= a very beautiful woman。"
+      }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which ordering of pre-positioned adjectives sounds natural?",
+        "zh": "哪种前置形容词顺序听上去自然？"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "a white little rabbit",
+            "zh": "a white little rabbit"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "a little white rabbit",
+            "zh": "a little white rabbit"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "a little rabbit white",
+            "zh": "a little rabbit white"
+          }
+        }
+      ],
+      "answer": "b",
+      "explain": {
+        "en": "Size comes before colour, so 'little' precedes 'white'; both go before the noun.",
+        "zh": "尺寸在颜色之前，故 little 在 white 前；两者都在名词前。"
+      },
+      "refs": [
+        "c2"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": {
+        "en": "In 'the rabbit is hungry', what role does 'hungry' play?",
+        "zh": "在 the rabbit is hungry 中，hungry 的成分是什么？"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Subject complement (predicative)",
+            "zh": "主语补语（表语）"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Object complement",
+            "zh": "宾语补语"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Pre-positioned attributive",
+            "zh": "前置定语"
+          }
+        }
+      ],
+      "answer": "a",
+      "explain": {
+        "en": "After the linking verb 'is', 'hungry' supplements the subject — a subject complement.",
+        "zh": "在系动词 is 之后，hungry 补充主语——主语补语。"
+      },
+      "refs": [
+        "c5",
+        "e7"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which adjective normally works ONLY as a predicative, not as a pre-positioned attributive?",
+        "zh": "哪个形容词通常只能作表语，不能作前置定语？"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "white",
+            "zh": "white"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "asleep",
+            "zh": "asleep"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "little",
+            "zh": "little"
+          }
+        }
+      ],
+      "answer": "b",
+      "explain": {
+        "en": "A-prefix adjectives like 'asleep' are predicative-only: 'the rabbit is asleep', not 'an asleep rabbit'. Use 'sleeping' for an attributive.",
+        "zh": "asleep 这类 a- 前缀形容词只作表语：the rabbit is asleep，不能说 an asleep rabbit；作定语用 sleeping。"
+      },
+      "refs": [
+        "c6",
+        "e8"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "fill",
+      "prompt": {
+        "en": "Write the comparative and superlative of 'big', separated by a comma.",
+        "zh": "写出 big 的比较级和最高级，用逗号隔开。"
+      },
+      "answers": [
+        "bigger, biggest",
+        "bigger,biggest"
+      ],
+      "explain": {
+        "en": "A stressed closed syllable doubles the final consonant: big -> bigger -> biggest.",
+        "zh": "重读闭音节双写词尾辅音：big -> bigger -> biggest。"
+      },
+      "refs": [
+        "c13",
+        "e22"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "fill",
+      "prompt": {
+        "en": "Fill the blank: 'interesting, ____ interesting, most interesting'.",
+        "zh": "填空：interesting, ____ interesting, most interesting。"
+      },
+      "answers": [
+        "more"
+      ],
+      "explain": {
+        "en": "Multi-syllable adjectives form the comparative with 'more', not '-er'.",
+        "zh": "多音节形容词用 more 构成比较级，而非 -er。"
+      },
+      "refs": [
+        "c14",
+        "e23"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "fill",
+      "prompt": {
+        "en": "Rewrite the compound 'a white haired man' as a relative clause: 'a man ____ hair is white'.",
+        "zh": "把复合形容词 a white haired man 改写为定语从句：a man ____ hair is white。"
+      },
+      "answers": [
+        "whose"
+      ],
+      "explain": {
+        "en": "Adjective + noun(+ed) compounds equal a 'whose' relative clause: a man whose hair is white.",
+        "zh": "形容词加名词(+ed) 的复合等于 whose 定语从句：a man whose hair is white。"
+      },
+      "refs": [
+        "c10",
+        "e15"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "error",
+      "sentence": "I want to meet some nice somebody.",
+      "fix": "I want to meet somebody nice.",
+      "explain": {
+        "en": "With a compound indefinite pronoun like 'somebody', the adjective must come after it: 'somebody nice', not 'nice somebody'.",
+        "zh": "修饰 somebody 这类复合不定代词时，形容词必须后置：somebody nice，而非 nice somebody。"
+      },
+      "refs": [
+        "c3",
+        "e4"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "error",
+      "sentence": "The rabbit is more and more prettier.",
+      "fix": "The rabbit is prettier and prettier.",
+      "explain": {
+        "en": "'Pretty' forms its comparative with '-er', so use 'prettier and prettier'. Don't mix 'more' with the '-er' form.",
+        "zh": "pretty 用 -er 构成比较级，故用 prettier and prettier；不要把 more 和 -er 形式混用。"
+      },
+      "refs": [
+        "c18",
+        "e29"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "error",
+      "sentence": "This carrot is three times big as that one.",
+      "fix": "This carrot is three times as big as that one.",
+      "explain": {
+        "en": "Equal comparison needs 'as ... as' around the positive degree; the multiple goes before the first 'as'.",
+        "zh": "同级比较需要用 as ... as 包住原级；倍数放在第一个 as 之前。"
+      },
+      "refs": [
+        "c17",
+        "e27"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is it 'the most beautiful woman' but 'a most beautiful woman'?",
+        "zh": "为什么是 the most beautiful woman，却又有 a most beautiful woman？"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Both mean the superlative 'most'; the article is interchangeable.",
+            "zh": "两者都是最高级 most，冠词可互换。"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "With 'the' it is the true superlative (only one); with 'a', 'most' means 'very'.",
+            "zh": "加 the 是真正最高级（仅一个）；加 a 时 most 表示“非常”。"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "'A most' is simply a grammatical error.",
+            "zh": "a most 只是语法错误。"
+          }
+        }
+      ],
+      "answer": "b",
+      "explain": {
+        "en": "A superlative takes 'the' because there is only one; in 'a most beautiful woman', 'most' means 'very', so 'a' is correct: a very beautiful woman.",
+        "zh": "最高级加 the 因为只有一个；在 a most beautiful woman 中 most 表示“非常”，故用 a：a very beautiful woman。"
+      },
+      "refs": [
+        "c20",
+        "e34",
+        "e35"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": {
+        "en": "In 'carrots make rabbits happy', what role does 'happy' play?",
+        "zh": "在 carrots make rabbits happy 中，happy 的成分是什么？"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Object complement",
+            "zh": "宾语补语"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Subject complement",
+            "zh": "主语补语"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Adverbial",
+            "zh": "状语"
+          }
+        }
+      ],
+      "answer": "a",
+      "explain": {
+        "en": "'Happy' supplements the object 'rabbits', completing what the verb 'make' does to it — an object complement.",
+        "zh": "happy 补充宾语 rabbits，完成 make 对它的作用——宾语补语。"
+      },
+      "refs": [
+        "c7",
+        "e9"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "fill",
+      "prompt": {
+        "en": "Complete the cause-and-result pattern (will-future): 'The more carrots the rabbit eats, the ____ he will become.' (smart)",
+        "zh": "补全因果句型（will 将来）：The more carrots the rabbit eats, the ____ he will become。（smart）"
+      },
+      "answers": [
+        "smarter"
+      ],
+      "explain": {
+        "en": "'The + comparative, the + comparative' links cause and result; 'smart' takes '-er' -> 'smarter'.",
+        "zh": "“the 比较级, the 比较级”连接因果；smart 加 -er -> smarter。"
+      },
+      "refs": [
+        "c19",
+        "e31"
+      ]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": {
+      "en": "A rabbit shows off every adjective trick",
+      "zh": "兔子秀遍形容词各种用法"
+    },
+    "targets": [
+      "adjective",
+      "subject-complement",
+      "object-complement",
+      "comparative",
+      "superlative"
+    ],
+    "lines": [
+      {
+        "speaker": "Wolf",
+        "text": "Look, a little white rabbit asleep over there.",
+        "annotations": [
+          {
+            "quote": "little",
+            "tag": "adjective"
+          },
+          {
+            "quote": "white",
+            "tag": "adjective"
+          },
+          {
+            "quote": "asleep",
+            "tag": "adjective"
+          }
+        ],
+        "note": {
+          "en": "Pre-positioned 'little white' (size before colour); 'asleep' post-positioned because a-prefix words resist the attributive slot.",
+          "zh": "前置 little white（尺寸在颜色前）；asleep 后置，因为 a- 前缀词难作前置定语。"
+        }
+      },
+      {
+        "speaker": "Rabbit",
+        "text": "I am awake now, and I am hungry.",
+        "annotations": [
+          {
+            "quote": "am",
+            "tag": "verb-linking",
+            "occurrence": 1
+          },
+          {
+            "quote": "hungry",
+            "tag": "subject-complement"
+          }
+        ],
+        "note": {
+          "en": "Linking verb + 'hungry' as subject complement (predicative).",
+          "zh": "系动词 + hungry 作主语补语（表语）。"
+        }
+      },
+      {
+        "speaker": "Wolf",
+        "text": "Carrots make rabbits happy, they say.",
+        "annotations": [
+          {
+            "quote": "make",
+            "tag": "verb-transitive"
+          },
+          {
+            "quote": "rabbits",
+            "tag": "object"
+          },
+          {
+            "quote": "happy",
+            "tag": "object-complement"
+          }
+        ],
+        "note": {
+          "en": "'Happy' is the object complement of 'rabbits'.",
+          "zh": "happy 是 rabbits 的宾语补语。"
+        }
+      },
+      {
+        "speaker": "Rabbit",
+        "text": "This carrot is bigger than that one, so I will eat it first.",
+        "annotations": [
+          {
+            "quote": "bigger",
+            "tag": "comparative"
+          },
+          {
+            "quote": "than",
+            "tag": "conjunction"
+          }
+        ],
+        "note": {
+          "en": "Comparative + 'than' compares two carrots.",
+          "zh": "比较级 + than 比较两根胡萝卜。"
+        }
+      },
+      {
+        "speaker": "Wolf",
+        "text": "The more carrots you eat, the smarter you become.",
+        "annotations": [
+          {
+            "quote": "The more",
+            "tag": "comparative"
+          },
+          {
+            "quote": "the smarter",
+            "tag": "comparative"
+          }
+        ],
+        "note": {
+          "en": "'The + comparative, the + comparative' — cause and result.",
+          "zh": "“the 比较级, the 比较级”——因果。"
+        }
+      },
+      {
+        "speaker": "Rabbit",
+        "text": "Then one day I'll be the smartest rabbit in the world.",
+        "annotations": [
+          {
+            "quote": "the smartest",
+            "tag": "superlative"
+          },
+          {
+            "quote": "in",
+            "tag": "preposition"
+          }
+        ],
+        "note": {
+          "en": "Superlative with 'the' and 'in + place' as the range.",
+          "zh": "最高级加 the，并用 in 加地点作范围。"
+        }
+      }
+    ]
+  }
+}

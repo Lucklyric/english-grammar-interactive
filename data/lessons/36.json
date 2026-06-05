@@ -1,0 +1,688 @@
+{
+  "id": "36",
+  "slug": "english-grammar-auxiliary-verbs-and-modal-verbs",
+  "category": "verbs-tenses-mood",
+  "shape": "deep-dive",
+  "order": 7,
+  "title": { "en": "Auxiliary Verbs and Modal Verbs", "zh": "助动词（基本助动词、情态助动词、半助动词）" },
+  "summary": { "en": "An auxiliary helps the main verb build a grammatical idea but cannot stand alone as the predicate verb. By that test, modal verbs are really a kind of auxiliary. They split into three groups: primary auxiliaries (be, have, do), modal auxiliaries (can, could, may, might, must, will, would, shall, should, ought to, need, dare, used to), and semi-auxiliaries (be able to, be going to, be about to, be to, had better).", "zh": "助动词辅助主动词构成某个语法概念，自己却不能单独作谓语动词。按这个标准，情态动词其实也是一种助动词。它们分三类：基本助动词（be, have, do）、情态助动词（can, could, may, might, must, will, would, shall, should, ought to, need, dare, used to）和半助动词（be able to, be going to, be about to, be to, had better）。" },
+  "source": { "videoId": "-mRlocpeYA8", "youtube": "https://www.youtube.com/watch?v=-mRlocpeYA8", "duration": "23:25", "script": "scripts/36-english-grammar-auxiliary-verbs-and-modal-verbs.md" },
+  "tags": [
+    { "id": "modal", "label": { "en": "modal auxiliary", "zh": "情态助动词" }, "abbr": "Mod", "color": "#4338ca", "underline": "dotted" },
+    { "id": "semi-aux", "label": { "en": "semi-auxiliary", "zh": "半助动词" }, "abbr": "sAux", "color": "#6366f1", "underline": "dotted" },
+    { "id": "main-verb", "label": { "en": "main verb", "zh": "主动词/实义动词" }, "abbr": "MV", "color": "#dc2626", "underline": "solid" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "What an auxiliary is — two defining tests", "zh": "助动词是什么——两条判定标准" },
+      "body": { "en": "Every full sentence is subject + predicate, and the core of the predicate is the predicate verb. But that verb often cannot express certain grammatical ideas on its own and needs help. The helping words that build the predicate yet cannot themselves be the predicate verb are auxiliaries. Two defining tests: (1) they assist a main (notional) verb; (2) they cannot stand alone as the predicate verb the way a main verb can.", "zh": "任何整句都分为主语和谓语，谓语的核心是谓语动词。但谓语动词本身往往无法独立表达某些语法概念，需要其他词辅助。这些辅助构成谓语、自己却不能做谓语动词的词就是助动词。两条判定标准：一，辅助实意动词；二，不能像实意动词那样单独作谓语动词。", "sourceRef": "助动词有两个基本特征。一，辅助实意动词。二，不能像实意动词那样单独作为谓语动词。" },
+      "exampleRefs": ["e1"]
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "Why English needs 'will' for the future", "zh": "为什么将来式离不开 will" },
+      "body": { "en": "The verb 'eat' inflects for the past (ate) and the third-person present (eats), but it has no future inflection. To put it in the future you must add 'will' to help. So 'will' here is the auxiliary that builds the future; and 'will' alone cannot carry the meaning — you must keep the main verb 'eat'. French, by contrast, inflects the verb itself (mangera) and needs no auxiliary.", "zh": "动词 eat 有过去式 ate、第三人称现在式 eats，但并没有将来式的拼写变化。要表达将来，必须在前面加 will 辅助。所以 will 在这里就是构成将来式的助动词；而 will 本身不能独立表达完整句意——必须把实意动词 eat 加回来。作为对比，法语靠动词本身变位（mangera）就能表将来，无需助动词。", "sourceRef": "eat 怎么才能表达将来式？必须在前面加 will 来辅助完成表达。" },
+      "exampleRefs": ["e1", "e2"]
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Modal verbs are a kind of auxiliary", "zh": "情态动词是助动词的一种" },
+      "body": { "en": "In 'the rabbit can kill a wolf', 'can' only adds the meaning 'has the ability', and it cannot form a sentence alone ('the rabbit can a wolf' is wrong). Since modal verbs both assist the main verb and cannot be the predicate verb alone, they pass both auxiliary tests — they are really modal auxiliaries. Some grammars split them off because, unlike pure auxiliaries, they carry real meaning; either way of classifying them is fine.", "zh": "在 the rabbit can kill a wolf 中，can 只是补上“有能力”这层意思，自己也不能独立成句（the rabbit can a wolf 是错的）。情态动词既辅助主动词、又不能单独作谓语动词，符合助动词的两条标准——它们其实是情态助动词。有些语法体系把它们单列，是因为情态动词含有实际意义、与“纯助动词不该有实义”不同；两种分法都可以。", "sourceRef": "can 这样的情态动词还是助动词的一种，也可称作情态助动词" },
+      "exampleRefs": ["e3"]
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Group 1 — primary auxiliaries: be, have, do", "zh": "第一类 — 基本助动词：be, have, do" },
+      "body": { "en": "There are exactly three. As auxiliaries they carry no real meaning of their own: 'be' builds the progressive and the passive, 'have' builds the perfect, 'do' builds emphasis, negation and questions. But each also has a main-verb identity (be = exist, do = perform, have = possess). Always tell the auxiliary use apart from the main-verb use.", "zh": "基本助动词只有三个。做助动词时本身没有实际含义：be 构成进行时和被动语态，have 构成完成时，do 构成强调、否定和疑问。但它们各自又有实义动词身份（be 表存在，do 表做，have 表有）。一定要区分助动词身份和实义动词身份。", "sourceRef": "基本助动词只有三个：be, do, have。" },
+      "exampleRefs": ["e4", "e5", "e6", "e7"]
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "Group 2 — modal auxiliaries, and the past-tense pairs", "zh": "第二类 — 情态助动词，及其过去式对应" },
+      "body": { "en": "The modal auxiliaries are can, could, may, might, will, would, shall, should, must, ought to, dare, need, used to. They carry real meaning but cannot stand alone as a verb. Beginners think they are unrelated words, but could is the past of can, might the past of may, and should the past of shall — same family, different shades of meaning.", "zh": "情态助动词包括 can, could, may, might, will, would, shall, should, must, ought to, dare, need, used to。它们含有实际意义，却不能单独作动词。初学者常以为它们互不相干，其实 could 是 can 的过去式，might 是 may 的过去式，should 是 shall 的过去式——同一家族，含义略有不同。", "sourceRef": "could实际上是can的过去式，might是may的过去式，should是shall的过去式" },
+      "exampleRefs": ["e8", "e9"]
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "can / could — ability", "zh": "can / could — 能力" },
+      "body": { "en": "'Can' expresses present ability: 'I can kill a wolf' means I have the power to, not that I will. 'Could', as the past of can, expresses past ability: 'I could kill a wolf last year' — whether I still can now is left open.", "zh": "can 表示现在的能力：I can kill a wolf 是说我有这个能力，不是说我将要去做。could 作为 can 的过去式表示过去的能力：I could kill a wolf last year——至于现在是否还有这个能力，则不一定。", "sourceRef": "Could是can的过去式，那么这里是说我去年有能力宰狼" },
+      "exampleRefs": ["e8", "e9"]
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "could / would / may / might — politer requests", "zh": "could / would / may / might — 更委婉的请求" },
+      "body": { "en": "In a request, the past-tense form is not about time — it is more polite. 'Could I borrow your book?' is gentler than 'Can I...'; 'Would you please...' is gentler than 'Will you...'. With may/might the same holds: 'May I...' is polite, 'Might I...' is even more so.", "zh": "在请求中，过去式形式与时间无关，只是更礼貌。Could I borrow your book? 比 Can I... 更委婉；Would you please... 比 Will you... 更委婉。may/might 同理：May I... 已经很礼貌，Might I... 更礼貌。", "sourceRef": "用could肯定比can诚恳一些" },
+      "exampleRefs": ["e10", "e11"]
+    },
+    {
+      "id": "c8",
+      "heading": { "en": "can / could — possibility (and a virtual past)", "zh": "can / could — 可能性（兼过去虚拟）" },
+      "body": { "en": "'Anything can happen' states possibility; 'Anything could happen' is also possible but slightly less likely. 'The rabbit could have gone home earlier, but he didn't finish work on time' uses 'could have done' for something that was possible in the past but did not happen — a virtual (subjunctive) idea, showing modals are tied to the subjunctive mood.", "zh": "Anything can happen 表达可能性；Anything could happen 也可以，但可能性略小。The rabbit could have gone home earlier, but he didn't finish work on time 用 could have done 表示过去本可以做、实际却没做——一种对过去的虚拟表达，可见情态动词与虚拟语气相关。", "sourceRef": "could have done表示过去本可以做但实际未做，是一种对过去的虚拟表达" },
+      "exampleRefs": ["e12", "e13"]
+    },
+    {
+      "id": "c9",
+      "heading": { "en": "may / might — possibility and good wishes", "zh": "may / might — 可能性与祝愿" },
+      "body": { "en": "May/might express a smaller likelihood than can/could, translated as 'maybe / perhaps': 'He may be at home'; 'might' implies an even smaller chance. 'May' alone (usually sentence-initial) can also express a wish: 'May you succeed' — that sense never uses 'might'.", "zh": "may/might 表示的可能性程度小于 can/could，译作“也许、大概、可能”：He may be at home；用 might 则暗示可能性更小。may 还能表示祝愿（通常置于句首）：May you succeed（祝你成功）——这种含义不会用 might。", "sourceRef": "May还可以表示祝愿，通常放在句首。May you succeed." },
+      "exampleRefs": ["e14", "e15"]
+    },
+    {
+      "id": "c10",
+      "heading": { "en": "must — obligation, prohibition, and certainty", "zh": "must — 必须、禁止与肯定推测" },
+      "body": { "en": "'You must finish your homework first' = strong obligation. But 'must not / mustn't' does not mean 'not obligated'; it means 'must NOT' — prohibition: 'You must not smoke here'. To say someone is not obliged, swap must out for 'need not' or 'don't have to'. 'Must' also marks confident certainty: 'The light is on, the rabbit must be at home'.", "zh": "You must finish your homework first 表强烈义务。但 must not / mustn't 不是“不必须”，而是“必须不”——表禁止：You must not smoke here。要表示“不必”，须把 must 换成 need not 或 don't have to。must 还能表肯定的推测：The light is on, the rabbit must be at home（灯亮着，兔子一定在家）。", "sourceRef": "must not不是“不必须”的意思，而是“必须不”，也就是走到了另一个极端" },
+      "exampleRefs": ["e16", "e17", "e18"]
+    },
+    {
+      "id": "c11",
+      "heading": { "en": "must vs can't for negative deduction", "zh": "推测的否定：must 改用 can't" },
+      "body": { "en": "Because 'mustn't' only means prohibition, you cannot negate a deduction with it. 'The rabbit mustn't be at home' would forbid the rabbit from being home. To deny a likelihood, use 'can't': 'The light isn't on, the rabbit can't be at home'. So 'must' for deduction works only in the affirmative; its negative is 'can't'.", "zh": "由于 mustn't 只表禁止，不能用它否定推测。The rabbit mustn't be at home 会变成禁止兔子待在家。要否定可能性，用 can't：The light isn't on, the rabbit can't be at home。所以 must 表推测只能用于肯定句，否定要用 can't。", "sourceRef": "must表示推测时只能用在肯定句里，否定就只能用can't" },
+      "exampleRefs": ["e19"]
+    },
+    {
+      "id": "c12",
+      "heading": { "en": "will / would — future, request, and deduction", "zh": "will / would — 将来、请求与推测" },
+      "body": { "en": "'Will' builds the future ('the rabbit will eat a carrot'); 'would' as its past builds the future-in-the-past. But 'Will you lend me that book?' is usually a request (are you willing?), and 'Would you please...' is just a politer request, not a past form. Will/would also express deduction: 'Ask him, he would know' — 'would' is weaker than 'will'. Note 'the rabbit would eat a carrot' is ambiguous: future-in-the-past, or a guess.", "zh": "will 构成将来时（the rabbit will eat a carrot）；would 作为其过去式构成过去将来时。但 Will you lend me that book? 通常是请求（你愿意吗？），Would you please... 只是更礼貌的请求，与时间无关。will/would 也能表推测：Ask him, he would know——would 比 will 更弱。注意 the rabbit would eat a carrot 有歧义：可能是过去将来时，也可能是推测。", "sourceRef": "would表推测也比will的程度更弱" },
+      "exampleRefs": ["e20", "e21", "e22"]
+    },
+    {
+      "id": "c13",
+      "heading": { "en": "shall — future, suggestion, command", "zh": "shall — 将来、征求意见与命令" },
+      "body": { "en": "'Shall' can build the future like will ('I shall be there at 9am'). It can seek agreement: 'Shall we meet at 9am?' (a suggestion, not a prediction). In solemn registers it gives a command or warning, as in the Ten Commandments: 'You shall not murder'.", "zh": "shall 可像 will 一样构成将来时（I shall be there at 9am）。它可以征求意见：Shall we meet at 9am?（提议，而非预测）。在庄重语体里表命令或警告，如十诫中的 You shall not murder（你不可杀人）。", "sourceRef": "Shall可以用来征求意见，如，Shall we meet at 9am?" },
+      "exampleRefs": ["e23", "e24"]
+    },
+    {
+      "id": "c14",
+      "heading": { "en": "should — advice, deduction, and the subjunctive", "zh": "should — 建议、推测与虚拟语气" },
+      "body": { "en": "'Should' gives advice ('We should treat the rabbit well') and makes a likely deduction ('It should rain tomorrow' = it probably will). It can express surprise ('It's surprising that he should be late'), and it appears in the subjunctive — both future hypotheticals and 'should have done' for a counterfactual past: 'You should have eaten the carrot' (but you didn't).", "zh": "should 表建议（We should treat the rabbit well），也表可能性较大的推测（It should rain tomorrow，明天应该会下雨）。它能表惊讶（It's surprising that he should be late，“竟然”），并用于虚拟语气——既用于将来假设，也用 should have done 表与过去事实相反：You should have eaten the carrot（你本应吃掉那根胡萝卜，但没吃）。", "sourceRef": "You should have eaten the carrot, 你应该吃掉那根胡萝卜，但你没吃。" },
+      "exampleRefs": ["e25", "e26", "e27"]
+    },
+    {
+      "id": "c15",
+      "heading": { "en": "ought to, need, dare — the borderline modals", "zh": "ought to, need, dare — 边界情态词" },
+      "body": { "en": "'Ought to' means 'should' but is usually stronger. 'Need' as a modal means 'need to' and follows modal behaviour ('The rabbit need wait', negated 'The rabbit need not wait'); as a main verb it takes do-support and an infinitive ('The rabbit does not need to wait'). 'Dare' likewise can be modal, meaning 'dare', mostly in negatives and questions ('The rabbit dare not tell the truth'; 'How dare you?').", "zh": "ought to 意为“应该”，但语气往往更强。need 作情态动词意为“需要、有必要”，遵循情态动词行为（The rabbit need wait，否定 The rabbit need not wait）；作实义动词则要借助 do 并接不定式（The rabbit does not need to wait）。dare 同样可作情态动词，意为“敢”，多用于否定句和疑问句（The rabbit dare not tell the truth；How dare you?）。", "sourceRef": "Need做情态动词时，直接加not。The rabbit need not wait" },
+      "exampleRefs": ["e28", "e29", "e30"]
+    },
+    {
+      "id": "c16",
+      "heading": { "en": "used to — a contrasted past habit", "zh": "used to — 与现在对比的过去习惯" },
+      "body": { "en": "'Used to' marks a past action — especially a repeated one — and stresses the contrast with now: 'The rabbit used to eat apples. Now he only eats carrots.' Plain 'ate an apple' lacks that habitual flavour. Do not confuse 'used to' with the main verb 'use' or with 'be used to (doing) something' = be accustomed to: 'I am used to getting up early.'", "zh": "used to 表示过去的动作（尤其是重复动作），并强调与现在的对比：The rabbit used to eat apples. Now he only eats carrots（兔子过去常吃苹果，现在只吃胡萝卜）。单说 ate an apple 就没有这种过去习惯感。注意不要把 used to 和实义动词 use，以及 be used to (doing) something（习惯于）混淆：I am used to getting up early（我习惯早起）。", "sourceRef": "请注意不要把used to和实义动词use使用，以及动词词组be used to something" },
+      "exampleRefs": ["e31", "e32"]
+    },
+    {
+      "id": "c17",
+      "heading": { "en": "Group 3 — semi-auxiliaries", "zh": "第三类 — 半助动词" },
+      "body": { "en": "Semi-auxiliaries look like both main verbs and auxiliaries: be able to, be going to, be about to, be to, had better. They pass the auxiliary tests — you cannot say 'the rabbit is able to a carrot'; you must add a main verb: 'the rabbit is able to eat a carrot'. They only assist.", "zh": "半助动词既像主动词又像助动词，包括 be able to, be going to, be about to, be to, had better。它们也符合助动词标准——不能说 the rabbit is able to a carrot，必须接主动词：the rabbit is able to eat a carrot。它们只起辅助作用。", "sourceRef": "the rabbit is able to eat a carrot" },
+      "exampleRefs": ["e33"]
+    },
+    {
+      "id": "c18",
+      "heading": { "en": "be able to vs can", "zh": "be able to 与 can 的区别" },
+      "body": { "en": "'Can' only has present and past forms, so it covers present and past ability. 'Be able to' can reach into the future: 'I'll be able to reach school on time if I leave right now.' In the past, 'was/were able to' often implies actually succeeding: 'I was able to reach school on time because I left home early.'", "zh": "can 只有现在式和过去式，所以表达现在和过去的能力。be able to 能延伸到将来：I'll be able to reach school on time if I leave right now。表示过去能力时，was/were able to 往往强调真的做成了某事：I was able to reach school on time because I left home early。", "sourceRef": "be able to可以表达将来的能力" },
+      "exampleRefs": ["e34"]
+    },
+    {
+      "id": "c19",
+      "heading": { "en": "be going to / be about to / be to", "zh": "be going to / be about to / be to" },
+      "body": { "en": "Like 'will', these mark a coming action, with shades: 'be going to' is more deliberate/planned and usually soon ('I am going to eat dinner at 6pm today'); 'be about to' means immediately, an even shorter horizon (so 'I am about to graduate in three years' is contradictory); 'be to' often means being ordered to ('You are to finish homework first') or being fated ('I think they are to fall in love with each other').", "zh": "和 will 一样，这些都表将要做某事，但有细微差别：be going to 更有主观能动性、含计划之意，通常很快就做（I am going to eat dinner at 6pm today）；be about to 是马上就要做，时间更短（所以 I am about to graduate in three years 自相矛盾）；be to 往往表示被命令（You are to finish homework first）或命中注定（I think they are to fall in love with each other）。", "sourceRef": "be going to有更强的主观能动性，还有计划做某事的意思" },
+      "exampleRefs": ["e35", "e36", "e37"]
+    },
+    {
+      "id": "c20",
+      "heading": { "en": "had better — advice with a warning", "zh": "had better — 带警告的忠告" },
+      "body": { "en": "'Had better' means 'it would be best to', usually as advice or warning, implying a bad outcome if you don't: 'You had better follow my orders.' Its contraction is ''d better', which is in fact more common — so common that many people don't realise ''d better' is 'had better'.", "zh": "had better 表示“最好做”，往往是忠告或警告，暗含不这么做会有不好的后果：You had better follow my orders。它的缩写是 'd better，实际上缩写更常见——常见到很多人都不知道 'd better 就是 had better。", "sourceRef": "Had better表示最好做，往往表示忠告警告之一" },
+      "exampleRefs": ["e38"]
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "The rabbit will eat a carrot.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "subject" },
+        { "quote": "will", "tag": "auxiliary" },
+        { "quote": "eat", "tag": "main-verb" }
+      ],
+      "note": { "en": "'Eat' has no future inflection, so 'will' is added to build the future. 'Will' alone can't carry the meaning — the main verb 'eat' must stay.", "zh": "eat 没有将来式变化，故加 will 构成将来式。will 自己不能表意——必须保留主动词 eat。" }
+    },
+    {
+      "id": "e2",
+      "text": "The bus will leave at 8pm tonight.",
+      "annotations": [
+        { "quote": "will", "tag": "auxiliary" },
+        { "quote": "leave", "tag": "main-verb" }
+      ],
+      "note": { "en": "Contrast 'The bus leaves at 8pm tonight' — that is present tense with an implied future. The true future is 'will leave'.", "zh": "对比 The bus leaves...（一般现在时暗示将来）。真正的将来式是 will leave。" }
+    },
+    {
+      "id": "e3",
+      "text": "The rabbit can kill a wolf.",
+      "annotations": [
+        { "quote": "can", "tag": "modal" },
+        { "quote": "kill", "tag": "main-verb" }
+      ],
+      "note": { "en": "'Can' only adds the meaning 'has the ability' and assists 'kill'; it can't stand alone ('the rabbit can a wolf' is wrong). So 'can' is a modal auxiliary.", "zh": "can 只补上“有能力”之意，辅助 kill，不能独立成句。所以 can 是情态助动词。" }
+    },
+    {
+      "id": "e4",
+      "text": "The rabbit is eating a carrot.",
+      "annotations": [
+        { "quote": "is", "tag": "auxiliary" },
+        { "quote": "eating", "tag": "main-verb" }
+      ],
+      "note": { "en": "Auxiliary 'be' (here 'is') builds the present progressive.", "zh": "助动词 be 变为 is，构成现在进行时。" }
+    },
+    {
+      "id": "e5",
+      "text": "A carrot was eaten by the rabbit.",
+      "annotations": [
+        { "quote": "was", "tag": "auxiliary" },
+        { "quote": "eaten", "tag": "main-verb" }
+      ],
+      "note": { "en": "Auxiliary 'be' (here 'was') builds the passive voice.", "zh": "助动词 be 变为 was，构成被动语态。" }
+    },
+    {
+      "id": "e6",
+      "text": "The rabbit has eaten a carrot.",
+      "annotations": [
+        { "quote": "has", "tag": "auxiliary" },
+        { "quote": "eaten", "tag": "main-verb" }
+      ],
+      "note": { "en": "Auxiliary 'have' (here 'has') builds the present perfect.", "zh": "助动词 have 变为 has，构成现在完成时。" }
+    },
+    {
+      "id": "e7",
+      "text": "The rabbit does like coins.",
+      "annotations": [
+        { "quote": "does", "tag": "auxiliary" },
+        { "quote": "like", "tag": "main-verb" }
+      ],
+      "note": { "en": "Auxiliary 'do' (here 'does') builds emphasis. The same 'do' also builds negation: 'The rabbit does not like freeloaders.'", "zh": "助动词 do 变为 does，构成强调。同一个 do 也构成否定：The rabbit does not like freeloaders。" }
+    },
+    {
+      "id": "e8",
+      "text": "I can kill a wolf.",
+      "annotations": [
+        { "quote": "can", "tag": "modal" },
+        { "quote": "kill", "tag": "main-verb" }
+      ],
+      "note": { "en": "Present ability — I have the power to, not that I will.", "zh": "现在的能力——我有能力，不是说我将要做。" }
+    },
+    {
+      "id": "e9",
+      "text": "I could kill a wolf last year.",
+      "annotations": [
+        { "quote": "could", "tag": "modal" },
+        { "quote": "kill", "tag": "main-verb" }
+      ],
+      "note": { "en": "'Could' is the past of 'can' — past ability. Whether I still can now is left open.", "zh": "could 是 can 的过去式——过去的能力。现在是否还有能力则不一定。" }
+    },
+    {
+      "id": "e10",
+      "text": "Could I borrow your book?",
+      "annotations": [
+        { "quote": "Could", "tag": "modal" },
+        { "quote": "borrow", "tag": "main-verb" }
+      ],
+      "note": { "en": "In a request, 'could' carries no past meaning — just more politeness than 'can'.", "zh": "请求中的 could 没有过去含义，只是比 can 更礼貌。" }
+    },
+    {
+      "id": "e11",
+      "text": "Would you please subscribe to my channel?",
+      "annotations": [
+        { "quote": "Would", "tag": "modal" },
+        { "quote": "subscribe", "tag": "main-verb" }
+      ],
+      "note": { "en": "Not future-in-the-past — 'would' is a politer request form than 'will'.", "zh": "不是过去将来时——would 是比 will 更委婉的请求形式。" }
+    },
+    {
+      "id": "e12",
+      "text": "Anything can happen.",
+      "annotations": [
+        { "quote": "can", "tag": "modal" },
+        { "quote": "happen", "tag": "main-verb" }
+      ],
+      "note": { "en": "'Can' for possibility. 'Anything could happen' is also fine — slightly less likely.", "zh": "can 表可能性。Anything could happen 也可以——可能性略小。" }
+    },
+    {
+      "id": "e13",
+      "text": "The rabbit could have gone home earlier.",
+      "annotations": [
+        { "quote": "could", "tag": "modal" },
+        { "quote": "have", "tag": "auxiliary" },
+        { "quote": "gone", "tag": "main-verb" }
+      ],
+      "note": { "en": "'Could have done' = was possible in the past but didn't happen — a virtual (subjunctive) idea. (...but he didn't finish work on time.)", "zh": "could have done = 过去本可以做却没做——一种过去虚拟表达。（但他没按时完成工作。）" }
+    },
+    {
+      "id": "e14",
+      "text": "The rabbit isn't here. He may be at home.",
+      "annotations": [
+        { "quote": "may", "tag": "modal" },
+        { "quote": "be", "tag": "main-verb" }
+      ],
+      "note": { "en": "'May' = a smaller likelihood, 'maybe'. Using 'might' would imply an even smaller chance.", "zh": "may 表较小的可能性，“可能”。换 might 则暗示可能性更小。" }
+    },
+    {
+      "id": "e15",
+      "text": "May you succeed.",
+      "annotations": [
+        { "quote": "May", "tag": "modal" },
+        { "quote": "succeed", "tag": "main-verb" }
+      ],
+      "note": { "en": "Sentence-initial 'may' expresses a wish, not permission or possibility. This sense never uses 'might'.", "zh": "句首的 may 表祝愿，不是许可或可能。这种含义不用 might。" }
+    },
+    {
+      "id": "e16",
+      "text": "You must finish your homework first.",
+      "annotations": [
+        { "quote": "must", "tag": "modal" },
+        { "quote": "finish", "tag": "main-verb" }
+      ],
+      "note": { "en": "'Must' = strong, non-negotiable obligation.", "zh": "must 表强烈、不容质疑的义务。" }
+    },
+    {
+      "id": "e17",
+      "text": "You must not smoke here.",
+      "annotations": [
+        { "quote": "must not", "tag": "modal" },
+        { "quote": "smoke", "tag": "main-verb" }
+      ],
+      "note": { "en": "'Must not / mustn't' = prohibition ('must NOT'), not 'not obligated'.", "zh": "must not / mustn't = 禁止（“必须不”），不是“不必须”。" }
+    },
+    {
+      "id": "e18",
+      "text": "The light is on, the rabbit must be at home.",
+      "annotations": [
+        { "quote": "must", "tag": "modal" },
+        { "quote": "be", "tag": "main-verb", "occurrence": 1 }
+      ],
+      "note": { "en": "Here 'must' marks confident certainty (a deduction), not obligation.", "zh": "这里 must 表肯定的推测，不是义务。" }
+    },
+    {
+      "id": "e19",
+      "text": "The light isn't on, the rabbit can't be at home.",
+      "annotations": [
+        { "quote": "can't", "tag": "modal" },
+        { "quote": "be", "tag": "main-verb", "occurrence": 1 }
+      ],
+      "note": { "en": "To negate a deduction, use 'can't', not 'mustn't' (which would mean prohibition).", "zh": "否定推测要用 can't，不能用 mustn't（那会变成禁止）。" }
+    },
+    {
+      "id": "e20",
+      "text": "The rabbit would eat a carrot.",
+      "annotations": [
+        { "quote": "would", "tag": "modal" },
+        { "quote": "eat", "tag": "main-verb" }
+      ],
+      "note": { "en": "Ambiguous: future-in-the-past (will → would), or a guess that the rabbit might eat a carrot. Context decides.", "zh": "有歧义：过去将来时（will→would），或推测兔子可能会吃胡萝卜。看语境。" }
+    },
+    {
+      "id": "e21",
+      "text": "Will you lend me that book?",
+      "annotations": [
+        { "quote": "Will", "tag": "modal" },
+        { "quote": "lend", "tag": "main-verb" }
+      ],
+      "note": { "en": "Usually a request (are you willing?), not a future prediction.", "zh": "通常是请求（你愿意吗？），不是将来预测。" }
+    },
+    {
+      "id": "e22",
+      "text": "Ask him, he would know.",
+      "annotations": [
+        { "quote": "would", "tag": "modal" },
+        { "quote": "know", "tag": "main-verb" }
+      ],
+      "note": { "en": "Deduction: 'he might know'. 'Would' is weaker than 'will' here.", "zh": "推测：他可能知道。这里 would 比 will 更弱。" }
+    },
+    {
+      "id": "e23",
+      "text": "Shall we meet at 9am?",
+      "annotations": [
+        { "quote": "Shall", "tag": "modal" },
+        { "quote": "meet", "tag": "main-verb" }
+      ],
+      "note": { "en": "Seeking agreement — a suggestion ('let's meet'), not a prediction.", "zh": "征求意见——提议（我们见个面吧），不是预测。" }
+    },
+    {
+      "id": "e24",
+      "text": "You shall not murder.",
+      "annotations": [
+        { "quote": "shall", "tag": "modal" },
+        { "quote": "murder", "tag": "main-verb" }
+      ],
+      "note": { "en": "Solemn command/warning (Ten Commandments). Archaic: 'Thou shalt not murder.'", "zh": "庄重的命令/警告（十诫）。中古英语：Thou shalt not murder。" }
+    },
+    {
+      "id": "e25",
+      "text": "We should treat the rabbit well.",
+      "annotations": [
+        { "quote": "should", "tag": "modal" },
+        { "quote": "treat", "tag": "main-verb" }
+      ],
+      "note": { "en": "'Should' = advice. 'Ought to' would mean the same but usually stronger.", "zh": "should 表建议。ought to 含义相同但语气往往更强。" }
+    },
+    {
+      "id": "e26",
+      "text": "It should rain tomorrow.",
+      "annotations": [
+        { "quote": "should", "tag": "modal" },
+        { "quote": "rain", "tag": "main-verb" }
+      ],
+      "note": { "en": "Not 'tomorrow is obliged to rain' — 'should' makes a fairly likely deduction.", "zh": "不是“明天有义务下雨”——should 作出可能性较大的推测。" }
+    },
+    {
+      "id": "e27",
+      "text": "You should have eaten the carrot.",
+      "annotations": [
+        { "quote": "should", "tag": "modal" },
+        { "quote": "have", "tag": "auxiliary" },
+        { "quote": "eaten", "tag": "main-verb" }
+      ],
+      "note": { "en": "'Should have done' = counterfactual past (but you didn't) — subjunctive mood.", "zh": "should have done = 与过去事实相反（但你没吃）——虚拟语气。" }
+    },
+    {
+      "id": "e28",
+      "text": "The rabbit need wait.",
+      "annotations": [
+        { "quote": "need", "tag": "modal" },
+        { "quote": "wait", "tag": "main-verb" }
+      ],
+      "note": { "en": "Modal 'need' assists the bare verb 'wait' (no -s, no 'to'). Negated as 'The rabbit need not wait.'", "zh": "情态动词 need 辅助原形 wait（无 -s，无 to）。否定为 The rabbit need not wait。" }
+    },
+    {
+      "id": "e29",
+      "text": "The rabbit does not need to wait.",
+      "annotations": [
+        { "quote": "does", "tag": "auxiliary" },
+        { "quote": "need", "tag": "main-verb" },
+        { "quote": "to wait", "tag": "non-finite" }
+      ],
+      "note": { "en": "Here 'need' is a main verb: it takes do-support and the infinitive 'to wait', not modal behaviour.", "zh": "这里 need 是实义动词：借助 do 并接不定式 to wait，不是情态用法。" }
+    },
+    {
+      "id": "e30",
+      "text": "The rabbit dare not tell the truth to the wolf.",
+      "annotations": [
+        { "quote": "dare", "tag": "modal" },
+        { "quote": "tell", "tag": "main-verb" }
+      ],
+      "note": { "en": "Modal 'dare' = 'dare to', mostly in negatives and questions (cf. 'How dare you?').", "zh": "情态动词 dare = 敢，多用于否定句和疑问句（参 How dare you?）。" }
+    },
+    {
+      "id": "e31",
+      "text": "The rabbit used to eat apples. Now he only eats carrots.",
+      "annotations": [
+        { "quote": "used to", "tag": "modal" },
+        { "quote": "eat", "tag": "main-verb", "occurrence": 1 }
+      ],
+      "note": { "en": "'Used to' = a past habit, stressing the contrast with now. Plain 'ate an apple' lacks that flavour.", "zh": "used to 表过去习惯，强调与现在的对比。单说 ate an apple 没有这种感觉。" }
+    },
+    {
+      "id": "e32",
+      "text": "I am used to getting up early.",
+      "annotations": [
+        { "quote": "am used to", "tag": "main-verb" },
+        { "quote": "getting up", "tag": "non-finite" }
+      ],
+      "note": { "en": "Don't confuse with modal 'used to'. 'Be used to (doing) sth' = be accustomed to — a different structure.", "zh": "勿与情态 used to 混淆。be used to (doing) sth = 习惯于——不同结构。" }
+    },
+    {
+      "id": "e33",
+      "text": "The rabbit is able to eat a carrot.",
+      "annotations": [
+        { "quote": "is able to", "tag": "semi-aux" },
+        { "quote": "eat", "tag": "main-verb" }
+      ],
+      "note": { "en": "Semi-auxiliary: 'the rabbit is able to a carrot' is wrong — you must add the main verb 'eat'.", "zh": "半助动词：the rabbit is able to a carrot 是错的——必须接主动词 eat。" }
+    },
+    {
+      "id": "e34",
+      "text": "I'll be able to reach school on time if I leave right now.",
+      "annotations": [
+        { "quote": "be able to", "tag": "semi-aux" },
+        { "quote": "reach", "tag": "main-verb" }
+      ],
+      "note": { "en": "Unlike 'can' (present/past only), 'be able to' reaches into the future.", "zh": "与只有现在/过去式的 can 不同，be able to 能延伸到将来。" }
+    },
+    {
+      "id": "e35",
+      "text": "I am going to eat dinner at 6pm today.",
+      "annotations": [
+        { "quote": "am going to", "tag": "semi-aux" },
+        { "quote": "eat", "tag": "main-verb" }
+      ],
+      "note": { "en": "'Be going to' = a deliberate, planned action, usually soon.", "zh": "be going to = 有计划、主观能动的动作，通常很快。" }
+    },
+    {
+      "id": "e36",
+      "text": "You are to finish homework first.",
+      "annotations": [
+        { "quote": "are to", "tag": "semi-aux" },
+        { "quote": "finish", "tag": "main-verb" }
+      ],
+      "note": { "en": "'Be to' often means being ordered to — close to 'You must finish homework first.'", "zh": "be to 常表被命令——接近 You must finish homework first。" }
+    },
+    {
+      "id": "e37",
+      "text": "I think they are to fall in love with each other.",
+      "annotations": [
+        { "quote": "are to", "tag": "semi-aux" },
+        { "quote": "fall", "tag": "main-verb" }
+      ],
+      "note": { "en": "'Be to' can also mean being fated to — ordered by destiny.", "zh": "be to 也可表命中注定——被命运命令。" }
+    },
+    {
+      "id": "e38",
+      "text": "You had better follow my orders.",
+      "annotations": [
+        { "quote": "had better", "tag": "semi-aux" },
+        { "quote": "follow", "tag": "main-verb" }
+      ],
+      "note": { "en": "'Had better' = advice/warning, implying a bad outcome if you don't. Contraction ''d better' is more common.", "zh": "had better = 忠告/警告，暗含不照做会有坏结果。缩写 'd better 更常见。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Which two features define an auxiliary verb?", "zh": "哪两条特征定义了助动词？" },
+      "choices": [
+        { "id": "a", "text": { "en": "It assists a main verb, and it cannot stand alone as the predicate verb.", "zh": "辅助实意动词，且不能单独作谓语动词。" } },
+        { "id": "b", "text": { "en": "It always carries real meaning, and it inflects for tense.", "zh": "总是含有实际意义，且有时态变化。" } },
+        { "id": "c", "text": { "en": "It comes after the main verb, and it never takes 'not'.", "zh": "位于主动词之后，且从不接 not。" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "The two tests are: (1) it assists a main verb, (2) it cannot be the predicate verb alone. Modals pass both, which is why they count as auxiliaries.", "zh": "两条标准：一，辅助主动词；二，不能单独作谓语动词。情态动词都符合，故也算助动词。" },
+      "refs": ["c1", "c3"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "Why must English add 'will' to say 'The rabbit will eat a carrot'?", "zh": "为什么英语要加 will 才能说 The rabbit will eat a carrot？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Because 'eat' has no future inflection, so an auxiliary builds the future.", "zh": "因为 eat 没有将来式变化，要靠助动词构成将来式。" } },
+        { "id": "b", "text": { "en": "Because 'will' is the main verb and 'eat' is the auxiliary.", "zh": "因为 will 是主动词，eat 是助动词。" } },
+        { "id": "c", "text": { "en": "Because every English sentence needs two verbs.", "zh": "因为英语每个句子都需要两个动词。" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "'Eat' inflects for past (ate) and 3rd-person present (eats) but has no future form, so 'will' is the auxiliary that builds the future. French inflects the verb itself and needs no auxiliary.", "zh": "eat 有 ate、eats，但无将来式，故 will 作助动词构成将来式。法语靠动词变位，无需助动词。" },
+      "refs": ["c2"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "There are exactly three primary auxiliaries. Name them (in any order): ____.", "zh": "基本助动词正好三个，写出它们（顺序不限）：____。" },
+      "answers": ["be, have, do", "be, do, have", "do, be, have", "do, have, be", "have, be, do", "have, do, be", "be have do", "be do have"],
+      "explain": { "en": "The three primary auxiliaries are be, have, and do. As auxiliaries they carry no meaning of their own; each also has a separate main-verb identity.", "zh": "三个基本助动词是 be, have, do。作助动词时本身无实义；它们各自又有实义动词身份。" },
+      "refs": ["c4"]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": { "en": "What does 'You must not smoke here' mean?", "zh": "You must not smoke here 是什么意思？" },
+      "choices": [
+        { "id": "a", "text": { "en": "You are not obliged to smoke here.", "zh": "你不必在这里吸烟。" } },
+        { "id": "b", "text": { "en": "Smoking here is prohibited.", "zh": "禁止在这里吸烟。" } },
+        { "id": "c", "text": { "en": "You probably won't smoke here.", "zh": "你大概不会在这里吸烟。" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'Must not / mustn't' means 'must NOT' — prohibition, not 'not obligated'. To say 'not obliged', use 'need not' or 'don't have to'.", "zh": "must not / mustn't 是“必须不”——禁止，不是“不必须”。表“不必”要用 need not 或 don't have to。" },
+      "refs": ["c10"]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": { "en": "The light is off. How do you say you deduce the rabbit is NOT at home?", "zh": "灯灭了。如何说你推断兔子不在家？" },
+      "choices": [
+        { "id": "a", "text": { "en": "The rabbit mustn't be at home.", "zh": "The rabbit mustn't be at home." } },
+        { "id": "b", "text": { "en": "The rabbit can't be at home.", "zh": "The rabbit can't be at home." } },
+        { "id": "c", "text": { "en": "The rabbit needn't be at home.", "zh": "The rabbit needn't be at home." } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'Must' for deduction works only in the affirmative; 'mustn't' means prohibition. The negative deduction uses 'can't': 'the rabbit can't be at home'.", "zh": "must 表推测只用于肯定句；mustn't 表禁止。否定推测用 can't：the rabbit can't be at home。" },
+      "refs": ["c11"]
+    },
+    {
+      "id": "q6",
+      "type": "fill",
+      "prompt": { "en": "Negate the modal sentence 'The rabbit need wait' (keep 'need' as a modal): 'The rabbit ____ wait.'", "zh": "把情态句 The rabbit need wait 变否定（need 仍作情态动词）：The rabbit ____ wait。" },
+      "answers": ["need not", "needn't"],
+      "explain": { "en": "As a modal, 'need' just adds 'not': 'The rabbit need not wait'. As a main verb it would instead be 'The rabbit does not need to wait'.", "zh": "作情态动词的 need 直接加 not：The rabbit need not wait。作实义动词则是 The rabbit does not need to wait。" },
+      "refs": ["c15"]
+    },
+    {
+      "id": "q7",
+      "type": "error",
+      "sentence": "The rabbit is able to a carrot.",
+      "fix": "The rabbit is able to eat a carrot.",
+      "explain": { "en": "'Be able to' is a semi-auxiliary — it only assists and needs a main verb. Add the main verb 'eat'.", "zh": "be able to 是半助动词，只起辅助作用，必须接主动词。补上主动词 eat。" },
+      "refs": ["c17", "c18"]
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": { "en": "Why is 'Could you give this video a thumbs up?' gentler than 'Can you...?'", "zh": "为什么 Could you give this video a thumbs up? 比 Can you...? 更委婉？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Because 'could' refers to past time here.", "zh": "因为这里 could 指过去时间。" } },
+        { "id": "b", "text": { "en": "Because in a request the past form 'could' adds politeness, not past time.", "zh": "因为在请求中，过去式 could 增加礼貌，而非表示过去。" } },
+        { "id": "c", "text": { "en": "Because 'could' expresses stronger ability than 'can'.", "zh": "因为 could 表达的能力比 can 更强。" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "In requests, the past-tense modal form carries no time meaning — it is simply more polite. The same holds for would vs will and might vs may.", "zh": "请求中的过去式情态形式不表时间，只是更礼貌。would/will、might/may 同理。" },
+      "refs": ["c7"]
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": { "en": "What does 'You should have eaten the carrot' imply?", "zh": "You should have eaten the carrot 暗示什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "You ate the carrot, as expected.", "zh": "你如期吃了那根胡萝卜。" } },
+        { "id": "b", "text": { "en": "You did not eat the carrot, though you should have.", "zh": "你没吃那根胡萝卜，尽管本应吃。" } },
+        { "id": "c", "text": { "en": "You will eat the carrot tomorrow.", "zh": "你明天会吃那根胡萝卜。" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'Should have done' is a counterfactual past (subjunctive): the right thing was not done. So the carrot was not eaten.", "zh": "should have done 是与过去事实相反（虚拟语气）：该做的没做。所以胡萝卜没被吃。" },
+      "refs": ["c14"]
+    },
+    {
+      "id": "q10",
+      "type": "error",
+      "sentence": "I am about to graduate in three years.",
+      "fix": "I am going to graduate in three years.",
+      "explain": { "en": "'Be about to' means immediately / very soon, which clashes with 'in three years'. Use 'be going to' for a planned, more distant action.", "zh": "be about to 指马上就要，与“三年内”矛盾。较远的计划动作用 be going to。" },
+      "refs": ["c19"]
+    },
+    {
+      "id": "q11",
+      "type": "fill",
+      "prompt": { "en": "Write the common contraction of 'had better' (as in 'You had better follow my orders'): ____.", "zh": "写出 had better 的常用缩写（如 You had better follow my orders）：____。" },
+      "answers": ["'d better", "d better"],
+      "explain": { "en": "'Had better' contracts to ''d better', which is in fact the more common form. 'Had better' = advice/warning implying a bad outcome if you don't.", "zh": "had better 缩写为 'd better，实际上缩写更常见。had better = 忠告/警告，暗含不照做会有坏结果。" },
+      "refs": ["c20"]
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": { "en": "In which sentence is 'used to' a modal expressing a past habit (not 'be accustomed to')?", "zh": "哪句中的 used to 是表过去习惯的情态用法（而非“习惯于”）？" },
+      "choices": [
+        { "id": "a", "text": { "en": "The rabbit used to eat apples; now he only eats carrots.", "zh": "The rabbit used to eat apples; now he only eats carrots." } },
+        { "id": "b", "text": { "en": "I am used to getting up early.", "zh": "I am used to getting up early." } },
+        { "id": "c", "text": { "en": "Could I use your phone?", "zh": "Could I use your phone?" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "'Used to + bare verb' marks a past habit contrasted with now. 'Be used to + -ing' means be accustomed to, and 'use' in (c) is the main verb.", "zh": "used to + 原形表与现在对比的过去习惯。be used to + -ing 表习惯于；(c) 的 use 是实义动词。" },
+      "refs": ["c16"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "Rabbit and Wolf run through the modals", "zh": "兔子和狼演练情态助动词" },
+    "targets": ["modal", "semi-aux", "auxiliary", "main-verb"],
+    "lines": [
+      {
+        "speaker": "Wolf",
+        "text": "The rabbit will eat a carrot tonight.",
+        "annotations": [
+          { "quote": "will", "tag": "modal" },
+          { "quote": "eat", "tag": "main-verb" }
+        ],
+        "note": { "en": "'Will' builds the future; the main verb 'eat' must stay.", "zh": "will 构成将来；必须保留主动词 eat。" }
+      },
+      {
+        "speaker": "Rabbit",
+        "text": "I can kill a wolf, but I won't.",
+        "annotations": [
+          { "quote": "can", "tag": "modal" },
+          { "quote": "kill", "tag": "main-verb" }
+        ],
+        "note": { "en": "'Can' = ability, not intention.", "zh": "can 表能力，不表意图。" }
+      },
+      {
+        "speaker": "Wolf",
+        "text": "Could I borrow your carrot, then?",
+        "annotations": [
+          { "quote": "Could", "tag": "modal" },
+          { "quote": "borrow", "tag": "main-verb" }
+        ],
+        "note": { "en": "'Could' here is a polite request, not past time.", "zh": "这里 could 是礼貌请求，非过去时间。" }
+      },
+      {
+        "speaker": "Rabbit",
+        "text": "You must not take it without asking.",
+        "annotations": [
+          { "quote": "must not", "tag": "modal" },
+          { "quote": "take", "tag": "main-verb" }
+        ],
+        "note": { "en": "'Must not' = prohibition, not 'not obliged'.", "zh": "must not = 禁止，不是“不必”。" }
+      },
+      {
+        "speaker": "Wolf",
+        "text": "The light is on, so you must be home.",
+        "annotations": [
+          { "quote": "must", "tag": "modal" },
+          { "quote": "be", "tag": "main-verb", "occurrence": 1 }
+        ],
+        "note": { "en": "Affirmative 'must' = confident deduction.", "zh": "肯定的 must 表自信推测。" }
+      },
+      {
+        "speaker": "Rabbit",
+        "text": "You had better leave before I change my mind.",
+        "annotations": [
+          { "quote": "had better", "tag": "semi-aux" },
+          { "quote": "leave", "tag": "main-verb" }
+        ],
+        "note": { "en": "'Had better' = advice with a warning of a bad outcome.", "zh": "had better = 忠告，并警告会有坏结果。" }
+      },
+      {
+        "speaker": "Wolf",
+        "text": "Fine. I am going to find dinner elsewhere.",
+        "annotations": [
+          { "quote": "am going to", "tag": "semi-aux" },
+          { "quote": "find", "tag": "main-verb" }
+        ],
+        "note": { "en": "'Be going to' = a planned, imminent action.", "zh": "be going to = 有计划、即将进行的动作。" }
+      }
+    ]
+  }
+}

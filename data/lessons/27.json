@@ -1,0 +1,262 @@
+{
+  "id": "27",
+  "slug": "subject-verb-agreement-in-english-grammar",
+  "category": "sentence-structure",
+  "shape": "standard",
+  "order": 31,
+  "title": { "en": "Subject-Verb Agreement", "zh": "主谓一致" },
+  "summary": { "en": "English is an inflected language: the verb changes form to match its subject in person and number. Three principles govern this — grammatical agreement, notional agreement, and proximity agreement.", "zh": "英语是曲折语：谓语动词通过变形与主语在人称和数上保持一致。三大原则统领一切——语法一致、意义一致、就近一致。" },
+  "source": { "videoId": "fDyVmf26Zn0", "youtube": "https://www.youtube.com/watch?v=fDyVmf26Zn0", "duration": "14:21", "script": "scripts/27-subject-verb-agreement-in-english-grammar.md" },
+  "tags": [
+    { "id": "verb-singular", "label": { "en": "singular verb", "zh": "单数谓语动词" }, "abbr": "Vsg", "color": "#0e7490", "underline": "solid" },
+    { "id": "verb-plural", "label": { "en": "plural verb", "zh": "复数谓语动词" }, "abbr": "Vpl", "color": "#be123c", "underline": "solid" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "Why agreement exists: English is an inflected language", "zh": "为何要一致：英语是曲折语" },
+      "body": { "en": "Chinese is an isolating language — the verb 是 never changes for person or time. English is an inflected language: the verb is conjugated to carry person and number, so 'be' becomes am / is / are. Subject and verb must convey the same information; say 'I is a rabbit' and the two clash. That matching is subject-verb agreement.", "zh": "中文是孤立语——动词“是”不因人称或时间而变。英语是曲折语：谓语动词要变位，携带人称和单复数信息，所以 be 变成 am / is / are。主语和谓语必须传递一致的信息；说 I is a rabbit 两者就矛盾了。这种匹配就是主谓一致。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "主语和谓语动词传递的信息是一致的，即主谓一致"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "Principle 1 — Grammatical agreement (match the form)", "zh": "原则一 — 语法一致（看形式单复数）" },
+      "body": { "en": "Make the verb match the subject's grammatical number: a singular subject takes a singular verb, a plural subject takes a plural verb. Uncountable nouns have no plural, so they always take a singular verb — even after phrases like 'a lot of'.", "zh": "让谓语动词在形式上与主语的单复数一致：单数主语用单数动词，复数主语用复数动词。不可数名词没有复数，所以永远接单数动词——即便前面有“a lot of”之类的修饰。" },
+      "exampleRefs": ["e2", "e3"]
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Non-finite subjects count as singular", "zh": "非谓语动词做主语相当于单数" },
+      "body": { "en": "When an infinitive or a gerund is the subject, it behaves like a singular noun and takes a singular verb.", "zh": "当不定式或动名词做主语时，它相当于一个单数名词，接单数谓语动词。" },
+      "exampleRefs": ["e4"]
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "False-appearance subjects — find the real subject", "zh": "假象主语 — 认清真正的主语" },
+      "body": { "en": "Phrases like 'as well as', 'except', and 'but' make a singular subject look plural (or vice versa). They are just extra information added to the real subject, so the verb agrees with the real subject only. Some books call this the 'far' rule.", "zh": "“as well as”“except”“but”这类短语会让单数主语看上去像复数（反之亦然）。它们只是对真正主语的补充信息，所以谓语动词只与真正的主语一致。有些语法体系称之为“就远原则”。" },
+      "exampleRefs": ["e5"]
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "Indefinite pronouns — agree with the concept", "zh": "不定代词 — 与背后的概念一致" },
+      "body": { "en": "An indefinite-pronoun subject agrees with the concept behind it. 'Everyone' and 'each' are singular; 'both' and 'some (of them)' are plural. Abstract cases like 'none' and 'neither' can take either, since 'nothing' can't really be counted.", "zh": "不定代词做主语时，与其背后的概念一致。“everyone”“each”是单数；“both”“some of them”是复数。像“none”“neither”这类抽象情况单复数皆可，因为“没有”本就无法计数。" },
+      "exampleRefs": ["e6"]
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "Principle 2 — Notional agreement (match the meaning)", "zh": "原则二 — 意义一致（看意义单复数）" },
+      "body": { "en": "Agree with the meaning, not the surface form. 'And' does not always force a plural: two roles of one person ('the teacher and video creator') is singular, and a plural-looking unit ('ten years', 'a knife and fork') taken as one whole is singular too.", "zh": "与意义一致，而非表面形式。“and”并不总是要求复数：同一个人的双重身份（the teacher and video creator）是单数；看似复数但作为一个整体的单位（ten years、a knife and fork）也是单数。" },
+      "exampleRefs": ["e7", "e8", "e9"]
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "Form vs. meaning, and flexible nouns", "zh": "名词的形与意，及可单可复的名词" },
+      "body": { "en": "Some nouns look plural but mean singular ('physics is'); some look singular but mean plural ('the cattle are'). Same-form nouns (sheep, deer, means, series, species) and collective nouns (family, team, audience) take a singular or plural verb depending on whether you mean the whole or the members. But pure-mass collectives like 'furniture' stay singular.", "zh": "有些名词形复意单（physics is）；有些形单意复（the cattle are）。单复数同形的名词（sheep、deer、means、series、species）和集合名词（family、team、audience）究竟用单还是复，取决于你指整体还是成员。但像 furniture 这种纯集合体只能用单数。" },
+      "exampleRefs": ["e10", "e11"]
+    },
+    {
+      "id": "c8",
+      "heading": { "en": "Principle 3 — Proximity agreement (match the nearest)", "zh": "原则三 — 就近一致（与最近的词一致）" },
+      "body": { "en": "With 'or', 'either...or', 'neither...nor', 'not only...but also', and the 'there be' pattern, the verb agrees with the nearest subject rather than the true total. 'Either you or I am going'; 'There is a carrot and two apples'.", "zh": "遇到“or”“either...or”“neither...nor”“not only...but also”以及“there be”句型时，谓语动词与最近的主语一致，而非真实的总数。Either you or I am going；There is a carrot and two apples。" },
+      "exampleRefs": ["e12", "e13"]
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "I am a rabbit, you are a rabbit, he is a rabbit.",
+      "annotations": [
+        { "quote": "I", "tag": "subject", "occurrence": 1 },
+        { "quote": "am", "tag": "verb-singular" },
+        { "quote": "you", "tag": "subject" },
+        { "quote": "are", "tag": "verb-plural" },
+        { "quote": "he", "tag": "subject" },
+        { "quote": "is", "tag": "verb-singular" }
+      ],
+      "note": { "en": "Where Chinese keeps 是 unchanged, English conjugates 'be' to match each person: am / are / is.", "zh": "中文“是”不变，英语却要让 be 随人称变位：am / are / is。" }
+    },
+    {
+      "id": "e2",
+      "text": "Carrots are delicious.",
+      "annotations": [
+        { "quote": "Carrots", "tag": "subject" },
+        { "quote": "are", "tag": "verb-plural" }
+      ],
+      "note": { "en": "Plural countable subject → plural verb. Compare 'Time is money', where the singular 'time' takes 'is'.", "zh": "复数可数主语 → 复数动词。对比 Time is money，单数 time 接 is。" }
+    },
+    {
+      "id": "e3",
+      "text": "A lot of carrot juice has been sold.",
+      "annotations": [
+        { "quote": "carrot juice", "tag": "uncountable" },
+        { "quote": "has", "tag": "verb-singular" }
+      ],
+      "note": { "en": "'Carrot juice' is uncountable — no plural — so it stays singular even after 'a lot of'.", "zh": "carrot juice 不可数，没有复数，即便前面有 a lot of 也用单数。" }
+    },
+    {
+      "id": "e4",
+      "text": "Eating carrots is healthy.",
+      "annotations": [
+        { "quote": "Eating carrots", "tag": "non-finite" },
+        { "quote": "is", "tag": "verb-singular" }
+      ],
+      "note": { "en": "A gerund subject is treated as singular. Same for an infinitive: 'To eat a carrot every day is good'.", "zh": "动名词做主语视作单数。不定式也一样：To eat a carrot every day is good。" }
+    },
+    {
+      "id": "e5",
+      "text": "The rabbit as well as other animals gets a carrot.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "subject" },
+        { "quote": "as well as other animals", "tag": "appositive" },
+        { "quote": "gets", "tag": "verb-singular" }
+      ],
+      "note": { "en": "'As well as other animals' is just added info; the real subject is the singular 'the rabbit', so the verb is 'gets'.", "zh": "as well as other animals 只是补充信息；真正主语是单数 the rabbit，所以用 gets。" }
+    },
+    {
+      "id": "e6",
+      "text": "Each of them gets a carrot.",
+      "annotations": [
+        { "quote": "Each", "tag": "subject" },
+        { "quote": "gets", "tag": "verb-singular" }
+      ],
+      "note": { "en": "'Each' means every single one — a singular concept — so it takes a singular verb. Contrast 'Both of them like carrots' (plural).", "zh": "each 指每一个，是单数概念，故用单数动词。对比 Both of them like carrots（复数）。" }
+    },
+    {
+      "id": "e7",
+      "text": "The teacher and video creator is a rabbit.",
+      "annotations": [
+        { "quote": "The teacher and video creator", "tag": "subject" },
+        { "quote": "is", "tag": "verb-singular" }
+      ],
+      "note": { "en": "One person, two roles → singular. With a second article ('the teacher and the video creator are rabbits') it would be two people → plural.", "zh": "一个人，双重身份 → 单数。若加第二个冠词（the teacher and the video creator are rabbits）就是两个人 → 复数。" }
+    },
+    {
+      "id": "e8",
+      "text": "Ten years is a long time.",
+      "annotations": [
+        { "quote": "Ten years", "tag": "subject" },
+        { "quote": "is", "tag": "verb-singular" }
+      ],
+      "note": { "en": "'Ten years' is taken as one span of time — a single whole — so the verb is singular.", "zh": "ten years 被看作一段时间——一个整体——所以用单数动词。" }
+    },
+    {
+      "id": "e9",
+      "text": "A knife and fork is needed for eating the carrot.",
+      "annotations": [
+        { "quote": "A knife and fork", "tag": "subject" },
+        { "quote": "is", "tag": "verb-singular" }
+      ],
+      "note": { "en": "Although it uses 'and', a knife and fork is one set — a single whole — so the verb is singular. Same as 'bread and butter is needed'.", "zh": "虽然用了 and，刀叉是一副——一个整体——所以用单数。和 bread and butter is needed 同理。" }
+    },
+    {
+      "id": "e10",
+      "text": "Physics is my favorite subject.",
+      "annotations": [
+        { "quote": "Physics", "tag": "subject" },
+        { "quote": "is", "tag": "verb-singular" }
+      ],
+      "note": { "en": "Plural in form but singular in meaning → singular verb. The reverse: 'The cattle are on the hill' (singular form, plural meaning).", "zh": "形复意单 → 单数动词。反过来：The cattle are on the hill（形单意复）。" }
+    },
+    {
+      "id": "e11",
+      "text": "The rabbit's family are all at home.",
+      "annotations": [
+        { "quote": "family", "tag": "subject" },
+        { "quote": "are", "tag": "verb-plural" }
+      ],
+      "note": { "en": "Here 'family' stresses the individual members → plural. Stress the unit and it's singular: 'The rabbit's family is huge'.", "zh": "这里 family 强调成员个体 → 复数。强调整体则为单数：The rabbit's family is huge。" }
+    },
+    {
+      "id": "e12",
+      "text": "Either you or I am going to the party.",
+      "annotations": [
+        { "quote": "you", "tag": "subject" },
+        { "quote": "I", "tag": "subject" },
+        { "quote": "am", "tag": "verb-singular" }
+      ],
+      "note": { "en": "Proximity rule: the verb agrees with the nearest subject 'I', giving 'am'.", "zh": "就近原则：动词与最近的主语 I 一致，所以是 am。" }
+    },
+    {
+      "id": "e13",
+      "text": "There is a carrot and two apples on the table.",
+      "annotations": [
+        { "quote": "is", "tag": "verb-singular" },
+        { "quote": "a carrot", "tag": "subject" }
+      ],
+      "note": { "en": "In a 'there be' sentence the verb agrees with the nearest item — 'a carrot' (singular) — so 'is'.", "zh": "there be 句型中动词与最近的项一致——a carrot（单数）——所以用 is。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Choose the correct verb: 'A lot of carrot juice ____ been sold.'", "zh": "选出正确的动词：A lot of carrot juice ____ been sold." },
+      "choices": [
+        { "id": "a", "text": { "en": "have", "zh": "have" } },
+        { "id": "b", "text": { "en": "has", "zh": "has" } },
+        { "id": "c", "text": { "en": "are", "zh": "are" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'Carrot juice' is uncountable, so it has no plural and takes a singular verb — 'has' — regardless of 'a lot of'.", "zh": "carrot juice 不可数，没有复数，接单数动词 has，与 a lot of 无关。" },
+      "refs": ["c2", "e3"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "Why is 'is' correct in 'The teacher and video creator is a rabbit'?", "zh": "为什么 The teacher and video creator is a rabbit 用 is？" },
+      "choices": [
+        { "id": "a", "text": { "en": "'And' always takes a singular verb", "zh": "“and”总是接单数动词" } },
+        { "id": "b", "text": { "en": "It is one person with two roles — a singular meaning", "zh": "这是同一个人的双重身份——意义为单数" } },
+        { "id": "c", "text": { "en": "The verb agrees with the nearest word 'creator'", "zh": "动词与最近的词 creator 一致" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "Notional agreement: the teacher and video creator are the same rabbit, so the meaning is singular and the verb is singular.", "zh": "意义一致：老师兼视频创作者是同一只兔子，意义为单数，故用单数动词。" },
+      "refs": ["c6", "e7"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Proximity rule — fill the blank: 'Either you or I ____ going to the party.'", "zh": "就近原则，填空：Either you or I ____ going to the party." },
+      "answers": ["am"],
+      "explain": { "en": "The verb agrees with the nearest subject 'I', so the correct form is 'am'.", "zh": "动词与最近的主语 I 一致，所以是 am。" },
+      "refs": ["c8", "e12"]
+    },
+    {
+      "id": "q4",
+      "type": "fill",
+      "prompt": { "en": "Fill the blank: 'Eating carrots ____ healthy.'", "zh": "填空：Eating carrots ____ healthy." },
+      "answers": ["is"],
+      "explain": { "en": "A gerund subject ('eating carrots') is treated as singular, so it takes 'is'.", "zh": "动名词主语（eating carrots）视作单数，接 is。" },
+      "refs": ["c3", "e4"]
+    },
+    {
+      "id": "q5",
+      "type": "error",
+      "sentence": "The rabbit as well as other animals get a carrot.",
+      "fix": "The rabbit as well as other animals gets a carrot.",
+      "explain": { "en": "'As well as other animals' is just added info; the real subject is the singular 'the rabbit', so the verb must be 'gets'.", "zh": "as well as other animals 只是补充信息；真正主语是单数 the rabbit，故应用 gets。" },
+      "refs": ["c4", "e5"]
+    },
+    {
+      "id": "q6",
+      "type": "error",
+      "sentence": "Ten years are a long time.",
+      "fix": "Ten years is a long time.",
+      "explain": { "en": "'Ten years' is treated as a single span of time — one whole — so the verb is singular: 'is'.", "zh": "ten years 被看作一段时间，一个整体，故用单数 is。" },
+      "refs": ["c6", "e8"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "The carrot party: who agrees with whom", "zh": "胡萝卜聚会：谁和谁一致" },
+    "targets": ["verb-singular", "verb-plural", "non-finite", "appositive"],
+    "lines": [
+      { "speaker": "Wolf", "text": "Eating carrots is healthy, they say.", "annotations": [ { "quote": "Eating carrots", "tag": "non-finite" }, { "quote": "is", "tag": "verb-singular" } ], "note": { "en": "Gerund subject → singular verb.", "zh": "动名词主语 → 单数动词。" } },
+      { "speaker": "Rabbit", "text": "The rabbit as well as other animals gets a carrot today.", "annotations": [ { "quote": "The rabbit", "tag": "subject" }, { "quote": "as well as other animals", "tag": "appositive" }, { "quote": "gets", "tag": "verb-singular" } ], "note": { "en": "Real subject is singular 'the rabbit'.", "zh": "真正主语是单数 the rabbit。" } },
+      { "speaker": "Wolf", "text": "But two coins isn't a lot for one.", "annotations": [ { "quote": "two coins", "tag": "subject" }, { "quote": "isn't", "tag": "verb-singular" } ], "note": { "en": "Plural form, single-amount meaning → singular.", "zh": "形复意单 → 单数。" } },
+      { "speaker": "Rabbit", "text": "Some of them are already eating.", "annotations": [ { "quote": "Some", "tag": "subject" }, { "quote": "are", "tag": "verb-plural" } ], "note": { "en": "'Some of them' is a plural concept → plural verb.", "zh": "some of them 是复数概念 → 复数动词。" } },
+      { "speaker": "Wolf", "text": "Either you or I am going to grab the last one.", "annotations": [ { "quote": "I", "tag": "subject" }, { "quote": "am", "tag": "verb-singular" } ], "note": { "en": "Proximity rule: agree with the nearest 'I'.", "zh": "就近原则：与最近的 I 一致。" } }
+    ]
+  }
+}

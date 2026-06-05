@@ -1,0 +1,487 @@
+{
+  "id": "31",
+  "slug": "english-grammar-pronouns",
+  "category": "parts-of-speech",
+  "shape": "deep-dive",
+  "order": 35,
+  "title": { "en": "Pronouns: the Full Family", "zh": "代词：完整家族" },
+  "summary": { "en": "A pronoun (pro + noun) stands in for a noun so we don't repeat it. This tour walks through all ten types — personal, possessive, reflexive, emphatic, reciprocal, demonstrative, indefinite, interrogative, connective, and relative — plus the case system (subject vs. object) that English still keeps.", "zh": "代词（pro + noun）替代名词，避免重复啰嗦。本课依次讲清十种代词——人称、物主、反身、强调、相互、指示、不定、疑问、连接、关系——以及英语仍保留的格（主格 vs. 宾格）系统。" },
+  "source": { "videoId": "Z5VjeR8iUJ4", "youtube": "https://www.youtube.com/watch?v=Z5VjeR8iUJ4", "duration": "20:25", "script": "scripts/31-english-grammar-pronouns.md" },
+  "tags": [
+    { "id": "pronoun", "label": { "en": "pronoun", "zh": "代词" }, "abbr": "Pron", "color": "#7c3aed", "underline": "solid" },
+    { "id": "antecedent", "label": { "en": "antecedent", "zh": "先行词/被替代名词" }, "abbr": "Ant", "color": "#9333ea", "underline": "dashed" },
+    { "id": "case-subjective", "label": { "en": "subjective case", "zh": "主格" }, "abbr": "Nom", "color": "#2563eb", "underline": "dotted" },
+    { "id": "case-objective", "label": { "en": "objective case", "zh": "宾格" }, "abbr": "Acc", "color": "#059669", "underline": "dotted" },
+    { "id": "possessive", "label": { "en": "possessive", "zh": "物主/属格" }, "abbr": "Poss", "color": "#b45309", "underline": "dashed" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "What a pronoun is", "zh": "代词是什么" },
+      "body": { "en": "Pronoun = pro (\"in place of\") + noun. A pronoun stands in for a noun so we don't keep repeating it. Instead of 'There is a rabbit, the rabbit is white, the rabbit is eating a carrot,' we say 'There is a rabbit, it is white, it is eating a carrot.' The 'it' replaces the rabbit already mentioned.", "zh": "代词 = pro（替代）+ noun（名词）。代词替代名词，避免反复提同一个名词显得啰嗦。与其说“There is a rabbit, the rabbit is white, the rabbit is eating a carrot”，不如说“There is a rabbit, it is white, it is eating a carrot”，这里的 it 就替代了前文的 rabbit。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "代词的原始含义就是替代名词的词"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "Personal pronouns & case", "zh": "人称代词与格" },
+      "body": { "en": "Personal pronouns replace people or things by person and number. English splits them by case: the subjective case marks the doer (I, he, she, we, they) and the objective case marks the receiver (me, him, her, us, them). Say 'I saw him, he also saw me' — never 'I saw he' or 'he saw I'. (You and it look the same in both cases.)", "zh": "人称代词按人称和数替代人或物。英语还按格区分：主格表示动作的发出者（I, he, she, we, they），宾格表示承受者（me, him, her, us, them）。要说“I saw him, he also saw me”，不能说“I saw he”或“he saw I”。（you 和 it 主宾格同形。）" },
+      "exampleRefs": ["e2"],
+      "sourceRef": "这就是所谓人称代词的格case"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "'You and I' or 'you and me'?", "zh": "“you and I”还是“you and me”？" },
+      "body": { "en": "Pick by role. As the subject, use 'you and I' — 'You and I saw him.' As the object, use 'you and me' — 'He saw you and me.' So 'My friends and I went there' is the written-correct form; 'Me and my friends went there' is common in casual speech but not accepted in formal writing.", "zh": "按句中角色来选。做主语用“you and I”——“You and I saw him.”做宾语用“you and me”——“He saw you and me.”所以“My friends and I went there”是书面正确说法；“Me and my friends went there”口语常见，但正式书面语不接受。" },
+      "exampleRefs": ["e3"],
+      "sourceRef": "正确说法是my friends and I went there"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Possessive pronouns: my vs. mine", "zh": "物主代词：my 与 mine" },
+      "body": { "en": "The possessive (genitive) shows ownership. English splits it again: the adjectival possessive modifies a following noun (it is my carrot), while the nominal possessive stands alone, already carrying the noun (the carrot is mine). Chinese has only one “我的” for both.", "zh": "属格表示所属关系。英语又分两类：形容词性物主代词修饰后面的名词（it is my carrot），名词性物主代词独立使用、自带名词含义（the carrot is mine）。中文只有一个“我的”同时表示两者。" },
+      "exampleRefs": ["e4"],
+      "sourceRef": "mine是个名词性物主代词"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "Reflexive pronouns: -self / -selves", "zh": "反身代词：-self / -selves" },
+      "body": { "en": "When the doer and the receiver are the same person, use a reflexive pronoun: 'I saw myself.' Note the build: some are objective pronoun + self (himself, themselves — NOT hisself, theirselves), others are possessive + self (myself, yourself).", "zh": "当动作的发出者和承受者是同一人时，用反身代词：“I saw myself.”注意构成：有些是宾格人称代词 + self（himself, themselves，不是 hisself, theirselves），有些是物主代词 + self（myself, yourself）。" },
+      "exampleRefs": ["e5"],
+      "sourceRef": "myself在英语语法上被称作反身代词"
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "Emphatic pronouns: same form, different job", "zh": "强调代词：同形不同职" },
+      "body": { "en": "Emphatic pronouns look identical to reflexives but do a different job. 'The rabbit washed himself' is reflexive — 'himself' is the object of 'washed'. 'The rabbit washed the carrots himself' is emphatic — 'himself' stresses that the rabbit did it personally, working as an adverbial. So 'The rabbit will do it himself' means it'll do it in person, not that it'll wash itself away.", "zh": "强调代词样子和反身代词一样，但作用不同。“The rabbit washed himself”是反身用法——himself 做 washed 的宾语。“The rabbit washed the carrots himself”是强调用法——himself 强调是兔子亲自洗的，在句中做状语。所以“The rabbit will do it himself”是说兔子亲自去做，而不是兔子要把自己洗掉。" },
+      "exampleRefs": ["e6", "e7"],
+      "sourceRef": "这里的 himself 是强调代词"
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "Reciprocal pronouns: each other / one another", "zh": "相互代词：each other / one another" },
+      "body": { "en": "Reciprocal pronouns express a mutual relationship — 'We should help each other.' There are two: each other and one another. The traditional rule uses 'each other' for two and 'one another' for three or more, though many native speakers don't strictly follow it.", "zh": "相互代词表示互相的关系——“We should help each other.”共有两个：each other 和 one another。传统说法是两者之间用 each other，三者及以上用 one another，不过很多母语者并不严格遵循。" },
+      "exampleRefs": ["e8"],
+      "sourceRef": "Each other 代词为相互代词"
+    },
+    {
+      "id": "c8",
+      "heading": { "en": "Demonstrative pronouns: this / that / these / those", "zh": "指示代词：this / that / these / those" },
+      "body": { "en": "Demonstratives point to people or things. 'This/these' point to what is near the speaker; 'that/those' point to what is farther away — 'This is a rabbit,' 'Those are apples.' They can also stand before a noun to limit it: this rabbit, those rabbits.", "zh": "指示代词指示人或物。this/these 指代离说话人较近的，that/those 指代较远的——“This is a rabbit”，“Those are apples”。它们也可放在名词前限定范围：this rabbit, those rabbits。" },
+      "exampleRefs": ["e9"],
+      "sourceRef": "叫指示代词"
+    },
+    {
+      "id": "c9",
+      "heading": { "en": "Indefinite pronouns: many vs. much, a few vs. few", "zh": "不定代词：many 与 much，a few 与 few" },
+      "body": { "en": "Indefinite pronouns express an uncertain quantity. 'Many' takes countable plurals (many rabbits); 'much' takes uncountables (much water). Likewise a few / few go with countable plurals, a little / little with uncountables. The 'a' version is positive ('some'), the bare version is negative ('hardly any'): a few carrots vs. few carrots.", "zh": "不定代词表示不确定的数量。many 修饰可数名词复数（many rabbits），much 修饰不可数名词（much water）。同理 a few / few 接可数名词复数，a little / little 接不可数名词。带 a 的表肯定（一些），不带 a 的表否定（几乎没有）：a few carrots 对比 few carrots。" },
+      "exampleRefs": ["e10", "e11"],
+      "sourceRef": "many 用来代替或修饰可数名词的复数，much 用来代替或修饰不可数名词"
+    },
+    {
+      "id": "c10",
+      "heading": { "en": "some / any, and the 'positive answer' exception", "zh": "some / any 及“期待肯定回答”的例外" },
+      "body": { "en": "'Some' is normally used in affirmatives, 'any' in negatives and questions: 'The rabbit needs some carrots,' 'Does the rabbit need any carrots?' But use 'some' in a question when you expect a yes — 'Would you like some coffee?' And 'any' can mean 'any whatsoever' in an affirmative: 'The rabbit can eat any carrot.'", "zh": "some 一般用在肯定句，any 用在否定句和疑问句：“The rabbit needs some carrots”，“Does the rabbit need any carrots?”但当你期待对方给出肯定回答时，疑问句也用 some——“Would you like some coffee?”而 any 表示“任何一个”时也可用在肯定句：“The rabbit can eat any carrot.”" },
+      "exampleRefs": ["e12", "e13"],
+      "sourceRef": "如果我们需要得到对方正面肯定的回答时，会在句中用some"
+    },
+    {
+      "id": "c11",
+      "heading": { "en": "each / every, either / neither, both / all", "zh": "each / every，either / neither，both / all" },
+      "body": { "en": "'Each' and 'every' take a singular noun (each carrot, every carrot) — never 'every carrots'. 'Each' can stand alone as a pronoun ('each is big'); 'every' must attach to a noun. 'Each' = each of two or more; 'every' = each of three or more. 'Either/neither' refer to two and take a singular verb (either is good); 'both' = the two together (verb plural), 'all' = three or more.", "zh": "each 和 every 后接单数名词（each carrot, every carrot），不能说 every carrots。each 可单独做代词（each is big）；every 必须接名词。each 指两个或以上的每一个，every 指三个及以上的每一个。either/neither 指两者、谓语用单数（either is good）；both 指两者都（谓语用复数），all 指三者及以上都。" },
+      "exampleRefs": ["e14", "e15"],
+      "sourceRef": "each可以单打独斗，而every却喜欢和名词并肩作战"
+    },
+    {
+      "id": "c12",
+      "heading": { "en": "other / the other / another, and pronoun 'one'", "zh": "other / the other / another，以及代词 one" },
+      "body": { "en": "'Other' = other ones, modifying a noun (I don't like other carrots). 'The other' = the remaining one of two (this carrot is bigger than the other carrot). 'Another' = an unspecified additional one of three or more (give him another carrot). To avoid repeating the noun, replace it with the pronoun 'one': 'give him another one' — here 'one' is an indefinite pronoun, not a number.", "zh": "other 表示其他的，修饰名词（I don't like other carrots）。the other 特指两者中的另一个（this carrot is bigger than the other carrot）。another 泛指三者及以上中的另一个（give him another carrot）。为避免重复名词，可用代词 one 替代：“give him another one”——这里 one 是不定代词，不是数字。" },
+      "exampleRefs": ["e16", "e17"],
+      "sourceRef": "这里的one可不是个数字，而是个不定代词"
+    },
+    {
+      "id": "c13",
+      "heading": { "en": "Compound indefinites & postposed modifiers", "zh": "复合不定代词及后置修饰" },
+      "body": { "en": "Compound indefinites combine every/some/any/no with -one/-body/-thing: everyone, somebody, anything, nothing, and so on. A modifying adjective comes AFTER them: 'The rabbit has something important to do' — never 'important something'.", "zh": "复合不定代词由 every/some/any/no 加上 -one/-body/-thing 构成：everyone, somebody, anything, nothing 等。修饰它们的形容词要后置：“The rabbit has something important to do”——不能说 “important something”。" },
+      "exampleRefs": ["e18", "e19"],
+      "sourceRef": "修饰复合不定代词时要后置"
+    },
+    {
+      "id": "c14",
+      "heading": { "en": "Interrogative pronouns: who / whom / what / which / whose", "zh": "疑问代词：who / whom / what / which / whose" },
+      "body": { "en": "Interrogatives stand in for unknown people or things in a question. 'Who' is subjective (Who saw the rabbit?); 'whom' is objective (Whom did the rabbit see?), though 'who' often replaces it in everyday speech. After a preposition, 'whom' is required (From whom did the rabbit get the carrot?). The others are what, which, whose.", "zh": "疑问代词替代未知的人或物来提问。who 是主格（Who saw the rabbit?）；whom 是宾格（Whom did the rabbit see?），但日常口语常用 who 替代。紧跟介词之后必须用 whom（From whom did the rabbit get the carrot?）。其余还有 what, which, whose。" },
+      "exampleRefs": ["e20", "e21"],
+      "sourceRef": "与主格who相对应的宾格是whom"
+    },
+    {
+      "id": "c15",
+      "heading": { "en": "Connective pronouns: introducing noun clauses", "zh": "连接代词：引导名词性从句" },
+      "body": { "en": "Connective pronouns introduce noun clauses (subject, object, and predicative clauses): who, whom, whose, what, which, plus the -ever forms whoever, whatever, etc. 'I don't know who you are' (object clause); 'What he said isn't true' (subject clause). The '-ever' suffix adds 'any/whatever' emphasis: 'The rabbit wants to eat whatever he likes.'", "zh": "连接代词引导名词性从句（主语从句、宾语从句、表语从句）：who, whom, whose, what, which，以及加 ever 的 whoever, whatever 等。“I don't know who you are”（宾语从句）；“What he said isn't true”（主语从句）。加 -ever 后表示“任何/一切”的强调：“The rabbit wants to eat whatever he likes.”" },
+      "exampleRefs": ["e22", "e23"],
+      "sourceRef": "连接代词的作用是引导处于从句、缩语从句和表语从句"
+    },
+    {
+      "id": "c16",
+      "heading": { "en": "Relative pronouns: the six for relative clauses", "zh": "关系代词：定语从句专用的六个" },
+      "body": { "en": "Relative pronouns are used only in relative (adjective) clauses. There are six: who, whom, whose, which, that, and as. 'The rabbit who became hungry ate a carrot'; 'The rabbit whose ears are long ate a carrot'; 'The rabbit ate the carrot which I bought'; 'The rabbit ate the carrot as was expected.'", "zh": "关系代词只用于定语（形容词性）从句，共六个：who, whom, whose, which, that, as。“The rabbit who became hungry ate a carrot”；“The rabbit whose ears are long ate a carrot”；“The rabbit ate the carrot which I bought”；“The rabbit ate the carrot as was expected.”" },
+      "exampleRefs": ["e24"],
+      "sourceRef": "关系代词专用于定语从句，共有六个"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "There is a rabbit, it is white, it is eating a carrot.",
+      "annotations": [
+        { "quote": "a rabbit", "tag": "antecedent" },
+        { "quote": "it", "tag": "pronoun", "occurrence": 2 },
+        { "quote": "it", "tag": "pronoun", "occurrence": 4 }
+      ],
+      "note": { "en": "Each 'it' replaces the already-mentioned 'rabbit', avoiding repetition.", "zh": "每个 it 都替代前文已提到的 rabbit，避免重复。" }
+    },
+    {
+      "id": "e2",
+      "text": "I saw him, he also saw me.",
+      "annotations": [
+        { "quote": "I", "tag": "case-subjective" },
+        { "quote": "him", "tag": "case-objective" },
+        { "quote": "he", "tag": "case-subjective" },
+        { "quote": "me", "tag": "case-objective" }
+      ],
+      "note": { "en": "The doer takes the subjective case (I, he); the receiver takes the objective case (him, me). Not 'I saw he'.", "zh": "动作发出者用主格（I, he），承受者用宾格（him, me）。不能说 'I saw he'。" }
+    },
+    {
+      "id": "e3",
+      "text": "You and I saw him, but he saw you and me.",
+      "annotations": [
+        { "quote": "You and I", "tag": "case-subjective" },
+        { "quote": "him", "tag": "case-objective" },
+        { "quote": "you and me", "tag": "case-objective" }
+      ],
+      "note": { "en": "As subject: 'you and I'. As object: 'you and me'. Choose by role.", "zh": "做主语用 'you and I'，做宾语用 'you and me'，按角色选择。" }
+    },
+    {
+      "id": "e4",
+      "text": "It is my carrot, the carrot is mine.",
+      "annotations": [
+        { "quote": "my", "tag": "possessive" },
+        { "quote": "mine", "tag": "possessive" }
+      ],
+      "note": { "en": "'My' modifies the noun 'carrot' (adjectival); 'mine' stands alone, already meaning 'my carrot' (nominal).", "zh": "my 修饰名词 carrot（形容词性）；mine 独立使用，本身就含 'my carrot' 之意（名词性）。" }
+    },
+    {
+      "id": "e5",
+      "text": "I saw myself.",
+      "annotations": [
+        { "quote": "I", "tag": "case-subjective" },
+        { "quote": "myself", "tag": "pronoun" }
+      ],
+      "note": { "en": "Doer and receiver are the same person, so a reflexive pronoun ('myself') is used. Note: himself/themselves, not hisself/theirselves.", "zh": "发出者与承受者是同一人，故用反身代词 myself。注意是 himself/themselves，不是 hisself/theirselves。" }
+    },
+    {
+      "id": "e6",
+      "text": "The rabbit washed himself.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "antecedent" },
+        { "quote": "himself", "tag": "pronoun" }
+      ],
+      "note": { "en": "Reflexive use: 'himself' is the object of 'washed' (the rabbit washed itself).", "zh": "反身用法：himself 做 washed 的宾语（兔子洗了自己）。" }
+    },
+    {
+      "id": "e7",
+      "text": "The rabbit washed the carrots himself.",
+      "annotations": [
+        { "quote": "the carrots", "tag": "object" },
+        { "quote": "himself", "tag": "adverbial" }
+      ],
+      "note": { "en": "Emphatic use: 'himself' stresses that the rabbit did it personally — an adverbial, not the object.", "zh": "强调用法：himself 强调是兔子亲自洗的——做状语，而非宾语。" }
+    },
+    {
+      "id": "e8",
+      "text": "We should help each other.",
+      "annotations": [
+        { "quote": "We", "tag": "case-subjective" },
+        { "quote": "each other", "tag": "pronoun" }
+      ],
+      "note": { "en": "Reciprocal pronoun: help goes both ways. 'one another' works too (traditionally for three or more).", "zh": "相互代词：帮助是相互的。也可用 one another（传统上指三者及以上）。" }
+    },
+    {
+      "id": "e9",
+      "text": "This is a rabbit. Those are apples.",
+      "annotations": [
+        { "quote": "This", "tag": "pronoun" },
+        { "quote": "Those", "tag": "pronoun" }
+      ],
+      "note": { "en": "Demonstratives: 'this' is near the speaker, 'those' are farther away.", "zh": "指示代词：this 离说话人近，those 离说话人远。" }
+    },
+    {
+      "id": "e10",
+      "text": "many rabbits",
+      "annotations": [
+        { "quote": "many", "tag": "pronoun" },
+        { "quote": "rabbits", "tag": "countable" }
+      ],
+      "note": { "en": "'Many' modifies a countable plural. The plural 'rabbits' confirms an uncertain but large number.", "zh": "many 修饰可数名词复数。复数 rabbits 表示数量不定但很多。" }
+    },
+    {
+      "id": "e11",
+      "text": "much water",
+      "annotations": [
+        { "quote": "much", "tag": "pronoun" },
+        { "quote": "water", "tag": "uncountable" }
+      ],
+      "note": { "en": "'Much' is the uncountable counterpart of 'many'. You cannot say 'many water'.", "zh": "much 是 many 在不可数名词上的对应词。不能说 'many water'。" }
+    },
+    {
+      "id": "e12",
+      "text": "The rabbit needs some carrots.",
+      "annotations": [
+        { "quote": "some", "tag": "pronoun" },
+        { "quote": "carrots", "tag": "countable" }
+      ],
+      "note": { "en": "'Some' is the default in affirmative statements.", "zh": "some 用在肯定陈述句，是默认选择。" }
+    },
+    {
+      "id": "e13",
+      "text": "Does the rabbit need any carrots?",
+      "annotations": [
+        { "quote": "any", "tag": "pronoun" },
+        { "quote": "carrots", "tag": "countable" }
+      ],
+      "note": { "en": "'Any' is the default in questions and negatives. (Use 'some' instead when expecting a yes.)", "zh": "any 用在疑问句和否定句。（期待肯定回答时改用 some。）" }
+    },
+    {
+      "id": "e14",
+      "text": "There are many carrots, each is big.",
+      "annotations": [
+        { "quote": "each", "tag": "pronoun" },
+        { "quote": "is", "tag": "verb-linking" }
+      ],
+      "note": { "en": "'Each' stands alone as a pronoun with a singular verb. You cannot say 'every is big' — 'every' needs a noun.", "zh": "each 可独立做代词，谓语用单数。不能说 'every is big'——every 必须接名词。" }
+    },
+    {
+      "id": "e15",
+      "text": "Both of the two rabbits are cute, all of the rabbits are cute.",
+      "annotations": [
+        { "quote": "Both", "tag": "pronoun" },
+        { "quote": "all", "tag": "pronoun" }
+      ],
+      "note": { "en": "'Both' = the two together; 'all' = three or more. Both take a plural verb ('are').", "zh": "both 指两者都，all 指三者及以上都，谓语都用复数（are）。" }
+    },
+    {
+      "id": "e16",
+      "text": "This carrot is bigger than the other carrot.",
+      "annotations": [
+        { "quote": "the other", "tag": "pronoun" },
+        { "quote": "carrot", "tag": "countable", "occurrence": 2 }
+      ],
+      "note": { "en": "'The other' specifies the remaining one of exactly two.", "zh": "the other 特指两者中剩下的那一个。" }
+    },
+    {
+      "id": "e17",
+      "text": "The rabbit doesn't like this carrot, give him another one.",
+      "annotations": [
+        { "quote": "another", "tag": "pronoun" },
+        { "quote": "one", "tag": "pronoun" }
+      ],
+      "note": { "en": "'Another' = an additional unspecified one (of three+); 'one' is an indefinite pronoun replacing 'carrot', not a number.", "zh": "another 指三者及以上中泛指的另一个；one 是替代 carrot 的不定代词，不是数字。" }
+    },
+    {
+      "id": "e18",
+      "text": "Nothing can stop the rabbit from eating carrots.",
+      "annotations": [
+        { "quote": "Nothing", "tag": "pronoun" },
+        { "quote": "the rabbit", "tag": "object" }
+      ],
+      "note": { "en": "'Nothing' is a compound indefinite (no + thing) acting as the subject.", "zh": "Nothing 是复合不定代词（no + thing），在句中做主语。" }
+    },
+    {
+      "id": "e19",
+      "text": "The rabbit has something important to do.",
+      "annotations": [
+        { "quote": "something", "tag": "pronoun" },
+        { "quote": "important", "tag": "attributive" }
+      ],
+      "note": { "en": "An adjective modifying a compound indefinite is postposed: 'something important', not 'important something'.", "zh": "修饰复合不定代词的形容词后置：'something important'，不是 'important something'。" }
+    },
+    {
+      "id": "e20",
+      "text": "Who saw the rabbit?",
+      "annotations": [
+        { "quote": "Who", "tag": "case-subjective" },
+        { "quote": "the rabbit", "tag": "object" }
+      ],
+      "note": { "en": "Interrogative 'who' is the subject here — subjective case.", "zh": "疑问代词 who 在此做主语——主格。" }
+    },
+    {
+      "id": "e21",
+      "text": "Whom did the rabbit see?",
+      "annotations": [
+        { "quote": "Whom", "tag": "case-objective" },
+        { "quote": "the rabbit", "tag": "case-subjective" }
+      ],
+      "note": { "en": "'Whom' is the receiver of 'see' (objective), even though it opens the question. 'Who' is acceptable casually.", "zh": "whom 是 see 的承受者（宾格），虽然它在句首。口语中用 who 也可接受。" }
+    },
+    {
+      "id": "e22",
+      "text": "I don't know who you are.",
+      "annotations": [
+        { "quote": "who", "tag": "clause-marker" },
+        { "quote": "you", "tag": "case-subjective" }
+      ],
+      "note": { "en": "Connective 'who' introduces an object clause ('who you are').", "zh": "连接代词 who 引导宾语从句（who you are）。" }
+    },
+    {
+      "id": "e23",
+      "text": "The rabbit wants to eat whatever he likes.",
+      "annotations": [
+        { "quote": "whatever", "tag": "clause-marker" },
+        { "quote": "he", "tag": "case-subjective", "occurrence": 2 }
+      ],
+      "note": { "en": "'-ever' adds emphasis: 'whatever' = anything at all that he likes.", "zh": "-ever 加强语气：whatever = 他喜欢的任何东西。" }
+    },
+    {
+      "id": "e24",
+      "text": "The rabbit whose ears are long ate a carrot.",
+      "annotations": [
+        { "quote": "whose", "tag": "clause-marker" },
+        { "quote": "a carrot", "tag": "object" }
+      ],
+      "note": { "en": "Relative 'whose' opens an adjective clause describing 'the rabbit'.", "zh": "关系代词 whose 引导描述 the rabbit 的定语从句。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Which is correct?", "zh": "哪个说法正确？" },
+      "choices": [
+        { "id": "a", "text": { "en": "I saw he, he also saw I.", "zh": "I saw he, he also saw I." } },
+        { "id": "b", "text": { "en": "I saw him, he also saw me.", "zh": "I saw him, he also saw me." } },
+        { "id": "c", "text": { "en": "Me saw him, him also saw I.", "zh": "Me saw him, him also saw I." } }
+      ],
+      "answer": "b",
+      "explain": { "en": "The receiver of the action takes the objective case (him, me); the doer takes the subjective case (I, he).", "zh": "动作承受者用宾格（him, me），发出者用主格（I, he）。" },
+      "refs": ["c2", "e2"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "Which sentence is correct for formal writing?", "zh": "哪个句子适合正式书面语？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Me and my friends went there.", "zh": "Me and my friends went there." } },
+        { "id": "b", "text": { "en": "My friends and me went there.", "zh": "My friends and me went there." } },
+        { "id": "c", "text": { "en": "My friends and I went there.", "zh": "My friends and I went there." } }
+      ],
+      "answer": "c",
+      "explain": { "en": "The phrase is the subject, so it needs the subjective case 'I'. 'Me and my friends' is common in speech but not accepted formally.", "zh": "这个短语做主语，须用主格 I。'Me and my friends' 口语常见，但正式场合不接受。" },
+      "refs": ["c3", "e3"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Complete with a possessive pronoun: 'It is my carrot, the carrot is ____.'", "zh": "用物主代词补全：'It is my carrot, the carrot is ____.'" },
+      "answers": ["mine"],
+      "explain": { "en": "'Mine' is the nominal possessive — it stands alone and already means 'my carrot'. 'My' must be followed by a noun.", "zh": "mine 是名词性物主代词，可独立使用，本身就含 'my carrot' 之意。my 后面必须接名词。" },
+      "refs": ["c4", "e4"]
+    },
+    {
+      "id": "q4",
+      "type": "error",
+      "sentence": "The rabbit washed hisself.",
+      "fix": "The rabbit washed himself.",
+      "explain": { "en": "The reflexive is objective pronoun + self: 'himself', not 'hisself'. (Likewise 'themselves', not 'theirselves'.)", "zh": "反身代词是宾格人称代词 + self：himself，不是 hisself。（同理是 themselves，不是 theirselves。）" },
+      "refs": ["c5"]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": { "en": "In 'The rabbit washed the carrots himself,' what role does 'himself' play?", "zh": "在 'The rabbit washed the carrots himself' 中，himself 起什么作用？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Emphatic — an adverbial stressing the rabbit did it personally", "zh": "强调代词——做状语，强调兔子亲自做" } },
+        { "id": "b", "text": { "en": "Reflexive — the object of 'washed'", "zh": "反身代词——做 washed 的宾语" } },
+        { "id": "c", "text": { "en": "Possessive — modifying 'carrots'", "zh": "物主代词——修饰 carrots" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "'The carrots' is already the object, so 'himself' here is emphatic, working as an adverbial.", "zh": "the carrots 已是宾语，所以 himself 在这里是强调代词，做状语。" },
+      "refs": ["c6", "e7"]
+    },
+    {
+      "id": "q6",
+      "type": "fill",
+      "prompt": { "en": "Fill with 'much' or 'many': 'You cannot say *____ water*; the correct word for an uncountable noun is ____.'", "zh": "填 much 或 many：'不能说 *____ water*；不可数名词应该用 ____。'" },
+      "answers": ["much"],
+      "explain": { "en": "'Much' modifies uncountable nouns (much water); 'many' is only for countable plurals (many rabbits).", "zh": "much 修饰不可数名词（much water）；many 只用于可数名词复数（many rabbits）。" },
+      "refs": ["c9", "e11"]
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": { "en": "Which question correctly expects a 'yes' answer (offering coffee)?", "zh": "哪个疑问句正确地期待肯定回答（请人喝咖啡）？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Would you like any coffee?", "zh": "Would you like any coffee?" } },
+        { "id": "b", "text": { "en": "Would you like some coffee?", "zh": "Would you like some coffee?" } },
+        { "id": "c", "text": { "en": "Would you like much coffee?", "zh": "Would you like much coffee?" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "Although questions usually take 'any', use 'some' when you expect a positive answer, as in an offer.", "zh": "疑问句通常用 any，但当你期待肯定回答（如发出邀请）时用 some。" },
+      "refs": ["c10", "e12"]
+    },
+    {
+      "id": "q8",
+      "type": "error",
+      "sentence": "Every is big.",
+      "fix": "Each is big.",
+      "explain": { "en": "'Every' must attach to a noun; only 'each' can stand alone as a pronoun subject (each is big).", "zh": "every 必须接名词；只有 each 能独立做代词主语（each is big）。" },
+      "refs": ["c11", "e14"]
+    },
+    {
+      "id": "q9",
+      "type": "fill",
+      "prompt": { "en": "Replace the repeated noun with a pronoun: 'give him another carrot' → 'give him another ____.'", "zh": "用代词替代重复的名词：'give him another carrot' → 'give him another ____.'" },
+      "answers": ["one"],
+      "explain": { "en": "'One' is an indefinite pronoun standing in for 'carrot' to avoid repetition — not the number one.", "zh": "one 是替代 carrot 的不定代词，避免重复——不是数字一。" },
+      "refs": ["c12", "e17"]
+    },
+    {
+      "id": "q10",
+      "type": "error",
+      "sentence": "The rabbit has important something to do.",
+      "fix": "The rabbit has something important to do.",
+      "explain": { "en": "An adjective modifying a compound indefinite pronoun is postposed: 'something important'.", "zh": "修饰复合不定代词的形容词要后置：'something important'。" },
+      "refs": ["c13", "e19"]
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": { "en": "Which word MUST be 'whom' (not 'who')?", "zh": "哪个空必须用 whom（不能用 who）？" },
+      "choices": [
+        { "id": "a", "text": { "en": "____ did the rabbit see?", "zh": "____ did the rabbit see?" } },
+        { "id": "b", "text": { "en": "From ____ did the rabbit get the carrot?", "zh": "From ____ did the rabbit get the carrot?" } },
+        { "id": "c", "text": { "en": "____ saw the rabbit?", "zh": "____ saw the rabbit?" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "Directly after a preposition, 'whom' is required. In (a) 'who' is acceptable casually; in (c) the subject must be 'who'.", "zh": "紧跟介词之后必须用 whom。（a）口语可用 who；（c）做主语必须用 who。" },
+      "refs": ["c14", "e21"]
+    },
+    {
+      "id": "q12",
+      "type": "fill",
+      "prompt": { "en": "Connective pronoun: 'I don't know ____ you are.' (asking about identity)", "zh": "连接代词：'I don't know ____ you are.'（询问身份）" },
+      "answers": ["who"],
+      "explain": { "en": "'Who' introduces the object clause 'who you are' after 'know'.", "zh": "who 引导 know 之后的宾语从句 'who you are'。" },
+      "refs": ["c15", "e22"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "Carrots and pronouns", "zh": "胡萝卜与代词" },
+    "targets": ["pronoun", "case-subjective", "case-objective", "possessive", "antecedent"],
+    "lines": [
+      { "speaker": "Wolf", "text": "There is a rabbit, and it is eating my carrot.", "annotations": [ { "quote": "a rabbit", "tag": "antecedent" }, { "quote": "it", "tag": "pronoun", "occurrence": 2 }, { "quote": "my", "tag": "possessive" } ], "note": { "en": "'It' replaces 'a rabbit'; 'my' is the adjectival possessive before 'carrot'.", "zh": "it 替代 a rabbit；my 是放在 carrot 前的形容词性物主代词。" } },
+      { "speaker": "Rabbit", "text": "That carrot is mine — you and I both know it.", "annotations": [ { "quote": "That", "tag": "pronoun" }, { "quote": "mine", "tag": "possessive" }, { "quote": "you and I", "tag": "case-subjective" } ], "note": { "en": "'Mine' stands alone (nominal possessive); 'you and I' is the subject, so subjective case.", "zh": "mine 独立使用（名词性物主代词）；you and I 做主语，用主格。" } },
+      { "speaker": "Wolf", "text": "Whom did you ask? Nobody gave it to you.", "annotations": [ { "quote": "Whom", "tag": "case-objective" }, { "quote": "Nobody", "tag": "pronoun" }, { "quote": "you", "tag": "case-objective", "occurrence": 2 } ], "note": { "en": "'Whom' is the object of 'ask'; 'nobody' is a compound indefinite subject.", "zh": "whom 是 ask 的宾语；nobody 是复合不定代词，做主语。" } },
+      { "speaker": "Rabbit", "text": "I grew it myself, so I will keep it.", "annotations": [ { "quote": "I", "tag": "case-subjective", "occurrence": 1 }, { "quote": "myself", "tag": "adverbial" }, { "quote": "it", "tag": "case-objective", "occurrence": 2 } ], "note": { "en": "Emphatic 'myself' (adverbial) stresses he did it personally; 'it' is the object.", "zh": "强调代词 myself（状语）强调是他亲自做的；it 做宾语。" } }
+    ]
+  }
+}

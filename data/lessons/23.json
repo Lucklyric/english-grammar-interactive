@@ -1,0 +1,227 @@
+{
+  "id": "23",
+  "slug": "english-grammar-absolute-construction",
+  "category": "sentence-structure",
+  "shape": "standard",
+  "order": 28,
+  "title": { "en": "The Absolute Construction", "zh": "独立主格结构" },
+  "summary": { "en": "When a subordinate clause has a different subject from the main clause, you can't just drop the conjunction — you keep that subject as a 'logical subject' and pair it with a non-finite verb (or an adjective, noun, adverb, or prepositional phrase). That standalone unit is the absolute construction.", "zh": "当从句的主语和主句不同时，不能简单地去掉连词——要保留这个主语作为“逻辑主语”，再配上一个非谓语动词（或形容词、名词、副词、介词短语）。这个独立出来的单位就是独立主格结构。" },
+  "source": { "videoId": "CHOsSISs9bI", "youtube": "https://www.youtube.com/watch?v=CHOsSISs9bI", "duration": "8:54", "script": "scripts/23-english-grammar-absolute-construction.md" },
+  "tags": [
+    { "id": "logical-subject", "label": { "en": "logical subject", "zh": "逻辑主语" }, "abbr": "lS", "color": "#0d9488", "underline": "solid" },
+    { "id": "present-participle", "label": { "en": "present participle", "zh": "现在分词" }, "abbr": "Ving", "color": "#a16207", "underline": "dotted" },
+    { "id": "past-participle", "label": { "en": "past participle", "zh": "过去分词" }, "abbr": "Ved", "color": "#b45309", "underline": "dotted" },
+    { "id": "infinitive", "label": { "en": "infinitive", "zh": "动词不定式" }, "abbr": "to V", "color": "#ca8a04", "underline": "dotted" },
+    { "id": "complement-phrase", "label": { "en": "complement phrase", "zh": "补足成分" }, "abbr": "Cp", "color": "#0891b2", "underline": "dashed" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "Recap: a non-finite verb can simplify a same-subject clause", "zh": "回顾：同主语从句可由非谓语动词简化" },
+      "body": { "en": "When the subordinate clause and the main clause share one subject, you can drop the conjunction and the repeated subject and use a non-finite verb. 'Because he was invited by the wolf, the rabbit decided to go' becomes 'Invited by the wolf, the rabbit decided to go.' The subject (the rabbit) is the receiver of 'invite', so the past participle 'invited' is used.", "zh": "当从句和主句共用一个主语时，可以去掉连词和重复的主语，改用非谓语动词。“因为兔子被狼邀请了，所以兔子决定参加聚会”可改写成 Invited by the wolf, the rabbit decided to go to the party。主语 the rabbit 是 invite 的承受者，所以用过去分词 invited。" },
+      "exampleRefs": ["e1"]
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "When subjects differ, you can't just drop the subject", "zh": "主语不同时，不能直接去掉主语" },
+      "body": { "en": "If the clause subject and the main subject are different, you can't delete the clause subject — the meaning collapses ('Invited him, the rabbit...' — invited by whom?). Nor can you keep two finite verbs joined only by a comma, because one sentence allows only one predicate verb. The clause subject must stay, but its verb has to become non-finite.", "zh": "如果从句主语和主句主语不同，就不能删掉从句主语——否则语义崩塌（Invited him, the rabbit... 到底是谁邀请？）。也不能用逗号连接两个语义完整的句子，因为一个句子只能有一个谓语动词。从句主语必须保留，但它的动词得变成非谓语。" },
+      "exampleRefs": ["e2"]
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "The 'absolute' and the 'subject': what the name means", "zh": "“独立”与“主格”：名称的含义" },
+      "body": { "en": "In 'The wolf inviting him, the rabbit decided to go to the party', the action 'invite' comes from the wolf, not from the real subject (the rabbit). Grammar calls the wolf the logical subject of 'invite' — that is the 'subject' (主格). It is 'absolute' because it stands free of the real subject, forming a self-contained unit. But this free subject can't rival the real subject — hence absolute *construction*, not a second main subject.", "zh": "在 The wolf inviting him, the rabbit decided to go to the party 中，invite 这个动作由 the wolf 发出，而不是真正的主语 the rabbit。语法上把 the wolf 称为 invite 的逻辑主语——这就是“主格”。说它“独立”，是因为它游离于真正主语之外，自立门户成为一个独立单位。但这个独立的主语不能与真正的主语相提并论——所以叫独立主格，而非独立主语。" },
+      "exampleRefs": ["e2"]
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Two core forms: noun/pronoun + present or past participle", "zh": "两种核心形式：名词/代词 + 现在分词或过去分词" },
+      "body": { "en": "The two main forms are noun/pronoun + present participle (when the logical subject actively does the action) and noun/pronoun + past participle (when it passively receives the action). 'The weather permitting' simplifies an 'if' clause; 'The work finished' simplifies a time clause; 'a carrot still held in his hand' simplifies an accompanying 'and' clause.", "zh": "两种主要形式是：名词/代词 + 现在分词（逻辑主语主动发出动作）和名词/代词 + 过去分词（逻辑主语被动承受动作）。The weather permitting 简化 if 条件状语从句；The work finished 简化时间状语从句；a carrot still held in his hand 简化 and 引导的伴随并列句。" },
+      "exampleRefs": ["e3", "e4", "e5"]
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "More faces: infinitive, noun, adjective, adverb, prepositional phrase", "zh": "更多面孔：不定式、名词、形容词、副词、介词短语" },
+      "body": { "en": "The construction also takes other forms after the logical subject: an infinitive (for an action about to happen — 'The rabbit to come'), a noun ('some of them rabbits and wolves'), an adjective ('some of them happy'), an adverb ('head down'), and a prepositional phrase ('carrot in hand').", "zh": "这个结构在逻辑主语后还能接其他成分：动词不定式（表将要发生的动作——The rabbit to come）、名词（some of them rabbits and wolves）、形容词（some of them happy）、副词（head down）、介词短语（carrot in hand）。" },
+      "exampleRefs": ["e6", "e7"]
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "Those extra forms = omitted 'being'", "zh": "那些额外形式 = 省略了 being" },
+      "body": { "en": "Most of those forms are really an absolute construction with the participle 'being', then 'being' dropped: 'some of them being happy' → 'some of them happy'; 'carrot being in hand' → 'carrot in hand'. So they all still rest on non-finite verbs — master non-finite forms first.", "zh": "那些形式其实更像是带 being 的独立主格，再把 being 省略掉：some of them being happy → some of them happy；carrot being in hand → carrot in hand。所以它们仍然离不开非谓语动词——要先打好非谓语的基础。" },
+      "exampleRefs": ["e7"]
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "The 'with' compound structure is the same thing", "zh": "with 复合结构其实就是它" },
+      "body": { "en": "The familiar 'with + object + object complement' structure is an absolute construction. 'The work finished, the rabbit went home' can take a 'with': 'With the work finished, the rabbit went home.' In other words, the 'with' is optional and can be dropped.", "zh": "你常见的 with + 宾语 + 宾语补语复合结构，就是独立主格结构。The work finished, the rabbit went home 可以直接加 with：With the work finished, the rabbit went home。也就是说，这里的 with 可以省略掉。" },
+      "exampleRefs": ["e8"]
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "Invited by the wolf, the rabbit decided to go to the party.",
+      "annotations": [
+        { "quote": "Invited", "tag": "past-participle" },
+        { "quote": "the rabbit", "tag": "subject" },
+        { "quote": "decided", "tag": "predicate" }
+      ],
+      "note": { "en": "Same subject in both clauses, so the conjunction and subject drop away. 'The rabbit' receives 'invite', so the past participle 'invited' is used.", "zh": "两个分句同主语，所以连词和主语都省掉。the rabbit 是 invite 的承受者，故用过去分词 invited。" }
+    },
+    {
+      "id": "e2",
+      "text": "The wolf inviting him, the rabbit decided to go to the party.",
+      "annotations": [
+        { "quote": "The wolf", "tag": "logical-subject" },
+        { "quote": "inviting", "tag": "present-participle" },
+        { "quote": "the rabbit", "tag": "subject" },
+        { "quote": "decided", "tag": "predicate" }
+      ],
+      "note": { "en": "Different subjects: 'the wolf' is the logical subject of 'invite' and must stay. Since the wolf actively invites, use the present participle 'inviting'. The real subject is still 'the rabbit'.", "zh": "主语不同：the wolf 是 invite 的逻辑主语，必须保留。狼是主动邀请，故用现在分词 inviting。真正的主语仍是 the rabbit。" }
+    },
+    {
+      "id": "e3",
+      "text": "The weather permitting, the rabbit will go out.",
+      "annotations": [
+        { "quote": "The weather", "tag": "logical-subject" },
+        { "quote": "permitting", "tag": "present-participle" },
+        { "quote": "the rabbit", "tag": "subject" },
+        { "quote": "will go", "tag": "predicate" }
+      ],
+      "note": { "en": "Simplifies the 'if' clause 'If the weather permits'. 'The weather' actively permits, so the present participle 'permitting' is used.", "zh": "简化 if 条件从句 If the weather permits。the weather 主动允许，故用现在分词 permitting。" }
+    },
+    {
+      "id": "e4",
+      "text": "The work finished, the rabbit went home.",
+      "annotations": [
+        { "quote": "The work", "tag": "logical-subject" },
+        { "quote": "finished", "tag": "past-participle" },
+        { "quote": "the rabbit", "tag": "subject" },
+        { "quote": "went", "tag": "predicate" }
+      ],
+      "note": { "en": "Simplifies the time clause 'After the work was finished'. 'The work' is finished (passive), so the past participle 'finished' is used.", "zh": "简化时间从句 After the work was finished。the work 是被完成（被动），故用过去分词 finished。" }
+    },
+    {
+      "id": "e5",
+      "text": "The rabbit is lying in bed, a carrot still held in his hand.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "subject" },
+        { "quote": "lying", "tag": "present-participle" },
+        { "quote": "a carrot", "tag": "logical-subject" },
+        { "quote": "held", "tag": "past-participle" }
+      ],
+      "note": { "en": "Simplifies the accompanying 'and' clause 'and a carrot is still held in his hand'. The carrot is held (passive), so the past participle 'held' is used.", "zh": "简化 and 引导的伴随分句 and a carrot is still held in his hand。胡萝卜是被握着（被动），故用过去分词 held。" }
+    },
+    {
+      "id": "e6",
+      "text": "The rabbit to come, the wolf is overjoyed.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "logical-subject" },
+        { "quote": "to come", "tag": "infinitive" },
+        { "quote": "the wolf", "tag": "subject" },
+        { "quote": "is", "tag": "predicate" }
+      ],
+      "note": { "en": "Noun/pronoun + infinitive. The infinitive usually marks an action about to happen — the rabbit is about to come.", "zh": "名词/代词 + 动词不定式。不定式一般表将要发生的动作——兔子要来了。" }
+    },
+    {
+      "id": "e7",
+      "text": "The rabbit came in, carrot in hand.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "subject" },
+        { "quote": "came", "tag": "predicate" },
+        { "quote": "carrot", "tag": "logical-subject" },
+        { "quote": "in hand", "tag": "complement-phrase" }
+      ],
+      "note": { "en": "Noun + prepositional phrase. It is really 'carrot being in hand' with 'being' dropped — and even the article is omitted (from 'a carrot in his hand').", "zh": "名词 + 介词短语。其实是 carrot being in hand 省略了 being——连冠词都省掉了（由 a carrot in his hand 简化而来）。" }
+    },
+    {
+      "id": "e8",
+      "text": "With the work finished, the rabbit went home.",
+      "annotations": [
+        { "quote": "With", "tag": "preposition" },
+        { "quote": "the work", "tag": "logical-subject" },
+        { "quote": "finished", "tag": "past-participle" },
+        { "quote": "the rabbit", "tag": "subject" },
+        { "quote": "went", "tag": "predicate" }
+      ],
+      "note": { "en": "The same absolute construction as 'The work finished, ...' with an added 'with'. The 'with' is optional and can be dropped.", "zh": "和 The work finished, ... 是同一个独立主格，只是加了 with。这个 with 可以省略。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Why can't 'Because the wolf invited him' be simplified to 'Invited him, the rabbit decided to go'?", "zh": "为什么“因为狼邀请了兔子”不能简化成 Invited him, the rabbit decided to go？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Because the clause and main clause have different subjects, so the inviter (the wolf) can't be dropped", "zh": "因为从句和主句主语不同，邀请者（狼）不能被省略" } },
+        { "id": "b", "text": { "en": "Because 'invited' is the wrong tense", "zh": "因为 invited 时态用错了" } },
+        { "id": "c", "text": { "en": "Because a sentence may not start with a participle", "zh": "因为句子不能以分词开头" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "The inviter is the wolf, not the rabbit. Dropping 'the wolf' makes it unclear who invited whom, so the logical subject must be kept — that is what triggers the absolute construction.", "zh": "邀请者是狼而非兔子。去掉 the wolf 就分不清谁邀请谁，所以必须保留逻辑主语——这正是要用独立主格的原因。" },
+      "refs": ["c2", "c3"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "In 'The weather permitting, the rabbit will go out', why is 'permitting' (present participle) used?", "zh": "在 The weather permitting, the rabbit will go out 中，为什么用现在分词 permitting？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Because 'the weather' actively permits — an active relationship", "zh": "因为 the weather 是主动允许——主动关系" } },
+        { "id": "b", "text": { "en": "Because 'the weather' is the object of 'permit'", "zh": "因为 the weather 是 permit 的宾语" } },
+        { "id": "c", "text": { "en": "Because the main verb is in the future tense", "zh": "因为主句动词是将来时" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "The logical subject 'the weather' does the permitting (active), so the present participle is correct. A past participle would mark a passive relationship.", "zh": "逻辑主语 the weather 主动发出允许（主动），故用现在分词。若用过去分词则表被动关系。" },
+      "refs": ["c4"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Turn 'After the work was finished, the rabbit went home' into an absolute construction: '____ ____, the rabbit went home.' (two words)", "zh": "把 After the work was finished, the rabbit went home 改成独立主格：____ ____, the rabbit went home。（两个词）" },
+      "answers": ["The work finished", "the work finished", "The work finished,", "the work finished,"],
+      "explain": { "en": "Drop 'after' and 'was'; keep the logical subject 'the work' plus the past participle 'finished' (the work is finished — passive).", "zh": "去掉 after 和 was；保留逻辑主语 the work 加过去分词 finished（工作是被完成——被动）。" },
+      "refs": ["c4"]
+    },
+    {
+      "id": "q4",
+      "type": "error",
+      "sentence": "The wolf invited him, the rabbit decided to go to the party.",
+      "fix": "The wolf inviting him, the rabbit decided to go to the party.",
+      "explain": { "en": "A comma can't join two finite clauses, since a sentence has only one predicate. The first subject becomes a logical subject and its verb goes non-finite: 'inviting'.", "zh": "逗号不能连接两个有谓语的完整句子，因为一个句子只能有一个谓语。前一个主语变为逻辑主语，其动词改为非谓语 inviting。" },
+      "refs": ["c2", "c3"]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": { "en": "What is the 'with + object + complement' structure (e.g. 'With the work finished, ...') in relation to the absolute construction?", "zh": "with + 宾语 + 补语结构（如 With the work finished, ...）和独立主格是什么关系？" },
+      "choices": [
+        { "id": "a", "text": { "en": "It is an absolute construction with an added 'with', which is optional", "zh": "它就是加了 with 的独立主格，而 with 可以省略" } },
+        { "id": "b", "text": { "en": "It is a completely separate grammar rule", "zh": "它是完全不同的另一条语法规则" } },
+        { "id": "c", "text": { "en": "It is only valid when both clauses share a subject", "zh": "它只有在两句同主语时才成立" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "'With the work finished' is just 'The work finished' with a 'with' in front — the same absolute construction, and the 'with' can be dropped.", "zh": "With the work finished 就是 The work finished 前面加了 with——同一个独立主格，with 可省略。" },
+      "refs": ["c7"]
+    },
+    {
+      "id": "q6",
+      "type": "fill",
+      "prompt": { "en": "'Many animals went to the party, some of them ____ happy' — what omitted word makes this an absolute construction with a participle?", "zh": "Many animals went to the party, some of them ____ happy——补出哪个被省略的词，能让它成为带分词的独立主格？" },
+      "answers": ["being"],
+      "explain": { "en": "The full form is 'some of them being happy'; 'being' (present participle) is dropped, leaving noun/pronoun + adjective.", "zh": "完整形式是 some of them being happy；省略现在分词 being 后，就成了名词/代词 + 形容词。" },
+      "refs": ["c5", "c6"]
+    }
+  ],
+  "dialogue": {
+    "kind": "scenario",
+    "title": { "en": "The wolf and the rabbit, in absolute terms", "zh": "用独立主格说狼和兔子" },
+    "targets": ["logical-subject", "present-participle", "past-participle", "infinitive"],
+    "lines": [
+      { "speaker": "Narrator", "text": "The wolf inviting him, the rabbit decided to go to the party.", "annotations": [ { "quote": "The wolf", "tag": "logical-subject" }, { "quote": "inviting", "tag": "present-participle" }, { "quote": "the rabbit", "tag": "subject" } ], "note": { "en": "Different subjects: present participle for the active inviter.", "zh": "主语不同：主动邀请者用现在分词。" } },
+      { "speaker": "Rabbit", "text": "The work finished, I went home early.", "annotations": [ { "quote": "The work", "tag": "logical-subject" }, { "quote": "finished", "tag": "past-participle" } ], "note": { "en": "Past participle: the work is finished (passive).", "zh": "过去分词：工作是被完成（被动）。" } },
+      { "speaker": "Wolf", "text": "The rabbit to come, the wolf is overjoyed!", "annotations": [ { "quote": "The rabbit", "tag": "logical-subject" }, { "quote": "to come", "tag": "infinitive" } ], "note": { "en": "Infinitive: an action about to happen.", "zh": "不定式：将要发生的动作。" } },
+      { "speaker": "Rabbit", "text": "I came in, carrot in hand.", "annotations": [ { "quote": "carrot", "tag": "logical-subject" }, { "quote": "in hand", "tag": "complement-phrase" } ], "note": { "en": "Noun + prepositional phrase — 'being' and the article both dropped.", "zh": "名词 + 介词短语——being 和冠词都省略了。" } }
+    ]
+  }
+}

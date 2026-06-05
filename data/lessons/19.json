@@ -1,0 +1,160 @@
+{
+  "id": "19",
+  "slug": "result-adverbial-clauses",
+  "category": "clauses",
+  "shape": "tiny",
+  "order": 26,
+  "title": { "en": "Result Adverbial Clauses", "zh": "结果状语从句" },
+  "summary": { "en": "A result clause explains the outcome of the main clause. Build it with 'so that', or the bracketing structures 'so + adjective/adverb + that' and 'such + noun phrase + that'. Don't confuse 'so that' with the coordinating conjunction 'so'.", "zh": "结果状语从句解释主句动作产生的结果。可用 so that 引导，也可用 so…that… 和 such…that… 的“包夹”结构。注意区分 so that 与并列连词 so。" },
+  "source": { "videoId": "UPSp9JiQSMs", "youtube": "https://www.youtube.com/watch?v=UPSp9JiQSMs", "duration": "2:34", "script": "scripts/19-result-adverbial-clauses.md" },
+  "tags": [
+    { "id": "result-marker", "label": { "en": "result marker", "zh": "结果从句引导词" }, "abbr": "Res", "color": "#0d9488", "underline": "dotted" },
+    { "id": "main-clause", "label": { "en": "main clause", "zh": "主句" }, "abbr": "Main", "color": "#2563eb", "underline": "solid" },
+    { "id": "result-clause", "label": { "en": "result clause", "zh": "结果从句" }, "abbr": "RC", "color": "#c026d3", "underline": "dashed" },
+    { "id": "degree-word", "label": { "en": "degree word (so/such)", "zh": "程度词 so/such" }, "abbr": "Deg", "color": "#ea580c", "underline": "dotted" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "'So that' introduces a result clause", "zh": "so that 引导结果从句" },
+      "body": { "en": "A result adverbial clause can be introduced by 'so that'. The clause it introduces explains the situation in the main clause — it is the outcome the main action produces. Tell it apart from the purpose clause: a result reading is the only one that makes sense when the outcome is not something anyone could intend.", "zh": "结果状语从句可以由 so that 构成。它引导的从句用来解释说明主句的情况，是主句动作产生的结果。要把它和目的从句区分开：当那个结果根本不可能是有意为之时，就只能按结果来理解。" },
+      "exampleRefs": ["e1", "e2"],
+      "sourceRef": "结果状语从句也可以由so that构成"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "'So that' (clause) vs. 'so' (coordinating)", "zh": "so that（从句） vs. so（并列）" },
+      "body": { "en": "The conjunction 'so' also means 'therefore / and the result is'. But 'so' joins two clauses of equal status into a compound sentence, while 'so that' introduces a subordinate adverbial clause that merely explains the main clause's result. Same logic as the 'because' vs. 'for' contrast.", "zh": "连词 so 同样表示“因此、结果是”。但 so 连接两个地位同等的句子，构成并列复合句；而 so that 引导的是从属的副词从句，只起解释主句结果的作用。这跟 because 和 for 的区别是一个道理。" },
+      "exampleRefs": ["e3"],
+      "sourceRef": "so连接了两个并列句"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "'so + adj/adv + that' and 'such + noun + that'", "zh": "so…that… 与 such…that…" },
+      "body": { "en": "Two bracketing structures express result by degree. Use 'so' before an adjective or adverb: 'so many carrots that…'. Use 'such' before a noun phrase: 'such a tasty carrot that…'. The 'that' clause states the result. If you insist on 'so' before a noun, the adjective must come first and the article moves after it: 'so tasty a carrot that…' — grammatical but awkward.", "zh": "还有两个“包夹”结构按程度表达结果。so 后接形容词或副词：so many carrots that…。such 后接名词（短语）：such a tasty carrot that…。that 从句给出结果。如果一定要在名词前用 so，必须把形容词提前、冠词后置：so tasty a carrot that…，虽合语法但很别扭。" },
+      "exampleRefs": ["e4", "e5", "e6"],
+      "sourceRef": "such后要接名词而不是形容词"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "I ate a lot of carrots for lunch so that I wasn't hungry at all in the afternoon.",
+      "annotations": [
+        { "quote": "I ate a lot of carrots for lunch", "tag": "main-clause" },
+        { "quote": "so that", "tag": "result-marker" },
+        { "quote": "I wasn't hungry at all in the afternoon", "tag": "result-clause" }
+      ],
+      "note": { "en": "'So that' introduces the result of eating a lot of carrots.", "zh": "so that 引出“吃了很多胡萝卜”的结果。" }
+    },
+    {
+      "id": "e2",
+      "text": "The temperature was low so that the lake froze.",
+      "annotations": [
+        { "quote": "The temperature was low", "tag": "main-clause" },
+        { "quote": "so that", "tag": "result-marker" },
+        { "quote": "the lake froze", "tag": "result-clause" }
+      ],
+      "note": { "en": "Only a result reading works: the cold temperature wasn't aiming to freeze the lake — it just did.", "zh": "只能按结果理解：气温低不是为了让湖结冰，而是导致湖结冰。" }
+    },
+    {
+      "id": "e3",
+      "text": "I like this video so I'll give it a thumbs up.",
+      "annotations": [
+        { "quote": "I like this video", "tag": "main-clause" },
+        { "quote": "so", "tag": "conjunction" },
+        { "quote": "I'll give it a thumbs up", "tag": "main-clause" }
+      ],
+      "note": { "en": "Here 'so' joins two equal clauses into a compound sentence — not a subordinate result clause.", "zh": "这里 so 把两个同等的句子连成并列复合句——不是从属的结果从句。" }
+    },
+    {
+      "id": "e4",
+      "text": "I ate so many carrots for lunch that I felt sick afterwards.",
+      "annotations": [
+        { "quote": "so", "tag": "degree-word" },
+        { "quote": "many carrots", "tag": "object" },
+        { "quote": "that", "tag": "result-marker" },
+        { "quote": "I felt sick afterwards", "tag": "result-clause" }
+      ],
+      "note": { "en": "'So' modifies the quantity word 'many'; the 'that' clause gives the result.", "zh": "so 修饰数量词 many；that 从句给出结果。" }
+    },
+    {
+      "id": "e5",
+      "text": "It was such a tasty carrot that I ate it all at once.",
+      "annotations": [
+        { "quote": "such", "tag": "degree-word" },
+        { "quote": "a tasty carrot", "tag": "subject-complement" },
+        { "quote": "that", "tag": "result-marker" },
+        { "quote": "I ate it all at once", "tag": "result-clause" }
+      ],
+      "note": { "en": "'Such' precedes the noun phrase 'a tasty carrot'; the result is eating it all at once.", "zh": "such 接名词短语 a tasty carrot；结果是一下子全吃光。" }
+    },
+    {
+      "id": "e6",
+      "text": "It was so tasty a carrot that I ate it all at once.",
+      "annotations": [
+        { "quote": "so", "tag": "degree-word" },
+        { "quote": "tasty", "tag": "subject-complement" },
+        { "quote": "a carrot", "tag": "article" },
+        { "quote": "that", "tag": "result-marker" },
+        { "quote": "I ate it all at once", "tag": "result-clause" }
+      ],
+      "note": { "en": "With 'so' before a noun, the adjective comes first and the article moves after it: 'so tasty a carrot'. Grammatical but awkward.", "zh": "so 用在名词前时，形容词提前、冠词后置：so tasty a carrot。合语法但别扭。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Which word follows 'such' in a result structure?", "zh": "在结果结构中，such 后面接什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "An adjective on its own", "zh": "单独的形容词" } },
+        { "id": "b", "text": { "en": "A noun (noun phrase)", "zh": "名词（名词短语）" } },
+        { "id": "c", "text": { "en": "An adverb", "zh": "副词" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'Such' takes a noun phrase ('such a tasty carrot'); 'so' is the one that takes an adjective or adverb.", "zh": "such 接名词短语（such a tasty carrot）；接形容词或副词的是 so。" },
+      "refs": ["c3", "e5"]
+    },
+    {
+      "id": "q2",
+      "type": "fill",
+      "prompt": { "en": "Complete the result clause: 'I ate ____ many carrots that I felt sick afterwards.'", "zh": "补全结果从句：'I ate ____ many carrots that I felt sick afterwards.'" },
+      "answers": ["so"],
+      "explain": { "en": "Before the quantity word 'many' you use 'so': 'so many carrots that…'.", "zh": "在数量词 many 前用 so：so many carrots that…。" },
+      "refs": ["c3", "e4"]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": { "en": "Which sentence uses a subordinate result clause (not two equal clauses)?", "zh": "哪一句用的是从属的结果从句（而非两个同等的句子）？" },
+      "choices": [
+        { "id": "a", "text": { "en": "I like this video so I'll give it a thumbs up.", "zh": "I like this video so I'll give it a thumbs up." } },
+        { "id": "b", "text": { "en": "The temperature was low so that the lake froze.", "zh": "The temperature was low so that the lake froze." } },
+        { "id": "c", "text": { "en": "I was tired so I went to bed.", "zh": "I was tired so I went to bed." } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'So that' introduces a subordinate result clause; plain 'so' (a, c) just joins two equal clauses into a compound sentence.", "zh": "so that 引导从属结果从句；单独的 so（a、c）只是把两个同等句子连成并列句。" },
+      "refs": ["c2", "e2", "e3"]
+    },
+    {
+      "id": "q4",
+      "type": "error",
+      "sentence": "It was so tasty carrot that I ate it all at once.",
+      "fix": "It was such a tasty carrot that I ate it all at once.",
+      "explain": { "en": "Before the noun phrase 'a tasty carrot' use 'such'. (To keep 'so' you would have to reorder it to 'so tasty a carrot'.)", "zh": "名词短语 a tasty carrot 前要用 such。（若坚持用 so，必须改写成 so tasty a carrot。）" },
+      "refs": ["c3", "e5", "e6"]
+    }
+  ],
+  "dialogue": {
+    "kind": "scenario",
+    "title": { "en": "A carrot lunch and its results", "zh": "一顿胡萝卜午餐的结果" },
+    "targets": ["result-marker", "result-clause", "degree-word"],
+    "lines": [
+      { "speaker": "Rabbit", "text": "I ate a lot of carrots for lunch so that I wasn't hungry at all in the afternoon.", "annotations": [ { "quote": "so that", "tag": "result-marker" }, { "quote": "I wasn't hungry at all in the afternoon", "tag": "result-clause" } ], "note": { "en": "'So that' introduces the result.", "zh": "so that 引出结果。" } },
+      { "speaker": "Wolf", "text": "Really? I ate so many carrots that I felt sick afterwards.", "annotations": [ { "quote": "so", "tag": "degree-word" }, { "quote": "that", "tag": "result-marker" }, { "quote": "I felt sick afterwards", "tag": "result-clause" } ], "note": { "en": "'So + many … that' — result by degree.", "zh": "so + many … that — 按程度表结果。" } },
+      { "speaker": "Rabbit", "text": "It was such a tasty carrot that I ate it all at once.", "annotations": [ { "quote": "such", "tag": "degree-word" }, { "quote": "a tasty carrot", "tag": "subject-complement" }, { "quote": "that", "tag": "result-marker" }, { "quote": "I ate it all at once", "tag": "result-clause" } ], "note": { "en": "'Such + noun phrase + that' — result by degree.", "zh": "such + 名词短语 + that — 按程度表结果。" } },
+      { "speaker": "Wolf", "text": "I like your carrots so I'll give you a thumbs up.", "annotations": [ { "quote": "so", "tag": "conjunction" } ], "note": { "en": "Plain 'so' just joins two equal clauses — not a result clause.", "zh": "单独的 so 只连接两个同等句子——不是结果从句。" } }
+    ]
+  }
+}

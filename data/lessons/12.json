@@ -1,0 +1,159 @@
+{
+  "id": "12",
+  "slug": "adverbial-clauses-of-place",
+  "category": "clauses",
+  "shape": "tiny",
+  "order": 19,
+  "title": { "en": "Adverbial Clauses of Place", "zh": "地点状语从句" },
+  "summary": { "en": "An adverbial clause of place tells where the action happens. Its main marker is 'where', plus the emphatic forms 'wherever', 'everywhere', and 'anywhere'. Don't confuse it with an adjective, subject, or predicative clause that uses the same word 'where'.", "zh": "地点状语从句说明动作发生的地点。主要引导词是 where，以及它的强调形式 wherever、everywhere、anywhere。注意别把它和同样用 where 的定语从句、主语从句、表语从句搞混。" },
+  "source": { "videoId": "vUeLpn8j9SM", "youtube": "https://www.youtube.com/watch?v=vUeLpn8j9SM", "duration": "3:08", "script": "scripts/12-adverbial-clauses-of-place.md" },
+  "tags": [
+    { "id": "adv-place", "label": { "en": "adverbial clause of place", "zh": "地点状语从句" }, "abbr": "AdvP", "color": "#c026d3", "underline": "dashed" },
+    { "id": "antecedent", "label": { "en": "antecedent", "zh": "先行词" }, "abbr": "Ant", "color": "#9333ea", "underline": "dashed" },
+    { "id": "adj-clause", "label": { "en": "adjective (relative) clause", "zh": "定语从句" }, "abbr": "Adj", "color": "#7c3aed", "underline": "dashed" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "What an adverbial clause of place does", "zh": "地点状语从句的作用" },
+      "body": { "en": "Compared with the sprawling clause of time, the clause of place is much simpler. Its main marker is 'where' (plus emphatic forms) and it tells where the action happens. In 'The rabbit ate the carrot where he found it', the clause 'where he found it' describes the place where the rabbit ate the carrot — i.e. the place where he found it.", "zh": "相较于庞杂的时间状语从句，地点状语从句简单得多。主要引导词就是 where（及其强调形式），用来说明动作发生的地点。在 “The rabbit ate the carrot where he found it.” 中，从句 “where he found it” 描述兔子吃胡萝卜的地点，也就是他找到胡萝卜的地方。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "主要引导词就是where以及它的强调形式来表地点"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "'where' clause vs adjective clause", "zh": "地点状语从句 vs 定语从句" },
+      "body": { "en": "The same word 'where' can open an adjective (relative) clause too, and the Chinese translation looks identical. The difference: in the adverbial version the clause IS the place itself ('...ate the carrot where he found it'). In the adjective version, 'where' modifies an antecedent like 'place' that has already been named ('...at the place where he found it'). So look past the marker to its job in the sentence.", "zh": "同一个 where 也能引导定语从句，而且对应的中文翻译完全一样。区别在于：状语从句本身直接“等于”那个地点（…ate the carrot where he found it）；定语从句则是修饰一个已经交代过的先行词，比如 place（…at the place where he found it）。所以不能只看引导词，要看它在句中扮演的角色。" },
+      "exampleRefs": ["e1", "e2"],
+      "sourceRef": "第一句话，也就是这里的副词从句，直接等于地点。而第二句话，也就是我们之前说的定语从句，是修饰先行词place"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "'where' isn't always adverbial", "zh": "看见 where 不一定是状语从句" },
+      "body": { "en": "Seeing 'where' alone doesn't fix the clause type. In 'This is where he found the carrot', the clause is a predicative (subject-complement) clause. In 'Where he found the carrot is a secret', it is a subject clause. Judge each case by structure, not by the word.", "zh": "光看见引导词 where，还不能确定是哪种从句。在 “This is where he found the carrot.” 中，从句是表语从句（主语补语从句）；在 “Where he found the carrot is a secret.” 中，它是主语从句。要按结构逐句判断，而不是只看这个词。" },
+      "exampleRefs": ["e3", "e4"],
+      "sourceRef": "光看见引导词where，咱们还不能确定该从句是哪种从句，得分别对待"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Emphatic markers: wherever / everywhere / anywhere", "zh": "强调形式：wherever / everywhere / anywhere" },
+      "body": { "en": "'where' has emphatic forms close to the Chinese 'no matter where / every place / any place': wherever, everywhere, anywhere. 'Wherever' stresses 'no matter where, as long as...'; 'everywhere' stresses every place; 'anywhere' stresses any one place. You can read each as an equivalent adjective clause — e.g. 'everywhere he goes' = 'at every place where he goes'.", "zh": "where 有几个强调形式，近似中文的“不管哪里 / 所有地方 / 任何地方”：wherever、everywhere、anywhere。wherever 强调“不管哪里，只要……就……”；everywhere 强调所有地方；anywhere 强调任何某一处地方。可以把它们理解为等效的定语从句，例如 “everywhere he goes” = “at every place where he goes”。" },
+      "exampleRefs": ["e5", "e6", "e7"],
+      "sourceRef": "这样的引导词包括wherever, everywhere, anywhere"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "The rabbit ate the carrot where he found it.",
+      "annotations": [
+        { "quote": "where he found it", "tag": "adv-place" }
+      ],
+      "note": { "en": "'Where he found it' is an adverbial clause of place — it IS the spot where the rabbit ate. No antecedent needed.", "zh": "“where he found it”是地点状语从句——它本身就等于兔子吃胡萝卜的地点，不需要先行词。" }
+    },
+    {
+      "id": "e2",
+      "text": "The rabbit ate the carrot at the place where he found it.",
+      "annotations": [
+        { "quote": "place", "tag": "antecedent" },
+        { "quote": "where he found it", "tag": "adj-clause" }
+      ],
+      "note": { "en": "Here 'where he found it' modifies the antecedent 'place' — an adjective (relative) clause, not an adverbial one.", "zh": "这里“where he found it”修饰先行词 place——是定语从句，不是状语从句。" }
+    },
+    {
+      "id": "e3",
+      "text": "This is where he found the carrot.",
+      "annotations": [
+        { "quote": "where he found the carrot", "tag": "subject-complement" }
+      ],
+      "note": { "en": "After the linking verb 'is', the 'where' clause is a predicative (subject-complement) clause — not adverbial.", "zh": "在系动词 is 之后，这个 where 从句是表语从句（主语补语从句）——不是状语从句。" }
+    },
+    {
+      "id": "e4",
+      "text": "Where he found the carrot is a secret.",
+      "annotations": [
+        { "quote": "Where he found the carrot", "tag": "subject" }
+      ],
+      "note": { "en": "This 'where' clause is the subject of 'is' — a subject clause. Same marker, different job.", "zh": "这个 where 从句作 is 的主语——是主语从句。引导词相同，作用不同。" }
+    },
+    {
+      "id": "e5",
+      "text": "The rabbit will go wherever he can find the carrot.",
+      "annotations": [
+        { "quote": "wherever he can find the carrot", "tag": "adv-place" }
+      ],
+      "note": { "en": "'Wherever' stresses 'no matter where' — as long as he can find the carrot, the rabbit will go.", "zh": "wherever 强调“不管哪里”——只要能找到胡萝卜，兔子就会去。" }
+    },
+    {
+      "id": "e6",
+      "text": "The rabbit sees a carrot everywhere he goes.",
+      "annotations": [
+        { "quote": "everywhere he goes", "tag": "adv-place" }
+      ],
+      "note": { "en": "'Everywhere' stresses every place. Equivalent adjective clause: 'at every place where he goes'.", "zh": "everywhere 强调所有地方。等效定语从句：“at every place where he goes”。" }
+    },
+    {
+      "id": "e7",
+      "text": "The rabbit can eat a carrot anywhere he likes.",
+      "annotations": [
+        { "quote": "anywhere he likes", "tag": "adv-place" }
+      ],
+      "note": { "en": "'Anywhere' stresses any one place. Equivalent adjective clause: 'at any place where he likes'.", "zh": "anywhere 强调任何某一处地方。等效定语从句：“at any place where he likes”。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "In 'The rabbit ate the carrot where he found it', what kind of clause is 'where he found it'?", "zh": "在 “The rabbit ate the carrot where he found it.” 中，“where he found it”是哪种从句？" },
+      "choices": [
+        { "id": "a", "text": { "en": "An adverbial clause of place", "zh": "地点状语从句" } },
+        { "id": "b", "text": { "en": "An adjective (relative) clause", "zh": "定语从句" } },
+        { "id": "c", "text": { "en": "A subject clause", "zh": "主语从句" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "There is no antecedent like 'place'; the clause itself names where the action happened, so it is adverbial.", "zh": "句中没有 place 这样的先行词，从句本身就指明动作发生的地点，所以是状语从句。" },
+      "refs": ["c1", "c2", "e1"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "What makes 'at the place where he found it' an ADJECTIVE clause rather than an adverbial one?", "zh": "是什么让 “at the place where he found it” 成为定语从句而非状语从句？" },
+      "choices": [
+        { "id": "a", "text": { "en": "It modifies the antecedent 'place'", "zh": "它修饰先行词 place" } },
+        { "id": "b", "text": { "en": "It uses 'where' instead of 'wherever'", "zh": "它用 where 而不是 wherever" } },
+        { "id": "c", "text": { "en": "It comes after a verb", "zh": "它出现在动词之后" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "The clause attaches to the already-named antecedent 'place' and modifies it — that is the mark of an adjective (relative) clause.", "zh": "从句依附并修饰已交代的先行词 place——这正是定语从句的标志。" },
+      "refs": ["c2", "e2"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Emphatic place marker meaning 'no matter where': 'The rabbit will go ____ he can find the carrot.'", "zh": "表示“不管哪里”的强调引导词：“The rabbit will go ____ he can find the carrot.”" },
+      "answers": ["wherever"],
+      "explain": { "en": "'Wherever' = 'no matter where' — as long as the condition holds, the rabbit goes.", "zh": "wherever 表“不管哪里”——只要条件成立，兔子就去。" },
+      "refs": ["c4", "e5"]
+    },
+    {
+      "id": "q4",
+      "type": "error",
+      "sentence": "This is wherever he found the carrot.",
+      "fix": "This is where he found the carrot.",
+      "explain": { "en": "After 'This is', you want a plain predicative clause naming the spot; 'where' fits. 'Wherever' wrongly adds a 'no matter where' meaning here.", "zh": "在 “This is” 后需要一个普通的表语从句来指明那个地点，应用 where；这里用 wherever 会错误地加上“不管哪里”的含义。" },
+      "refs": ["c3", "c4", "e3"]
+    }
+  ],
+  "dialogue": {
+    "kind": "scenario",
+    "title": { "en": "Where the carrot is", "zh": "胡萝卜在哪儿" },
+    "targets": ["adv-place", "where-marker", "adj-clause"],
+    "lines": [
+      { "speaker": "Wolf", "text": "The rabbit ate the carrot where he found it.", "annotations": [ { "quote": "where he found it", "tag": "adv-place" } ], "note": { "en": "Adverbial clause of place: the clause is the spot.", "zh": "地点状语从句：从句本身就是那个地点。" } },
+      { "speaker": "Rabbit", "text": "True. And I will go wherever I can find a carrot.", "annotations": [ { "quote": "wherever I can find a carrot", "tag": "adv-place" } ], "note": { "en": "'Wherever' adds 'no matter where'.", "zh": "wherever 加上“不管哪里”的强调。" } },
+      { "speaker": "Wolf", "text": "But this is the place where you hid the last one.", "annotations": [ { "quote": "place", "tag": "antecedent" }, { "quote": "where you hid the last one", "tag": "adj-clause" } ], "note": { "en": "Here 'where' modifies the antecedent 'place' — an adjective clause.", "zh": "这里 where 修饰先行词 place——是定语从句。" } },
+      { "speaker": "Rabbit", "text": "Shh — where I hid it is a secret.", "annotations": [ { "quote": "where I hid it", "tag": "subject" } ], "note": { "en": "Same marker, but this 'where' clause is the subject — a subject clause, not adverbial.", "zh": "引导词相同，但这个 where 从句作主语——是主语从句，不是状语从句。" } }
+    ]
+  }
+}

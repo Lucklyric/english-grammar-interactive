@@ -1,0 +1,153 @@
+{
+  "id": "41",
+  "slug": "common-english-interjections",
+  "category": "parts-of-speech",
+  "shape": "tiny",
+  "order": 40,
+  "title": { "en": "Common English Interjections", "zh": "常见的英语叹词" },
+  "summary": { "en": "Interjections are sounds, words, or phrases whose main job is to express emotion. English groups them by feeling — surprise, joy, relief, disgust, agreement, refusal — and most have no fixed spelling and lean heavily on tone.", "zh": "叹词是主要用来表达情感的声音、单词或词组。英语按情感用途给它们分类——惊讶、高兴、宽慰、厌恶、同意、拒绝——而且大多没有固定拼写，高度依赖语气。" },
+  "source": { "videoId": "UxRJ4VaO7-E", "youtube": "https://www.youtube.com/watch?v=UxRJ4VaO7-E", "duration": "4:05", "script": "scripts/41-common-english-interjections.md" },
+  "tags": [
+    { "id": "interjection", "label": { "en": "interjection", "zh": "叹词" }, "abbr": "Intj", "color": "#db2777", "underline": "solid" },
+    { "id": "emotion", "label": { "en": "emotion expressed", "zh": "所表情感" }, "abbr": "Emo", "color": "#9333ea", "underline": "dotted" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "What counts as an interjection", "zh": "什么算叹词" },
+      "body": { "en": "The easiest interjections are single-syllable sounds like ah, oh, hey, or huh. But limiting the definition to those is too narrow. Many scholars define an interjection as any sound, word, or phrase whose main purpose is to express emotion. So a word that normally belongs to another class — a noun or verb — can act as an interjection when it is used mainly to exclaim feeling.", "zh": "最容易理解的叹词是像啊、哦、嘿、哼这样的单音节声音。但把定义局限于这些未免太单调。许多学者把叹词定义为：任何主要用于表达情感的声音、单词或词组。所以某个原本属于名词、动词等的词，如果主要用于感叹，也可以当叹词。", "sourceRef": "负责表达情感的声音、单词、词组" },
+      "exampleRefs": ["e1", "e2"]
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "Group by emotion, not by form", "zh": "按情感分类，而非按词形" },
+      "body": { "en": "Language exists for communication and expression, so it makes sense to describe interjections by what they do. Sort them by feeling: surprise and shock (oh my god, wow, whoa), joy and praise (yay, bravo, well done, brilliant), relief (thank god), agreement (yep), refusal (nope, nah), mistakes (oops), disgust (ew), and silencing (shh, pssst).", "zh": "语言归根结底是为了交流和表达，所以按用途来描述叹词最契合这一主旨。按情感来分：惊讶震惊（oh my god、wow、whoa）、高兴赞美（yay、bravo、well done、brilliant）、宽慰（thank god）、同意（yep）、拒绝（nope、nah）、出错（oops）、厌恶（ew）、让人安静（shh、pssst）。", "sourceRef": "按情感用途说一下最常用的几类英语叹词" },
+      "exampleRefs": ["e3", "e4", "e5"]
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "One interjection, many meanings — tone decides", "zh": "一词多义——语气决定一切" },
+      "body": { "en": "The same interjection can fit many situations and carry different feelings. 'Oh' can mean surprise, happiness, resignation, or impatience depending entirely on the tone. You can call it one word with many senses, or simply say interjections depend heavily on intonation.", "zh": "同一个叹词可以用在多种情境，表达不同情感。“Oh”可以表示惊讶、高兴、无奈或不耐烦，完全取决于语气。你可以理解为一词多义，也可以理解为叹词高度依赖语气。", "sourceRef": "叹词高度依赖语气" },
+      "exampleRefs": ["e6"]
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "No fixed spelling; high variety", "zh": "没有固定拼写；多样性极高" },
+      "body": { "en": "Interjections often have no fixed spelling — 'oh' can be written several ways, and the hesitation sound 'uh' has many variants too. They are also highly diverse: certain interjections are used more by particular ages, regions, or social groups. Maybe interjections are not the most important part of grammar, but they may be the most fun and the most practical.", "zh": "叹词往往没有固定拼写——“oh”可以有好几种写法，表犹豫的“uh”也有很多变体。它们的多样性也很高：有的叹词被特定年龄段、地区或阶层更高频使用。叹词也许不是最重要的，但或许是最有趣、最实用的。", "sourceRef": "叹词往往也没有固定拼写" }
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "Hey, what's up? Nothing much.",
+      "annotations": [
+        { "quote": "Hey", "tag": "interjection" }
+      ],
+      "note": { "en": "'Hey' is a single-syllable interjection used here to greet and get attention.", "zh": "“Hey”是单音节叹词，这里用来打招呼、引起注意。" }
+    },
+    {
+      "id": "e2",
+      "text": "I swear to God, I didn't know.",
+      "annotations": [
+        { "quote": "swear to God", "tag": "interjection" }
+      ],
+      "note": { "en": "A phrase, not a single word, working as an interjection — it expresses earnest emotion, so it counts.", "zh": "这是一个词组而非单词，却充当叹词——它表达恳切的情感，所以也算叹词。" }
+    },
+    {
+      "id": "e3",
+      "text": "Oh my god, oh my god, just let me see it.",
+      "annotations": [
+        { "quote": "Oh my god", "tag": "interjection", "occurrence": 1 },
+        { "quote": "oh my god", "tag": "emotion" }
+      ],
+      "note": { "en": "Surprise and excitement. 'Oh my god' (and 'wow', 'whoa', 'boy, oh boy') belong to the surprise group.", "zh": "惊讶与激动。“Oh my god”（以及“wow”“whoa”“boy, oh boy”）属于惊讶类。" }
+    },
+    {
+      "id": "e4",
+      "text": "Bravo, well done, bravo!",
+      "annotations": [
+        { "quote": "Bravo", "tag": "interjection", "occurrence": 1 },
+        { "quote": "well done", "tag": "interjection" }
+      ],
+      "note": { "en": "Praise and joy. 'Bravo', 'well done', 'brilliant', and 'yay' all celebrate.", "zh": "赞美与喜悦。“Bravo”“well done”“brilliant”“yay”都用来庆贺。" }
+    },
+    {
+      "id": "e5",
+      "text": "Nah, nah, nah, man, you know I can't do it.",
+      "annotations": [
+        { "quote": "Nah", "tag": "interjection", "occurrence": 1 },
+        { "quote": "nah", "tag": "emotion", "occurrence": 1 }
+      ],
+      "note": { "en": "Casual refusal. 'Nah' and 'nope' say no; contrast with the agreement 'yep'.", "zh": "随意的拒绝。“Nah”和“nope”表示否定；与表同意的“yep”相对。" }
+    },
+    {
+      "id": "e6",
+      "text": "Oops. Nobody told me it was uncrackable.",
+      "annotations": [
+        { "quote": "Oops", "tag": "interjection" }
+      ],
+      "note": { "en": "'Oops' marks a small mistake or accident — its own little emotional category.", "zh": "“Oops”标记小失误或意外——自成一个小小的情感类别。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "By the broad definition in the lesson, what is an interjection?", "zh": "按本课的宽泛定义，叹词是什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Only single-syllable sounds like 'ah' and 'oh'", "zh": "只有像“啊”“哦”这样的单音节声音" } },
+        { "id": "b", "text": { "en": "Any sound, word, or phrase whose main job is to express emotion", "zh": "任何主要用于表达情感的声音、单词或词组" } },
+        { "id": "c", "text": { "en": "Any word that comes at the start of a sentence", "zh": "任何出现在句首的词" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "The lesson rejects the narrow 'only single sounds' view: a noun or verb can act as an interjection when used mainly to exclaim feeling.", "zh": "本课否定了“只有单音节声音”的狭义看法：名词或动词若主要用于感叹，也可充当叹词。" },
+      "refs": ["c1"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "Which interjection expresses relief?", "zh": "哪个叹词表示宽慰/松了一口气？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Thank god", "zh": "Thank god" } },
+        { "id": "b", "text": { "en": "Ew", "zh": "Ew" } },
+        { "id": "c", "text": { "en": "Bravo", "zh": "Bravo" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "'Thank god' signals relief; 'ew' is disgust and 'bravo' is praise.", "zh": "“Thank god”表示宽慰；“ew”表示厌恶，“bravo”表示赞美。" },
+      "refs": ["c2"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Fill in a casual one-word interjection meaning 'no' (the relaxed form of 'no'): ____, man, you know I can't do it.", "zh": "填一个表示“不”的随意单词叹词（“no”的放松说法）：____, man, you know I can't do it." },
+      "answers": ["nah", "Nah", "nope", "Nope"],
+      "explain": { "en": "'Nah' (or 'nope') is a casual refusal. Both are accepted spellings here.", "zh": "“Nah”（或“nope”）是随意的拒绝。两种拼写在此都可接受。" },
+      "refs": ["c2", "e5"]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": { "en": "Why can the same interjection 'oh' mean surprise, joy, resignation, or impatience?", "zh": "为什么同一个叹词“oh”能表示惊讶、高兴、无奈或不耐烦？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Because its spelling changes each time", "zh": "因为它每次拼写都不同" } },
+        { "id": "b", "text": { "en": "Because interjections depend heavily on tone of voice", "zh": "因为叹词高度依赖语气" } },
+        { "id": "c", "text": { "en": "Because it is secretly a verb", "zh": "因为它其实是个动词" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "The lesson says interjections lean heavily on intonation — same word, different feeling depending on tone.", "zh": "本课指出叹词高度依赖语气——同一个词，因语气不同而表达不同情感。" },
+      "refs": ["c3"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "Reacting with interjections", "zh": "用叹词来反应" },
+    "targets": ["interjection", "emotion"],
+    "lines": [
+      { "speaker": "Bob", "text": "Hey, what's up?", "annotations": [ { "quote": "Hey", "tag": "interjection" } ], "note": { "en": "A greeting interjection.", "zh": "打招呼的叹词。" } },
+      { "speaker": "Amy", "text": "Oh my god, look what we have here!", "annotations": [ { "quote": "Oh my god", "tag": "interjection" } ], "note": { "en": "Surprise.", "zh": "惊讶。" } },
+      { "speaker": "Bob", "text": "Bravo! Well done, you cracked it.", "annotations": [ { "quote": "Bravo", "tag": "interjection" }, { "quote": "Well done", "tag": "interjection" } ], "note": { "en": "Praise and joy.", "zh": "赞美与喜悦。" } },
+      { "speaker": "Amy", "text": "Oops, no, it's gone again.", "annotations": [ { "quote": "Oops", "tag": "interjection" } ], "note": { "en": "A small mistake.", "zh": "小失误。" } },
+      { "speaker": "Bob", "text": "Nah, don't freak out. Thank god we have a backup.", "annotations": [ { "quote": "Nah", "tag": "interjection" }, { "quote": "Thank god", "tag": "interjection" } ], "note": { "en": "Refusal then relief.", "zh": "先拒绝，再宽慰。" } }
+    ]
+  }
+}

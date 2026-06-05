@@ -1,0 +1,165 @@
+{
+  "id": "45",
+  "slug": "distinguishing-sometime-sometimes-some-time-some-times",
+  "category": "punctuation-usage",
+  "shape": "tiny",
+  "order": 44,
+  "title": { "en": "Sometime, Sometimes, Some Time, Some Times", "zh": "分清 sometime、sometimes、some time、some times" },
+  "summary": { "en": "Spacing and a final -s split four look-alikes: 'some time' is a stretch of time, 'sometime' means at some point, 'sometimes' means occasionally, and 'some times' means a few occasions.", "zh": "空格和词尾的 -s 把四个长得很像的词分开：some time 是一段时间，sometime 是某个时间点，sometimes 是有时候，some times 是几次。" },
+  "source": { "videoId": "9UXHtGERS1o", "youtube": "https://www.youtube.com/watch?v=9UXHtGERS1o", "duration": "4:51", "script": "scripts/45-distinguishing-sometime-sometimes-some-time-some-times.md" },
+  "tags": [
+    { "id": "noun-phrase", "label": { "en": "noun phrase", "zh": "名词短语" }, "abbr": "NP", "color": "#059669", "underline": "dashed" },
+    { "id": "adverb", "label": { "en": "adverb", "zh": "副词" }, "abbr": "Adv", "color": "#c026d3", "underline": "solid" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "some time (two words) = a stretch of time", "zh": "some time（分开写）= 一段时间" },
+      "body": { "en": "Written as two words, 'some' means 'a quantity of' and 'time' is the noun 'time', so 'some time' is simply a noun phrase meaning a period of time.", "zh": "分开写时，some 是“一些”，time 是名词“时间”，所以 some time 就是一个名词短语，单纯指一段时间。" },
+      "exampleRefs": ["e1", "e2"],
+      "sourceRef": "some time 是个名词短语，单纯指一段时间"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "sometime (one word) = at some point", "zh": "sometime（合成一个词）= 在某个时间点" },
+      "body": { "en": "Merge the two words and 'sometime' is no longer a stretch of time but an adverb meaning 'at some unspecified point in time' — you can even bound it with a phrase like 'this afternoon'.", "zh": "把 some 和 time 合并成一个词，sometime 就不再是一段时间，而是个副词，表示“在某个未指明的时间点”——你甚至可以加范围，比如 this afternoon。" },
+      "exampleRefs": ["e3", "e4"],
+      "sourceRef": "sometime 不再像 some time 那样是个名词短语了，而是个副词"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "sometimes = at several points = occasionally", "zh": "sometimes = 在某几个时间点 = 有时候" },
+      "body": { "en": "Add an -s and 'sometimes' is still an adverb, but the meaning shifts from one point in time to several — it happens a few times, how many we don't know, which is why we translate it as 'occasionally / 有时候'.", "zh": "加上 -s，sometimes 仍是副词，但含义从某一个时间点变成某几个时间点——会发生几次，具体几次不知道，所以翻译成“有时候”。" },
+      "exampleRefs": ["e5"],
+      "sourceRef": "sometimes 就是在某几个时间点"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "some times (two words) = a few occasions", "zh": "some times（分开写）= 几次" },
+      "body": { "en": "Split it again and the plural 'times' must be the countable noun meaning 'occasions' (not the uncountable 'time'). So 'some times' is a noun phrase meaning a few occasions. It is grammatical but rare — easily confused with 'sometimes' — so 'a few times' or 'a couple of times' is preferred.", "zh": "再次分开，复数的 times 只能是可数名词“次数”（不是不可数的 time）。所以 some times 是个名词短语，表示几次。语法没错但少见——太容易和 sometimes 混淆——所以更常用 a few times 或 a couple of times。" },
+      "exampleRefs": ["e6", "e7"],
+      "sourceRef": "这里的 time 是次的意思"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "I have some time now, so I'll visit the wolf.",
+      "annotations": [
+        { "quote": "some time", "tag": "noun-phrase" }
+      ],
+      "note": { "en": "'Some time' is a noun phrase — a stretch of time you now have.", "zh": "“some time”是名词短语——你现在拥有的一段时间。" }
+    },
+    {
+      "id": "e2",
+      "text": "Some time ago, I visited the wolf.",
+      "annotations": [
+        { "quote": "Some time", "tag": "noun-phrase" }
+      ],
+      "note": { "en": "'Some time ago' = a period of time in the past — still the noun phrase.", "zh": "“Some time ago”=之前一段时间——仍是名词短语。" }
+    },
+    {
+      "id": "e3",
+      "text": "I will visit the wolf sometime.",
+      "annotations": [
+        { "quote": "sometime", "tag": "adverb" }
+      ],
+      "note": { "en": "'Sometime' is an adverb: at some unspecified point in time.", "zh": "“sometime”是副词：在某个未指明的时间点。" }
+    },
+    {
+      "id": "e4",
+      "text": "I will visit the wolf sometime this afternoon.",
+      "annotations": [
+        { "quote": "sometime", "tag": "adverb" }
+      ],
+      "note": { "en": "You can bound the adverb with a range — at some point within this afternoon.", "zh": "可以给这个副词加范围——在今天下午的某个时间点。" }
+    },
+    {
+      "id": "e5",
+      "text": "Sometimes I visit the wolf.",
+      "annotations": [
+        { "quote": "Sometimes", "tag": "adverb" }
+      ],
+      "note": { "en": "'Sometimes' is an adverb meaning occasionally — at several points in time.", "zh": "“sometimes”是副词，意为有时候——在某几个时间点。" }
+    },
+    {
+      "id": "e6",
+      "text": "I visited the wolf some times last year.",
+      "annotations": [
+        { "quote": "some times", "tag": "noun-phrase" }
+      ],
+      "note": { "en": "Grammatical but awkward: 'some times' = a few occasions. 'A few times' is preferred.", "zh": "语法对但拗口：“some times”=几次。更常用“a few times”。" }
+    },
+    {
+      "id": "e7",
+      "text": "There were some times last week when I had to visit the wolf.",
+      "annotations": [
+        { "quote": "some times", "tag": "noun-phrase" }
+      ],
+      "note": { "en": "A natural use of the noun phrase 'some times' = a few occasions.", "zh": "名词短语“some times”的自然用法=几次。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Which form fills the blank: 'I'll call you ____ next week to set up the meeting.'?", "zh": "哪个形式填入空格：“I'll call you ____ next week to set up the meeting.”？" },
+      "choices": [
+        { "id": "a", "text": { "en": "some time", "zh": "some time" } },
+        { "id": "b", "text": { "en": "sometime", "zh": "sometime" } },
+        { "id": "c", "text": { "en": "some times", "zh": "some times" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "An adverb meaning 'at some point next week' is needed — that is one-word 'sometime'.", "zh": "这里需要一个副词，表示“下周某个时间点”——也就是一个词的“sometime”。" },
+      "refs": ["c2", "e3"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "In 'I have ____ before the train leaves', which best fits?", "zh": "在“I have ____ before the train leaves”中，哪个最合适？" },
+      "choices": [
+        { "id": "a", "text": { "en": "sometime", "zh": "sometime" } },
+        { "id": "b", "text": { "en": "sometimes", "zh": "sometimes" } },
+        { "id": "c", "text": { "en": "some time", "zh": "some time" } }
+      ],
+      "answer": "c",
+      "explain": { "en": "The verb 'have' needs an object naming a stretch of time — the noun phrase 'some time'.", "zh": "动词“have”需要一个表示一段时间的宾语——名词短语“some time”。" },
+      "refs": ["c1", "e1"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Fill in one word meaning 'occasionally': '____ I visit the wolf.'", "zh": "填一个表示“有时候”的词：“____ I visit the wolf.”" },
+      "answers": ["Sometimes", "sometimes"],
+      "explain": { "en": "'Sometimes' is the adverb for 'occasionally / at several points in time'.", "zh": "“sometimes”是表示“有时候/某几个时间点”的副词。" },
+      "refs": ["c3", "e5"]
+    },
+    {
+      "id": "q4",
+      "type": "error",
+      "sentence": "Sometimes ago, I visited the wolf.",
+      "fix": "Some time ago, I visited the wolf.",
+      "explain": { "en": "'Ago' needs a noun phrase naming a period of time, so use two-word 'some time', not the adverb 'sometimes'.", "zh": "“ago”前面需要一个表示一段时间的名词短语，所以要用分开写的“some time”，而不是副词“sometimes”。" },
+      "refs": ["c1", "c3"]
+    },
+    {
+      "id": "q5",
+      "type": "error",
+      "sentence": "I visited the wolf three time last week.",
+      "fix": "I visited the wolf three times last week.",
+      "explain": { "en": "When 'time' means an occasion, it is countable; after 'three' it must be the plural 'times'.", "zh": "当 time 表示“次”时是可数名词；在“three”后面必须用复数“times”。" },
+      "refs": ["c4"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "Four look-alikes in one chat", "zh": "一段对话用尽四个相似词" },
+    "targets": ["noun-phrase", "adverb"],
+    "lines": [
+      { "speaker": "Wolf", "text": "Do you have some time to talk now?", "annotations": [ { "quote": "some time", "tag": "noun-phrase" } ], "note": { "en": "Noun phrase: a stretch of time.", "zh": "名词短语：一段时间。" } },
+      { "speaker": "Rabbit", "text": "Not now, but I'll drop by sometime this afternoon.", "annotations": [ { "quote": "sometime", "tag": "adverb" } ], "note": { "en": "Adverb: at some point this afternoon.", "zh": "副词：今天下午某个时间点。" } },
+      { "speaker": "Wolf", "text": "You only visit me sometimes — never enough!", "annotations": [ { "quote": "sometimes", "tag": "adverb" } ], "note": { "en": "Adverb: occasionally, at several points in time.", "zh": "副词：有时候，某几个时间点。" } },
+      { "speaker": "Rabbit", "text": "There were some times last week when I really tried to come.", "annotations": [ { "quote": "some times", "tag": "noun-phrase" } ], "note": { "en": "Noun phrase: a few occasions.", "zh": "名词短语：几次。" } }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "id": "17",
+  "slug": "adverbial-clauses-of-cause",
+  "category": "clauses",
+  "shape": "tiny",
+  "order": 24,
+  "title": { "en": "Adverbial Clauses of Cause", "zh": "原因状语（副词）从句" },
+  "summary": { "en": "because, since and as introduce a cause clause inside a complex sentence — they differ in tone and word order, and 'for' is not one of them.", "zh": "because、since、as 引导原因副词从句，构成复杂句；它们在语气和语序上有别，而 for 并不构成原因从句。" },
+  "source": { "videoId": "L3w8GlPIID4", "youtube": "https://www.youtube.com/watch?v=L3w8GlPIID4", "duration": "4:57", "script": "scripts/17-adverbial-clauses-of-cause.md" },
+  "tags": [
+    { "id": "cause-clause", "label": { "en": "cause clause", "zh": "原因从句" }, "abbr": "Cau", "color": "#c026d3", "underline": "dashed" },
+    { "id": "reason-marker", "label": { "en": "reason marker", "zh": "原因引导词" }, "abbr": "Rm", "color": "#65a30d", "underline": "dotted" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "What a cause clause is — and why no 'so'", "zh": "什么是原因从句——以及为何不能再加 so" },
+      "body": { "en": "A cause adverbial clause states a reason — 'A because B'. 'because' introduces a subordinate clause, so nothing extra goes in front of it, and the whole thing is a complex sentence. Chinese says '因为…所以…', but English must not pair 'because' with 'so': 'so' is a coordinating conjunction that builds a compound sentence. Use both at once and you mix complex with compound — pick one.", "zh": "原因副词从句陈述某种原因——“A 因为 B”。because 引导从句，所以从句前什么也不用加，整句构成一个复杂句。中文说“因为…所以…”，但英语不能让 because 和 so 连用：so 是构成复合句的连词。两个都用，就把复杂句和复合句混在一起了——只能选其一。" },
+      "exampleRefs": ["e1", "e2"],
+      "sourceRef": "because引导从句，所以从句前什么也不用加"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "since and as also mark cause", "zh": "since 和 as 也表原因" },
+      "body": { "en": "Besides 'because', 'since' and 'as' can also head a cause clause. Here 'since' is NOT the time-from-a-point sense — it gives a reason ('Since you are hungry…' = because you are). And 'as' is NOT the manner 'in the way that' sense ('eat the carrot as I do') — it too gives a reason ('As you were not here…' = because you weren't).", "zh": "除了 because，since 和 as 也能引导原因从句。这里的 since 不是“从某时间点开始”那个意思——它介绍某个原因（“Since you are hungry…”即“因为你饿了”）。这里的 as 也不是方式从句里“像…一样”的意思（“eat the carrot as I do”）——它同样表原因（“As you were not here…”即“因为你不在”）。", "exampleRefs": ["e3", "e4"], "sourceRef": "注意这里的since不是时间副词从句那个从某个时间点开始的意思，而是介绍某个原因" }
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Two differences: tone strength and word order", "zh": "两大区别：语气强弱与语序" },
+      "body": { "en": "Tone: 'because' > 'since' > 'as'. 'because' gives a real, solid cause; 'since' cites a fact everyone already knows; 'as' cites something obvious. Word order: a 'because' clause may sit before OR after the main clause, while 'since' and 'as' clauses normally come before the main clause.", "zh": "语气强弱：because > since > as。because 引述实实在在的因果；since 引述大家都已知道的情况；as 引述显而易见的事实。语序：because 引导的从句可放在主句前或后，而 since 和 as 引导的从句一般只放在主句之前。", "exampleRefs": ["e5", "e6"], "sourceRef": "because引导的从句在主句前后都可以，而since和as引导的从句一般只能放在主句之前" }
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "'for' is NOT a cause clause", "zh": "for 不构成原因从句" },
+      "body": { "en": "'for' can express a kind of cause, but it builds a compound sentence, not a complex one — so what follows it is not a subordinate clause. The two halves are equal in status: the first is a guess, the second adds the reason for that guess. Don't believe the common myth that 'for' simply replaces 'because' with a weaker tone — the usage is genuinely different.", "zh": "for 可以表示一定的因果关系，但它构成的是复合句，而非复杂句——所以它后面的内容不是从句。前后两部分地位同等：前者是个推测，后者补充推测的原因。千万别像很多人以为的那样，认为 for 可以直接替换 because、只是语气弱一点——它们的用法确实不同。", "exampleRefs": ["e7"], "sourceRef": "for在这里构成复合句（compound sentence），而不是复杂句（complex sentence）" }
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "The rabbit ate the carrot because he was hungry.",
+      "annotations": [
+        { "quote": "because", "tag": "reason-marker" },
+        { "quote": "he was hungry", "tag": "cause-clause" }
+      ],
+      "note": { "en": "'because he was hungry' is the cause clause; it sits after the main clause. A complex sentence.", "zh": "“because he was hungry”是原因从句，位于主句之后。这是一个复杂句。" }
+    },
+    {
+      "id": "e2",
+      "text": "The rabbit was hungry, so he ate the carrot.",
+      "annotations": [
+        { "quote": "so", "tag": "conjunction" }
+      ],
+      "note": { "en": "With 'so' it is a compound sentence — fine on its own. But never write 'because… so…' together.", "zh": "用 so 时这是一个复合句——单独用没问题。但绝不能 because 和 so 连用。" }
+    },
+    {
+      "id": "e3",
+      "text": "Since you are hungry, you can eat the carrot.",
+      "annotations": [
+        { "quote": "Since", "tag": "reason-marker" },
+        { "quote": "you are hungry", "tag": "cause-clause" }
+      ],
+      "note": { "en": "'Since' here means 'because', not 'from the time that'. The clause comes first.", "zh": "这里 since 表“因为”，不是“自从”。从句放在前面。" }
+    },
+    {
+      "id": "e4",
+      "text": "As you were not here, we ate the carrot without you.",
+      "annotations": [
+        { "quote": "As", "tag": "reason-marker" },
+        { "quote": "you were not here", "tag": "cause-clause" }
+      ],
+      "note": { "en": "'As' here means 'because', not 'in the way that'. Don't read it as 'just like you weren't here'.", "zh": "这里 as 表“因为”，不是“像…一样”。别理解成“就像你之前不在这儿一样”。" }
+    },
+    {
+      "id": "e5",
+      "text": "Since all my videos are excellent, you should give this video a thumbs up.",
+      "annotations": [
+        { "quote": "Since", "tag": "reason-marker" },
+        { "quote": "all my videos are excellent", "tag": "cause-clause" }
+      ],
+      "note": { "en": "'Since' cites something already taken as known — a softer tone than 'because'.", "zh": "since 引述大家都已知道的情况——语气比 because 弱。" }
+    },
+    {
+      "id": "e6",
+      "text": "As I have thick skin, I'm begging you for a thumbs up.",
+      "annotations": [
+        { "quote": "As", "tag": "reason-marker" },
+        { "quote": "I have thick skin", "tag": "cause-clause" }
+      ],
+      "note": { "en": "'As' cites an obvious fact — the weakest of the three in causal force. The clause leads.", "zh": "as 引述显而易见的事实——三者中因果语气最弱。从句在前。" }
+    },
+    {
+      "id": "e7",
+      "text": "You must really like me, for you have given all my videos a thumbs up.",
+      "annotations": [
+        { "quote": "for", "tag": "conjunction" }
+      ],
+      "note": { "en": "'for' is coordinating: the part after it is NOT a clause. The first half is a guess; the second adds its reason.", "zh": "for 是并列连词：它后面的部分不是从句。前半是推测，后半补充推测的原因。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "error",
+      "sentence": "Because the rabbit was hungry, so he ate the carrot.",
+      "fix": "Because the rabbit was hungry, he ate the carrot.",
+      "explain": { "en": "'because' already makes a complex sentence; English never pairs it with 'so'. Drop the 'so' (or drop 'because' and keep 'so').", "zh": "because 已经构成复杂句；英语不能再配 so。删掉 so（或删掉 because、保留 so）。" },
+      "refs": ["c1", "e2"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "Which marker carries the STRONGEST causal force?", "zh": "哪个引导词的因果语气最强？" },
+      "choices": [
+        { "id": "a", "text": { "en": "because", "zh": "because" } },
+        { "id": "b", "text": { "en": "since", "zh": "since" } },
+        { "id": "c", "text": { "en": "as", "zh": "as" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "The scale is because > since > as. 'because' states a real, solid cause; 'as' is the weakest.", "zh": "强弱顺序是 because > since > as。because 表实实在在的因果；as 最弱。" },
+      "refs": ["c3"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Fill in a reason marker so the clause can ONLY come before the main clause (not 'because'): '____ you are hungry, you can eat the carrot.'", "zh": "填入一个一般只能让从句放在主句之前的原因引导词（不要填 because）：“____ you are hungry, you can eat the carrot.”" },
+      "answers": ["Since", "since", "As", "as"],
+      "explain": { "en": "'since' and 'as' clauses normally sit before the main clause; here either fits and means 'because'.", "zh": "since 和 as 引导的从句一般放在主句之前；此处两者皆可，意为“因为”。" },
+      "refs": ["c2", "c3"]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": { "en": "In 'You must like me, for you gave my videos a thumbs up', what is 'for you gave my videos a thumbs up'?", "zh": "在“You must like me, for you gave my videos a thumbs up”中，“for you gave my videos a thumbs up”是什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "A cause adverbial clause", "zh": "原因副词从句" } },
+        { "id": "b", "text": { "en": "An independent clause joined by a coordinating conjunction (compound sentence)", "zh": "由并列连词连接的独立句（复合句）" } },
+        { "id": "c", "text": { "en": "A 'since' clause in disguise", "zh": "伪装的 since 从句" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'for' is coordinating: it builds a compound sentence, so what follows is NOT a subordinate clause. 'for' is not a true replacement for 'because'.", "zh": "for 是并列连词：构成复合句，其后内容不是从句。for 并非 because 的真正替代。" },
+      "refs": ["c4", "e7"]
+    }
+  ],
+  "dialogue": {
+    "kind": "scenario",
+    "title": { "en": "Three ways to say why", "zh": "三种说原因的方式" },
+    "targets": ["reason-marker", "cause-clause"],
+    "lines": [
+      { "speaker": "Wolf", "text": "The rabbit ate the carrot because he was hungry.", "annotations": [ { "quote": "because", "tag": "reason-marker" }, { "quote": "he was hungry", "tag": "cause-clause" } ], "note": { "en": "'because' — solid cause; the clause can also move to the front.", "zh": "because——实实在在的因果；从句也可移到句首。" } },
+      { "speaker": "Rabbit", "text": "Since you are hungry, you can eat the carrot.", "annotations": [ { "quote": "Since", "tag": "reason-marker" }, { "quote": "you are hungry", "tag": "cause-clause" } ], "note": { "en": "'since' — a known fact; clause leads.", "zh": "since——已知的情况；从句在前。" } },
+      { "speaker": "Wolf", "text": "As you were not here, we ate the carrot without you.", "annotations": [ { "quote": "As", "tag": "reason-marker" }, { "quote": "you were not here", "tag": "cause-clause" } ], "note": { "en": "'as' — an obvious fact; clause leads.", "zh": "as——显而易见的事实；从句在前。" } },
+      { "speaker": "Rabbit", "text": "You must really like me, for you have given all my videos a thumbs up.", "annotations": [ { "quote": "for", "tag": "conjunction" } ], "note": { "en": "'for' is coordinating — NOT a cause clause. Equal halves: guess + its reason.", "zh": "for 是并列连词——不是原因从句。前后地位同等：推测 + 推测的原因。" } }
+    ]
+  }
+}

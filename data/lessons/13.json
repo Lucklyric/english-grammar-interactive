@@ -1,0 +1,181 @@
+{
+  "id": "13",
+  "slug": "comparative-adverbial-clauses",
+  "category": "clauses",
+  "shape": "tiny",
+  "order": 20,
+  "title": { "en": "Comparative Adverbial Clauses", "zh": "比较状语（副词）从句" },
+  "summary": { "en": "Everyday comparisons like 'He is smarter than me' are really shortened comparative clauses; the full, formal form keeps the second clause's subject and verb — 'He is smarter than I am'.", "zh": "“He is smarter than me”这类常见比较句其实是省略句；完整、正式的形式会保留比较从句里的主语和动词——“He is smarter than I am”。" },
+  "source": {
+    "videoId": "f4ZEr8mfd0E",
+    "youtube": "https://www.youtube.com/watch?v=f4ZEr8mfd0E",
+    "duration": "2:45",
+    "script": "scripts/13-comparative-adverbial-clauses.md"
+  },
+  "tags": [
+    {
+      "id": "comparative",
+      "label": { "en": "comparative", "zh": "比较级" },
+      "abbr": "Comp",
+      "color": "#be123c",
+      "underline": "solid"
+    },
+    {
+      "id": "comparison-marker",
+      "label": { "en": "comparison marker", "zh": "比较引导词" },
+      "abbr": "Cmp",
+      "color": "#65a30d",
+      "underline": "dotted"
+    },
+    {
+      "id": "comparative-clause",
+      "label": { "en": "comparative clause", "zh": "比较从句" },
+      "abbr": "CmpCl",
+      "color": "#c026d3",
+      "underline": "dashed"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "Common comparisons are shortened clauses", "zh": "常见的比较句是省略从句" },
+      "body": { "en": "Sentences like 'He is smarter than me', 'This carrot is bigger than that one', and 'She is as beautiful as Snow White' are ellipses or colloquial usage. Their full, formal form is a comparative adverbial clause that keeps the second subject and its verb: 'He is smarter than I am', 'This carrot is bigger than that one is', 'She is more beautiful than Snow White is'.", "zh": "“He is smarter than me”“This carrot is bigger than that one”“She is as beautiful as Snow White”这些句子都属于省略句或口语化用法。它们完整、正式的形式是比较状语从句，会保留第二个主语及其动词：“He is smarter than I am”“This carrot is bigger than that one is”“She is more beautiful than Snow White is”。" },
+      "exampleRefs": ["e1", "e2"],
+      "sourceRef": "完整的正式的形式都是副词或者说状语从句中的比较副词或者说比较状语从句"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "'than I' is formal; 'than me' is colloquial", "zh": "“than I”正式，“than me”口语" },
+      "body": { "en": "In the first type especially, using the object pronoun 'me' is the colloquial form; the formal version is 'He is smarter than I am', where 'than I am' is the adverbial clause that adds a comparison to the main clause.", "zh": "尤其是第一类句子，用代词宾格“me”是口语化的形式，正式的说法是“He is smarter than I am”，其中“than I am”就是副词从句，用比较的方式对前面的主句进行补充说明。" },
+      "exampleRefs": ["e1"]
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Comparison can mean 'equal', not just 'more'", "zh": "比较不一定更怎样，也可以同样怎样" },
+      "body": { "en": "Comparison doesn't have to mean 'more' — it can mean 'just as'. The 'as ... as' clause works the same way: 'He is as smart as I am', 'This carrot is as big as that one is', 'She is as beautiful as Snow White is', which can be shortened to 'as smart as I', 'as smart as me', and so on.", "zh": "比较嘛，也不一定非要更怎样，也可能同样的怎样。“as … as”从句用法相同：“He is as smart as I am”“This carrot is as big as that one is”“She is as beautiful as Snow White is”，也可省略或口语化为“as smart as I”“as smart as me”等。" },
+      "exampleRefs": ["e3"]
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "The 'the + comparative, the + comparative' pattern", "zh": "“the 比较级，the 比较级”句式" },
+      "body": { "en": "Another common comparative-clause form is 'the + comparative, the + comparative': 'The more you practice English, the more fluent you become' and 'The more coins you give me, the more videos I make' — the two halves rise together.", "zh": "还有一种常见的比较副词从句式，是“the 比较级，the 比较级”的形式：“The more you practice English, the more fluent you become”和“The more coins you give me, the more videos I make”——两边同步上升。" },
+      "exampleRefs": ["e4"]
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "He is smarter than I am.",
+      "annotations": [
+        { "quote": "smarter", "tag": "comparative" },
+        { "quote": "than", "tag": "comparison-marker" },
+        { "quote": "I am", "tag": "comparative-clause" }
+      ],
+      "note": { "en": "The formal full form. 'Than I am' is the comparative clause; the colloquial shortcut is 'than me'.", "zh": "正式的完整形式。“than I am”是比较从句；口语化的简写是“than me”。" }
+    },
+    {
+      "id": "e2",
+      "text": "This carrot is bigger than that one is.",
+      "annotations": [
+        { "quote": "bigger", "tag": "comparative" },
+        { "quote": "than", "tag": "comparison-marker" },
+        { "quote": "that one is", "tag": "comparative-clause" }
+      ],
+      "note": { "en": "The clause keeps the verb 'is'. Spoken English often drops it: 'bigger than that one'.", "zh": "从句保留了动词“is”。口语常省略：“bigger than that one”。" }
+    },
+    {
+      "id": "e3",
+      "text": "She is as beautiful as Snow White is.",
+      "annotations": [
+        { "quote": "as beautiful as", "tag": "comparison-marker" },
+        { "quote": "Snow White is", "tag": "comparative-clause" }
+      ],
+      "note": { "en": "An equal comparison ('just as ... as'). The clause 'Snow White is' completes it; colloquially shortened to 'as Snow White'.", "zh": "同等比较（“一样……”）。从句“Snow White is”使其完整；口语简化为“as Snow White”。" }
+    },
+    {
+      "id": "e4",
+      "text": "The more you practice English, the more fluent you become.",
+      "annotations": [
+        { "quote": "The more", "tag": "comparative", "occurrence": 1 },
+        { "quote": "you practice English", "tag": "comparative-clause" },
+        { "quote": "the more fluent", "tag": "comparative" }
+      ],
+      "note": { "en": "The 'the + comparative, the + comparative' pattern: the two clauses change together.", "zh": "“the 比较级，the 比较级”句式：两个从句同步变化。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Which is the formal, full comparative-clause form of 'He is smarter than me'?", "zh": "“He is smarter than me”正式、完整的比较从句形式是哪一个？" },
+      "choices": [
+        { "id": "a", "text": { "en": "He is smarter than I am.", "zh": "He is smarter than I am." } },
+        { "id": "b", "text": { "en": "He is smarter than mine.", "zh": "He is smarter than mine." } },
+        { "id": "c", "text": { "en": "He is more smart than me.", "zh": "He is more smart than me." } }
+      ],
+      "answer": "a",
+      "explain": { "en": "The full form restores the subject and verb of the comparative clause: 'than I am'. 'Than me' is the colloquial shortcut.", "zh": "完整形式还原了比较从句的主语和动词：“than I am”。“than me”是口语化的简写。" },
+      "refs": ["c2", "e1"]
+    },
+    {
+      "id": "q2",
+      "type": "fill",
+      "prompt": { "en": "Complete the equal comparison: 'This carrot is ___ big ___ that one is.'", "zh": "补全同等比较：“This carrot is ___ big ___ that one is.”" },
+      "answers": ["as ... as", "as...as", "as as"],
+      "explain": { "en": "An equal comparison uses 'as ... as': 'as big as'. The clause 'that one is' completes the comparison.", "zh": "同等比较用“as … as”：“as big as”。从句“that one is”使比较完整。" },
+      "refs": ["c3"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Complete the pattern: 'The more coins you give me, ___ videos I make.'", "zh": "补全句式：“The more coins you give me, ___ videos I make.”" },
+      "answers": ["the more"],
+      "explain": { "en": "The 'the + comparative, the + comparative' pattern needs 'the more' in the second half so both clauses rise together.", "zh": "“the 比较级，the 比较级”句式需要第二半用“the more”，使两个从句同步上升。" },
+      "refs": ["c4"]
+    },
+    {
+      "id": "q4",
+      "type": "error",
+      "sentence": "She is more beautiful than Snow White are.",
+      "fix": "She is more beautiful than Snow White is.",
+      "explain": { "en": "The comparative clause's subject 'Snow White' is singular, so the verb must be 'is', not 'are'.", "zh": "比较从句的主语“Snow White”是单数，所以动词要用“is”，不能用“are”。" },
+      "refs": ["c1", "e2"]
+    }
+  ],
+  "dialogue": {
+    "kind": "scenario",
+    "title": { "en": "Comparing carrots and brains", "zh": "比胡萝卜，也比聪明" },
+    "targets": ["comparative", "comparison-marker", "comparative-clause"],
+    "lines": [
+      {
+        "speaker": "Wolf",
+        "text": "He is smarter than I am.",
+        "annotations": [
+          { "quote": "smarter", "tag": "comparative" },
+          { "quote": "than", "tag": "comparison-marker" },
+          { "quote": "I am", "tag": "comparative-clause" }
+        ],
+        "note": { "en": "Formal comparative clause keeping subject + verb.", "zh": "保留主语 + 动词的正式比较从句。" }
+      },
+      {
+        "speaker": "Rabbit",
+        "text": "Maybe, but this carrot is as big as that one is.",
+        "annotations": [
+          { "quote": "as big as", "tag": "comparison-marker" },
+          { "quote": "that one is", "tag": "comparative-clause" }
+        ],
+        "note": { "en": "An equal comparison with 'as ... as'.", "zh": "用“as … as”的同等比较。" }
+      },
+      {
+        "speaker": "Wolf",
+        "text": "The more you practice English, the more fluent you become.",
+        "annotations": [
+          { "quote": "The more", "tag": "comparative", "occurrence": 1 },
+          { "quote": "you practice English", "tag": "comparative-clause" },
+          { "quote": "the more fluent", "tag": "comparative" }
+        ],
+        "note": { "en": "The 'the + comparative, the + comparative' pattern.", "zh": "“the 比较级，the 比较级”句式。" }
+      }
+    ]
+  }
+}

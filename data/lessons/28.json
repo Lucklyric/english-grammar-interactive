@@ -1,0 +1,1041 @@
+{
+  "id": "28",
+  "slug": "understanding-english-articles-indefinite-definite-zero",
+  "category": "parts-of-speech",
+  "shape": "deep-dive",
+  "order": 32,
+  "title": {
+    "en": "English Articles: Indefinite, Definite, and Zero",
+    "zh": "英语冠词：不定冠词、定冠词与零冠词"
+  },
+  "summary": {
+    "en": "Articles look simple but trip up Chinese speakers constantly. A/an generalize, 'the' points to something both speakers know, and the zero article (no article) generalizes most cleanly. The choice carries meaning Chinese has no equivalent for.",
+    "zh": "冠词看似简单，却是中国人说英语时最常见的错误之一。a/an 泛指，the 特指对话双方都知道的人或物，零冠词（不加冠词）是最干净的泛指。冠词的选择承载了中文里没有的附加信息。"
+  },
+  "source": {
+    "videoId": "bYGVys2RdlY",
+    "youtube": "https://www.youtube.com/watch?v=bYGVys2RdlY",
+    "duration": "18:53",
+    "script": "scripts/28-understanding-english-articles-indefinite-definite-zero.md"
+  },
+  "tags": [
+    {
+      "id": "zero-article",
+      "label": {
+        "en": "zero article",
+        "zh": "零冠词"
+      },
+      "abbr": "Ø",
+      "color": "#6b7280",
+      "underline": "dashed"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": {
+        "en": "Three kinds of article, three shades of meaning",
+        "zh": "三类冠词，三种含义"
+      },
+      "body": {
+        "en": "English forces every noun into one of three article categories: the indefinite article (a/an), the definite article (the), and the zero article (no article). Chinese has nothing like this — 'spring' is just 'spring' — so 'a spring', 'the spring', and 'spring' are all valid but carry extra information a native speaker adds instinctively.",
+        "zh": "英语会本能地把每个名词归入三类冠词之一：不定冠词 a/an、定冠词 the、零冠词（不加冠词）。中文没有这种用法——“春天”永远是春天——所以 a spring、the spring、spring 都正确，但各自携带了母语者下意识附加的信息。"
+      },
+      "exampleRefs": [],
+      "sourceRef": "不定冠词、定冠词和零冠词"
+    },
+    {
+      "id": "c2",
+      "heading": {
+        "en": "a vs an: it's the sound, not the letter",
+        "zh": "a 还是 an：看音，不看字母"
+      },
+      "body": {
+        "en": "Use 'a' before a consonant SOUND and 'an' before a vowel SOUND — the phoneme, not the spelling. 'University' starts with the consonant sound /j/ (a university), and 'hour' starts with a vowel sound because the h is silent (an hour).",
+        "zh": "辅音音素前用 a，元音音素前用 an——看的是音素，不是字母。university 虽以元音字母 u 开头，但发音以辅音 /j/ 开头（a university）；hour 虽以辅音字母 h 开头，但 h 不发音，以元音开头（an hour）。"
+      },
+      "exampleRefs": [
+        "e1",
+        "e2"
+      ],
+      "sourceRef": "选择a、an的重点是不定冠词后接的音，不是字母"
+    },
+    {
+      "id": "c3",
+      "heading": {
+        "en": "Indefinite article: generalizing one member of a kind",
+        "zh": "不定冠词：泛指某一个"
+      },
+      "body": {
+        "en": "The core use of a/an is generalizing — pointing to some one person or thing of a kind. 'I saw a rabbit' means 'I saw some rabbit, one of the rabbit species', not strictly the number one. That is why you cannot drop the article and say 'I saw rabbit' — a bare noun there falls into zero-article territory with a different meaning.",
+        "zh": "a/an 最核心的用法是泛指——指某一类中的某一个人或物。I saw a rabbit 是“我看到某只兔子、兔子这一物种中的某一只”，并不单纯强调数量上的一只。所以不能省掉冠词说 I saw rabbit——光杆名词属于零冠词范畴，意义不同。"
+      },
+      "exampleRefs": [
+        "e3"
+      ],
+      "sourceRef": "不定冠词最重要的用法是泛指某一个或一类人或物"
+    },
+    {
+      "id": "c4",
+      "heading": {
+        "en": "First mention = indefinite",
+        "zh": "第一次提到 = 不定冠词"
+      },
+      "body": {
+        "en": "When you mention something for the first time, neither speaker knows yet which exact thing you mean, so it counts as generalizing and takes a/an. 'I saw a rabbit' introduces the rabbit; the follow-up reference will switch to 'the'.",
+        "zh": "第一次提到某事物时，说话者和听话者都还不知道具体指哪一个，所以算泛指，要用 a/an。I saw a rabbit 是首次引出这只兔子；下文再提到时就要换成 the。"
+      },
+      "exampleRefs": [
+        "e7"
+      ],
+      "sourceRef": "第一次提到某个事物，其实从某种意义上来说也可以算是泛指"
+    },
+    {
+      "id": "c5",
+      "heading": {
+        "en": "Indefinite article: generalizing a whole class",
+        "zh": "不定冠词：泛指某一类"
+      },
+      "body": {
+        "en": "A/an can also generalize an entire class: 'A rabbit is smarter than a wolf' means rabbits as a kind are smarter than wolves. Translating it as 'one rabbit is smarter than one wolf' feels odd. But this is ambiguous — it could also mean one specific rabbit — so the zero article is usually a cleaner way to generalize a class.",
+        "zh": "a/an 也能泛指一整类：A rabbit is smarter than a wolf 意思是“兔子比狼聪明”。翻成“一只兔子比一只狼聪明”就很别扭。但这有歧义——也可理解为某一只兔子——所以泛指一类事物时，零冠词通常更干净。"
+      },
+      "exampleRefs": [
+        "e4"
+      ],
+      "sourceRef": "这里的 a rabbit 和 a wolf 是泛指兔子和狼这两类动物"
+    },
+    {
+      "id": "c6",
+      "heading": {
+        "en": "Indefinite article meaning 'one' or 'per'",
+        "zh": "不定冠词表示“一”和“每”"
+      },
+      "body": {
+        "en": "Sometimes a/an just means the number one: 'a hundred carrots' equals 'one hundred carrots'. It can also mean 'per': 'ten carrots a day' equals 'ten carrots every day'.",
+        "zh": "有时 a/an 就是表示数字一：a hundred carrots 等于 one hundred carrots。它也能表示“每”：ten carrots a day 等于 ten carrots every day。"
+      },
+      "exampleRefs": [
+        "e5",
+        "e6"
+      ],
+      "sourceRef": "I eat ten carrots a day 我每天吃十根胡萝卜"
+    },
+    {
+      "id": "c7",
+      "heading": {
+        "en": "Indefinite article and subject-verb agreement",
+        "zh": "不定冠词与主谓一致"
+      },
+      "body": {
+        "en": "Repeating the article changes how many people you mean — and so the meaning. 'A teacher and video creator' is one person (one article); 'a teacher and a video creator' is two people (two articles).",
+        "zh": "重复冠词会改变指的人数，进而改变句意。a teacher and video creator 指一个人（一个冠词）；a teacher and a video creator 指两个人（两个冠词）。"
+      },
+      "exampleRefs": [],
+      "sourceRef": "不定冠词还能影响主语的单复数，从而影响句意"
+    },
+    {
+      "id": "c8",
+      "heading": {
+        "en": "Definite article: 'the' for shared, specific reference",
+        "zh": "定冠词：the 表示双方共知的特指"
+      },
+      "body": {
+        "en": "The main job of 'the' is specific reference — a particular person or thing that BOTH speaker and listener already know. 'Please give me the carrot' means that one specific carrot we both have in mind, no other.",
+        "zh": "the 的主要功能是特指——某个说话者和听话者都已知道的特定人或物。Please give me the carrot 指的是我们都心知肚明的那一根胡萝卜，别的不要。"
+      },
+      "exampleRefs": [
+        "e9"
+      ],
+      "sourceRef": "定冠词的主要功能就是特指，表示某个或某些特定的人或物"
+    },
+    {
+      "id": "c9",
+      "heading": {
+        "en": "Second mention switches to 'the'",
+        "zh": "再次提到要换成 the"
+      },
+      "body": {
+        "en": "Once something has been introduced, mentioning it again makes it shared and specific, so it takes 'the'. 'I saw a rabbit, the rabbit ran fast' — 'a rabbit' generalizes; 'the rabbit' points back to that same one. Saying 'a rabbit ran fast' would confuse a native speaker: are there two rabbits?",
+        "zh": "事物一旦被引出，再次提到就成了双方共知的特定对象，要用 the。I saw a rabbit, the rabbit ran fast——a rabbit 泛指，the rabbit 特指上句那只。若说 a rabbit ran fast 会让母语者困惑：难道有两只兔子？"
+      },
+      "exampleRefs": [
+        "e7"
+      ],
+      "sourceRef": "I saw a rabbit, the rabbit ran fast"
+    },
+    {
+      "id": "c10",
+      "heading": {
+        "en": "'the' before ordinals and superlatives",
+        "zh": "the 用在序数词和最高级前"
+      },
+      "body": {
+        "en": "Ordinals and superlatives already narrow the reference to one thing, so they take 'the'. 'The first rabbit' (first already singles it out) and 'the biggest carrot' (biggest leaves no other option) must use 'the', not 'a'.",
+        "zh": "序数词和最高级已经把范围缩到唯一，所以用 the。the first rabbit（first 已锁定第一名）和 the biggest carrot（biggest 已无其他可能）必须用 the，而非 a。"
+      },
+      "exampleRefs": [
+        "e10"
+      ],
+      "sourceRef": "用在叙述词和形容词的最高级前"
+    },
+    {
+      "id": "c11",
+      "heading": {
+        "en": "'the' before one-of-a-kind names",
+        "zh": "the 用在独一无二的事物前"
+      },
+      "body": {
+        "en": "Unique things are inherently specific, so they take 'the': the sun, the moon, the earth, the Great Wall. There is only one of each, so 'the' is natural.",
+        "zh": "独一无二的事物本就特指，要用 the：the sun, the moon, the earth, the Great Wall。每样只有一个，用 the 很自然。"
+      },
+      "exampleRefs": [
+        "e11"
+      ],
+      "sourceRef": "the sun, the moon, the earth"
+    },
+    {
+      "id": "c12",
+      "heading": {
+        "en": "'the' can occasionally generalize too",
+        "zh": "the 偶尔也能泛指"
+      },
+      "body": {
+        "en": "Less commonly, 'the' generalizes. 'I like playing the piano' refers to the activity of piano-playing in general — used with Western classical instruments (the guitar, the violin, the flute). 'The computer has changed our way of life' treats the computer as a whole class. But these are ambiguous, so the zero article is the safer way to generalize.",
+        "zh": "较少见地，the 也能泛指。I like playing the piano 指弹钢琴这一行为的泛指——西洋古典乐器才这么用（the guitar, the violin, the flute）。The computer has changed our way of life 把电脑作为整体一类。但这些有歧义，泛指还是用零冠词更稳妥。"
+      },
+      "exampleRefs": [
+        "e12"
+      ],
+      "sourceRef": "I like playing the piano，我喜欢弹钢琴"
+    },
+    {
+      "id": "c13",
+      "heading": {
+        "en": "'the' + adjective = a group of people",
+        "zh": "the + 形容词 = 一类人"
+      },
+      "body": {
+        "en": "Put 'the' before certain adjectives to name a group of people, turning the adjective into a noun: the rich, the poor. 'The rich should help the poor.'",
+        "zh": "把 the 放在某些形容词前可指一类人，把形容词转化为名词：the rich（富人）、the poor（穷人）。The rich should help the poor。"
+      },
+      "exampleRefs": [
+        "e13"
+      ],
+      "sourceRef": "the rich, 富人，the poor, 穷人"
+    },
+    {
+      "id": "c14",
+      "heading": {
+        "en": "Zero article: bare plurals generalize cleanly",
+        "zh": "零冠词：复数名词最干净地泛指"
+      },
+      "body": {
+        "en": "The zero article (no article) generalizes most clearly. 'Rabbits are smart' unambiguously means rabbits as a kind — unlike the ambiguous 'a rabbit is smart'. For uncountable nouns that have no plural, treat them as plurals that can't add -s: 'Water is important', 'We breathe air'.",
+        "zh": "零冠词（不加冠词）泛指最清楚。Rabbits are smart 明确指兔子这一类——不像有歧义的 a rabbit is smart。对没有复数的不可数名词，把它们理解成不能加 s 的复数即可：Water is important，We breathe air。"
+      },
+      "exampleRefs": [
+        "e14",
+        "e15"
+      ],
+      "sourceRef": "rabbits are smart（兔子聪明），这就是零冠词复述泛指的用法"
+    },
+    {
+      "id": "c15",
+      "heading": {
+        "en": "Zero article for abstract concepts",
+        "zh": "零冠词用于抽象概念"
+      },
+      "body": {
+        "en": "Nouns naming a concept — an abstract idea in your mind — take the zero article. 'Summer is hot, winter is cold' treats summer and winter as the abstract idea of a season. 'I want to play football' means the sport in general, not one specific ball. Likewise 'I like geography' names the subject.",
+        "zh": "表示概念——脑中抽象观念——的名词用零冠词。Summer is hot, winter is cold 把夏天冬天当作季节这一抽象概念。I want to play football 指足球运动这一概念，而非某只球。同样 I like geography 指地理这门学科。"
+      },
+      "exampleRefs": [
+        "e16",
+        "e17"
+      ],
+      "sourceRef": "这种概念性的名词前都会使用零冠词"
+    },
+    {
+      "id": "c16",
+      "heading": {
+        "en": "Zero article before proper nouns",
+        "zh": "零冠词用于专有名词"
+      },
+      "body": {
+        "en": "Proper nouns normally take no article: 'Papa Rabbit'. Saying 'a Papa Rabbit' implies there are many; 'the Papa Rabbit' is redundant. Seasons, days, months and holidays in time phrases also go bare: in spring, in August, on Monday, on National Day.",
+        "zh": "专有名词一般不加冠词：Papa Rabbit。说 a Papa Rabbit 好像有很多个；the Papa Rabbit 则多此一举。时间短语里的季节、星期、月份、节日也用零冠词：in spring, in August, on Monday, on National Day。"
+      },
+      "exampleRefs": [
+        "e18"
+      ],
+      "sourceRef": "专有名词前一般都没有冠词，也就是零冠词"
+    },
+    {
+      "id": "c17",
+      "heading": {
+        "en": "Fixed expressions: the article is locked in",
+        "zh": "固定表达：冠词是固定的"
+      },
+      "body": {
+        "en": "Each article appears in set phrases where you can't swap or drop it: indefinite (have a good time, as a result, in a hurry, all of a sudden); definite (all the time, by the way, out of the question); zero (from time to time, face to face, out of question). Note 'out of the question' (impossible) vs 'out of question' (no doubt) — the 'the' flips the meaning.",
+        "zh": "每类冠词都有固定搭配，不能替换或省略：不定冠词（have a good time, as a result, in a hurry, all of a sudden）；定冠词（all the time, by the way, out of the question）；零冠词（from time to time, face to face, out of question）。注意 out of the question（不可能）与 out of question（毫无疑问）——一个 the 让意义相反。"
+      },
+      "exampleRefs": [
+        "e19"
+      ],
+      "sourceRef": "Out of the question，是不可能，表否定"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "a rabbit, an apple",
+      "annotations": [
+        {
+          "quote": "a",
+          "tag": "article",
+          "occurrence": 1
+        },
+        {
+          "quote": "an",
+          "tag": "article"
+        }
+      ],
+      "note": {
+        "en": "'Rabbit' starts with the consonant sound /r/, so 'a'; 'apple' starts with a vowel sound, so 'an' — sound, not letter.",
+        "zh": "rabbit 以辅音 /r/ 开头，用 a；apple 以元音开头，用 an——看音不看字母。"
+      }
+    },
+    {
+      "id": "e2",
+      "text": "a university, an hour",
+      "annotations": [
+        {
+          "quote": "a",
+          "tag": "article",
+          "occurrence": 1
+        },
+        {
+          "quote": "an",
+          "tag": "article"
+        }
+      ],
+      "note": {
+        "en": "'University' opens with the consonant sound /j/ (a university); 'hour' has a silent h and opens with a vowel sound (an hour).",
+        "zh": "university 以辅音 /j/ 开头（a university）；hour 的 h 不发音，以元音开头（an hour）。"
+      }
+    },
+    {
+      "id": "e3",
+      "text": "I saw a rabbit.",
+      "annotations": [
+        {
+          "quote": "a",
+          "tag": "article",
+          "occurrence": 2
+        },
+        {
+          "quote": "rabbit",
+          "tag": "countable"
+        }
+      ],
+      "note": {
+        "en": "Generalizing: some one rabbit of the species. Not strictly 'one' — can also be read 'I saw a rabbit / I saw rabbits' in feel.",
+        "zh": "泛指：兔子这一物种中的某一只。并非单纯的“一只”——也可体会为“我看到兔子了”。"
+      }
+    },
+    {
+      "id": "e4",
+      "text": "A rabbit is smarter than a wolf.",
+      "annotations": [
+        {
+          "quote": "A",
+          "tag": "article"
+        },
+        {
+          "quote": "a",
+          "tag": "article",
+          "occurrence": 4
+        }
+      ],
+      "note": {
+        "en": "Generalizing whole classes: rabbits vs wolves. But ambiguous — could mean one specific rabbit and wolf. Cleaner: 'Rabbits are smarter than wolves.'",
+        "zh": "泛指整类：兔子与狼。但有歧义——也可指某一只。更干净：Rabbits are smarter than wolves。"
+      }
+    },
+    {
+      "id": "e5",
+      "text": "I gave you a hundred carrots.",
+      "annotations": [
+        {
+          "quote": "a",
+          "tag": "article",
+          "occurrence": 2
+        }
+      ],
+      "note": {
+        "en": "Here 'a' just means the number one: equals 'I gave you one hundred carrots.'",
+        "zh": "这里 a 就是数字一：等于 I gave you one hundred carrots。"
+      }
+    },
+    {
+      "id": "e6",
+      "text": "I eat ten carrots a day.",
+      "annotations": [
+        {
+          "quote": "a",
+          "tag": "article",
+          "occurrence": 3
+        }
+      ],
+      "note": {
+        "en": "'A' means 'per' here: equals 'I eat ten carrots every day.'",
+        "zh": "这里 a 表示“每”：等于 I eat ten carrots every day。"
+      }
+    },
+    {
+      "id": "e7",
+      "text": "I saw a rabbit, the rabbit ran fast.",
+      "annotations": [
+        {
+          "quote": "a",
+          "tag": "article",
+          "occurrence": 2
+        },
+        {
+          "quote": "the",
+          "tag": "article"
+        }
+      ],
+      "note": {
+        "en": "First mention 'a rabbit' (generalizing); second mention 'the rabbit' (now shared and specific). Repeating 'a' would imply two rabbits.",
+        "zh": "首次提到 a rabbit（泛指）；再次提到 the rabbit（已是双方共知的特定那只）。重复 a 会让人以为有两只兔子。"
+      }
+    },
+    {
+      "id": "e8",
+      "text": "Please give me a carrot.",
+      "annotations": [
+        {
+          "quote": "a",
+          "tag": "article",
+          "occurrence": 2
+        }
+      ],
+      "note": {
+        "en": "Generalizing: any one of the carrots — I just want one, hand me whichever.",
+        "zh": "泛指：随便哪一根胡萝卜——我只想要一根，随便给。"
+      }
+    },
+    {
+      "id": "e9",
+      "text": "Please give me the carrot.",
+      "annotations": [
+        {
+          "quote": "the",
+          "tag": "article"
+        }
+      ],
+      "note": {
+        "en": "Specific: that one particular carrot we both know — no other will do.",
+        "zh": "特指：我们都知道的那一根特定胡萝卜——别的不要。"
+      }
+    },
+    {
+      "id": "e10",
+      "text": "the first rabbit, the biggest carrot",
+      "annotations": [
+        {
+          "quote": "the",
+          "tag": "article",
+          "occurrence": 1
+        },
+        {
+          "quote": "the",
+          "tag": "article",
+          "occurrence": 2
+        }
+      ],
+      "note": {
+        "en": "'First' (ordinal) and 'biggest' (superlative) already single one out, so 'the', never 'a'.",
+        "zh": "first（序数）和 biggest（最高级）已锁定唯一，所以用 the，绝不用 a。"
+      }
+    },
+    {
+      "id": "e11",
+      "text": "the sun, the moon, the earth, the Great Wall",
+      "annotations": [
+        {
+          "quote": "the",
+          "tag": "article",
+          "occurrence": 1
+        },
+        {
+          "quote": "the",
+          "tag": "article",
+          "occurrence": 4
+        }
+      ],
+      "note": {
+        "en": "One-of-a-kind things are inherently specific, so they take 'the'.",
+        "zh": "独一无二的事物本就特指，所以用 the。"
+      }
+    },
+    {
+      "id": "e12",
+      "text": "I like playing the piano.",
+      "annotations": [
+        {
+          "quote": "the",
+          "tag": "article"
+        }
+      ],
+      "note": {
+        "en": "Rare generalizing use of 'the' — the activity of piano-playing. Western classical instruments use 'the' (the guitar, the violin).",
+        "zh": "the 罕见的泛指用法——弹钢琴这一行为。西洋古典乐器才这么用（the guitar, the violin）。"
+      }
+    },
+    {
+      "id": "e13",
+      "text": "The rich should help the poor.",
+      "annotations": [
+        {
+          "quote": "The rich",
+          "tag": "article"
+        },
+        {
+          "quote": "the poor",
+          "tag": "article"
+        }
+      ],
+      "note": {
+        "en": "'The' + adjective names a whole group of people, turning the adjective into a noun.",
+        "zh": "the + 形容词指一整类人，把形容词转化为名词。"
+      }
+    },
+    {
+      "id": "e14",
+      "text": "Rabbits are smarter than wolves.",
+      "annotations": [
+        {
+          "quote": "Rabbits",
+          "tag": "zero-article"
+        },
+        {
+          "quote": "wolves",
+          "tag": "zero-article"
+        }
+      ],
+      "note": {
+        "en": "Zero article + bare plural: the cleanest, least ambiguous way to generalize a whole kind.",
+        "zh": "零冠词 + 光杆复数：最干净、最无歧义的整类泛指。"
+      }
+    },
+    {
+      "id": "e15",
+      "text": "Water is important.",
+      "annotations": [
+        {
+          "quote": "Water",
+          "tag": "zero-article"
+        }
+      ],
+      "note": {
+        "en": "Uncountable noun with zero article — treat it as a plural that can't add -s.",
+        "zh": "不可数名词配零冠词——理解成不能加 s 的复数。"
+      }
+    },
+    {
+      "id": "e16",
+      "text": "Summer is hot, winter is cold.",
+      "annotations": [
+        {
+          "quote": "Summer",
+          "tag": "zero-article"
+        },
+        {
+          "quote": "winter",
+          "tag": "zero-article"
+        }
+      ],
+      "note": {
+        "en": "Zero article for concepts: the abstract idea of the season, not one particular summer or winter.",
+        "zh": "零冠词表概念：季节这一抽象概念，而非某一个夏天或冬天。"
+      }
+    },
+    {
+      "id": "e17",
+      "text": "I want to play football.",
+      "annotations": [
+        {
+          "quote": "football",
+          "tag": "zero-article"
+        }
+      ],
+      "note": {
+        "en": "The sport as an abstract concept. 'Play a football' = kick one specific ball; 'play footballs' = the equipment, not the sport.",
+        "zh": "足球运动这一抽象概念。play a football = 踢某只球；play footballs = 足球这种器具，而非运动。"
+      }
+    },
+    {
+      "id": "e18",
+      "text": "in spring, in August, on Monday, on National Day",
+      "annotations": [
+        {
+          "quote": "spring",
+          "tag": "zero-article"
+        },
+        {
+          "quote": "August",
+          "tag": "zero-article"
+        },
+        {
+          "quote": "Monday",
+          "tag": "zero-article"
+        },
+        {
+          "quote": "National Day",
+          "tag": "zero-article"
+        }
+      ],
+      "note": {
+        "en": "Seasons, months, days and holidays in time phrases take the zero article.",
+        "zh": "时间短语里的季节、月份、星期、节日用零冠词。"
+      }
+    },
+    {
+      "id": "e19",
+      "text": "Out of the question is impossible, but out of question means no doubt.",
+      "annotations": [
+        {
+          "quote": "the",
+          "tag": "article"
+        }
+      ],
+      "note": {
+        "en": "A single 'the' flips the meaning: 'out of the question' (impossible) vs 'out of question' (without doubt). Fixed phrases lock the article.",
+        "zh": "一个 the 让意义相反：out of the question（不可能）对 out of question（毫无疑问）。固定搭配的冠词是固定的。"
+      }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which is correct, and why?",
+        "zh": "哪个正确，为什么？"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "an university — because 'u' is a vowel letter",
+            "zh": "an university——因为 u 是元音字母"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "a university — because it starts with the consonant sound /j/",
+            "zh": "a university——因为它以辅音 /j/ 开头"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Either is fine",
+            "zh": "两个都行"
+          }
+        }
+      ],
+      "answer": "b",
+      "explain": {
+        "en": "The choice depends on the opening SOUND, not the letter. 'University' begins with /j/, a consonant sound, so 'a university'.",
+        "zh": "取决于开头的音，不是字母。university 以辅音 /j/ 开头，所以 a university。"
+      },
+      "refs": [
+        "c2",
+        "e2"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why is 'an hour' correct?",
+        "zh": "为什么 an hour 是对的？"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Because 'h' is a consonant letter",
+            "zh": "因为 h 是辅音字母"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Because the 'h' is silent, so it opens with a vowel sound",
+            "zh": "因为 h 不发音，以元音开头"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Because 'hour' is uncountable",
+            "zh": "因为 hour 是不可数名词"
+          }
+        }
+      ],
+      "answer": "b",
+      "explain": {
+        "en": "The h in 'hour' is silent, so the word opens with a vowel sound and takes 'an'.",
+        "zh": "hour 的 h 不发音，词以元音开头，所以用 an。"
+      },
+      "refs": [
+        "c2",
+        "e2"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": {
+        "en": "Fill the blank: 'I saw a rabbit, ____ rabbit ran fast.' (second mention)",
+        "zh": "填空：I saw a rabbit, ____ rabbit ran fast.（再次提到）"
+      },
+      "answers": [
+        "the"
+      ],
+      "explain": {
+        "en": "Second mention is shared and specific, so it takes 'the'. Repeating 'a' would imply a second rabbit.",
+        "zh": "再次提到是双方共知的特定对象，用 the。重复 a 会让人以为有第二只兔子。"
+      },
+      "refs": [
+        "c9",
+        "e7"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "fill",
+      "prompt": {
+        "en": "Fill the blank: '____ first rabbit' (a / an / the / no article)",
+        "zh": "填空：____ first rabbit（a / an / the / 不填）"
+      },
+      "answers": [
+        "the"
+      ],
+      "explain": {
+        "en": "An ordinal like 'first' already singles out one thing, so it requires 'the'.",
+        "zh": "first 这类序数词已锁定唯一，所以必须用 the。"
+      },
+      "refs": [
+        "c10",
+        "e10"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": {
+        "en": "What is the cleanest way to say 'rabbits as a kind are smart'?",
+        "zh": "“兔子这一类很聪明”最干净的说法是？"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "A rabbit is smart.",
+            "zh": "A rabbit is smart."
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "The rabbit is smart.",
+            "zh": "The rabbit is smart."
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Rabbits are smart.",
+            "zh": "Rabbits are smart."
+          }
+        }
+      ],
+      "answer": "c",
+      "explain": {
+        "en": "Bare plural + zero article is the least ambiguous way to generalize a whole class. 'A rabbit is smart' could mean one specific rabbit.",
+        "zh": "光杆复数 + 零冠词是泛指整类最无歧义的方式。A rabbit is smart 可能指某一只。"
+      },
+      "refs": [
+        "c14",
+        "e14"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which best fits: 'I want to play ____' (the general sport)?",
+        "zh": "哪个最合适：I want to play ____（足球运动这一概念）？"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "football",
+            "zh": "football"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "a football",
+            "zh": "a football"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "the football",
+            "zh": "the football"
+          }
+        }
+      ],
+      "answer": "a",
+      "explain": {
+        "en": "The sport as an abstract concept takes the zero article. 'A football' means one ball; 'the football' means a specific ball.",
+        "zh": "足球运动作为抽象概念用零冠词。a football 指某只球；the football 指特定那只球。"
+      },
+      "refs": [
+        "c15",
+        "e17"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "error",
+      "sentence": "I saw rabbit yesterday.",
+      "fix": "I saw a rabbit yesterday.",
+      "explain": {
+        "en": "A bare singular 'rabbit' here is wrong — a countable noun on first mention needs the indefinite article 'a'.",
+        "zh": "光杆单数 rabbit 在这里是错的——可数名词首次提到要加不定冠词 a。"
+      },
+      "refs": [
+        "c3",
+        "e3"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "error",
+      "sentence": "I like geography very much, the geography is interesting.",
+      "fix": "I like geography very much, geography is interesting.",
+      "explain": {
+        "en": "A school subject is a concept and takes the zero article; 'the geography' wrongly makes it specific.",
+        "zh": "学科是概念，用零冠词；the geography 把它错误地变成了特指。"
+      },
+      "refs": [
+        "c15"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": {
+        "en": "What does 'out of the question' mean?",
+        "zh": "out of the question 是什么意思？"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Impossible / no way",
+            "zh": "不可能 / 没门"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Without any doubt",
+            "zh": "毫无疑问"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Off topic",
+            "zh": "离题"
+          }
+        }
+      ],
+      "answer": "a",
+      "explain": {
+        "en": "'Out of the question' means impossible. Drop the 'the' and 'out of question' means without doubt — the article flips the meaning.",
+        "zh": "out of the question 表示不可能。去掉 the，out of question 表示毫无疑问——冠词让意义相反。"
+      },
+      "refs": [
+        "c17",
+        "e19"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "fill",
+      "prompt": {
+        "en": "Fill the blank: 'The rich should help ____ poor.'",
+        "zh": "填空：The rich should help ____ poor."
+      },
+      "answers": [
+        "the"
+      ],
+      "explain": {
+        "en": "'The' + adjective names a group of people: the poor. The article is required.",
+        "zh": "the + 形容词指一类人：the poor。必须有 the。"
+      },
+      "refs": [
+        "c13",
+        "e13"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "error",
+      "sentence": "A teacher and a video creator made this video by himself.",
+      "fix": "A teacher and video creator made this video by himself.",
+      "explain": {
+        "en": "'Himself' shows it is one person, so use one article: 'a teacher and video creator'. Repeating 'a' would mean two people.",
+        "zh": "himself 表明是一个人，所以用一个冠词：a teacher and video creator。重复 a 会指两个人。"
+      },
+      "refs": [
+        "c7"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "fill",
+      "prompt": {
+        "en": "Fill the blank with an article (or '—' for zero): 'We breathe ____ air.'",
+        "zh": "用冠词填空（零冠词写 —）：We breathe ____ air."
+      },
+      "answers": [
+        "—",
+        "-",
+        "(none)",
+        "no article",
+        ""
+      ],
+      "explain": {
+        "en": "'Air' is an uncountable noun used in a general sense — zero article. Treat it as a plural that can't add -s.",
+        "zh": "air 是泛指的不可数名词——零冠词。理解成不能加 s 的复数。"
+      },
+      "refs": [
+        "c14",
+        "e15"
+      ]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": {
+      "en": "A rabbit, the rabbit, and rabbits",
+      "zh": "a rabbit、the rabbit 与 rabbits"
+    },
+    "targets": [
+      "article",
+      "zero-article"
+    ],
+    "lines": [
+      {
+        "speaker": "Wolf",
+        "text": "I saw a rabbit near the river this morning.",
+        "annotations": [
+          {
+            "quote": "a",
+            "tag": "article",
+            "occurrence": 2
+          },
+          {
+            "quote": "the",
+            "tag": "article"
+          }
+        ],
+        "note": {
+          "en": "First mention 'a rabbit' (generalizing); 'the river' is shared and specific.",
+          "zh": "首次提到 a rabbit（泛指）；the river 是双方共知的特定河流。"
+        }
+      },
+      {
+        "speaker": "Rabbit",
+        "text": "Was the rabbit fast?",
+        "annotations": [
+          {
+            "quote": "the",
+            "tag": "article"
+          }
+        ],
+        "note": {
+          "en": "Second mention switches to 'the rabbit' — now we both know which one.",
+          "zh": "再次提到换成 the rabbit——我们都知道是哪只了。"
+        }
+      },
+      {
+        "speaker": "Wolf",
+        "text": "Very. Honestly, rabbits are smarter than wolves.",
+        "annotations": [
+          {
+            "quote": "rabbits",
+            "tag": "zero-article"
+          },
+          {
+            "quote": "wolves",
+            "tag": "zero-article"
+          }
+        ],
+        "note": {
+          "en": "Bare plurals + zero article generalize whole kinds cleanly.",
+          "zh": "光杆复数 + 零冠词干净地泛指整类。"
+        }
+      },
+      {
+        "speaker": "Rabbit",
+        "text": "Then catching me is out of the question!",
+        "annotations": [
+          {
+            "quote": "the",
+            "tag": "article"
+          }
+        ],
+        "note": {
+          "en": "Fixed phrase 'out of the question' = impossible; the 'the' is locked in.",
+          "zh": "固定搭配 out of the question = 不可能；the 是固定的。"
+        }
+      },
+      {
+        "speaker": "Wolf",
+        "text": "Fine. Give me the biggest carrot and we'll call it a truce.",
+        "annotations": [
+          {
+            "quote": "the",
+            "tag": "article"
+          },
+          {
+            "quote": "a",
+            "tag": "article",
+            "occurrence": 4
+          }
+        ],
+        "note": {
+          "en": "'The biggest' (superlative) is specific; 'a truce' is first-mention generalizing.",
+          "zh": "the biggest（最高级）特指；a truce 首次提到，泛指。"
+        }
+      }
+    ]
+  }
+}

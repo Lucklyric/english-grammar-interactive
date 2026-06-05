@@ -1,0 +1,777 @@
+{
+  "id": "20",
+  "slug": "detailed-explanation-of-non-finite-verbs-infinitives-gerunds-present-participles-past-participles",
+  "category": "verbs-tenses-mood",
+  "shape": "deep-dive",
+  "order": 10,
+  "title": { "en": "Non-Finite Verbs: Infinitives, Gerunds, Present & Past Participles", "zh": "非谓语动词详解：不定式、动名词、现在分词、过去分词" },
+  "summary": { "en": "A simple sentence has exactly one finite (predicate) verb that carries tense, aspect and mood. Every other verb must turn non-finite — an infinitive, gerund, present participle or past participle — to fill a non-core slot like subject, object, complement, attributive or adverbial.", "zh": "一个简单句只能有一个限定（谓语）动词，承载时态、状态和语气。其余的动词都必须变成非谓语形式——不定式、动名词、现在分词或过去分词——去充当主语、宾语、补语、定语、状语等非核心成分。" },
+  "source": { "videoId": "LhbZ4TAjgUo", "youtube": "https://www.youtube.com/watch?v=LhbZ4TAjgUo", "duration": "38:08", "script": "scripts/20-detailed-explanation-of-non-finite-verbs-infinitives-gerunds-present-participles-past-participles.md" },
+  "tags": [
+    { "id": "infinitive", "label": { "en": "infinitive", "zh": "不定式" }, "abbr": "Inf", "color": "#0d9488", "underline": "dotted" },
+    { "id": "gerund", "label": { "en": "gerund", "zh": "动名词" }, "abbr": "Ger", "color": "#7c3aed", "underline": "dotted" },
+    { "id": "present-participle", "label": { "en": "present participle", "zh": "现在分词" }, "abbr": "V+ing", "color": "#c026d3", "underline": "dotted" },
+    { "id": "past-participle", "label": { "en": "past participle", "zh": "过去分词" }, "abbr": "Ved", "color": "#b45309", "underline": "dotted" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "Finite vs non-finite: why the Chinese-to-English slip happens", "zh": "限定与非限定：中式英语错误的根源" },
+      "body": { "en": "Chinese happily strings actions together — 'rabbit likes eat carrots' — because its characters never conjugate. So learners write 'The rabbit likes eat carrots' or 'The rabbit like eat carrots.' The fix is to see that a sentence has one core verb plus, if needed, non-core verbs in a different form.", "zh": "中文可以随意把动作罗列在一起——“兔子喜欢吃胡萝卜”——因为汉字不做时态或人称变位。于是学习者写出 The rabbit likes eat carrots 或 The rabbit like eat carrots。解决之道是：一个句子只有一个核心动词，其余动词要换一种形式。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "The rabbit likes eat carrots."
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "Finite verbs carry tense, aspect and mood", "zh": "限定动词承载时态、状态和语气" },
+      "body": { "en": "A finite (predicate) verb is limited by its subject and shows time, state and mood through conjugation: eats, ate, is eating, has eaten. Because it is 'limited', it has another name — finite verb. It is the core of the sentence.", "zh": "限定（谓语）动词受主语限制，通过变位表达时间、状态和语气：eats、ate、is eating、has eaten。因为它被“限定”，所以又叫限定性动词，是句子的核心。" },
+      "exampleRefs": ["e2"],
+      "sourceRef": "谓语动词有三大本领，能够表达动作的时间、状态、语气。"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Non-finite verbs lose time and person", "zh": "非谓语动词失去时间与人称" },
+      "body": { "en": "A verb not limited by the subject loses the power to express time and person. That is a non-finite verb — the non-finite forms are to eat, eating, talking, minced. One mountain holds no two tigers: a sentence has one finite verb; every other verb appears in a non-core slot as a non-finite verb.", "zh": "不受主语限制的动词也就失去了表达时间和人称的本领，这就是非谓语动词——如 to eat、eating、talking、minced。一山不容二兔：一个句子只有一个谓语动词，其余动词都以非谓语身份出现在非核心成分里。" },
+      "exampleRefs": ["e3"],
+      "sourceRef": "一山不容二兔"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Two clauses can't join with just a comma", "zh": "两个简单句不能只用逗号连接" },
+      "body": { "en": "'I am a rabbit, I eat carrots' has two finite verbs joined by a comma, which is wrong. Either make a compound sentence with a conjunction ('...so I eat carrots') or turn one into a subordinate clause ('Because I am a rabbit, I eat carrots').", "zh": "“I am a rabbit, I eat carrots”有两个谓语动词却只用逗号连接，是错的。要么用连词组成并列句（“...so I eat carrots”），要么改成从句加主句（“Because I am a rabbit, I eat carrots”）。" },
+      "exampleRefs": ["e4"],
+      "sourceRef": "两个简单句不能仅仅用逗号连接"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "The infinitive: to + base verb (and the bare infinitive)", "zh": "不定式：to + 动词原形（及裸不定式）" },
+      "body": { "en": "An infinitive is usually to + the base verb — the dictionary form: 'To be or not to be.' Sometimes the to is dropped: 'You helped me cook the carrot' — cook is a bare infinitive. The full form is the full infinitive; the to-less form is the bare infinitive.", "zh": "不定式通常是 to + 动词原形（词典里的形式）：“To be or not to be。”有时 to 会省略：“You helped me cook the carrot”——cook 是裸不定式。带 to 的叫完全不定式，省 to 的叫裸不定式。" },
+      "exampleRefs": ["e5", "e6"],
+      "sourceRef": "称第一种咱们常见的不定式为完全不定式full infinitive，而称后一种为裸不定式bare infinitive"
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "Infinitive as subject (and the formal subject 'it')", "zh": "不定式作主语（与形式主语 it）" },
+      "body": { "en": "An infinitive can be the subject: 'To eat a carrot every day is good for the rabbit.' To avoid a top-heavy sentence, English often uses 'it' as a formal subject and moves the infinitive to the end: 'It is good for the rabbit to eat a carrot every day.'", "zh": "不定式可以作主语：“To eat a carrot every day is good for the rabbit。”为避免头重脚轻，英语常用 it 作形式主语，把不定式移到句末：“It is good for the rabbit to eat a carrot every day。”" },
+      "exampleRefs": ["e7", "e8"],
+      "sourceRef": "To eat a carrot every day is good for the rabbit."
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "Infinitive as object (and the formal object 'it')", "zh": "不定式作宾语（与形式宾语 it）" },
+      "body": { "en": "An infinitive can be the object of a verb: 'The rabbit likes to eat carrots.' With a complex-transitive verb, 'it' can stand as a formal object before the real infinitive: 'I consider it important to eat a carrot every day.'", "zh": "不定式可以作动词的宾语：“The rabbit likes to eat carrots。”在复杂及物动词里，it 可作形式宾语，置于真正的不定式之前：“I consider it important to eat a carrot every day。”" },
+      "exampleRefs": ["e9", "e10"],
+      "sourceRef": "I consider it important to eat a carrot every day."
+    },
+    {
+      "id": "c8",
+      "heading": { "en": "Infinitive as object complement (and bare-infinitive triggers)", "zh": "不定式作宾语补语（及需用裸不定式的动词）" },
+      "body": { "en": "After a complex-transitive verb, an infinitive can complete the object: 'The rabbit expected the wolf to eat a carrot.' Perception verbs (see, find, watch) and causatives (have, make, let) drop the to: 'Carrots make the rabbit feel happy.' After help, the to is optional: 'The wolf helped the rabbit (to) grow carrots.'", "zh": "复杂及物动词后，不定式可补充宾语：“The rabbit expected the wolf to eat a carrot。”感官动词（see、find、watch）和使役动词（have、make、let）要省 to：“Carrots make the rabbit feel happy。”help 后省不省 to 均可：“The wolf helped the rabbit (to) grow carrots。”" },
+      "exampleRefs": ["e11", "e12", "e13"],
+      "sourceRef": "Carrots make the rabbit feel happy"
+    },
+    {
+      "id": "c9",
+      "heading": { "en": "Infinitive as subject complement and as attributive", "zh": "不定式作表语和定语" },
+      "body": { "en": "After a linking verb the infinitive is a subject complement, an equals sign: 'The rabbit's dream is to eat every kind of carrot in the world.' As a post-positive attributive it modifies a noun in a verb-object relation: 'The rabbit has a lot of carrots to eat' (carrots that will be eaten).", "zh": "系动词后，不定式作表语，相当于等号：“The rabbit's dream is to eat every kind of carrot in the world。”作后置定语时，与名词构成动宾关系：“The rabbit has a lot of carrots to eat”（要被吃的胡萝卜）。" },
+      "exampleRefs": ["e14", "e15"],
+      "sourceRef": "The rabbit has a lot of carrots to eat."
+    },
+    {
+      "id": "c10",
+      "heading": { "en": "Infinitive as adverbial: cause, purpose, result", "zh": "不定式作状语：表原因、目的、结果" },
+      "body": { "en": "As an adverbial the infinitive can give cause ('I was surprised to get a thumbs up'), purpose ('I will do anything to get a thumbs up'), or result ('I got enough thumbs up to make another video') — each equivalent to an adverbial clause. So a non-finite verb can also condense a clause.", "zh": "作状语时，不定式可表原因（“I was surprised to get a thumbs up”）、目的（“I will do anything to get a thumbs up”）、结果（“I got enough thumbs up to make another video”）——分别相当于一个状语从句。可见非谓语动词还能简化从句。" },
+      "exampleRefs": ["e16", "e17", "e18"],
+      "sourceRef": "最后我们看看不定式如何通过做状语来表达原因、目的和结果。"
+    },
+    {
+      "id": "c11",
+      "heading": { "en": "The gerund: a verb turned into a noun (verb + ing)", "zh": "动名词：变成名词的动词（动词 + ing）" },
+      "body": { "en": "Add -ing to the base verb (sometimes doubling the final letter) and the verb behaves as a noun. So a gerund can fill any slot a noun can: subject ('Eating carrots is healthy for the rabbit'), subject complement ('The rabbit's hobby is growing carrots'), even both at once ('Seeing is believing').", "zh": "在动词原形后加 ing（有时重复末位字母），动词就当名词用。所以名词能作的成分动名词都能作：主语（“Eating carrots is healthy for the rabbit”）、表语（“The rabbit's hobby is growing carrots”），甚至同时充当（“Seeing is believing”）。" },
+      "exampleRefs": ["e19", "e20", "e21"],
+      "sourceRef": "Eating carrots is healthy for the rabbit."
+    },
+    {
+      "id": "c12",
+      "heading": { "en": "Gerund as attributive: 'a sleeping pill'", "zh": "动名词作定语：a sleeping pill" },
+      "body": { "en": "A gerund can be an attributive showing a noun's purpose: 'a sleeping pill' = a pill for sleeping. Here sleeping is a noun — the pill is not sleeping. This is easily confused with a present participle as attributive, covered later.", "zh": "动名词可作定语，说明名词的用途：“a sleeping pill”= 为睡眠用的药片。这里 sleeping 当名词用——不是药片在睡觉。这一点容易和后面讲的现在分词作定语混淆。" },
+      "exampleRefs": ["e22"],
+      "sourceRef": "a sleeping pill，sleeping做定语"
+    },
+    {
+      "id": "c13",
+      "heading": { "en": "Gerund as object — including after prepositions", "zh": "动名词作宾语——尤其在介词之后" },
+      "body": { "en": "A gerund can be a verb's object ('The rabbit likes eating carrots'). Some verbs refuse the infinitive and demand the gerund — enjoy, avoid, advise, consider, escape, mind, practice; phrases like insist on, give up, feel like, put off. After a preposition the verb must become a gerund: 'The rabbit is fond of eating carrots.' Watch 'look forward to' — the to is a preposition: 'The rabbit is looking forward to seeing the wolf again.'", "zh": "动名词可作动词的宾语（“The rabbit likes eating carrots”）。有些动词不接不定式，只接动名词——enjoy、avoid、advise、consider、escape、mind、practice；词组如 insist on、give up、feel like、put off。介词之后动词必须变动名词：“The rabbit is fond of eating carrots。”注意 look forward to 中的 to 是介词：“The rabbit is looking forward to seeing the wolf again。”" },
+      "exampleRefs": ["e23", "e24", "e25"],
+      "sourceRef": "The rabbit is looking forward to seeing the wolf again."
+    },
+    {
+      "id": "c14",
+      "heading": { "en": "Infinitive vs gerund as object: meaning shifts", "zh": "不定式与动名词作宾语：意义之别" },
+      "body": { "en": "Some verbs change meaning with the form. 'The rabbit stopped to eat a carrot' = stopped what it was doing in order to eat; 'The rabbit stopped eating a carrot' = stopped the eating. 'forget to do' = forgot to (not yet done); 'forget doing' = forgot having done (already done): 'The wolf forgot to invite the rabbit' vs 'The rabbit forgot accepting the wolf's invitation.'", "zh": "有些动词随形式改变意义。“The rabbit stopped to eat a carrot”=停下手中的事去吃；“The rabbit stopped eating a carrot”=停止吃。“forget to do”=忘记去做（还没做）；“forget doing”=忘记做过（已做）：“The wolf forgot to invite the rabbit”对比“The rabbit forgot accepting the wolf's invitation”。" },
+      "exampleRefs": ["e26", "e27", "e28", "e29"],
+      "sourceRef": "stop to do表示停下手中的事情去做另一件事"
+    },
+    {
+      "id": "c15",
+      "heading": { "en": "The present participle: a verb turned into an adjective", "zh": "现在分词：变成形容词的动词" },
+      "body": { "en": "A present participle (verb + ing) looks like a gerund but acts as an adjective and carries no time of its own. 'A talking rabbit' tells us only that the rabbit can talk, not when. As attributive, a sleeping rabbit means a rabbit that is sleeping (state) — not a pill for sleeping.", "zh": "现在分词（动词 + ing）形同动名词，但当形容词用，本身不带时间。“a talking rabbit”只说明兔子会说话，不说何时。作定语时，a sleeping rabbit 是“在睡觉的兔子”（状态）——不是 a pill for sleeping。" },
+      "exampleRefs": ["e30", "e31"],
+      "sourceRef": "a sleeping rabbit，一只沉睡的兔子"
+    },
+    {
+      "id": "c16",
+      "heading": { "en": "Present participle as subject complement (active sense)", "zh": "现在分词作表语（主动含义）" },
+      "body": { "en": "An adjective can be a subject complement, so a present participle can too: 'The rabbit is charming.' Many everyday describing words are participles: interesting (from interest), exciting (from excite), encouraging (from encourage). The present participle carries an active sense — the thing produces the effect: 'The story is interesting' = the story makes people interested.", "zh": "形容词能作表语，现在分词也能：“The rabbit is charming。”很多日常形容词其实是现在分词：interesting（来自 interest）、exciting（来自 excite）、encouraging（来自 encourage）。现在分词含主动关系——主语是发出动作的一方：“The story is interesting”=故事让人产生兴趣。" },
+      "exampleRefs": ["e32", "e33"],
+      "sourceRef": "现在分词暗含主动关系"
+    },
+    {
+      "id": "c17",
+      "heading": { "en": "Present participle as object complement & adverbial", "zh": "现在分词作宾语补语和状语" },
+      "body": { "en": "As an object complement the participle stresses an action in progress: 'The wolf saw the rabbit eating a carrot' (in the act) vs the bare infinitive 'saw the rabbit eat a carrot' (the whole action). As an adverbial it can show time, cause, condition and more: 'Hearing the news, the rabbit became excited' = When he heard the news...; 'Not knowing what to eat, the rabbit skipped lunch' = Because he didn't know...", "zh": "作宾语补语时，分词强调动作正在进行：“The wolf saw the rabbit eating a carrot”（正在吃）对比裸不定式“saw the rabbit eat a carrot”（整个过程）。作状语时可表时间、原因、条件等：“Hearing the news, the rabbit became excited”=When he heard the news...；“Not knowing what to eat, the rabbit skipped lunch”=Because he didn't know...。" },
+      "exampleRefs": ["e34", "e35", "e36"],
+      "sourceRef": "the wolf saw the rabbit eating a carrot"
+    },
+    {
+      "id": "c18",
+      "heading": { "en": "The past participle: state, not past time", "zh": "过去分词：表状态，不表过去时间" },
+      "body": { "en": "Despite its name, a past participle carries no past time. 'minced carrot' just means carrot in a minced state — 'The rabbit will eat minced carrot next week' is fine. The regular form is verb + ed, but many verbs are irregular and must be memorised. As attributive it is adjective-like: a single one goes before the noun (a minced carrot, a painted room, an excited rabbit), a phrase goes after it: 'The carrot cake eaten by the rabbit is delicious.'", "zh": "尽管名字带“过去”，过去分词不带过去时间。“minced carrot”只表示被绞的状态——“The rabbit will eat minced carrot next week”完全成立。规则形式是动词 + ed，但很多动词不规则，需记忆。作定语像形容词：单个放名词前（a minced carrot、a painted room、an excited rabbit），短语放名词后：“The carrot cake eaten by the rabbit is delicious。”" },
+      "exampleRefs": ["e37", "e38", "e39"],
+      "sourceRef": "minced 是不自带时间概念的，只是表示被绞的这个状态"
+    },
+    {
+      "id": "c19",
+      "heading": { "en": "Past participle as complement (passive sense)", "zh": "过去分词作补语（被动含义）" },
+      "body": { "en": "A past participle as subject complement carries a passive sense — the subject receives the action: 'The rabbit is interested in growing carrots' = the rabbit is made interested. Contrast the participles: 'The rabbit was frightened' (the rabbit feels afraid, passive) vs 'The rabbit was frightening' (the rabbit scares others, active). It can also be an object complement: 'The rabbit found his carrot stolen.' So never say ‑ed means people and ‑ing means things — decide by active vs passive meaning.", "zh": "过去分词作表语含被动关系——主语是动作的接受者：“The rabbit is interested in growing carrots”=兔子被引起了兴趣。对比两种分词：“The rabbit was frightened”（兔子感到害怕，被动）对比“The rabbit was frightening”（兔子令人害怕，主动）。也可作宾语补语：“The rabbit found his carrot stolen。”所以切勿笼统认为 ‑ed 修饰人、‑ing 修饰物——要看主动还是被动。" },
+      "exampleRefs": ["e40", "e41", "e42"],
+      "sourceRef": "过去分词暗含被动关系，即被描述的是动作的接受者"
+    },
+    {
+      "id": "c20",
+      "heading": { "en": "Past participle as adverbial & the absolute construction", "zh": "过去分词作状语与独立主格" },
+      "body": { "en": "A past participle as adverbial shows the participle's logical subject in a passive relation: 'Seen from the hill, the carrot field looks beautiful' (the field is seen). Compare active 'Seeing the carrot field, the rabbit ran towards it.' In the absolute construction the participle has its own subject inside an adverbial, not the main subject: 'The work finished, the rabbit went home' (= After the work was finished...); 'The weather permitting, the rabbit will go out.'", "zh": "过去分词作状语时，其逻辑主语与之是被动关系：“Seen from the hill, the carrot field looks beautiful”（田被看）。对比主动“Seeing the carrot field, the rabbit ran towards it”。独立主格中，分词在状语内有自己的主语，而非整句主语：“The work finished, the rabbit went home”（=After the work was finished...）；“The weather permitting, the rabbit will go out”。" },
+      "exampleRefs": ["e43", "e44", "e45"],
+      "sourceRef": "以上这种一个简单句除去核心的谓语动词外，其他的动词转为对应的过去分词或现在分词的用法，语法上称作独立主格。"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "The rabbit likes to eat carrots.",
+      "annotations": [
+        { "quote": "likes", "tag": "verb-transitive" },
+        { "quote": "to eat", "tag": "infinitive" }
+      ],
+      "note": { "en": "The fix for 'likes eat': one finite verb (likes) plus a non-finite verb (to eat).", "zh": "“likes eat”的修正：一个限定动词（likes）加一个非谓语动词（to eat）。" }
+    },
+    {
+      "id": "e2",
+      "text": "The rabbit has eaten a carrot.",
+      "annotations": [
+        { "quote": "has", "tag": "auxiliary" },
+        { "quote": "eaten", "tag": "predicate" }
+      ],
+      "note": { "en": "The finite verb 'eat' conjugates (has eaten) to show state and time — a true predicate verb.", "zh": "限定动词 eat 变位为 has eaten，表达状态与时间——真正的谓语动词。" }
+    },
+    {
+      "id": "e3",
+      "text": "I am a talking rabbit.",
+      "annotations": [
+        { "quote": "am", "tag": "verb-linking" },
+        { "quote": "talking", "tag": "present-participle" }
+      ],
+      "note": { "en": "'Am' is the finite verb; 'talking' is non-finite — it tells us nothing about time or person.", "zh": "“am”是限定动词；“talking”是非谓语——不表达时间或人称。" }
+    },
+    {
+      "id": "e4",
+      "text": "Because I am a rabbit, I eat carrots.",
+      "annotations": [
+        { "quote": "Because", "tag": "clause-marker" },
+        { "quote": "am", "tag": "verb-linking" },
+        { "quote": "eat", "tag": "verb-transitive" }
+      ],
+      "note": { "en": "Two finite verbs are allowed here because a clause marker subordinates one clause — not a bare comma splice.", "zh": "这里允许两个限定动词，因为从句引导词使一个分句从属——不是逗号粘连。" }
+    },
+    {
+      "id": "e5",
+      "text": "To be or not to be, that is the question.",
+      "annotations": [
+        { "quote": "To be", "tag": "infinitive" },
+        { "quote": "not to be", "tag": "infinitive" },
+        { "quote": "is", "tag": "verb-linking" }
+      ],
+      "note": { "en": "Classic full infinitives: to + base verb.", "zh": "经典的完全不定式：to + 动词原形。" }
+    },
+    {
+      "id": "e6",
+      "text": "You helped me cook the carrot.",
+      "annotations": [
+        { "quote": "helped", "tag": "verb-transitive" },
+        { "quote": "cook", "tag": "infinitive" }
+      ],
+      "note": { "en": "'Cook' is a bare infinitive — the to is dropped after help.", "zh": "“cook”是裸不定式——help 后省略了 to。" }
+    },
+    {
+      "id": "e7",
+      "text": "To eat a carrot every day is good for the rabbit.",
+      "annotations": [
+        { "quote": "To eat", "tag": "infinitive" },
+        { "quote": "is", "tag": "verb-linking" }
+      ],
+      "note": { "en": "The infinitive phrase 'To eat a carrot every day' is the subject.", "zh": "不定式短语“To eat a carrot every day”作主语。" }
+    },
+    {
+      "id": "e8",
+      "text": "It is good for the rabbit to eat a carrot every day.",
+      "annotations": [
+        { "quote": "It", "tag": "subject" },
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "to eat", "tag": "infinitive" }
+      ],
+      "note": { "en": "'It' is the formal subject; the real subject is the infinitive moved to the end.", "zh": "“It”是形式主语；真正的主语是移到句末的不定式。" }
+    },
+    {
+      "id": "e9",
+      "text": "The rabbit likes to eat carrots.",
+      "annotations": [
+        { "quote": "likes", "tag": "verb-transitive" },
+        { "quote": "to eat", "tag": "infinitive" }
+      ],
+      "note": { "en": "Here the infinitive 'to eat' is the object of 'likes'.", "zh": "这里不定式“to eat”作“likes”的宾语。" }
+    },
+    {
+      "id": "e10",
+      "text": "I consider it important to eat a carrot every day.",
+      "annotations": [
+        { "quote": "consider", "tag": "verb-transitive" },
+        { "quote": "it", "tag": "object" },
+        { "quote": "important", "tag": "object-complement" },
+        { "quote": "to eat", "tag": "infinitive" }
+      ],
+      "note": { "en": "'It' is the formal object; the real object is the infinitive at the end.", "zh": "“it”是形式宾语；真正的宾语是句末的不定式。" }
+    },
+    {
+      "id": "e11",
+      "text": "The rabbit expected the wolf to eat a carrot.",
+      "annotations": [
+        { "quote": "expected", "tag": "verb-transitive" },
+        { "quote": "the wolf", "tag": "object" },
+        { "quote": "to eat", "tag": "infinitive" }
+      ],
+      "note": { "en": "'To eat a carrot' is the object complement, describing the wolf's action.", "zh": "“to eat a carrot”是宾语补语，补充说明狼的动作。" }
+    },
+    {
+      "id": "e12",
+      "text": "Carrots make the rabbit feel happy.",
+      "annotations": [
+        { "quote": "make", "tag": "verb-transitive" },
+        { "quote": "the rabbit", "tag": "object" },
+        { "quote": "feel", "tag": "infinitive" }
+      ],
+      "note": { "en": "After the causative 'make', the infinitive 'feel' drops its to — a bare infinitive.", "zh": "使役动词“make”后，不定式“feel”省去 to——裸不定式。" }
+    },
+    {
+      "id": "e13",
+      "text": "The wolf helped the rabbit grow carrots.",
+      "annotations": [
+        { "quote": "helped", "tag": "verb-transitive" },
+        { "quote": "the rabbit", "tag": "object" },
+        { "quote": "grow", "tag": "infinitive" }
+      ],
+      "note": { "en": "After 'help' the to is optional — 'helped the rabbit (to) grow' are both correct.", "zh": "“help”后省不省 to 均可——“helped the rabbit (to) grow”都正确。" }
+    },
+    {
+      "id": "e14",
+      "text": "The rabbit's dream is to eat every kind of carrot in the world.",
+      "annotations": [
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "to eat", "tag": "infinitive" }
+      ],
+      "note": { "en": "After the linking verb 'is', the infinitive is the subject complement — an equals sign.", "zh": "系动词“is”后，不定式作表语——相当于等号。" }
+    },
+    {
+      "id": "e15",
+      "text": "The rabbit has a lot of carrots to eat.",
+      "annotations": [
+        { "quote": "has", "tag": "verb-transitive" },
+        { "quote": "carrots", "tag": "object" },
+        { "quote": "to eat", "tag": "infinitive" }
+      ],
+      "note": { "en": "'To eat' is a post-positive attributive on 'carrots' — carrots that will be eaten.", "zh": "“to eat”是“carrots”的后置定语——会被吃的胡萝卜。" }
+    },
+    {
+      "id": "e16",
+      "text": "I was surprised to get a thumbs up.",
+      "annotations": [
+        { "quote": "was", "tag": "verb-linking" },
+        { "quote": "to get", "tag": "infinitive" }
+      ],
+      "note": { "en": "Adverbial of cause = 'because I got a thumbs up'.", "zh": "原因状语 = “because I got a thumbs up”。" }
+    },
+    {
+      "id": "e17",
+      "text": "I will do anything to get a thumbs up.",
+      "annotations": [
+        { "quote": "will", "tag": "auxiliary" },
+        { "quote": "to get", "tag": "infinitive" }
+      ],
+      "note": { "en": "Adverbial of purpose = 'in order that I get a thumbs up'.", "zh": "目的状语 = “in order that I get a thumbs up”。" }
+    },
+    {
+      "id": "e18",
+      "text": "I got enough thumbs up to make another video.",
+      "annotations": [
+        { "quote": "got", "tag": "verb-transitive" },
+        { "quote": "to make", "tag": "infinitive" }
+      ],
+      "note": { "en": "Adverbial of result = 'so that I made another video'.", "zh": "结果状语 = “so that I made another video”。" }
+    },
+    {
+      "id": "e19",
+      "text": "Eating carrots is healthy for the rabbit.",
+      "annotations": [
+        { "quote": "Eating carrots", "tag": "gerund" },
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "healthy", "tag": "subject-complement" }
+      ],
+      "note": { "en": "The gerund phrase 'Eating carrots' is the subject.", "zh": "动名词短语“Eating carrots”作主语。" }
+    },
+    {
+      "id": "e20",
+      "text": "The rabbit's hobby is growing carrots.",
+      "annotations": [
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "growing carrots", "tag": "gerund" }
+      ],
+      "note": { "en": "Gerund as subject complement after the linking verb.", "zh": "动名词作系动词后的表语。" }
+    },
+    {
+      "id": "e21",
+      "text": "Seeing is believing.",
+      "annotations": [
+        { "quote": "Seeing", "tag": "gerund" },
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "believing", "tag": "gerund" }
+      ],
+      "note": { "en": "Both subject and complement are gerunds.", "zh": "主语和表语都是动名词。" }
+    },
+    {
+      "id": "e22",
+      "text": "a sleeping pill",
+      "annotations": [
+        { "quote": "sleeping", "tag": "gerund" },
+        { "quote": "pill", "tag": "object" }
+      ],
+      "note": { "en": "Gerund attributive: a pill for sleeping (purpose) — the pill is not asleep.", "zh": "动名词定语：为睡眠用的药片（用途）——不是药片在睡。" }
+    },
+    {
+      "id": "e23",
+      "text": "The rabbit enjoys eating carrots.",
+      "annotations": [
+        { "quote": "enjoys", "tag": "verb-transitive" },
+        { "quote": "eating carrots", "tag": "gerund" }
+      ],
+      "note": { "en": "Enjoy takes only a gerund, never an infinitive (not 'enjoys to eat').", "zh": "enjoy 只接动名词，不接不定式（不能说“enjoys to eat”）。" }
+    },
+    {
+      "id": "e24",
+      "text": "The rabbit is fond of eating carrots.",
+      "annotations": [
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "of", "tag": "preposition" },
+        { "quote": "eating carrots", "tag": "gerund" }
+      ],
+      "note": { "en": "After the preposition 'of', the verb must be a gerund.", "zh": "介词“of”后，动词必须变动名词。" }
+    },
+    {
+      "id": "e25",
+      "text": "The rabbit is looking forward to seeing the wolf again.",
+      "annotations": [
+        { "quote": "to", "tag": "preposition" },
+        { "quote": "seeing", "tag": "gerund" }
+      ],
+      "note": { "en": "In 'look forward to', the 'to' is a preposition, so a gerund follows — not an infinitive.", "zh": "“look forward to”里的“to”是介词，所以后接动名词——不是不定式。" }
+    },
+    {
+      "id": "e26",
+      "text": "The rabbit stopped to eat a carrot.",
+      "annotations": [
+        { "quote": "stopped", "tag": "verb-intransitive" },
+        { "quote": "to eat", "tag": "infinitive" }
+      ],
+      "note": { "en": "'stop to do' = stop the current task in order to do something else.", "zh": "“stop to do”=停下手中的事去做另一件事。" }
+    },
+    {
+      "id": "e27",
+      "text": "The rabbit stopped eating a carrot.",
+      "annotations": [
+        { "quote": "stopped", "tag": "verb-transitive" },
+        { "quote": "eating a carrot", "tag": "gerund" }
+      ],
+      "note": { "en": "'stop doing' = stop the activity itself — the rabbit no longer eats.", "zh": "“stop doing”=停止正在做的事——兔子不再吃了。" }
+    },
+    {
+      "id": "e28",
+      "text": "The wolf forgot to invite the rabbit to her party.",
+      "annotations": [
+        { "quote": "forgot", "tag": "verb-transitive" },
+        { "quote": "to invite", "tag": "infinitive" }
+      ],
+      "note": { "en": "'forget to do' = forgot to do it — still not done.", "zh": "“forget to do”=忘记去做——还没做。" }
+    },
+    {
+      "id": "e29",
+      "text": "The rabbit forgot accepting the wolf's invitation.",
+      "annotations": [
+        { "quote": "forgot", "tag": "verb-transitive" },
+        { "quote": "accepting", "tag": "gerund" }
+      ],
+      "note": { "en": "'forget doing' = forgot having done it — already done.", "zh": "“forget doing”=忘记做过——已经做了。" }
+    },
+    {
+      "id": "e30",
+      "text": "a talking rabbit",
+      "annotations": [
+        { "quote": "talking", "tag": "present-participle" }
+      ],
+      "note": { "en": "Present participle attributive — a rabbit that can talk; no time is implied.", "zh": "现在分词定语——会说话的兔子；不含时间。" }
+    },
+    {
+      "id": "e31",
+      "text": "a sleeping rabbit",
+      "annotations": [
+        { "quote": "sleeping", "tag": "present-participle" }
+      ],
+      "note": { "en": "Here 'sleeping' is a present participle: a rabbit that is sleeping (state) — not 'a rabbit for sleeping'.", "zh": "这里“sleeping”是现在分词：在睡觉的兔子（状态）——不是“为睡觉用的兔子”。" }
+    },
+    {
+      "id": "e32",
+      "text": "The rabbit is charming.",
+      "annotations": [
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "charming", "tag": "present-participle" }
+      ],
+      "note": { "en": "Present participle as subject complement.", "zh": "现在分词作表语。" }
+    },
+    {
+      "id": "e33",
+      "text": "The story is interesting.",
+      "annotations": [
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "interesting", "tag": "present-participle" }
+      ],
+      "note": { "en": "Active sense: the story makes people interested (from the verb 'interest').", "zh": "主动含义：故事让人产生兴趣（来自动词 interest）。" }
+    },
+    {
+      "id": "e34",
+      "text": "The wolf saw the rabbit eating a carrot.",
+      "annotations": [
+        { "quote": "saw", "tag": "verb-transitive" },
+        { "quote": "the rabbit", "tag": "object" },
+        { "quote": "eating", "tag": "present-participle" }
+      ],
+      "note": { "en": "Present participle object complement — stresses the action in progress.", "zh": "现在分词作宾语补语——强调动作正在进行。" }
+    },
+    {
+      "id": "e35",
+      "text": "Hearing the news, the rabbit became excited.",
+      "annotations": [
+        { "quote": "Hearing", "tag": "present-participle" },
+        { "quote": "became", "tag": "verb-linking" },
+        { "quote": "excited", "tag": "past-participle" }
+      ],
+      "note": { "en": "Adverbial of time = 'When he heard the news...'. 'excited' is a past participle (passive sense).", "zh": "时间状语 = “When he heard the news...”。“excited”是过去分词（被动含义）。" }
+    },
+    {
+      "id": "e36",
+      "text": "Not knowing what to eat, the rabbit skipped lunch.",
+      "annotations": [
+        { "quote": "Not knowing", "tag": "present-participle" },
+        { "quote": "skipped", "tag": "verb-transitive" }
+      ],
+      "note": { "en": "Adverbial of cause = 'Because he didn't know what to eat...'.", "zh": "原因状语 = “Because he didn't know what to eat...”。" }
+    },
+    {
+      "id": "e37",
+      "text": "The rabbit will eat minced carrot next week.",
+      "annotations": [
+        { "quote": "will", "tag": "auxiliary" },
+        { "quote": "minced", "tag": "past-participle" }
+      ],
+      "note": { "en": "Past participle carries no past time — 'minced' just means 'in a minced state', even with a future verb.", "zh": "过去分词不带过去时间——“minced”只表“被绞的状态”，即使配将来时也成立。" }
+    },
+    {
+      "id": "e38",
+      "text": "an excited rabbit",
+      "annotations": [
+        { "quote": "excited", "tag": "past-participle" }
+      ],
+      "note": { "en": "A single past participle goes before the noun, like an adjective.", "zh": "单个过去分词放在名词前，像形容词一样。" }
+    },
+    {
+      "id": "e39",
+      "text": "The carrot cake eaten by the rabbit is delicious.",
+      "annotations": [
+        { "quote": "eaten by the rabbit", "tag": "past-participle" },
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "delicious", "tag": "subject-complement" }
+      ],
+      "note": { "en": "A past-participle phrase is a post-positive attributive after the noun.", "zh": "过去分词短语作名词后的后置定语。" }
+    },
+    {
+      "id": "e40",
+      "text": "The rabbit is interested in growing carrots.",
+      "annotations": [
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "interested", "tag": "past-participle" },
+        { "quote": "in", "tag": "preposition", "occurrence": 2 },
+        { "quote": "growing carrots", "tag": "gerund" }
+      ],
+      "note": { "en": "Past participle complement (passive: the rabbit is made interested), plus a gerund after the preposition 'in'.", "zh": "过去分词作表语（被动：兔子被引起兴趣），介词“in”后再加一个动名词。" }
+    },
+    {
+      "id": "e41",
+      "text": "The rabbit was frightened.",
+      "annotations": [
+        { "quote": "was", "tag": "verb-linking" },
+        { "quote": "frightened", "tag": "past-participle" }
+      ],
+      "note": { "en": "Passive sense: the rabbit feels afraid (was made frightened).", "zh": "被动含义：兔子感到害怕（被吓到）。" }
+    },
+    {
+      "id": "e42",
+      "text": "The rabbit found his carrot stolen.",
+      "annotations": [
+        { "quote": "found", "tag": "verb-transitive" },
+        { "quote": "his carrot", "tag": "object" },
+        { "quote": "stolen", "tag": "past-participle" }
+      ],
+      "note": { "en": "Past participle as object complement (passive: the carrot was stolen).", "zh": "过去分词作宾语补语（被动：胡萝卜被偷）。" }
+    },
+    {
+      "id": "e43",
+      "text": "Seen from the hill, the carrot field looks beautiful.",
+      "annotations": [
+        { "quote": "Seen from the hill", "tag": "past-participle" },
+        { "quote": "looks", "tag": "verb-linking" }
+      ],
+      "note": { "en": "Past-participle adverbial — the field is seen (passive); its logical subject is 'the carrot field'.", "zh": "过去分词状语——田被看（被动）；其逻辑主语是“the carrot field”。" }
+    },
+    {
+      "id": "e44",
+      "text": "Seeing the carrot field, the rabbit ran towards it.",
+      "annotations": [
+        { "quote": "Seeing the carrot field", "tag": "present-participle" },
+        { "quote": "ran", "tag": "verb-intransitive" }
+      ],
+      "note": { "en": "Active counterpart — the rabbit actively sees, so use the present participle.", "zh": "主动对照——兔子主动去看，所以用现在分词。" }
+    },
+    {
+      "id": "e45",
+      "text": "The work finished, the rabbit went home.",
+      "annotations": [
+        { "quote": "The work", "tag": "subject" },
+        { "quote": "finished", "tag": "past-participle" },
+        { "quote": "went", "tag": "verb-intransitive" }
+      ],
+      "note": { "en": "Absolute construction — 'finished' describes 'The work', not 'the rabbit'; the only finite verb is 'went'. = After the work was finished...", "zh": "独立主格——“finished”描述“The work”而非“the rabbit”；唯一的谓语动词是“went”。= After the work was finished...。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "error",
+      "sentence": "The rabbit likes eat carrots.",
+      "fix": "The rabbit likes to eat carrots.",
+      "explain": { "en": "A sentence has one finite verb (likes); the second verb must turn non-finite — here the infinitive 'to eat'.", "zh": "句子只有一个限定动词（likes）；第二个动词必须变非谓语——这里是不定式“to eat”。" },
+      "refs": ["c1", "c3", "e1"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "Why is 'I am a rabbit, I eat carrots' wrong?", "zh": "为什么“I am a rabbit, I eat carrots”是错的？" },
+      "choices": [
+        { "id": "a", "text": { "en": "It has two finite verbs joined by only a comma", "zh": "两个限定动词只用逗号连接" } },
+        { "id": "b", "text": { "en": "'Eat' should be a gerund", "zh": "“eat”应该用动名词" } },
+        { "id": "c", "text": { "en": "'Rabbit' is uncountable", "zh": "“rabbit”是不可数名词" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "Two simple sentences each have a finite verb; joining them with a bare comma is wrong. Use a conjunction or make one a subordinate clause.", "zh": "两个简单句各有一个限定动词，仅用逗号连接是错的。要用连词或把其一改成从句。" },
+      "refs": ["c4", "e4"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Rewrite with a formal subject: 'To eat a carrot every day is good for the rabbit.' → '____ is good for the rabbit to eat a carrot every day.'", "zh": "用形式主语改写：'To eat a carrot every day is good for the rabbit.' → '____ is good for the rabbit to eat a carrot every day.'" },
+      "answers": ["It", "it"],
+      "explain": { "en": "'It' is the formal subject, standing in for the infinitive moved to the end to avoid a top-heavy sentence.", "zh": "“It”是形式主语，代替移到句末的不定式，避免头重脚轻。" },
+      "refs": ["c6", "e8"]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": { "en": "What is 'to eat' in 'The rabbit has a lot of carrots to eat'?", "zh": "在“The rabbit has a lot of carrots to eat”中，“to eat”是什么成分？" },
+      "choices": [
+        { "id": "a", "text": { "en": "A post-positive attributive on 'carrots'", "zh": "“carrots”的后置定语" } },
+        { "id": "b", "text": { "en": "The subject", "zh": "主语" } },
+        { "id": "c", "text": { "en": "A subject complement", "zh": "表语" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "'To eat' follows and modifies 'carrots' (carrots that will be eaten) — a post-positive attributive in a verb-object relation.", "zh": "“to eat”跟在“carrots”之后并修饰它（要被吃的胡萝卜）——动宾关系的后置定语。" },
+      "refs": ["c9", "e15"]
+    },
+    {
+      "id": "q5",
+      "type": "error",
+      "sentence": "The rabbit enjoys to eat carrots.",
+      "fix": "The rabbit enjoys eating carrots.",
+      "explain": { "en": "Enjoy takes only a gerund, never an infinitive. Verbs like avoid, mind and practice behave the same way.", "zh": "enjoy 只接动名词，不接不定式。avoid、mind、practice 等动词同理。" },
+      "refs": ["c13", "e23"]
+    },
+    {
+      "id": "q6",
+      "type": "fill",
+      "prompt": { "en": "Fill the blank (mind the preposition 'to'): 'The rabbit is looking forward to ____ the wolf again.' (see)", "zh": "填空（注意介词“to”）：'The rabbit is looking forward to ____ the wolf again.'（see）" },
+      "answers": ["seeing"],
+      "explain": { "en": "In 'look forward to', the 'to' is a preposition, so a gerund follows: 'seeing', not 'see' or 'to see'.", "zh": "“look forward to”里的“to”是介词，后接动名词：“seeing”，而非“see”或“to see”。" },
+      "refs": ["c13", "e25"]
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": { "en": "Which means the rabbit no longer eats the carrot?", "zh": "哪一句表示兔子不再吃那根胡萝卜了？" },
+      "choices": [
+        { "id": "a", "text": { "en": "The rabbit stopped eating a carrot.", "zh": "The rabbit stopped eating a carrot." } },
+        { "id": "b", "text": { "en": "The rabbit stopped to eat a carrot.", "zh": "The rabbit stopped to eat a carrot." } },
+        { "id": "c", "text": { "en": "The rabbit likes to eat a carrot.", "zh": "The rabbit likes to eat a carrot." } }
+      ],
+      "answer": "a",
+      "explain": { "en": "'stop doing' = stop the activity itself; 'stop to do' = pause something else in order to eat.", "zh": "“stop doing”=停止该活动本身；“stop to do”=停下别的事去吃。" },
+      "refs": ["c14", "e26", "e27"]
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": { "en": "Which sentence means the rabbit feels afraid?", "zh": "哪一句表示兔子感到害怕？" },
+      "choices": [
+        { "id": "a", "text": { "en": "The rabbit was frightened.", "zh": "The rabbit was frightened." } },
+        { "id": "b", "text": { "en": "The rabbit was frightening.", "zh": "The rabbit was frightening." } },
+        { "id": "c", "text": { "en": "The rabbit is frightening others.", "zh": "The rabbit is frightening others." } }
+      ],
+      "answer": "a",
+      "explain": { "en": "The past participle 'frightened' is passive — the rabbit is scared. 'frightening' (present participle) is active — the rabbit scares others.", "zh": "过去分词“frightened”是被动——兔子被吓到。“frightening”（现在分词）是主动——兔子吓别人。" },
+      "refs": ["c19", "e41"]
+    },
+    {
+      "id": "q9",
+      "type": "fill",
+      "prompt": { "en": "Active or passive? Fill with the right participle of 'see': '____ from the hill, the carrot field looks beautiful.'", "zh": "主动还是被动？用 see 的正确分词填空：'____ from the hill, the carrot field looks beautiful.'" },
+      "answers": ["Seen", "seen"],
+      "explain": { "en": "The field is seen (passive), so use the past participle 'Seen'. 'Seeing' would wrongly make the field the one looking.", "zh": "田是被看（被动），所以用过去分词“Seen”。“Seeing”会错误地让田成为看的一方。" },
+      "refs": ["c20", "e43", "e44"]
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": { "en": "In 'The work finished, the rabbit went home', what does 'finished' describe?", "zh": "在“The work finished, the rabbit went home”中，“finished”描述什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "'The work' — it is the absolute construction", "zh": "“The work”——这是独立主格" } },
+        { "id": "b", "text": { "en": "'The rabbit' — the rabbit is finished", "zh": "“The rabbit”——兔子结束了" } },
+        { "id": "c", "text": { "en": "It is the finite verb of the sentence", "zh": "它是句子的谓语动词" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "'Finished' describes 'The work', not the rabbit — an absolute construction. The only finite verb is 'went'.", "zh": "“finished”描述“The work”而非兔子——独立主格。唯一的谓语动词是“went”。" },
+      "refs": ["c20", "e45"]
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": { "en": "Why does 'minced' carry no past time in 'The rabbit will eat minced carrot next week'?", "zh": "为什么“The rabbit will eat minced carrot next week”中的“minced”不带过去时间？" },
+      "choices": [
+        { "id": "a", "text": { "en": "A past participle is non-finite — it shows state, not time", "zh": "过去分词是非谓语——表状态，不表时间" } },
+        { "id": "b", "text": { "en": "Because the main verb is 'will eat'", "zh": "因为主要动词是“will eat”" } },
+        { "id": "c", "text": { "en": "Because 'minced' is an irregular verb", "zh": "因为“minced”是不规则动词" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "Non-finite verbs lose time; 'minced' just means 'in a minced state', so a future sentence is fine.", "zh": "非谓语动词失去时间；“minced”只表“被绞的状态”，所以配将来时没问题。" },
+      "refs": ["c18", "e37"]
+    },
+    {
+      "id": "q12",
+      "type": "error",
+      "sentence": "Carrots make the rabbit to feel happy.",
+      "fix": "Carrots make the rabbit feel happy.",
+      "explain": { "en": "After the causative 'make', the infinitive object complement drops its to — a bare infinitive: 'feel', not 'to feel'.", "zh": "使役动词“make”后，作宾补的不定式省去 to——裸不定式：“feel”，而非“to feel”。" },
+      "refs": ["c8", "e12"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "The rabbit and the wolf sort out their forms", "zh": "兔子和狼理清非谓语形式" },
+    "targets": ["infinitive", "gerund", "present-participle", "past-participle"],
+    "lines": [
+      {
+        "speaker": "Wolf",
+        "text": "The rabbit likes to eat carrots, doesn't it?",
+        "annotations": [
+          { "quote": "likes", "tag": "verb-transitive" },
+          { "quote": "to eat", "tag": "infinitive" }
+        ],
+        "note": { "en": "Infinitive as object of 'likes'.", "zh": "不定式作“likes”的宾语。" }
+      },
+      {
+        "speaker": "Rabbit",
+        "text": "Yes, and eating carrots is healthy for me.",
+        "annotations": [
+          { "quote": "eating carrots", "tag": "gerund" },
+          { "quote": "is", "tag": "verb-linking" },
+          { "quote": "healthy", "tag": "subject-complement" }
+        ],
+        "note": { "en": "Gerund phrase as subject.", "zh": "动名词短语作主语。" }
+      },
+      {
+        "speaker": "Wolf",
+        "text": "I saw you eating a carrot by the hill this morning.",
+        "annotations": [
+          { "quote": "saw", "tag": "verb-transitive" },
+          { "quote": "you", "tag": "object" },
+          { "quote": "eating", "tag": "present-participle" }
+        ],
+        "note": { "en": "Present participle as object complement — the action in progress.", "zh": "现在分词作宾语补语——正在进行的动作。" }
+      },
+      {
+        "speaker": "Rabbit",
+        "text": "That was a minced carrot, actually — and I was interested in growing more.",
+        "annotations": [
+          { "quote": "minced", "tag": "past-participle" },
+          { "quote": "interested", "tag": "past-participle" },
+          { "quote": "in", "tag": "preposition", "occurrence": 3 },
+          { "quote": "growing", "tag": "gerund" }
+        ],
+        "note": { "en": "Past participle 'minced' (state) and 'interested' (passive complement); gerund after the preposition 'in'.", "zh": "过去分词“minced”（状态）和“interested”（被动表语）；介词“in”后接动名词。" }
+      },
+      {
+        "speaker": "Wolf",
+        "text": "The work finished, you went home happy.",
+        "annotations": [
+          { "quote": "The work", "tag": "subject" },
+          { "quote": "finished", "tag": "past-participle" },
+          { "quote": "went", "tag": "verb-intransitive" }
+        ],
+        "note": { "en": "Absolute construction: 'finished' describes 'The work'; the only finite verb is 'went'.", "zh": "独立主格：“finished”描述“The work”；唯一的谓语动词是“went”。" }
+      },
+      {
+        "speaker": "Rabbit",
+        "text": "Hearing that, I was surprised to feel so understood!",
+        "annotations": [
+          { "quote": "Hearing that", "tag": "present-participle" },
+          { "quote": "was", "tag": "verb-linking" },
+          { "quote": "surprised", "tag": "past-participle" },
+          { "quote": "to feel", "tag": "infinitive" }
+        ],
+        "note": { "en": "Present participle adverbial of time; past participle complement (passive); infinitive adverbial of cause.", "zh": "现在分词作时间状语；过去分词作表语（被动）；不定式作原因状语。" }
+      }
+    ]
+  }
+}

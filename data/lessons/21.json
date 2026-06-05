@@ -1,0 +1,260 @@
+{
+  "id": "21",
+  "slug": "english-grammar-passive-voice",
+  "category": "verbs-tenses-mood",
+  "shape": "standard",
+  "order": 11,
+  "title": { "en": "The Passive Voice", "zh": "被动语态" },
+  "summary": { "en": "Voice is about emphasis: the active stresses who does the action, the passive stresses who receives it. English builds the passive on the predicate verb with be + past participle, moving the receiver into the subject slot and adding 'by + doer' only when needed.", "zh": "语态关乎强调：主动语态强调动作的执行者，被动语态强调动作的承受者。英语用谓语动词的变化——be + 过去分词——来构成被动，把承受者提到主语位置，只在需要时用“by + 执行者”补上施动者。" },
+  "source": { "videoId": "DxX_oqcWuO4", "youtube": "https://www.youtube.com/watch?v=DxX_oqcWuO4", "duration": "9:17", "script": "scripts/21-english-grammar-passive-voice.md" },
+  "tags": [
+    { "id": "be-aux", "label": { "en": "be (passive auxiliary)", "zh": "be 动词（被动助动词）" }, "abbr": "be", "color": "#4f46e5", "underline": "dotted" },
+    { "id": "past-participle", "label": { "en": "past participle", "zh": "过去分词" }, "abbr": "pp", "color": "#dc2626", "underline": "solid" },
+    { "id": "by-agent", "label": { "en": "by + agent", "zh": "by + 施动者" }, "abbr": "by", "color": "#0369a1", "underline": "dashed" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "Voice = which role you put in the spotlight", "zh": "语态 = 你把哪个角色放到聚光灯下" },
+      "body": { "en": "Whatever you want to stress becomes the subject. If you stress the doer of the action (the rabbit biting), the sentence is active. If you stress the receiver of the action (who got bitten), the sentence tends to go passive. Chinese marks this with '被'; English marks it on the verb.", "zh": "你想强调谁，谁就充当主语。如果强调动作的执行者（兔子做出咬人的举动），句子用主动语态；如果强调动作的承受者（谁被咬），句子就倾向用被动语态。中文用“被”来表达，英文则通过动词变化来表达。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "如果强调动作的执行者"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "The passive lives on the predicate verb: be + past participle", "zh": "被动语态由谓语动词构成：be + 过去分词" },
+      "body": { "en": "Because the predicate verb is the core of the sentence, the passive is formed by changing it. The recipe is simple: be + past participle. The be-verb carries the tense; the past participle carries the meaning. Only the receiver of an action can become a passive subject — so only verbs that have a receiver can go passive.", "zh": "因为谓语动词在句子成分中占核心地位，被动语态也通过它的变化来完成。公式很简单：be + 过去分词。be 动词承载时态，过去分词承载词义。只有动作的承受者才能变成被动句的主语——所以只有“有承受者”的动词才能变被动。" },
+      "exampleRefs": ["e2"],
+      "sourceRef": "B加过去分词"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Keep the original tense — and add 'by + doer' only if needed", "zh": "保留原来的时态——并仅在需要时加“by + 执行者”" },
+      "body": { "en": "When you flip active to passive, the be-verb must match the original tense, not slide back to the present. A past-tense active sentence needs 'was/were', not 'is'. Name the doer with 'by + doer' only when it matters; very often the doer is obvious and is dropped.", "zh": "把主动变被动时，be 动词必须对应原来的时态，不能滑回现在时：原句是一般过去时，就要用 was/were，而不是 is。只有在需要表明执行者时才用“by + 执行者”；很多情况下执行者一目了然，可以省略。" },
+      "exampleRefs": ["e3", "e4"],
+      "sourceRef": "B动词应该用is的过去时态啊，不就是was吗"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Pattern 1 (S+V) and Pattern 5 (S+link+complement) have no passive", "zh": "句型一（主+谓）和句型五（主+系+表）没有被动语态" },
+      "body": { "en": "An intransitive verb (e.g. sleep) has no receiver, so there is nothing to promote to subject — no passive. A linking-verb sentence (The rabbit is smart) just equates subject and complement; it can't be turned passive either. Passive only exists where there is a real object/receiver.", "zh": "不及物动词（如 sleep）没有承受者，没有可以提升为主语的对象——没有被动语态。系动词句（The rabbit is smart）只是把主语和表语划等号，也无法变被动。被动语态只存在于有真正宾语/承受者的句子里。" },
+      "exampleRefs": ["e1", "e8"],
+      "sourceRef": "这种句型没有办法变成被动语态"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "Ditransitive (S+V+iO+dO): either object can be promoted", "zh": "双及物（主+谓+间宾+直宾）：两个宾语都能提到主语" },
+      "body": { "en": "With two objects you can stress either one. Promote the indirect object: 'The wolf was given the carrot'. Promote the direct object and you must keep the preposition: 'The carrot was given to the wolf' — never 'The carrot was given the wolf'. Don't drop 'to'.", "zh": "有两个宾语时，你可以强调其中任意一个。提升间接宾语：The wolf was given the carrot；提升直接宾语时必须保留介词：The carrot was given to the wolf——绝不能写成 The carrot was given the wolf。千万别漏掉 to。" },
+      "exampleRefs": ["e5", "e6"],
+      "sourceRef": "千万不要漏掉to哦"
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "Object-complement (S+V+O+oC): restore a dropped 'to'", "zh": "宾补句型（主+谓+宾+宾补）：还原省略的 to" },
+      "body": { "en": "Verbs like make/let take a bare infinitive as object complement ('The rabbit made the wolf laugh' = '...made the wolf to laugh'). When you make such a sentence passive, the hidden 'to' comes back: 'The wolf was made to laugh by the rabbit'.", "zh": "make、let 等动词后接省略了 to 的动词不定式（bare infinitive）作宾补：The rabbit made the wolf laugh，实际相当于 made the wolf to laugh。变被动时，被省略的 to 要还原：The wolf was made to laugh by the rabbit。" },
+      "exampleRefs": ["e7"],
+      "sourceRef": "改成被动语态时要把to还原"
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "Past participle = the seed of the passive", "zh": "过去分词 = 被动的种子" },
+      "body": { "en": "A past participle used as a subject complement already carries a passive meaning. 'The rabbit was frightened' unfolds into 'The rabbit was frightened by the wolf' — the same be + past participle shape as a full passive. The two are closely related.", "zh": "作主语补语（表语）的过去分词本身就带有被动含义。The rabbit was frightened 可以展开为 The rabbit was frightened by the wolf——和完整的被动语态是同样的 be + 过去分词结构。两者密不可分。" },
+      "exampleRefs": ["e9"],
+      "sourceRef": "过去分词表被动的意义和被动语态脱不了干系"
+    },
+    {
+      "id": "c8",
+      "heading": { "en": "Combining with tense, mood and modals", "zh": "与时态、语气、情态助词结合" },
+      "body": { "en": "Passive can stack with perfect tenses and modals — only the be-verb changes form, so it stays regular. 'has eaten' → 'has been eaten'; 'would have eaten' → 'would have been eaten'; 'might eat' → 'might be eaten'. Negatives and questions follow the same machinery: 'has not been eaten', 'Has the carrot been eaten?'", "zh": "被动语态可以和完成时、情态动词叠加——变化的主要是 be 动词，所以很有规律。has eaten → has been eaten；would have eaten → would have been eaten；might eat → might be eaten。否定和疑问也用同一套机制：has not been eaten；Has the carrot been eaten?" },
+      "exampleRefs": ["e10"],
+      "sourceRef": "这些变位主要是针对构成被动语态所需的 B 动词的变位"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "The rabbit slept.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "subject" },
+        { "quote": "slept", "tag": "verb-intransitive" }
+      ],
+      "note": { "en": "'Sleep' is intransitive — no receiver, so no passive is possible.", "zh": "“sleep”是不及物动词——没有承受者，所以无法变被动。" }
+    },
+    {
+      "id": "e2",
+      "text": "The rabbit ate the carrot.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "subject" },
+        { "quote": "ate", "tag": "verb-transitive" },
+        { "quote": "the carrot", "tag": "object" }
+      ],
+      "note": { "en": "Active: the subject 'The rabbit' is the doer; 'the carrot' is the receiver.", "zh": "主动句：主语“The rabbit”是执行者，“the carrot”是承受者。" }
+    },
+    {
+      "id": "e3",
+      "text": "The carrot was eaten by the rabbit.",
+      "annotations": [
+        { "quote": "The carrot", "tag": "subject" },
+        { "quote": "was", "tag": "be-aux" },
+        { "quote": "eaten", "tag": "past-participle" },
+        { "quote": "by the rabbit", "tag": "by-agent" }
+      ],
+      "note": { "en": "The receiver becomes subject; be matches the past tense ('was', not 'is'); 'by the rabbit' names the doer.", "zh": "承受者变主语；be 对应过去时（用“was”而非“is”）；“by the rabbit”标明执行者。" }
+    },
+    {
+      "id": "e4",
+      "text": "A carrot was eaten.",
+      "annotations": [
+        { "quote": "A carrot", "tag": "subject" },
+        { "quote": "was", "tag": "be-aux" },
+        { "quote": "eaten", "tag": "past-participle" }
+      ],
+      "note": { "en": "When the doer is obvious, drop 'by + doer' for a cleaner sentence.", "zh": "执行者显而易见时，省略“by + 执行者”，句子更简洁。" }
+    },
+    {
+      "id": "e5",
+      "text": "The wolf was given the carrot by the rabbit.",
+      "annotations": [
+        { "quote": "The wolf", "tag": "subject" },
+        { "quote": "was", "tag": "be-aux" },
+        { "quote": "given", "tag": "past-participle" },
+        { "quote": "the carrot", "tag": "object" },
+        { "quote": "by the rabbit", "tag": "by-agent" }
+      ],
+      "note": { "en": "Ditransitive passive promoting the indirect object 'the wolf'; the direct object 'the carrot' stays.", "zh": "双及物被动，提升间接宾语“the wolf”；直接宾语“the carrot”留在原处。" }
+    },
+    {
+      "id": "e6",
+      "text": "The carrot was given to the wolf by the rabbit.",
+      "annotations": [
+        { "quote": "The carrot", "tag": "subject" },
+        { "quote": "was", "tag": "be-aux" },
+        { "quote": "given", "tag": "past-participle" },
+        { "quote": "to the wolf", "tag": "indirect-object" },
+        { "quote": "by the rabbit", "tag": "by-agent" }
+      ],
+      "note": { "en": "Promoting the direct object keeps 'to': 'to the wolf'. Never 'was given the wolf'.", "zh": "提升直接宾语时保留“to”：“to the wolf”。绝不能写成“was given the wolf”。" }
+    },
+    {
+      "id": "e7",
+      "text": "The wolf was made to laugh by the rabbit.",
+      "annotations": [
+        { "quote": "The wolf", "tag": "subject" },
+        { "quote": "was", "tag": "be-aux" },
+        { "quote": "made", "tag": "past-participle" },
+        { "quote": "to laugh", "tag": "non-finite" },
+        { "quote": "by the rabbit", "tag": "by-agent" }
+      ],
+      "note": { "en": "Active 'made the wolf laugh' hides a 'to'; the passive restores it: 'made to laugh'.", "zh": "主动句“made the wolf laugh”隐藏了一个“to”；被动句把它还原：“made to laugh”。" }
+    },
+    {
+      "id": "e8",
+      "text": "The rabbit is smart.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "subject" },
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "smart", "tag": "subject-complement" }
+      ],
+      "note": { "en": "A linking-verb sentence — just an equals sign between subject and complement. No passive.", "zh": "系动词句——只是在主语和表语之间画等号。没有被动语态。" }
+    },
+    {
+      "id": "e9",
+      "text": "The rabbit was frightened by the wolf.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "subject" },
+        { "quote": "was", "tag": "be-aux" },
+        { "quote": "frightened", "tag": "past-participle" },
+        { "quote": "by the wolf", "tag": "by-agent" }
+      ],
+      "note": { "en": "'Frightened' as a participle already means 'was scared'; adding 'by the wolf' makes the passive explicit.", "zh": "“frightened”作分词本就表示“受到惊吓”；加上“by the wolf”就把被动含义说明白了。" }
+    },
+    {
+      "id": "e10",
+      "text": "The carrot has been eaten by the rabbit.",
+      "annotations": [
+        { "quote": "The carrot", "tag": "subject" },
+        { "quote": "has", "tag": "auxiliary" },
+        { "quote": "been", "tag": "be-aux" },
+        { "quote": "eaten", "tag": "past-participle" },
+        { "quote": "by the rabbit", "tag": "by-agent" }
+      ],
+      "note": { "en": "Present perfect + passive: 'has eaten' → 'has been eaten'. Only the be-form changes ('be' → 'been').", "zh": "现在完成时 + 被动：has eaten → has been eaten。变化的只是 be 的形式（be → been）。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "What is the basic recipe for forming the passive voice in English?", "zh": "英语被动语态的基本构成公式是什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "do + base verb", "zh": "do + 动词原形" } },
+        { "id": "b", "text": { "en": "be + past participle", "zh": "be + 过去分词" } },
+        { "id": "c", "text": { "en": "have + present participle", "zh": "have + 现在分词" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "The passive is be + past participle; the be-verb carries the tense, the participle carries the meaning.", "zh": "被动语态是 be + 过去分词；be 动词承载时态，分词承载词义。" },
+      "refs": ["c2"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "Which sentence has NO passive form?", "zh": "下列哪句没有被动语态？" },
+      "choices": [
+        { "id": "a", "text": { "en": "The rabbit ate the carrot.", "zh": "兔子吃了胡萝卜。" } },
+        { "id": "b", "text": { "en": "The rabbit slept.", "zh": "兔子睡觉。" } },
+        { "id": "c", "text": { "en": "The wolf invited the rabbit.", "zh": "狼邀请了兔子。" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'Sleep' is intransitive — it has no receiver to promote to subject, so no passive exists.", "zh": "“sleep”是不及物动词——没有可提为主语的承受者，所以没有被动语态。" },
+      "refs": ["c4"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Make it passive (past tense, name the doer): 'The rabbit ate the carrot.' → 'The carrot ____ by the rabbit.'", "zh": "改为被动（过去时，标明执行者）：'The rabbit ate the carrot.' → 'The carrot ____ by the rabbit.'" },
+      "answers": ["was eaten"],
+      "explain": { "en": "Original tense is past, so be = 'was'; the participle of 'eat' is 'eaten'. → 'was eaten by the rabbit'.", "zh": "原句是过去时，be 用“was”；“eat”的过去分词是“eaten”。→ was eaten by the rabbit。" },
+      "refs": ["c2", "c3", "e3"]
+    },
+    {
+      "id": "q4",
+      "type": "error",
+      "sentence": "The carrot was given the wolf by the rabbit.",
+      "fix": "The carrot was given to the wolf by the rabbit.",
+      "explain": { "en": "When the direct object 'the carrot' is promoted, the indirect object must keep its preposition: 'to the wolf'. Don't drop 'to'.", "zh": "当直接宾语“the carrot”被提为主语时，间接宾语必须保留介词：“to the wolf”。别漏掉“to”。" },
+      "refs": ["c5", "e6"]
+    },
+    {
+      "id": "q5",
+      "type": "error",
+      "sentence": "The wolf was made laugh by the rabbit.",
+      "fix": "The wolf was made to laugh by the rabbit.",
+      "explain": { "en": "Active 'made the wolf laugh' uses a bare infinitive; in the passive the hidden 'to' must be restored: 'made to laugh'.", "zh": "主动句“made the wolf laugh”用的是省略 to 的不定式；变被动时被省略的“to”要还原：“made to laugh”。" },
+      "refs": ["c6", "e7"]
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": { "en": "Make 'The rabbit has eaten the carrot' passive.", "zh": "把“The rabbit has eaten the carrot”改为被动语态。" },
+      "choices": [
+        { "id": "a", "text": { "en": "The carrot has been eaten by the rabbit.", "zh": "The carrot has been eaten by the rabbit." } },
+        { "id": "b", "text": { "en": "The carrot has eaten by the rabbit.", "zh": "The carrot has eaten by the rabbit." } },
+        { "id": "c", "text": { "en": "The carrot was been eaten by the rabbit.", "zh": "The carrot was been eaten by the rabbit." } }
+      ],
+      "answer": "a",
+      "explain": { "en": "Present perfect passive = have/has + been + past participle: 'has been eaten'. Only the be-form changes to 'been'.", "zh": "现在完成时被动 = have/has + been + 过去分词：has been eaten。变化的只是 be 变成 been。" },
+      "refs": ["c8", "e10"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "Who ate the carrot?", "zh": "胡萝卜是谁吃的？" },
+    "targets": ["be-aux", "past-participle", "by-agent"],
+    "lines": [
+      { "speaker": "Wolf", "text": "The rabbit ate the carrot.", "annotations": [ { "quote": "The rabbit", "tag": "subject" }, { "quote": "ate", "tag": "verb-transitive" }, { "quote": "the carrot", "tag": "object" } ], "note": { "en": "Active: stresses the doer, the rabbit.", "zh": "主动语态：强调执行者——兔子。" } },
+      { "speaker": "Rabbit", "text": "You mean the carrot was eaten by me.", "annotations": [ { "quote": "the carrot", "tag": "subject" }, { "quote": "was", "tag": "be-aux" }, { "quote": "eaten", "tag": "past-participle" }, { "quote": "by me", "tag": "by-agent" } ], "note": { "en": "Passive: stresses the receiver, the carrot. be + past participle, past tense kept.", "zh": "被动语态：强调承受者——胡萝卜。be + 过去分词，保留过去时。" } },
+      { "speaker": "Wolf", "text": "And the carrot was given to me by you first!", "annotations": [ { "quote": "the carrot", "tag": "subject" }, { "quote": "was", "tag": "be-aux" }, { "quote": "given", "tag": "past-participle" }, { "quote": "to me", "tag": "indirect-object" }, { "quote": "by you", "tag": "by-agent" } ], "note": { "en": "Ditransitive passive: the promoted direct object keeps 'to me'.", "zh": "双及物被动：提升的直接宾语保留“to me”。" } },
+      { "speaker": "Rabbit", "text": "Fine — but a carrot was eaten, and nobody got hurt.", "annotations": [ { "quote": "a carrot", "tag": "subject" }, { "quote": "was", "tag": "be-aux" }, { "quote": "eaten", "tag": "past-participle" } ], "note": { "en": "The doer is dropped when it doesn't matter.", "zh": "执行者无关紧要时可以省略。" } }
+    ]
+  }
+}

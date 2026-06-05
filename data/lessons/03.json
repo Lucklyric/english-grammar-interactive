@@ -1,0 +1,391 @@
+{
+  "id": "03",
+  "slug": "understanding-english-subjunctive-mood-made-easy",
+  "category": "verbs-tenses-mood",
+  "shape": "deep-dive",
+  "order": 6,
+  "title": { "en": "Understanding the English Subjunctive Mood, Made Easy", "zh": "英语\"虚拟语气\"就是这么简单（看完就懂！）" },
+  "summary": { "en": "Mood is a power the English verb has that Chinese verbs lack. Beyond indicative and imperative, the subjunctive describes things in the mind — contrary-to-fact suppositions and wishes — by shifting the verb one tense back. The verb form looks past, but the time isn't.", "zh": "语气是英语动词拥有、而中文动词没有的本领。除了陈述语气和祈使语气，虚拟语气用来描述脑中的情况——与事实相反的假设和愿望——做法是把动词往过去推一个时间段。动词形式看着像过去，时间却不是。" },
+  "source": { "videoId": "-Skm12wNLa8", "youtube": "https://www.youtube.com/watch?v=-Skm12wNLa8", "duration": "25:02", "script": "scripts/03-understanding-english-subjunctive-mood-made-easy.md" },
+  "tags": [
+    { "id": "verb-subjunctive", "label": { "en": "subjunctive verb", "zh": "虚拟语气动词" }, "abbr": "Vs", "color": "#dc2626", "underline": "solid" },
+    { "id": "verb-indicative", "label": { "en": "indicative verb", "zh": "陈述语气动词" }, "abbr": "Vi", "color": "#2563eb", "underline": "solid" },
+    { "id": "verb-imperative", "label": { "en": "imperative verb", "zh": "祈使语气动词" }, "abbr": "Vm", "color": "#ea580c", "underline": "solid" },
+    { "id": "if-clause", "label": { "en": "if / condition clause", "zh": "条件从句" }, "abbr": "If", "color": "#65a30d", "underline": "dotted" },
+    { "id": "main-clause", "label": { "en": "main (result) clause", "zh": "主句" }, "abbr": "Main", "color": "#7c3aed", "underline": "dotted" },
+    { "id": "wish-word", "label": { "en": "wish / desire word", "zh": "愿望词" }, "abbr": "Wsh", "color": "#0891b2", "underline": "dashed" },
+    { "id": "modal-aux", "label": { "en": "modal auxiliary", "zh": "情态助动词" }, "abbr": "Mod", "color": "#4f46e5", "underline": "dotted" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "Grammatical mood is not a person's mood", "zh": "语法上的语气不是说话的语气" },
+      "body": { "en": "After tense (a verb's time + state, the 16 tenses), the second big power of the English verb is mood. Here 'mood' is a grammar term — it has nothing to do with being gentle, fierce, or angry. Don't confuse the two senses of the word.", "zh": "在时态（动词的时间加状态，即16种时态）之后，英语动词的第二大本领是语气 moods。这里的\"语气\"是个语法术语——和温柔、凶狠、愤怒的说话语气毫无关系。千万别把这两个意思弄混。" },
+      "sourceRef": "这里的语气是个语法概念或者说语法术语"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "Indicative mood — describing reality", "zh": "陈述语气——描述现实" },
+      "body": { "en": "The indicative mood simply describes reality, e.g. 'the rabbit ate the carrot'. Every example in the tenses series was indicative. Questions like 'Did the rabbit eat the carrot?' are sometimes split off as a separate interrogative mood, but in English that is usually just reordering words or adding an auxiliary.", "zh": "陈述语气 indicative mood 说白了就是描述现实，比如\"the rabbit ate the carrot\"。时态合辑里的例子全是陈述语气。像\"Did the rabbit eat the carrot?\"这样的提问，有的语法体系会另归为疑问语气，但在英语中它往往只是改变词序或加助动词。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "陈述语气，indicative mood，说白了就是描述现实"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Imperative mood — a shortcut to build it", "zh": "祈使语气——一个构成小窍门" },
+      "body": { "en": "The imperative mood gives a command or request, e.g. 'Rabbit, eat the carrot'. The trick: state your command in the second person ('you') in the simple present, then drop the 'you' and keep the verb in its base form. 'You eat the carrot' becomes 'Eat the carrot'; 'You don't eat it' becomes \"Don't eat it\"; 'You are quiet' becomes 'Be quiet'.", "zh": "祈使语气 imperative mood 表示命令请求，比如\"Rabbit, eat the carrot\"。窍门：绝大多数情况下，把你的命令用第二人称\"你\"、用一般现在时说出来，再把\"你\"去掉、保证动词用原形即可。\"You eat the carrot\"变\"Eat the carrot\"；\"You don't eat it\"变\"Don't eat it\"；\"You are quiet\"变\"Be quiet\"。" },
+      "exampleRefs": ["e2"],
+      "sourceRef": "把其中的\"你\"去掉，并保证动词原形就好"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Subjunctive ≠ subjective; it describes the mind", "zh": "虚拟≠主观；它描述脑中情况" },
+      "body": { "en": "'Subjunctive' may remind you of 'subject' or 'subjective', but they differ. There is no 'subjective mood'. The subjunctive lives mainly in subordinate clauses (including condition clauses) and its job is to describe a situation in the mind — an imagined scene, especially one contrary to fact, or a subjective wish. When you describe reality, you use the indicative or imperative instead.", "zh": "\"subjunctive\"可能让你想到\"subject\"或\"subjective\"，但两者不同。\"subjective mood\"并不存在。虚拟语气基本只用于从句中（包括条件从句），目的就是描述脑中的情况——想象出来的、尤其与现实相反的场景，或主观的意愿。描述现实时则用陈述或祈使语气。" },
+      "sourceRef": "虚拟语气的主要目的就是描述脑中的情况"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "Big use #1: impossible / contrary-to-fact suppositions", "zh": "第一大用法：与事实相反的假设" },
+      "body": { "en": "The first and most common use of the subjunctive is making impossible suppositions. To show the verb is imagined, you shift its time one step into the past. The verb looks past, but it does NOT mean past time — and English exams love to test exactly this. By time, the supposition can be about the present, the future, or the past.", "zh": "虚拟语气最主要、最常见的用法是做不可能的假设。为了表明动词是想象的，要把动词时间往过去推一个时间段。动词形式看着是过去，却不表示过去时间——而英语考试特别爱考这一点。按时间，假设可分为对现在、对将来、对过去三种。" },
+      "exampleRefs": ["e3"],
+      "sourceRef": "这里动词是过去式，但并不表示过去时间"
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "Contrary to present fact — verb to past, would + base", "zh": "与现在事实相反——动词过去式，主句 would + 原形" },
+      "body": { "en": "For a supposition against present fact, the if-clause verb goes to the past tense and the main clause uses 'would' + base verb: 'If I saw the rabbit now, I would bite him.' Note the 'now': the speaker does NOT actually see the rabbit, so it is an imagined, contrary-to-present scene.", "zh": "与现在事实相反时，条件从句动词用过去式，主句用\"would + 动词原形\"：\"If I saw the rabbit now, I would bite him.\"注意句中的\"now\"：说话人现在其实并没看见兔子，所以这是想象出来、与现在相反的情景。" },
+      "exampleRefs": ["e3", "e4"],
+      "sourceRef": "我们就要把动词时间往过去推一个时间段，变成“If I saw the rabbit now, I would bite him。”"
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "'Be' in the subjunctive is always 'were'", "zh": "虚拟语气中 be 一律用 were" },
+      "body": { "en": "When the verb is 'be', the subjunctive past form is 'were' for every person, not 'was': 'If I were you, I would give this video a thumbs up.' It implies 'I can't possibly be you', so you must never say 'If I am you' — that would make it possible (and real).", "zh": "动词是 be 时，虚拟语气的过去式一律用 were，不分人称，而不是 was：\"If I were you, I would give this video a thumbs up.\"言下之意\"我不可能是你\"，所以绝不能说\"If I am you\"，那就变成可能、变成事实了。" },
+      "exampleRefs": ["e5"],
+      "sourceRef": "如果动词是 be，那么过去式要用 were 而不是 was，不管是什么人称"
+    },
+    {
+      "id": "c8",
+      "heading": { "en": "Real future vs. unlikely future", "zh": "真实将来 vs. 可能性很小的将来" },
+      "body": { "en": "Not every 'if' is subjunctive. 'If I see the rabbit tomorrow, I will bite him' is ordinary indicative — the speaker thinks it is fully possible. Some systems call this the conditional mood, though its form matches the indicative. The subjunctive only kicks in when the future event is treated as very unlikely.", "zh": "并非每个\"if\"都是虚拟语气。\"If I see the rabbit tomorrow, I will bite him\"是普通的陈述语气——说话人觉得完全可能。有的体系把它另归为条件语气 conditional mood，但其构成和陈述语气没区别。只有当将来事件被当作可能性很小时，才用虚拟语气。" },
+      "exampleRefs": ["e6"],
+      "sourceRef": "这里的动词see没有用虚拟语气，而是普普通通的陈述语气"
+    },
+    {
+      "id": "c9",
+      "heading": { "en": "Contrary to future fact — should + base", "zh": "与将来事实相反——should + 动词原形" },
+      "body": { "en": "For an unlikely future event ('万一', just in case), the if-clause uses 'should' + base verb and the main clause uses 'would' + base verb: 'If I should see the rabbit tomorrow, I would bite him.' Here 'should' is the past form of 'shall' (the future auxiliary) — it carries no 'ought to' meaning. The if-clause 'should' can be replaced by 'were to'.", "zh": "对可能性很小的将来事件（\"万一\"），条件从句用\"should + 动词原形\"，主句用\"would + 动词原形\"：\"If I should see the rabbit tomorrow, I would bite him.\"这里的 should 是 shall（将来助动词）的过去式，没有\"应该\"的含义。条件从句中的 should 也可用 were to 取代。" },
+      "exampleRefs": ["e7"],
+      "sourceRef": "条件句里动词虚拟语气构成是should加动词原形"
+    },
+    {
+      "id": "c10",
+      "heading": { "en": "Contrary to past fact — past perfect / would have + p.p.", "zh": "与过去事实相反——过去完成式 / would have + 过去分词" },
+      "body": { "en": "For a supposition against past fact (an impossible regret), shift the if-clause verb to the past perfect and the main clause to 'would have' + past participle: 'If I had seen the rabbit a few days ago, I would have bitten him.' Think of it as a hypothesis affecting some point in the past.", "zh": "与过去事实相反时（不可能的后悔），条件从句动词改用过去完成式，主句改用\"would have + 过去分词\"：\"If I had seen the rabbit a few days ago, I would have bitten him.\"可以把它理解为对过去某一点产生影响的假设。" },
+      "exampleRefs": ["e8"],
+      "sourceRef": "整个一句就是 If I had seen the rabbit a few days ago, I would have bitten him"
+    },
+    {
+      "id": "c11",
+      "heading": { "en": "Modal pasts: would / should / could / might", "zh": "情态助动词过去式：would / should / could / might" },
+      "body": { "en": "Modal auxiliaries pair as present–past: shall→should, will→would, can→could, may→might. In the main clause, 'would' can be swapped for 'should', 'could', or 'might' depending on context. The future-supposition pattern uses these modals + base verb.", "zh": "情态助动词成对存在（现在—过去）：shall→should，will→would，can→could，may→might。主句里的 would 可视语境换成 should、could、might。对将来的假设就用这些情态助动词加动词原形。" },
+      "sourceRef": "shall, should, will, would, can, could, may, might"
+    },
+    {
+      "id": "c12",
+      "heading": { "en": "Big use #2: wishes, requests, suggestions, commands", "zh": "第二大用法：愿望、请求、建议、命令" },
+      "body": { "en": "The second big use of the subjunctive expresses a wish or hope that something happen — again, something in the mind rather than already real. It typically appears with desire words. The clearest is 'wish' (希望). 'Wish' hopes for something unlikely, whereas 'hope' is more neutral, so 'wish' naturally pairs with the subjunctive.", "zh": "虚拟语气的第二大用法是表达\"希望某动作、事件发生\"——同样是脑中的、而非现实中已发生的事。它一般和表达愿望的词连用，最具代表性的是 wish（希望）。wish 是希望可能性小的事发生，而 hope 比较中性，所以 wish 自然要和虚拟语气搭配。" },
+      "exampleRefs": ["e9"],
+      "sourceRef": "wish是希望可能性小的事儿发生，而hope就比较中性"
+    },
+    {
+      "id": "c13",
+      "heading": { "en": "wish across present, past, future", "zh": "wish 对应现在、过去、将来" },
+      "body": { "en": "Present wish: 'I wish that I were a rabbit' — wish + past (were for 'be'). The 'that' can be dropped. Past wish: 'I wish that I had eaten the carrot' — wish + past perfect (implying I didn't, and I regret it). Future wish: 'I wish that I could eat the carrot' — wish + should/would/could/might + base verb. Saying 'I wish that I am a rabbit' is wrong: 'I am' already states it as fact.", "zh": "对现在的愿望：\"I wish that I were a rabbit\"——wish + 过去式（be 用 were），that 可省略。对过去的愿望：\"I wish that I had eaten the carrot\"——wish + 过去完成式（言下之意我没吃，后悔）。对将来的愿望：\"I wish that I could eat the carrot\"——wish + should/would/could/might + 动词原形。说\"I wish that I am a rabbit\"是错的：\"I am\"已经把它当成事实了。" },
+      "exampleRefs": ["e9", "e10", "e11"],
+      "sourceRef": "I wish that I were a rabbit, 我希望我是只兔子"
+    },
+    {
+      "id": "c14",
+      "heading": { "en": "would rather + subjunctive", "zh": "would rather + 虚拟语气" },
+      "body": { "en": "'Would rather' behaves like 'wish': it takes the subjunctive. 'I would rather that you didn't eat the carrot' looks past but expresses a present/upcoming wish — you haven't eaten it yet, I'd rather you didn't. Switching to past perfect, 'I would rather that you hadn't eaten the carrot', is a wish about the past, implying you already ate it.", "zh": "would rather 和 wish 一样后接虚拟语气。\"I would rather that you didn't eat the carrot\"看着像过去，其实表达现在或接下来的愿望——你还没吃，我宁愿你别吃。换成过去完成式\"I would rather that you hadn't eaten the carrot\"则是对过去的愿望，言下之意你已经把它吃掉了。" },
+      "exampleRefs": ["e12"],
+      "sourceRef": "这里would rather和wish一样，后面要接虚拟语气，所以这里是表达现在的希望"
+    },
+    {
+      "id": "c15",
+      "heading": { "en": "demand / suggest / insist / order — should + base", "zh": "demand / suggest / insist / order——should + 原形" },
+      "body": { "en": "Words like demand, suggest, insist, and order take the subjunctive as 'should' + base verb, and the 'should' can be dropped: 'I demand that you should give me a carrot' = 'I demand that you give me a carrot.' This holds even if the main verb is past ('I demanded that you should give me a carrot'). Note this differs slightly from 'wish'.", "zh": "demand、suggest、insist、order 这类词后接的虚拟语气一律是\"should + 动词原形\"，should 可省略：\"I demand that you should give me a carrot\"＝\"I demand that you give me a carrot\"。即使主句动词用过去式也一样（\"I demanded that you should give me a carrot\"）。注意这和 wish 稍有不同。" },
+      "exampleRefs": ["e13"],
+      "sourceRef": "这样的词后面接的虚拟语气一律是 should 加动词原型"
+    },
+    {
+      "id": "c16",
+      "heading": { "en": "The subjunctive lives in many clause types", "zh": "虚拟语气可存在于多种从句" },
+      "body": { "en": "The same idea can be rephrased across clause types. 'I suggest that you eat a carrot' (object clause) becomes a subject clause 'It is suggested that you eat a carrot', or a subject-complement (predicative) clause 'The suggestion is that you eat a carrot'. Some subjunctives need no wish/suggest verb at all: 'It is (high) time that you ate a carrot', where 'ate' is subjunctive inside a relative clause.", "zh": "同一个意思可在不同从句间改写。\"I suggest that you eat a carrot\"（宾语从句）可变成主语从句\"It is suggested that you eat a carrot\"，或主语补语（表语）从句\"The suggestion is that you eat a carrot\"。有些虚拟语气甚至不用 wish/suggest 这类动词：\"It is (high) time that you ate a carrot\"，这里的 ate 是虚拟语气，从句是定语从句。" },
+      "exampleRefs": ["e14", "e15"],
+      "sourceRef": "It is time that you ate a carrot，或者 It is high time that you ate a carrot"
+    },
+    {
+      "id": "c17",
+      "heading": { "en": "Why it's hard for Chinese speakers", "zh": "为何中文母语者觉得难" },
+      "body": { "en": "The subjunctive is hard for native Chinese speakers because Chinese verbs have no conjugation at all — '看见'、'咬' stay the same and context tells the rest. English instead changes spelling. With practice, and by keeping the subjunctive's look distinct from real tense (even when the forms sound the same), it becomes manageable.", "zh": "虚拟语气对中文母语者有难度，是因为中文动词本身没有变位——\"看见\"\"咬\"还是那几个字，只能靠上下文判断。英语却要改拼写。只要多练，熟悉构成，同时注意把虚拟语气和真实时态区分开（即便变位听起来相同），就会者不难。" },
+      "sourceRef": "就是因为我们中文动词本身没有动词变位"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "The rabbit ate the carrot.",
+      "annotations": [
+        { "quote": "ate", "tag": "verb-indicative" }
+      ],
+      "note": { "en": "Plain indicative — it describes reality. Every tense-series example was like this.", "zh": "普通陈述语气——描述现实。时态合辑里的例子都是这样。" }
+    },
+    {
+      "id": "e2",
+      "text": "Be quiet.",
+      "annotations": [
+        { "quote": "Be", "tag": "verb-imperative" }
+      ],
+      "note": { "en": "From 'You are quiet': drop 'you', put the verb in base form. Imperative mood.", "zh": "由\"You are quiet\"去掉\"you\"、动词用原形而来。祈使语气。" }
+    },
+    {
+      "id": "e3",
+      "text": "If I see the rabbit now, I will bite him.",
+      "annotations": [
+        { "quote": "see", "tag": "verb-indicative" },
+        { "quote": "will bite", "tag": "verb-indicative" }
+      ],
+      "note": { "en": "WRONG for an imagined present. With 'now', this wrongly states it as objective fact. It should be subjunctive.", "zh": "用于想象的现在时是错的。有\"now\"却这么说，等于客观陈述事实。应改用虚拟语气。" }
+    },
+    {
+      "id": "e4",
+      "text": "If I saw the rabbit now, I would bite him.",
+      "annotations": [
+        { "quote": "If", "tag": "if-clause" },
+        { "quote": "saw", "tag": "verb-subjunctive" },
+        { "quote": "would", "tag": "modal-aux" }
+      ],
+      "note": { "en": "Contrary to present fact: if-clause verb to past, main clause 'would' + base. 'Saw' looks past but the time is now.", "zh": "与现在事实相反：条件从句动词用过去式，主句 would + 原形。\"saw\"形式像过去，时间却是现在。" }
+    },
+    {
+      "id": "e5",
+      "text": "If I were you, I would give this video a thumbs up.",
+      "annotations": [
+        { "quote": "were", "tag": "verb-subjunctive" },
+        { "quote": "would", "tag": "modal-aux" }
+      ],
+      "note": { "en": "'Be' becomes 'were' for every person. It implies 'I can't be you' — never 'If I am you'.", "zh": "be 不分人称都用 were。言下之意\"我不可能是你\"——绝不能说\"If I am you\"。" }
+    },
+    {
+      "id": "e6",
+      "text": "If I see the rabbit tomorrow, I will bite him.",
+      "annotations": [
+        { "quote": "see", "tag": "verb-indicative" },
+        { "quote": "will bite", "tag": "verb-indicative" }
+      ],
+      "note": { "en": "Correct and NOT subjunctive — a real, possible future. Some call this the conditional mood.", "zh": "正确，且不是虚拟语气——真实、可能的将来。有人称之为条件语气。" }
+    },
+    {
+      "id": "e7",
+      "text": "If I should see the rabbit tomorrow, I would bite him.",
+      "annotations": [
+        { "quote": "should see", "tag": "verb-subjunctive" },
+        { "quote": "would", "tag": "modal-aux" }
+      ],
+      "note": { "en": "Unlikely future ('just in case'): if-clause 'should' + base, main clause 'would' + base. 'Should' here is the past of 'shall', not 'ought to'.", "zh": "可能性很小的将来（\"万一\"）：条件从句 should + 原形，主句 would + 原形。这里 should 是 shall 的过去式，非\"应该\"。" }
+    },
+    {
+      "id": "e8",
+      "text": "If I had seen the rabbit a few days ago, I would have bitten him.",
+      "annotations": [
+        { "quote": "had seen", "tag": "verb-subjunctive" },
+        { "quote": "would have bitten", "tag": "main-clause" }
+      ],
+      "note": { "en": "Contrary to past fact: if-clause past perfect, main clause 'would have' + past participle. Implies I never bit him.", "zh": "与过去事实相反：条件从句过去完成式，主句 would have + 过去分词。言下之意我并没咬到他。" }
+    },
+    {
+      "id": "e9",
+      "text": "I wish that I were a rabbit.",
+      "annotations": [
+        { "quote": "wish", "tag": "wish-word" },
+        { "quote": "were", "tag": "verb-subjunctive" }
+      ],
+      "note": { "en": "Present wish: wish + past ('were' for 'be'). The 'that' may be dropped: 'I wish I were a rabbit.' Same shape as 'if I were'.", "zh": "对现在的愿望：wish + 过去式（be 用 were）。that 可省：\"I wish I were a rabbit\"。与\"if I were\"构成相同。" }
+    },
+    {
+      "id": "e10",
+      "text": "I wish that I had eaten the carrot.",
+      "annotations": [
+        { "quote": "wish", "tag": "wish-word" },
+        { "quote": "had eaten", "tag": "verb-subjunctive" }
+      ],
+      "note": { "en": "Past wish: wish + past perfect. It implies the opposite is true — I did NOT eat the carrot, and I regret it.", "zh": "对过去的愿望：wish + 过去完成式。言下之意相反——我没吃那胡萝卜，后悔啊。" }
+    },
+    {
+      "id": "e11",
+      "text": "I wish that I could eat the carrot.",
+      "annotations": [
+        { "quote": "wish", "tag": "wish-word" },
+        { "quote": "could eat", "tag": "verb-subjunctive" }
+      ],
+      "note": { "en": "Future wish: wish + should/would/could/might + base verb. It implies I probably can't eat it.", "zh": "对将来的愿望：wish + should/would/could/might + 动词原形。言下之意我多半吃不到。" }
+    },
+    {
+      "id": "e12",
+      "text": "I would rather that you didn't eat the carrot.",
+      "annotations": [
+        { "quote": "would rather", "tag": "wish-word" },
+        { "quote": "didn't eat", "tag": "verb-subjunctive" }
+      ],
+      "note": { "en": "'Would rather' takes the subjunctive like 'wish'. 'Didn't eat' looks past but means now/soon — you haven't eaten it yet.", "zh": "would rather 和 wish 一样接虚拟语气。\"didn't eat\"形式像过去，意思却是现在或接下来——你还没吃。" }
+    },
+    {
+      "id": "e13",
+      "text": "I demand that you give me a carrot.",
+      "annotations": [
+        { "quote": "demand", "tag": "wish-word" },
+        { "quote": "give", "tag": "verb-subjunctive" }
+      ],
+      "note": { "en": "demand/suggest/insist/order take 'should' + base, and 'should' can be dropped. Full form: 'I demand that you should give me a carrot.'", "zh": "demand/suggest/insist/order 接 should + 原形，should 可省。完整式：\"I demand that you should give me a carrot\"。" }
+    },
+    {
+      "id": "e14",
+      "text": "It is suggested that you eat a carrot.",
+      "annotations": [
+        { "quote": "suggested", "tag": "wish-word" },
+        { "quote": "eat", "tag": "verb-subjunctive" }
+      ],
+      "note": { "en": "Same idea recast as a subject clause. Compare the predicative version: 'The suggestion is that you eat a carrot.'", "zh": "同一意思改写成主语从句。对比表语从句：\"The suggestion is that you eat a carrot\"。" }
+    },
+    {
+      "id": "e15",
+      "text": "It is high time that you ate a carrot.",
+      "annotations": [
+        { "quote": "ate", "tag": "verb-subjunctive" }
+      ],
+      "note": { "en": "No wish/suggest verb needed. 'Ate' is subjunctive inside a relative clause — it means 'you should eat one now'.", "zh": "无需 wish/suggest 类动词。\"ate\"是定语从句里的虚拟语气——意思是\"你现在该吃一根了\"。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Which sentence correctly states a supposition contrary to PRESENT fact?", "zh": "哪句正确地表达\"与现在事实相反\"的假设？" },
+      "choices": [
+        { "id": "a", "text": { "en": "If I see the rabbit now, I will bite him.", "zh": "If I see the rabbit now, I will bite him." } },
+        { "id": "b", "text": { "en": "If I saw the rabbit now, I would bite him.", "zh": "If I saw the rabbit now, I would bite him." } },
+        { "id": "c", "text": { "en": "If I had seen the rabbit now, I would have bitten him.", "zh": "If I had seen the rabbit now, I would have bitten him." } }
+      ],
+      "answer": "b",
+      "explain": { "en": "Contrary to present fact: if-clause verb to past ('saw'), main clause 'would' + base ('bite'). 'Now' confirms present time even though 'saw' looks past.", "zh": "与现在相反：条件从句动词用过去式（saw），主句 would + 原形（bite）。虽然 saw 形式像过去，\"now\"确认的是现在时间。" },
+      "refs": ["c6", "e4"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "In 'If I should see the rabbit tomorrow, I would bite him', what does 'should' signal?", "zh": "在\"If I should see the rabbit tomorrow, I would bite him\"中，should 表示什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "An obligation — 'I ought to see it'.", "zh": "一种义务——\"我应该见它\"。" } },
+        { "id": "b", "text": { "en": "A very unlikely future event ('just in case').", "zh": "一个可能性很小的将来事件（\"万一\"）。" } },
+        { "id": "c", "text": { "en": "A past event that already happened.", "zh": "一件已经发生的过去事件。" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "Here 'should' is the past form of 'shall' marking an unlikely future, NOT 'ought to'. The if-clause is 'should' + base, the main clause 'would' + base.", "zh": "这里 should 是 shall 的过去式，标记可能性很小的将来，不是\"应该\"。条件从句 should + 原形，主句 would + 原形。" },
+      "refs": ["c9", "e7"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Complete (contrary to past fact): 'If I ____ the rabbit a few days ago, I would have bitten him.' (verb: see)", "zh": "补全（与过去事实相反）：\"If I ____ the rabbit a few days ago, I would have bitten him.\"（动词 see）" },
+      "answers": ["had seen"],
+      "explain": { "en": "A supposition against past fact takes the past perfect 'had seen' in the if-clause and 'would have' + p.p. in the main clause.", "zh": "与过去事实相反，条件从句用过去完成式 had seen，主句用 would have + 过去分词。" },
+      "refs": ["c10", "e8"]
+    },
+    {
+      "id": "q4",
+      "type": "fill",
+      "prompt": { "en": "Fill the subjunctive 'be' form: 'If I ____ you, I would give this video a thumbs up.'", "zh": "填入虚拟语气的 be 形式：\"If I ____ you, I would give this video a thumbs up.\"" },
+      "answers": ["were"],
+      "explain": { "en": "In the subjunctive 'be' is 'were' for every person, never 'was'. 'If I am you' would wrongly make it real.", "zh": "虚拟语气里 be 不分人称用 were，绝不用 was。\"If I am you\"会错误地把它变成事实。" },
+      "refs": ["c7", "e5"]
+    },
+    {
+      "id": "q5",
+      "type": "error",
+      "sentence": "I wish that I am a rabbit.",
+      "fix": "I wish that I were a rabbit.",
+      "explain": { "en": "'I am' states a present fact, which contradicts wishing. A present wish needs the subjunctive past, and 'be' becomes 'were': 'I wish that I were a rabbit.'", "zh": "\"I am\"陈述的是现在的事实，与\"希望\"矛盾。对现在的愿望要用虚拟语气过去式，be 用 were：\"I wish that I were a rabbit\"。" },
+      "refs": ["c13", "e9"]
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": { "en": "Which 'if' sentence is NOT subjunctive (it describes a real, possible future)?", "zh": "哪句\"if\"不是虚拟语气（描述真实、可能的将来）？" },
+      "choices": [
+        { "id": "a", "text": { "en": "If I saw the rabbit now, I would bite him.", "zh": "If I saw the rabbit now, I would bite him." } },
+        { "id": "b", "text": { "en": "If I should see the rabbit tomorrow, I would bite him.", "zh": "If I should see the rabbit tomorrow, I would bite him." } },
+        { "id": "c", "text": { "en": "If I see the rabbit tomorrow, I will bite him.", "zh": "If I see the rabbit tomorrow, I will bite him." } }
+      ],
+      "answer": "c",
+      "explain": { "en": "Choice c uses present 'see' + 'will' — ordinary indicative (some call it conditional), treating the future as fully possible. a is contrary-to-present, b is an unlikely future; both are subjunctive.", "zh": "c 用现在式 see + will——普通陈述语气（有人称条件语气），把将来当作完全可能。a 与现在相反、b 是可能性很小的将来，都是虚拟语气。" },
+      "refs": ["c8", "e6"]
+    },
+    {
+      "id": "q7",
+      "type": "fill",
+      "prompt": { "en": "Complete with the dropped-'should' subjunctive: 'I demand that you ____ me a carrot.' (verb: give)", "zh": "用省略 should 的虚拟语气补全：\"I demand that you ____ me a carrot.\"（动词 give）" },
+      "answers": ["give"],
+      "explain": { "en": "After demand/suggest/insist/order the subjunctive is 'should' + base, and 'should' may be dropped, leaving the base verb 'give' (full form: 'should give').", "zh": "demand/suggest/insist/order 后接 should + 原形，should 可省，留下动词原形 give（完整式 should give）。" },
+      "refs": ["c15", "e13"]
+    },
+    {
+      "id": "q8",
+      "type": "error",
+      "sentence": "I wish you was here.",
+      "fix": "I wish you were here.",
+      "explain": { "en": "A present wish takes the subjunctive, and 'be' is 'were' for every person — including 'you'. So 'was' must become 'were'.", "zh": "对现在的愿望用虚拟语气，be 不分人称都用 were——包括 you。所以 was 要改成 were。" },
+      "refs": ["c7", "c13"]
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": { "en": "What does 'I would rather that you didn't eat the carrot' actually mean?", "zh": "\"I would rather that you didn't eat the carrot\"到底是什么意思？" },
+      "choices": [
+        { "id": "a", "text": { "en": "You already ate it, and I regret it.", "zh": "你已经吃了，我后悔。" } },
+        { "id": "b", "text": { "en": "You haven't eaten it yet, and I'd prefer you not to (now/soon).", "zh": "你还没吃，我希望你（现在/接下来）别吃。" } },
+        { "id": "c", "text": { "en": "You will definitely eat it tomorrow.", "zh": "你明天一定会吃它。" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'Would rather' takes the subjunctive, so 'didn't eat' looks past but expresses a present/upcoming wish — it hasn't been eaten. The past-fact version would be 'hadn't eaten'.", "zh": "would rather 接虚拟语气，\"didn't eat\"形式像过去，却表达现在或接下来的愿望——还没吃。对过去的版本是 hadn't eaten。" },
+      "refs": ["c14", "e12"]
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": { "en": "What is the main job of the subjunctive mood?", "zh": "虚拟语气的主要作用是什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "To describe reality and real events.", "zh": "描述现实和真实发生的事件。" } },
+        { "id": "b", "text": { "en": "To give direct commands and requests.", "zh": "直接下达命令和请求。" } },
+        { "id": "c", "text": { "en": "To describe imagined situations in the mind — contrary-to-fact suppositions and wishes.", "zh": "描述脑中想象的情况——与事实相反的假设和愿望。" } }
+      ],
+      "answer": "c",
+      "explain": { "en": "Reality is the indicative's job; direct commands are the imperative's. The subjunctive describes the mind: contrary-to-fact suppositions and wishes/requests/suggestions/commands.", "zh": "描述现实是陈述语气的事，直接命令是祈使语气的事。虚拟语气描述脑中：与事实相反的假设，以及愿望/请求/建议/命令。" },
+      "refs": ["c4", "c5", "c12"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "Lawyer Rabbit cross-examines the suspect", "zh": "法律兔盘问嫌疑人张三" },
+    "targets": ["verb-subjunctive", "if-clause", "main-clause", "wish-word", "modal-aux"],
+    "lines": [
+      { "speaker": "Zhang San", "text": "If I saw the rabbit now, I would bite him.", "annotations": [ { "quote": "saw", "tag": "verb-subjunctive" }, { "quote": "would", "tag": "modal-aux" } ], "note": { "en": "Contrary to present fact — so right now he does NOT see the rabbit (it's hiding).", "zh": "与现在事实相反——所以他现在并没看见兔子（兔子躲起来了）。" } },
+      { "speaker": "Lawyer Rabbit", "text": "So you admit you can't see him. And the carrot — what about a few days ago?", "annotations": [], "note": { "en": "Drawing out the contrary-to-fact implication.", "zh": "引出与事实相反的言下之意。" } },
+      { "speaker": "Zhang San", "text": "If I had seen the rabbit a few days ago, I would have bitten him.", "annotations": [ { "quote": "had seen", "tag": "verb-subjunctive" }, { "quote": "would have bitten", "tag": "main-clause" } ], "note": { "en": "Contrary to past fact: past perfect + 'would have' + p.p. It implies he never bit him.", "zh": "与过去事实相反：过去完成式 + would have + 过去分词。言下之意他并没咬到他。" } },
+      { "speaker": "Lawyer Rabbit", "text": "And if you should ever meet him again?", "annotations": [ { "quote": "should ever meet", "tag": "verb-subjunctive" } ], "note": { "en": "Unlikely future: 'should' + base. The meeting is treated as barely possible.", "zh": "可能性很小的将来：should + 原形。把重逢当作几乎不可能。" } },
+      { "speaker": "Zhang San", "text": "I wish that I were faster, but it's too late now.", "annotations": [ { "quote": "wish", "tag": "wish-word" }, { "quote": "were", "tag": "verb-subjunctive" } ], "note": { "en": "Present wish: wish + 'were' for 'be'. It implies he is NOT fast.", "zh": "对现在的愿望：wish + be 用 were。言下之意他并不快。" } },
+      { "speaker": "Lawyer Rabbit", "text": "The court demands that you give up biting rabbits.", "annotations": [ { "quote": "demands", "tag": "wish-word" }, { "quote": "give", "tag": "verb-subjunctive" } ], "note": { "en": "demand + (should) + base verb; 'should' is dropped, leaving 'give'.", "zh": "demand + (should) + 动词原形；省略 should，留下 give。" } }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "id": "37",
+  "slug": "understanding-linking-verbs-the-meaning-of-link",
+  "category": "verbs-tenses-mood",
+  "shape": "tiny",
+  "order": 8,
+  "title": { "en": "Understanding Linking Verbs: The Meaning of 'Link'", "zh": "你还搞不懂“系动词”？“系”到底啥意思？" },
+  "summary": { "en": "A linking verb does one simple job: it assigns the meaning after it back to the subject before it — drawing an equals sign. That linking is exactly why it's called a 'linking verb'.", "zh": "系动词只做一件简单的事：把它后面的含义赋予前面的主语——相当于画等号。正因为它把前后两端“连起来”，所以才叫系动词（linking verb）。" },
+  "source": { "videoId": "sEaq2KtYCDk", "youtube": "https://www.youtube.com/watch?v=sEaq2KtYCDk", "duration": "3:12", "script": "scripts/37-understanding-linking-verbs-the-meaning-of-link.md" },
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "A linking verb assigns the meaning after it to the subject", "zh": "系动词把后面的含义赋予前面的主语" },
+      "body": { "en": "The job of a linking verb is, plainly put, assignment: it hands the meaning that comes after it back to the part that comes before it (the subject). If you've done any programming, think of it as the assignment operator '=' — it just draws an equals sign between the two ends.", "zh": "系动词的作用说白了就是“赋予”：把它后面的含义赋予给它前面的部分（主语）。如果你学过编程，可以把它理解成赋值运算符“=”——它只是在前后两端之间画一个等号。" },
+      "exampleRefs": ["e1", "e2"],
+      "sourceRef": "系动词的作用说白了就是副词，也就是把它后面的含义赋予给它之前的部分"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "'Linking' is where the name comes from", "zh": "“系”就是从“连起来”来的" },
+      "body": { "en": "The way a linking verb assigns meaning is simply by connecting the two concepts on either side of it. Because it links the two ends together — links them — it's also called a connecting verb, a linking verb. That 'link' is the origin of the Chinese name 系动词.", "zh": "系动词赋予含义的方式，就是简简单单地把它前后两端的概念连起来。因为它把两端“连接”起来——link 一下——所以又叫联系动词、linking verb。这个 link，就是“系动词”里那个“系”字的由来。" },
+      "exampleRefs": ["e1", "e2"]
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Same idea even when the verb adds flavor", "zh": "动词带点额外含义时，原理不变" },
+      "body": { "en": "Linking verbs other than 'be' still just assign the following meaning to the subject — they only add a flavor on top. 'Smells nice' assigns 'nice' to the subject plus a layer of 'by smell'; 'remained empty' adds 'stayed unchanged'; 'grew dark' adds 'gradually increased'. Common linking verbs include keep, stay, seem, appear, feel, become, turn, prove.", "zh": "除 be 以外的系动词，本质上也只是把后面的含义赋予主语，只不过多加一层“味道”。smells nice 是把 nice 给主语，再多一层“通过闻到”；remained empty 多一层“一直没变”；grew dark 多一层“一点点增加”。常见系动词还有 keep、stay、seem、appear、feel、become、turn、prove 等。" },
+      "exampleRefs": ["e3", "e4", "e5"],
+      "sourceRef": "系动词还有很多，如 keep, stay, seem, appear, feel, become, turn, prove 等等等等，但它们背后的原理都是用不同方式副词"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Don't confuse the linking-verb role with the real-verb role", "zh": "别把系动词身份和实义动词身份弄混" },
+      "body": { "en": "A word like 'smell' can wear two hats. As a linking verb ('The carrot smells nice') it assigns 'nice' to the carrot. But 'smell' can also be a real (notional) verb: transitive when it takes an object ('I smell something'), or intransitive when it stands alone ('it smells' = it stinks). Same spelling, different job — judge by the role in the sentence.", "zh": "像 smell 这种词可以有两种身份。作系动词时（The carrot smells nice）它把 nice 赋予胡萝卜；但 smell 也能作实义动词：带宾语时是及物动词（I smell something），独立使用时是不及物动词（it smells，意为“它难闻”）。拼写相同、作用不同——要看它在句中的角色来判断。" },
+      "exampleRefs": ["e6", "e7"],
+      "sourceRef": "请一定不要把动词的系动词身份和实义动词身份弄混淆"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "I am a rabbit.",
+      "annotations": [
+        { "quote": "I", "tag": "subject" },
+        { "quote": "am", "tag": "verb-linking" },
+        { "quote": "a rabbit", "tag": "subject-complement" }
+      ],
+      "note": { "en": "'Am' assigns the meaning 'a rabbit' back to 'I' — an equals sign. Chinese: 我是一只兔子.", "zh": "“am”把“a rabbit”的含义赋予“I”——画等号。中文：我是一只兔子。" }
+    },
+    {
+      "id": "e2",
+      "text": "The rabbit is smart.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "subject" },
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "smart", "tag": "subject-complement" }
+      ],
+      "note": { "en": "'Is' connects the two ends: it assigns 'smart' to 'the rabbit'. Chinese usually leaves 'is' untranslated: 这兔子聪明.", "zh": "“is”把前后两端连起来：把“smart”赋予“the rabbit”。中文一般不译出“is”：这兔子聪明。" }
+    },
+    {
+      "id": "e3",
+      "text": "The carrot smells nice.",
+      "annotations": [
+        { "quote": "The carrot", "tag": "subject" },
+        { "quote": "smells", "tag": "verb-linking" },
+        { "quote": "nice", "tag": "subject-complement" }
+      ],
+      "note": { "en": "The carrot isn't doing the smelling — it's being smelled. 'Smells' still assigns 'nice' to 'the carrot', just with a 'by smell' flavor. Chinese: 这胡萝卜闻起来香.", "zh": "不是胡萝卜在闻，而是被闻。“smells”仍把“nice”赋予“the carrot”，只多一层“闻起来”的味道。中文：这胡萝卜闻起来香。" }
+    },
+    {
+      "id": "e4",
+      "text": "The room remained empty.",
+      "annotations": [
+        { "quote": "The room", "tag": "subject" },
+        { "quote": "remained", "tag": "verb-linking" },
+        { "quote": "empty", "tag": "subject-complement" }
+      ],
+      "note": { "en": "Assigns 'empty' to 'the room', plus a layer of 'stayed unchanged'. Chinese: 房间一直是空的.", "zh": "把“empty”赋予“the room”，再加一层“一直没变”。中文：房间一直是空的。" }
+    },
+    {
+      "id": "e5",
+      "text": "The sky grew dark.",
+      "annotations": [
+        { "quote": "The sky", "tag": "subject" },
+        { "quote": "grew", "tag": "verb-linking" },
+        { "quote": "dark", "tag": "subject-complement" }
+      ],
+      "note": { "en": "Assigns 'dark' to 'the sky', plus a layer of 'gradually increasing'. Chinese: 天空渐渐变暗.", "zh": "把“dark”赋予“the sky”，再加一层“一点点增加”。中文：天空渐渐变暗。" }
+    },
+    {
+      "id": "e6",
+      "text": "I smell something.",
+      "annotations": [
+        { "quote": "I", "tag": "subject" },
+        { "quote": "smell", "tag": "verb-transitive" },
+        { "quote": "something", "tag": "object" }
+      ],
+      "note": { "en": "Here 'smell' is a real verb — transitive, taking the object 'something'. Not a linking verb. Chinese: 我闻到了什么.", "zh": "这里“smell”是实义动词——及物，带宾语“something”，不是系动词。中文：我闻到了什么。" }
+    },
+    {
+      "id": "e7",
+      "text": "The carrot has gone bad, it smells.",
+      "annotations": [
+        { "quote": "it", "tag": "subject" },
+        { "quote": "smells", "tag": "verb-intransitive" }
+      ],
+      "note": { "en": "This 'smells' is a real verb too — intransitive, no object, meaning 'it stinks'. Chinese: 这胡萝卜坏了，它难闻.", "zh": "这个“smells”也是实义动词——不及物、无宾语，意为“它难闻”。中文：这胡萝卜坏了，它难闻。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "What does the linking verb 'is' do in 'The rabbit is smart'?", "zh": "在“The rabbit is smart”中，系动词“is”起什么作用？" },
+      "choices": [
+        { "id": "a", "text": { "en": "It assigns 'smart' to 'the rabbit', linking the two ends", "zh": "把“smart”赋予“the rabbit”，把前后两端连起来" } },
+        { "id": "b", "text": { "en": "It takes 'smart' as its object", "zh": "把“smart”当作它的宾语" } },
+        { "id": "c", "text": { "en": "It performs the action of being smart", "zh": "执行“聪明”这个动作" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "A linking verb draws an equals sign: it hands the meaning after it ('smart') back to the subject before it ('the rabbit').", "zh": "系动词画等号：把它后面的含义（smart）赋予前面的主语（the rabbit）。" },
+      "refs": ["c1", "c2", "e2"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "In which sentence is 'smell(s)' NOT a linking verb?", "zh": "下列哪句中的“smell(s)”不是系动词？" },
+      "choices": [
+        { "id": "a", "text": { "en": "The carrot smells nice.", "zh": "The carrot smells nice.（这胡萝卜闻起来香。）" } },
+        { "id": "b", "text": { "en": "I smell something.", "zh": "I smell something.（我闻到了什么。）" } },
+        { "id": "c", "text": { "en": "The flowers smell sweet.", "zh": "The flowers smell sweet.（花闻起来很香。）" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "In 'I smell something', 'smell' is a real transitive verb taking the object 'something'. In the other two it links an adjective back to the subject.", "zh": "在“I smell something”中，“smell”是实义及物动词，带宾语“something”；另两句则把形容词赋予主语，是系动词。" },
+      "refs": ["c4", "e6"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Because a linking verb connects its two ends, it's also called a ____ verb (English word).", "zh": "因为系动词把前后两端连起来，所以它又叫 ____ 动词（英文单词）。" },
+      "answers": ["linking", "connecting"],
+      "explain": { "en": "It links the two ends together — hence 'linking verb', which is exactly where the Chinese name 系动词 comes from.", "zh": "它把两端连接起来——所以叫 linking verb，这正是“系动词”里“系”字的由来。" },
+      "refs": ["c2"]
+    },
+    {
+      "id": "q4",
+      "type": "error",
+      "sentence": "The sky grew darkly.",
+      "fix": "The sky grew dark.",
+      "explain": { "en": "A linking verb assigns its meaning to the subject, so the complement must be an adjective ('dark'), not an adverb ('darkly').", "zh": "系动词把含义赋予主语，所以补语（表语）要用形容词“dark”，不能用副词“darkly”。" },
+      "refs": ["c3", "e5"]
+    }
+  ],
+  "dialogue": {
+    "kind": "scenario",
+    "title": { "en": "One word, two roles", "zh": "同一个词，两种身份" },
+    "targets": ["verb-linking", "subject-complement", "verb-transitive", "verb-intransitive"],
+    "lines": [
+      { "speaker": "Rabbit", "text": "The carrot smells nice.", "annotations": [ { "quote": "smells", "tag": "verb-linking" }, { "quote": "nice", "tag": "subject-complement" } ], "note": { "en": "Linking verb: 'smells' assigns 'nice' to the carrot.", "zh": "系动词：“smells”把“nice”赋予胡萝卜。" } },
+      { "speaker": "Wolf", "text": "Wait, I smell something.", "annotations": [ { "quote": "smell", "tag": "verb-transitive" }, { "quote": "something", "tag": "object" } ], "note": { "en": "Real verb, transitive — it takes the object 'something'.", "zh": "实义动词，及物——带宾语“something”。" } },
+      { "speaker": "Rabbit", "text": "Oh no, the carrot has gone bad, it smells.", "annotations": [ { "quote": "smells", "tag": "verb-intransitive" } ], "note": { "en": "Real verb, intransitive — no object, meaning 'it stinks'.", "zh": "实义动词，不及物——无宾语，意为“它难闻”。" } },
+      { "speaker": "Wolf", "text": "So you are a clever rabbit after all.", "annotations": [ { "quote": "are", "tag": "verb-linking" }, { "quote": "a clever rabbit", "tag": "subject-complement" } ], "note": { "en": "Back to a linking verb: 'are' draws an equals sign between 'you' and 'a clever rabbit'.", "zh": "又回到系动词：“are”在“you”和“a clever rabbit”之间画等号。" } }
+    ]
+  }
+}

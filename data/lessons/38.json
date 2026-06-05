@@ -1,0 +1,228 @@
+{
+  "id": "38",
+  "slug": "causative-verbs-in-english-grammar",
+  "category": "verbs-tenses-mood",
+  "shape": "standard",
+  "order": 9,
+  "title": { "en": "Causative Verbs: make, let, have, get", "zh": "使役动词：make、let、have、get" },
+  "summary": { "en": "Causative verbs mean 'make / let / get someone to do something'. They take an object plus an object complement, and the four most common ones — make, let, have, get — each carry a slightly different shade of meaning.", "zh": "使役动词表达“使、让、令某人做某事”。它们后面除了接宾语，还要再加宾语补语；最常见的四个——make、let、have、get——各自的隐含意义略有不同。" },
+  "source": { "videoId": "kA9T6b_Ulgc", "youtube": "https://www.youtube.com/watch?v=kA9T6b_Ulgc", "duration": "9:05", "script": "scripts/38-causative-verbs-in-english-grammar.md" },
+  "tags": [
+    { "id": "causative-verb", "label": { "en": "causative verb", "zh": "使役动词" }, "abbr": "Caus", "color": "#be123c", "underline": "solid" },
+    { "id": "bare-infinitive", "label": { "en": "bare infinitive", "zh": "裸不定式" }, "abbr": "bInf", "color": "#0f766e", "underline": "dotted" },
+    { "id": "full-infinitive", "label": { "en": "full infinitive (to + verb)", "zh": "完整不定式 (to + 动词)" }, "abbr": "tInf", "color": "#0e7490", "underline": "dotted" },
+    { "id": "past-participle", "label": { "en": "past participle", "zh": "过去分词" }, "abbr": "pp", "color": "#7c2d12", "underline": "dotted" },
+    { "id": "complement-adj", "label": { "en": "adjective complement", "zh": "形容词补语" }, "abbr": "aC", "color": "#a21caf", "underline": "dotted" },
+    { "id": "complement-adv", "label": { "en": "adverb complement", "zh": "副词补语" }, "abbr": "advC", "color": "#9d174d", "underline": "dotted" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "An object alone is not enough", "zh": "光加宾语还不够" },
+      "body": { "en": "Verbs like know, eat, and teach express a complete idea once you add an object — know the fact, eat carrots, teach grammar. But with a verb like 'make', adding only an object leaves the idea unfinished: 'I make the wolf' is not a complete thought. You still have to say what the object does, so this kind of verb needs an object plus an object complement.", "zh": "像 know、eat、teach 这样的动词，后面加个宾语就能表达完整意思——know the fact、eat carrots、teach grammar。但像 make 这样的词，光加宾语句意还不完整：“I make the wolf”（我使狼）会让人觉得话没说完。你还得交代宾语做了啥，所以这类动词除了宾语，还需要宾语补语。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "光是在之后加个宾语，这里的宾语是狼，句意还不完整"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "What is a causative verb", "zh": "什么是使役动词" },
+      "body": { "en": "Verbs that need both an object and an object complement come in several classes; one class means 'make / let / cause someone to do something'. Grammatically these are called causative verbs. The four most representative ones are make, let, have, and get — master these and the rest follow easily.", "zh": "需要后接宾语和宾语补语的动词有好几类，其中一类表达的含义是“使、让、令”。这一类动词在语法上被称作使役动词。最有代表性的四个是 make、let、have、get——掌握好这几个，其他的使役动词就很好理解了。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "这一类动词在语法上被称作使役动词"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "The complement can take many forms", "zh": "宾语补语有多种形式" },
+      "body": { "en": "The object complement after a causative verb can be a bare infinitive (a to-infinitive with the 'to' dropped), an adjective, an adverb, or a past participle. The bare infinitive only looks like a base verb — it is really a non-finite verb, so the sentence still has only one predicate verb.", "zh": "使役动词后的宾语补语可以是裸不定式（去掉 to 的不定式）、形容词、副词或过去分词。裸不定式只是长得像动词原型，其实是非谓语动词，所以一句话里仍然只有一个谓语动词。" },
+      "exampleRefs": ["e2", "e3", "e4"],
+      "sourceRef": "动词原型或者说裸不定式、形容词、副词、过去分词等"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "make — force / require", "zh": "make — 迫使 / 需要" },
+      "body": { "en": "'Make' as a causative verb implies forcing or requiring someone to do something; it is not the 'manufacture' sense of 'made in China'. It is followed by an object plus a bare infinitive.", "zh": "make 作使役动词时，隐含意义通常是迫使或需要某人做某事；它不是“made in China”里制造的意思。它后接宾语加裸不定式。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "Make的隐含意通常是迫使某人做某事"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "let — allow / permit", "zh": "let — 允许 / 让" },
+      "body": { "en": "'Let' implies allowing or permitting someone to do something. Like 'make', it is followed by an object plus a bare infinitive. The complement can also be an adverb, as in 'Let me out', where 'out' is an adverb acting as the object complement.", "zh": "let 的隐含意义是允许某人做某事。和 make 一样，它后接宾语加裸不定式。补语也可以是副词，如“Let me out”，这里的 out 是副词，作宾语补语。" },
+      "exampleRefs": ["e2", "e5"],
+      "sourceRef": "Let的隐含意通常是允许某人做某事"
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "have — assign a task / get something done", "zh": "have — 给予任务 / 让人把事办好" },
+      "body": { "en": "'Have' has many roles (possession, auxiliary), but as a causative it implies giving someone a task or responsibility: 'I'll have the wolf wash the dishes' (object + bare infinitive). You can also use 'have + object + past participle' — 'I had my car washed' — where the doer is unspecified and the participle reads passively. The same pattern can also describe misfortune: 'I had my carrot stolen yesterday.'", "zh": "have 身份很多（表示“有”、做助动词），但作使役动词时隐含意义是给某人一个任务或责任：“I'll have the wolf wash the dishes”（宾语 + 裸不定式）。也可以用“have + 宾语 + 过去分词”——“I had my car washed”——施动者不明，过去分词带被动含义。这个句型也能表达遭遇不幸：“I had my carrot stolen yesterday”。" },
+      "exampleRefs": ["e3", "e6", "e7"],
+      "sourceRef": "Have的隐含意通常是给某人某项责任或者说任务"
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "get — persuade / encourage (needs 'to')", "zh": "get — 说服 / 鼓励（要带 to）" },
+      "body": { "en": "'Get' as a causative implies persuading or encouraging someone to do something. Crucially, its object is followed by a full infinitive — the to-infinitive — not a bare infinitive: 'I'll get the wolf to clean the kitchen.' Don't drop the 'to'.", "zh": "get 作使役动词时隐含意义是说服或鼓励某人做某事。关键是它的宾语后要接完整不定式，即带 to 的不定式，而不是裸不定式：“I'll get the wolf to clean the kitchen”。千万别漏了 to。" },
+      "exampleRefs": ["e8"],
+      "sourceRef": "请注意 \"get\" 的宾语后要接完整动词不定式 full infinitive，即带 \"to\" 的不定式"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "I make the wolf eat carrots from time to time.",
+      "annotations": [
+        { "quote": "make", "tag": "causative-verb" },
+        { "quote": "the wolf", "tag": "object" },
+        { "quote": "eat", "tag": "bare-infinitive" }
+      ],
+      "note": { "en": "'Make' forces the wolf into the action. 'The wolf' is the object; the bare infinitive 'eat' is the object complement that completes the meaning.", "zh": "“make”迫使狼做这个动作。“the wolf”是宾语；裸不定式“eat”是补足句意的宾语补语。" }
+    },
+    {
+      "id": "e2",
+      "text": "I'll let the wolf eat some chocolate.",
+      "annotations": [
+        { "quote": "let", "tag": "causative-verb" },
+        { "quote": "the wolf", "tag": "object" },
+        { "quote": "eat", "tag": "bare-infinitive" }
+      ],
+      "note": { "en": "'Let' = allow. After 'let', the complement is again a bare infinitive ('eat'), with no 'to'.", "zh": "“let”表示允许。在“let”之后，补语仍是裸不定式（“eat”），不加 to。" }
+    },
+    {
+      "id": "e3",
+      "text": "I'll have the wolf wash the dishes.",
+      "annotations": [
+        { "quote": "have", "tag": "causative-verb" },
+        { "quote": "the wolf", "tag": "object" },
+        { "quote": "wash", "tag": "bare-infinitive" }
+      ],
+      "note": { "en": "Here 'have' is not 'possess'. It assigns the wolf the task of washing the dishes — object + bare infinitive.", "zh": "这里的“have”不是“有”。它把洗盘子的任务交给狼——宾语 + 裸不定式。" }
+    },
+    {
+      "id": "e4",
+      "text": "The carrot made the wolf full.",
+      "annotations": [
+        { "quote": "made", "tag": "causative-verb" },
+        { "quote": "the wolf", "tag": "object" },
+        { "quote": "full", "tag": "complement-adj" }
+      ],
+      "note": { "en": "The object complement can be an adjective: 'full' describes the resulting state of the object 'the wolf'.", "zh": "宾语补语可以是形容词：“full”描述宾语“the wolf”被造成的状态。" }
+    },
+    {
+      "id": "e5",
+      "text": "Let me out.",
+      "annotations": [
+        { "quote": "Let", "tag": "causative-verb" },
+        { "quote": "me", "tag": "object" },
+        { "quote": "out", "tag": "complement-adv" }
+      ],
+      "note": { "en": "'Out' here is an adverb (not a preposition) serving as the object complement.", "zh": "这里的“out”是副词（不是介词），作宾语补语。" }
+    },
+    {
+      "id": "e6",
+      "text": "I had my car washed.",
+      "annotations": [
+        { "quote": "had", "tag": "causative-verb" },
+        { "quote": "my car", "tag": "object" },
+        { "quote": "washed", "tag": "past-participle" }
+      ],
+      "note": { "en": "'have + object + past participle': the doer is unspecified and 'washed' is passive — 'my car was washed by someone as I wanted.'", "zh": "“have + 宾语 + 过去分词”：施动者不明，“washed”是被动——“my car was washed by someone as I wanted”。" }
+    },
+    {
+      "id": "e7",
+      "text": "I had my carrot stolen yesterday.",
+      "annotations": [
+        { "quote": "had", "tag": "causative-verb" },
+        { "quote": "my carrot", "tag": "object" },
+        { "quote": "stolen", "tag": "past-participle" }
+      ],
+      "note": { "en": "Same 'have + object + past participle' shape, but here it signals misfortune — not a task or service, and certainly not the result I wanted.", "zh": "同样是“have + 宾语 + 过去分词”，但这里表示遭遇不幸——不是任务或服务，更不是我想要的结果。" }
+    },
+    {
+      "id": "e8",
+      "text": "I'll get the wolf to clean the kitchen after she washes the dishes.",
+      "annotations": [
+        { "quote": "get", "tag": "causative-verb" },
+        { "quote": "the wolf", "tag": "object" },
+        { "quote": "to clean", "tag": "full-infinitive" }
+      ],
+      "note": { "en": "'Get' implies persuading/encouraging. Its complement is a FULL infinitive 'to clean' — never drop the 'to'.", "zh": "“get”隐含说服/鼓励之意。它的补语是完整不定式“to clean”——绝不能漏掉 to。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Which causative verb requires a FULL infinitive (with 'to') after its object?", "zh": "哪个使役动词的宾语后要接完整不定式（带 to）？" },
+      "choices": [
+        { "id": "a", "text": { "en": "make", "zh": "make" } },
+        { "id": "b", "text": { "en": "let", "zh": "let" } },
+        { "id": "c", "text": { "en": "get", "zh": "get" } }
+      ],
+      "answer": "c",
+      "explain": { "en": "'Get' takes a full infinitive — 'I'll get the wolf to clean the kitchen.' 'Make' and 'let' take a bare infinitive (no 'to').", "zh": "“get”接完整不定式——“I'll get the wolf to clean the kitchen”。“make”和“let”接裸不定式（不带 to）。" },
+      "refs": ["c7", "e8"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "What does causative 'have' imply in 'I'll have the wolf wash the dishes'?", "zh": "在“I'll have the wolf wash the dishes”中，使役动词 have 隐含什么意思？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Possessing the wolf and the dishes", "zh": "拥有狼和盘子" } },
+        { "id": "b", "text": { "en": "Assigning the wolf the task of washing the dishes", "zh": "把洗盘子的任务交给狼" } },
+        { "id": "c", "text": { "en": "Forcing the wolf against its will", "zh": "违背狼的意愿强迫它" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "Causative 'have' has nothing to do with 'possess'; it implies giving someone a task or responsibility.", "zh": "使役动词 have 和“有”无关；它隐含给某人一项任务或责任之意。" },
+      "refs": ["c6", "e3"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Complete the causative pattern: 'I'll get the wolf ____ wash my car.'", "zh": "补全使役结构：“I'll get the wolf ____ wash my car.”" },
+      "answers": ["to"],
+      "explain": { "en": "'Get' needs a full infinitive, so insert 'to': 'I'll get the wolf to wash my car.'", "zh": "“get”需要完整不定式，所以要加 to：“I'll get the wolf to wash my car”。" },
+      "refs": ["c7", "e8"]
+    },
+    {
+      "id": "q4",
+      "type": "fill",
+      "prompt": { "en": "Rewrite as 'have + object + past participle': turn 'I'll have the wolf wash the dishes' into 'I'll have the dishes ____.'", "zh": "改写为“have + 宾语 + 过去分词”：把“I'll have the wolf wash the dishes”改成“I'll have the dishes ____.”" },
+      "answers": ["washed"],
+      "explain": { "en": "Dropping the doer, the complement becomes a past participle reading passively: 'I'll have the dishes washed.'", "zh": "省去施动者后，补语变成带被动含义的过去分词：“I'll have the dishes washed”。" },
+      "refs": ["c6", "e6"]
+    },
+    {
+      "id": "q5",
+      "type": "error",
+      "sentence": "I make the wolf to eat carrots.",
+      "fix": "I make the wolf eat carrots.",
+      "explain": { "en": "'Make' takes a bare infinitive, so there is no 'to' before 'eat'. Only 'get' uses the full infinitive.", "zh": "“make”接裸不定式，所以“eat”前不加 to。只有“get”用完整不定式。" },
+      "refs": ["c4", "e1"]
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": { "en": "In 'The carrot made the wolf full', what kind of object complement is 'full'?", "zh": "在“The carrot made the wolf full”中，“full”是哪种宾语补语？" },
+      "choices": [
+        { "id": "a", "text": { "en": "An adjective", "zh": "形容词" } },
+        { "id": "b", "text": { "en": "A bare infinitive", "zh": "裸不定式" } },
+        { "id": "c", "text": { "en": "A past participle", "zh": "过去分词" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "'Full' is an adjective describing the resulting state of the object 'the wolf'. Causative complements can also be bare infinitives, adverbs, or past participles.", "zh": "“full”是形容词，描述宾语“the wolf”被造成的状态。使役补语也可以是裸不定式、副词或过去分词。" },
+      "refs": ["c3", "e4"]
+    }
+  ],
+  "dialogue": {
+    "kind": "scenario",
+    "title": { "en": "One rabbit, four causatives", "zh": "一只兔子，四个使役动词" },
+    "targets": ["causative-verb", "bare-infinitive", "full-infinitive", "past-participle"],
+    "lines": [
+      { "speaker": "Rabbit", "text": "I make the wolf eat carrots from time to time.", "annotations": [ { "quote": "make", "tag": "causative-verb" }, { "quote": "the wolf", "tag": "object" }, { "quote": "eat", "tag": "bare-infinitive" } ], "note": { "en": "make = force; object + bare infinitive.", "zh": "make = 迫使；宾语 + 裸不定式。" } },
+      { "speaker": "Wolf", "text": "Fine. But then let me eat some chocolate.", "annotations": [ { "quote": "let", "tag": "causative-verb" }, { "quote": "me", "tag": "object", "occurrence": 1 }, { "quote": "eat", "tag": "bare-infinitive" } ], "note": { "en": "let = allow; object + bare infinitive.", "zh": "let = 允许；宾语 + 裸不定式。" } },
+      { "speaker": "Rabbit", "text": "Deal. And I'll have the wolf wash the dishes.", "annotations": [ { "quote": "have", "tag": "causative-verb" }, { "quote": "the wolf", "tag": "object" }, { "quote": "wash", "tag": "bare-infinitive" } ], "note": { "en": "have = assign a task; object + bare infinitive.", "zh": "have = 给予任务；宾语 + 裸不定式。" } },
+      { "speaker": "Rabbit", "text": "Then I'll get the wolf to clean the kitchen too.", "annotations": [ { "quote": "get", "tag": "causative-verb" }, { "quote": "the wolf", "tag": "object" }, { "quote": "to clean", "tag": "full-infinitive" } ], "note": { "en": "get = persuade; note the FULL infinitive 'to clean'.", "zh": "get = 说服；注意完整不定式“to clean”。" } },
+      { "speaker": "Wolf", "text": "And tomorrow I'll have my car washed by you!", "annotations": [ { "quote": "have", "tag": "causative-verb" }, { "quote": "my car", "tag": "object" }, { "quote": "washed", "tag": "past-participle" } ], "note": { "en": "have + object + past participle: doer added with 'by you', participle reads passively.", "zh": "have + 宾语 + 过去分词：用“by you”补出施动者，过去分词带被动含义。" } }
+    ]
+  }
+}

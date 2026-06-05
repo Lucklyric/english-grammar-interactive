@@ -1,0 +1,255 @@
+{
+  "id": "29",
+  "slug": "english-grammar-nouns-common-proper-countable-uncountable",
+  "category": "parts-of-speech",
+  "shape": "standard",
+  "order": 33,
+  "title": { "en": "Nouns: Common, Proper, Countable, Uncountable", "zh": "名词：普通、专有、可数、不可数" },
+  "summary": { "en": "Nouns split into common and proper; common nouns split into countable and uncountable, with collective and material/abstract sub-types. Countability isn't a rule to memorize — it's about what you're actually counting. Nouns also take three possessive forms.", "zh": "名词分普通名词和专有名词；普通名词又分可数和不可数，并有集合、物质/抽象等子类。可数不可数不是死记的规则，而是看你到底在数什么。名词还有三种所有格。" },
+  "source": { "videoId": "a4Z096wliHs", "youtube": "https://www.youtube.com/watch?v=a4Z096wliHs", "duration": "14:33", "script": "scripts/29-english-grammar-nouns-common-proper-countable-uncountable.md" },
+  "tags": [
+    { "id": "noun", "label": { "en": "noun", "zh": "名词" }, "abbr": "N", "color": "#2563eb", "underline": "solid" },
+    { "id": "proper-noun", "label": { "en": "proper noun", "zh": "专有名词" }, "abbr": "PN", "color": "#7c3aed", "underline": "solid" },
+    { "id": "plural", "label": { "en": "plural marker", "zh": "复数标记" }, "abbr": "pl", "color": "#059669", "underline": "dotted" },
+    { "id": "possessive", "label": { "en": "possessive", "zh": "所有格" }, "abbr": "'s", "color": "#dc2626", "underline": "dashed" },
+    { "id": "of-phrase", "label": { "en": "of-phrase", "zh": "of 结构" }, "abbr": "of", "color": "#0891b2", "underline": "dashed" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "The two big classes: common vs. proper nouns", "zh": "两大分类：普通名词与专有名词" },
+      "body": { "en": "Everyday categories of thing that exist many times over — and that have an equivalent in every language — are common nouns ('rabbit'). Things that exist only once — Earth, Asia, China, Bank of China, New Year, or a person's name — are proper nouns. To mark a noun as proper, we capitalize its first letter.", "zh": "日常生活中常见、世上有很多个、在各种语言里都有对应的类别名，叫普通名词（如 rabbit 兔子）。而世上只有一个的事物——地球、亚洲、中国、中国银行、新年，或人名——叫专有名词。为了表示专有，我们把它的首字母大写。" },
+      "exampleRefs": ["e1", "e2"],
+      "sourceRef": "普通名词和专有名词就是名词的两大分类"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "English nouns carry number in their spelling", "zh": "英语名词本身能传递单复数信息" },
+      "body": { "en": "Unlike Chinese, where 'rabbit' alone doesn't tell you one or many, English changes the spelling: add 's' (with a matching sound change) for plurals — one rabbit, two rabbits; carrot, carrots. But the rule has exceptions: box → boxes, man → men, child → children.", "zh": "中文里光看“兔子”不知道是一只还是多只；英语却靠改拼写来体现：加 s（读音也相应变化）表复数——one rabbit, two rabbits；carrot, carrots。但规则有特例：box → boxes，man → men，child → children。" },
+      "exampleRefs": ["e3"],
+      "sourceRef": "名词本身就可以传递单复数的信息"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Countable common nouns: individual vs. collective", "zh": "可数普通名词：个体名词与集合名词" },
+      "body": { "en": "Things you can count are countable nouns. The most common kind are individual nouns (rabbit, carrot). A second kind names a group of individuals — collective nouns like team, audience, fruit. Because a collective noun is a bundle of members, its number can go either way: 'This is a large team' (singular) but 'The team are working together' (the members).", "zh": "数得清的名词是可数名词。最常见的是个体名词（rabbit、carrot）。另一类指多个个体的集合——集合名词，如 team、audience、fruit。集合名词是多个个体的统称，所以单复数要看语境：This is a large team（单数），但 The team are working together（指成员）。" },
+      "exampleRefs": ["e4", "e5"],
+      "sourceRef": "它们属于可数名词中的个体名词"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Collective nouns that lean one way", "zh": "偏向单一意义的集合名词" },
+      "body": { "en": "Some collective nouns are essentially plural in meaning — 'police' (the body of police), 'people' (a crowd). Others name one total whole and so feel singular — 'baggage', 'furniture' (all the furniture in one place is a single total, not two totals). Note: 'furniture' is uncountable because it's one whole, which is different from the uncountability of a substance like water.", "zh": "有些集合名词基本只有复数意义——police（警察的集合）、people（一群人）。有些是总称，只有单数意义——baggage（行李）、furniture（某地所有家具是“一个总体”，不是两个总体）。注意：furniture 不可数是因为它是一个总体，这和 water 这种物质的不可数不一样。" },
+      "exampleRefs": ["e5"],
+      "sourceRef": "也有一些集合名词基本只有复数意义"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "Uncountable common nouns: abstract and material", "zh": "不可数普通名词：抽象名词与物质名词" },
+      "body": { "en": "Some things can't be counted. Abstract concepts like peace and honesty can't — you can't say 'one peace, two honesties'. Material (substance) nouns can't either: water, air, beer, milk, wood, paper. We don't add 's' to count them — not 'two waters, three waters' for the substance itself.", "zh": "有些东西数不清，即不可数名词。抽象概念如 peace（和平）、honesty（诚实）没法数——不能说“一个和平、两个诚实”。物质名词也不可数：water、air、beer、milk、wood、paper。不能加 s 来数——指物质本身时不说 two waters, three waters。" },
+      "exampleRefs": ["e6"],
+      "sourceRef": "即不可数的普通名词"
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "Countability is about what you're counting", "zh": "可数不可数，关键看你在数什么" },
+      "body": { "en": "Don't memorize rules — understand what you're counting. 'Water' usually means the substance, but it also means a body of water, so 'two waters' / 'international waters' counts areas, not the substance. 'Two beers' at a restaurant counts glasses, not the liquid. To count a substance you count its container or unit: a glass of water, two glasses of water; a piece of bread, two pieces of bread — water and bread themselves stay singular.", "zh": "别死记规则——要搞清在数什么。water 通常指物质，但也有“水域”的意思，所以 two waters / international waters 数的是水域，不是物质。点餐说 two beers 数的是杯子，不是液体。要数物质就数它的容器或单位：a glass of water, two glasses of water；a piece of bread, two pieces of bread——water 和 bread 本身不变复数。" },
+      "exampleRefs": ["e7", "e8"],
+      "sourceRef": "搞清我们在说可数和不可数时到底说的是什么"
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "Even proper nouns can be countable in context", "zh": "专有名词在某些语境也可数" },
+      "body": { "en": "A proper noun is usually uncountable because it's unique — but uniqueness can step aside. 'There's a Michael downstairs looking for you' treats Michael as one of the many people named Michael; 'There are three Michaels in my class' counts them. So we can't flatly rule that proper nouns are always uncountable.", "zh": "专有名词通常因独一无二而不可数——但这种独特性有时会退居其次。There's a Michael downstairs looking for you 把 Michael 当作众多叫 Michael 的人之一；There are three Michaels in my class 则在数他们。所以不能一刀切地说专有名词一定不可数。" },
+      "exampleRefs": ["e9"],
+      "sourceRef": "在这样的语境下，专有名词也变得可数了"
+    },
+    {
+      "id": "c8",
+      "heading": { "en": "The possessive case: 's, of, and the mix", "zh": "所有格：'s、of 结构，及两者混合" },
+      "body": { "en": "Nominative and accusative forms of a noun are just the noun itself (Rabbits love carrots). The possessive shows belonging or quality. Use 's most often after living people/animals — the rabbit's carrot, Michael's computer. For non-living modifiers you can use 'of': The quality of the paper, The brightness of the moon. The two even mix: 'I am a friend of Michael's' (one of Michael's friends). With 'and', shared ownership marks only the last noun (Tom and Jerry's room); separate ownership marks each (Tom's and Jerry's rooms).", "zh": "名词的主格、宾格就是名词本身（Rabbits love carrots）。所有格表示所属或性质。's 最常用于有生命的人或动物之后——the rabbit's carrot、Michael's computer。修饰非生命名词可用 of：The quality of the paper、The brightness of the moon。两者还能混用：I am a friend of Michael's（Michael 众多朋友之一）。用 and 连接时，表公有只在最后一个名词加 's（Tom and Jerry's room）；表各自则各加（Tom's and Jerry's rooms）。" },
+      "exampleRefs": ["e10", "e11", "e12"],
+      "sourceRef": "而名词所有格有三类"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "A rabbit is eating a carrot.",
+      "annotations": [
+        { "quote": "rabbit", "tag": "noun" },
+        { "quote": "carrot", "tag": "noun" }
+      ],
+      "note": { "en": "'Rabbit' and 'carrot' are common nouns — everyday categories with many members.", "zh": "rabbit 和 carrot 是普通名词——世上有很多个的日常类别。" }
+    },
+    {
+      "id": "e2",
+      "text": "China, Asia, and the Bank of China are proper nouns.",
+      "annotations": [
+        { "quote": "China", "tag": "proper-noun", "occurrence": 1 },
+        { "quote": "Asia", "tag": "proper-noun" },
+        { "quote": "Bank of China", "tag": "proper-noun" }
+      ],
+      "note": { "en": "Each names a one-of-a-kind thing, so the first letter is capitalized.", "zh": "每个都指独一无二的事物，所以首字母大写。" }
+    },
+    {
+      "id": "e3",
+      "text": "One rabbit, two rabbits; one child, two children.",
+      "annotations": [
+        { "quote": "rabbits", "tag": "plural" },
+        { "quote": "children", "tag": "plural" }
+      ],
+      "note": { "en": "'Rabbits' takes a regular -s; 'children' is an irregular plural (not 'childs').", "zh": "rabbits 是规则的加 s；children 是不规则复数（不是 childs）。" }
+    },
+    {
+      "id": "e4",
+      "text": "This is a large team.",
+      "annotations": [
+        { "quote": "team", "tag": "noun" }
+      ],
+      "note": { "en": "Here 'team' is one unit — singular, taking 'is'.", "zh": "这里 team 是一个整体——单数，用 is。" }
+    },
+    {
+      "id": "e5",
+      "text": "The team are working together.",
+      "annotations": [
+        { "quote": "team", "tag": "noun" }
+      ],
+      "note": { "en": "Same collective noun, but now it means the members — plural, taking 'are'.", "zh": "同一个集合名词，但这里指成员——复数，用 are。" }
+    },
+    {
+      "id": "e6",
+      "text": "Peace, honesty, water, and air are uncountable.",
+      "annotations": [
+        { "quote": "Peace", "tag": "noun" },
+        { "quote": "honesty", "tag": "noun" },
+        { "quote": "water", "tag": "noun" },
+        { "quote": "air", "tag": "noun" }
+      ],
+      "note": { "en": "'Peace' and 'honesty' are abstract; 'water' and 'air' are material nouns — neither is counted with -s.", "zh": "peace、honesty 是抽象名词；water、air 是物质名词——都不加 s 来数。" }
+    },
+    {
+      "id": "e7",
+      "text": "We'd like two glasses of water.",
+      "annotations": [
+        { "quote": "glasses", "tag": "plural" },
+        { "quote": "water", "tag": "noun" }
+      ],
+      "note": { "en": "We count 'glasses', not the water — 'water' itself stays singular.", "zh": "数的是 glasses，不是水——water 本身保持单数。" }
+    },
+    {
+      "id": "e8",
+      "text": "Ships sail through international waters.",
+      "annotations": [
+        { "quote": "waters", "tag": "plural" }
+      ],
+      "note": { "en": "'Waters' here counts bodies of water (areas), a different concept from the substance.", "zh": "这里 waters 数的是水域（区域），与“水这种物质”是不同概念。" }
+    },
+    {
+      "id": "e9",
+      "text": "There are three Michaels in my class.",
+      "annotations": [
+        { "quote": "Michaels", "tag": "proper-noun" }
+      ],
+      "note": { "en": "The proper noun is counted — three different people named Michael.", "zh": "专有名词在此可数——三个叫 Michael 的人。" }
+    },
+    {
+      "id": "e10",
+      "text": "The rabbit's carrot is on the table.",
+      "annotations": [
+        { "quote": "rabbit's", "tag": "possessive" },
+        { "quote": "carrot", "tag": "noun" }
+      ],
+      "note": { "en": "'s after a living animal marks ownership — the carrot belongs to the rabbit.", "zh": "有生命动物后的 's 表所属——胡萝卜属于兔子。" }
+    },
+    {
+      "id": "e11",
+      "text": "The brightness of the moon lights the path.",
+      "annotations": [
+        { "quote": "of the moon", "tag": "of-phrase" }
+      ],
+      "note": { "en": "For a non-living modifier, 'of' is natural: the word after 'of' (the moon) modifies the word before it (brightness).", "zh": "修饰非生命名词时用 of 更自然：of 后的词（the moon）修饰 of 前的词（brightness）。" }
+    },
+    {
+      "id": "e12",
+      "text": "I am a friend of Michael's.",
+      "annotations": [
+        { "quote": "of", "tag": "of-phrase" },
+        { "quote": "Michael's", "tag": "possessive" }
+      ],
+      "note": { "en": "The two possessives mix: this means 'one of Michael's friends'.", "zh": "两种所有格混用：意思是“Michael 众多朋友中的一个”。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Which word is a proper noun?", "zh": "下列哪个是专有名词？" },
+      "choices": [
+        { "id": "a", "text": { "en": "rabbit", "zh": "rabbit" } },
+        { "id": "b", "text": { "en": "Asia", "zh": "Asia" } },
+        { "id": "c", "text": { "en": "water", "zh": "water" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'Asia' names a one-of-a-kind place and is capitalized — a proper noun. 'Rabbit' and 'water' are common nouns.", "zh": "Asia 指独一无二的地方且首字母大写——专有名词。rabbit 和 water 是普通名词。" },
+      "refs": ["c1"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "Why is 'furniture' usually treated as uncountable?", "zh": "为什么 furniture 通常被当作不可数？" },
+      "choices": [
+        { "id": "a", "text": { "en": "It is an abstract concept like peace.", "zh": "它是像 peace 一样的抽象概念。" } },
+        { "id": "b", "text": { "en": "It names one total whole, not separate counted items.", "zh": "它指一个总体，而不是分开计数的个体。" } },
+        { "id": "c", "text": { "en": "It is a proper noun.", "zh": "它是专有名词。" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "Furniture is the single total of furnishings in a place — one whole, not two — which differs from the uncountability of a substance like water.", "zh": "furniture 是某地家具的总体——只有一个总体，而非两个；这和 water 这种物质的不可数不同。" },
+      "refs": ["c4"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Count the substance by its container: 'I'd like two ____ of water.' (fill the missing word)", "zh": "用容器来数物质：I'd like two ____ of water.（填缺词）" },
+      "answers": ["glasses"],
+      "explain": { "en": "We count the containers, not the water — 'two glasses of water'. 'Water' itself stays singular.", "zh": "数的是容器而非水——two glasses of water。water 本身保持单数。" },
+      "refs": ["c6"]
+    },
+    {
+      "id": "q4",
+      "type": "fill",
+      "prompt": { "en": "Make 'rabbit' show that the carrot belongs to it: 'The ____ carrot.' (one word)", "zh": "用所有格表示胡萝卜属于兔子：The ____ carrot.（一个词）" },
+      "answers": ["rabbit's", "rabbits'"],
+      "explain": { "en": "The possessive 's marks ownership: the rabbit's carrot.", "zh": "所有格 's 表所属：the rabbit's carrot。" },
+      "refs": ["c8"]
+    },
+    {
+      "id": "q5",
+      "type": "error",
+      "sentence": "I drank two waters this morning.",
+      "fix": "I drank two glasses of water this morning.",
+      "explain": { "en": "As a substance, 'water' isn't counted with -s. Count its container: 'two glasses of water'.", "zh": "作为物质，water 不加 s 计数。要数它的容器：two glasses of water。" },
+      "refs": ["c5", "c6"]
+    },
+    {
+      "id": "q6",
+      "type": "error",
+      "sentence": "I am one of Michael friends.",
+      "fix": "I am one of Michael's friends.",
+      "explain": { "en": "Belonging needs the possessive: 'Michael's friends', and 'one of' makes 'friends' plural.", "zh": "表所属要用所有格：Michael's friends；one of 使 friends 变复数。" },
+      "refs": ["c8"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "Counting at the café", "zh": "在咖啡馆里数名词" },
+    "targets": ["noun", "proper-noun", "plural", "possessive"],
+    "lines": [
+      { "speaker": "Michael", "text": "We'd like two beers, please.", "annotations": [ { "quote": "beers", "tag": "plural" } ], "note": { "en": "'Two beers' counts the glasses, not the substance — fine in context.", "zh": "two beers 数的是杯子，不是物质——在语境中没问题。" } },
+      { "speaker": "Waiter", "text": "Of course. Is this for the whole team?", "annotations": [ { "quote": "team", "tag": "noun" } ], "note": { "en": "'Team' is a collective noun.", "zh": "team 是集合名词。" } },
+      { "speaker": "Michael", "text": "Yes, and bring a piece of bread for Anna.", "annotations": [ { "quote": "bread", "tag": "noun" }, { "quote": "Anna", "tag": "proper-noun" } ], "note": { "en": "Bread (uncountable) is counted by 'a piece of'; 'Anna' is a proper noun.", "zh": "bread 不可数，用 a piece of 来数；Anna 是专有名词。" } },
+      { "speaker": "Waiter", "text": "Is that Anna's friend at the door?", "annotations": [ { "quote": "Anna's", "tag": "possessive" }, { "quote": "friend", "tag": "noun" } ], "note": { "en": "The possessive 's shows the friend belongs to Anna.", "zh": "所有格 's 表示这位朋友是 Anna 的。" } },
+      { "speaker": "Michael", "text": "No, there are two Michaels here, and she's looking for the other one.", "annotations": [ { "quote": "Michaels", "tag": "proper-noun" } ], "note": { "en": "Here the proper noun is countable — two people named Michael.", "zh": "这里专有名词可数——两个叫 Michael 的人。" } }
+    ]
+  }
+}

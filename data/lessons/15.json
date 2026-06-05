@@ -1,0 +1,156 @@
+{
+  "id": "15",
+  "slug": "concessive-adverbial-clauses",
+  "category": "clauses",
+  "shape": "tiny",
+  "order": 22,
+  "title": { "en": "Concessive Adverbial Clauses", "zh": "让步状语从句" },
+  "summary": { "en": "A concessive clause states one situation, then the main clause goes the opposite way: 'even if', 'although/though/even though', or 'no matter + wh-word'. One subordinator alone makes a complex sentence — never pair it with 'but'.", "zh": "让步从句先陈述一种情况，主句却做出相反的动作：用 even if、although/though/even though，或 no matter + 疑问词。一个引导词就构成复杂句——千万别再配 but。" },
+  "source": { "videoId": "jJyS29kVUyo", "youtube": "https://www.youtube.com/watch?v=jJyS29kVUyo", "duration": "3:34", "script": "scripts/15-concessive-adverbial-clauses.md" },
+  "tags": [
+    { "id": "concessive-marker", "label": { "en": "concessive marker", "zh": "让步引导词" }, "abbr": "Conc", "color": "#0d9488", "underline": "dotted" },
+    { "id": "main-clause", "label": { "en": "main clause", "zh": "主句" }, "abbr": "Main", "color": "#7c3aed", "underline": "solid" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "What a concessive clause does", "zh": "让步从句在做什么" },
+      "body": { "en": "Like a conditional clause, a concessive clause sets up a situation or assumption. But then the main clause goes the opposite way — most often 'even though X happens, I still do the opposite'. That backing-down-and-still is why it is called 'concessive'.", "zh": "和条件从句一样，让步从句先描述某种情况或假设。但接下来主句做出一个相反或相对的动作——最常见的就是“即使发生 X，我也照样做相反的事”。这种“退一步还是怎样”就是“让步”一说的由来。" },
+      "exampleRefs": ["e1", "e2"],
+      "sourceRef": "都是阐述某种情况或做出某种假设，但接下来为更进一步做出一个相反或相对的阐述"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "'even if' — concession by assumption", "zh": "even if —— 用假设来让步" },
+      "body": { "en": "Take a conditional clause and add 'even': now you concede the situation. Drop the 'even' and the sentence still reads fine — adding 'even' is what gives it the concessive meaning. 'Even if I see a carrot' means: granting that this happens, I will still do the opposite — not eat it.", "zh": "把一个条件从句加上 even，就成了让步。把 even 去掉，句子照样通顺——正是加了 even 才有了让步的意思。“Even if I see a carrot”就是说：就算这种情况发生，我也会做相反的动作——不吃它。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "这里的even去掉，句子照样通顺，只不过加了even就有了让步的意思"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "'although / though / even though' — concession of a fact", "zh": "although / though / even though —— 对事实让步" },
+      "body": { "en": "The conceded situation need not be a hypothesis — it can be a plain fact. 'Although I see a carrot, I will not eat it': seeing the carrot is true, yet I still back down — so what if it's a fact? I still won't eat it. 'although' can be swapped for 'though' or 'even though'.", "zh": "让步的情况不一定是假设，也可能就是事实。“Although I see a carrot, I will not eat it”：看见胡萝卜是事实，但我还是让步——就算这是事实又怎么样呢？我还是不会吃它。引导词 although 也可以用 though 或 even though 来替代。" },
+      "exampleRefs": ["e2"],
+      "sourceRef": "让步的情况也不一定是假设，而可能就是事实"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Never pair the subordinator with 'but'", "zh": "引导词千万别再配 but" },
+      "body": { "en": "Chinese says '尽管…但是…', but English cannot say 'although … but …'. 'although' introduces a subordinate clause, and that clause plus the main clause already make a complex sentence — no extra word needed. 'but' is a coordinating conjunction that builds a compound sentence ('I see the carrot, but I will not eat it'). Using both is a cross-bred mess: is it complex or compound? So pick one.", "zh": "中文说“尽管……但是……”，但英文不能说 although … but …。although 引导从句，从句加主句已经构成复杂句（complex sentence），不需要别的词。but 是连词，用来构成复合句（compound sentence），如“I see the carrot, but I will not eat it”。两个一起用就成了“杂交胡萝卜”——到底算复杂句还是复合句？所以只能二选一。" },
+      "exampleRefs": ["e3"],
+      "sourceRef": "你想想这是为什么？"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "'no matter + wh-word' / 'regardless of' — concession of the unknown", "zh": "no matter + 疑问词 / regardless of —— 对未知情况让步" },
+      "body": { "en": "The other patterns concede a specific situation; 'no matter + wh-word' concedes an unknown one — 'whatever / whoever / however the case is, I still …'. 'No matter what happens, I will not eat the carrot.' 'no matter' can be replaced by 'regardless of'.", "zh": "前面几种让步的是某种具体情况，而 no matter + 疑问词让步的是未知情况——不管如何、什么、谁，我依旧……。“No matter what happens, I will not eat the carrot.” no matter 也可以用 regardless of 来取代。" },
+      "exampleRefs": ["e4", "e5", "e6"],
+      "sourceRef": "还有一个很重要的让步从句用法是no matter加一问词的形式"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "Even if I see a carrot, I will not eat it.",
+      "annotations": [
+        { "quote": "Even if", "tag": "concessive-marker" },
+        { "quote": "I see a carrot", "tag": "subject", "occurrence": 1 },
+        { "quote": "I will not eat it", "tag": "main-clause" }
+      ],
+      "note": { "en": "Drop 'Even' and a plain conditional remains; 'Even' adds the concession — granting it happens, I still do the opposite.", "zh": "去掉 Even 就剩一个普通条件句；加上 Even 才有让步——就算它发生，我也做相反的动作。" }
+    },
+    {
+      "id": "e2",
+      "text": "Although I see a carrot, I will not eat it.",
+      "annotations": [
+        { "quote": "Although", "tag": "concessive-marker" },
+        { "quote": "I will not eat it", "tag": "main-clause" }
+      ],
+      "note": { "en": "Seeing the carrot is a fact, not a hypothesis. 'although' = 'though' = 'even though'.", "zh": "看见胡萝卜是事实，不是假设。although = though = even though。" }
+    },
+    {
+      "id": "e3",
+      "text": "I see the carrot, but I will not eat it.",
+      "annotations": [
+        { "quote": "but", "tag": "conjunction" }
+      ],
+      "note": { "en": "A compound sentence joined by 'but'. Correct on its own — but you must NOT also add 'although' in front.", "zh": "用 but 连接的复合句。单独这样说没错——但绝不能再在前面加 although。" }
+    },
+    {
+      "id": "e4",
+      "text": "No matter what happens, I will not eat the carrot.",
+      "annotations": [
+        { "quote": "No matter what", "tag": "concessive-marker" },
+        { "quote": "I will not eat the carrot", "tag": "main-clause" }
+      ],
+      "note": { "en": "The conceded situation is unknown — whatever the case, the main clause holds.", "zh": "让步的情况是未知的——不管怎样，主句都成立。" }
+    },
+    {
+      "id": "e5",
+      "text": "No matter how hungry I am, I will not eat the carrot.",
+      "annotations": [
+        { "quote": "No matter how", "tag": "concessive-marker" },
+        { "quote": "I will not eat the carrot", "tag": "main-clause" }
+      ],
+      "note": { "en": "'No matter + wh-word' works with what / who / how alike.", "zh": "no matter + 疑问词，what / who / how 都可以。" }
+    },
+    {
+      "id": "e6",
+      "text": "Regardless of what kind of video I make, you will give it a thumbs up.",
+      "annotations": [
+        { "quote": "Regardless of", "tag": "concessive-marker" },
+        { "quote": "you will give it a thumbs up", "tag": "main-clause" }
+      ],
+      "note": { "en": "'regardless of' replaces 'no matter' with the same concessive sense.", "zh": "regardless of 替代 no matter，让步含义相同。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Which sentence is correct English?", "zh": "哪个句子是正确的英文？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Although I see a carrot, but I will not eat it.", "zh": "Although I see a carrot, but I will not eat it." } },
+        { "id": "b", "text": { "en": "Although I see a carrot, I will not eat it.", "zh": "Although I see a carrot, I will not eat it." } },
+        { "id": "c", "text": { "en": "Although I see a carrot but I will not eat it though.", "zh": "Although I see a carrot but I will not eat it though." } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'although' already makes a complex sentence; adding 'but' double-marks it. Use one or the other, never both.", "zh": "although 已经构成复杂句，再加 but 就重复标记了。二选一，绝不能并用。" },
+      "refs": ["c4"]
+    },
+    {
+      "id": "q2",
+      "type": "fill",
+      "prompt": { "en": "Fill the blank to make it concessive (one word, the version that adds the 'even if' meaning to a conditional): ____ if I see a carrot, I will not eat it.", "zh": "填空，使其成为让步（一个词，给条件句加上“即使”含义的那个词）：____ if I see a carrot, I will not eat it." },
+      "answers": ["Even", "even"],
+      "explain": { "en": "Adding 'Even' to the conditional 'if' turns it into a concession: granting it happens, I still do the opposite.", "zh": "在条件 if 前加 Even 就变成让步：就算它发生，我也做相反的事。" },
+      "refs": ["c2", "e1"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Replace 'no matter' with a single phrase of the same meaning: ____ what kind of video I make, you will give it a thumbs up.", "zh": "用一个意思相同的短语替换 no matter：____ what kind of video I make, you will give it a thumbs up." },
+      "answers": ["Regardless of", "regardless of"],
+      "explain": { "en": "'regardless of' is the given substitute for 'no matter' before a wh-word.", "zh": "regardless of 是 no matter 接疑问词时的替换说法。" },
+      "refs": ["c5", "e6"]
+    },
+    {
+      "id": "q4",
+      "type": "error",
+      "sentence": "Even though I am hungry, but I will not eat the carrot.",
+      "fix": "Even though I am hungry, I will not eat the carrot.",
+      "explain": { "en": "'even though' is a subordinator that builds a complex sentence; 'but' is a coordinator. Drop 'but'.", "zh": "even though 是引导词，构成复杂句；but 是连词。删掉 but。" },
+      "refs": ["c3", "c4"]
+    }
+  ],
+  "dialogue": {
+    "kind": "scenario",
+    "title": { "en": "The rabbit refuses, three ways", "zh": "兔子拒绝的三种说法" },
+    "targets": ["concessive-marker", "main-clause"],
+    "lines": [
+      { "speaker": "Wolf", "text": "Even if I see a carrot, I will not eat it.", "annotations": [ { "quote": "Even if", "tag": "concessive-marker" }, { "quote": "I will not eat it", "tag": "main-clause" } ], "note": { "en": "Concession by assumption.", "zh": "用假设让步。" } },
+      { "speaker": "Rabbit", "text": "Although I see a carrot, I will not eat it.", "annotations": [ { "quote": "Although", "tag": "concessive-marker" }, { "quote": "I will not eat it", "tag": "main-clause" } ], "note": { "en": "Concession of a fact — no 'but' allowed.", "zh": "对事实让步——不能加 but。" } },
+      { "speaker": "Wolf", "text": "No matter who orders me, I will not eat the carrot.", "annotations": [ { "quote": "No matter who", "tag": "concessive-marker" }, { "quote": "I will not eat the carrot", "tag": "main-clause" } ], "note": { "en": "Concession of the unknown.", "zh": "对未知情况让步。" } }
+    ]
+  }
+}

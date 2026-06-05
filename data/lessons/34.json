@@ -1,0 +1,325 @@
+{
+  "id": "34",
+  "slug": "english-grammar-adverbs",
+  "category": "parts-of-speech",
+  "shape": "standard",
+  "order": 38,
+  "title": { "en": "Adverbs", "zh": "副词" },
+  "summary": { "en": "Adverbs describe more precisely: they can modify verbs, adjectives, other adverbs, and whole sentences. In a sentence they work mainly as adverbials, but also as attributives, complements, and predicatives. By use they split into manner, degree, place, time, frequency, interrogative, connective, relative, and sentence adverbs.", "zh": "副词用来更精确地描述：可以修饰动词、形容词、其他副词，甚至整个句子。在句中主要作状语，也可作定语、表语、补语。按用途分为方式、程度、地点、时间、频率、疑问、连接、关系和句子副词。" },
+  "source": { "videoId": "wQGDt7EL9Dc", "youtube": "https://www.youtube.com/watch?v=wQGDt7EL9Dc", "duration": "13:23", "script": "scripts/34-english-grammar-adverbs.md" },
+  "tags": [
+    { "id": "adverb", "label": { "en": "adverb", "zh": "副词" }, "abbr": "Adv", "color": "#c026d3", "underline": "solid" },
+    { "id": "adjective", "label": { "en": "adjective", "zh": "形容词" }, "abbr": "Adj", "color": "#9333ea", "underline": "solid" },
+    { "id": "predicative", "label": { "en": "predicative", "zh": "表语" }, "abbr": "Prd", "color": "#0284c7", "underline": "dotted" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "Adverbs modify verbs (vs adjectives, which modify nouns)", "zh": "副词修饰动词（形容词修饰名词）" },
+      "body": { "en": "An adjective modifies a noun, but to modify a verb you need an adverb. Compare 'This is a fast rabbit' (the adjective 'fast' modifies the noun 'rabbit') with 'This rabbit runs fast' (the adverb 'fast' modifies the verb 'runs'). The spelling is identical, but the word class differs.", "zh": "形容词修饰名词，但要修饰动词就得用副词。比较 this is a fast rabbit（形容词 fast 修饰名词 rabbit）和 this rabbit runs fast（副词 fast 修饰动词 runs）。两者拼写相同，但词性不同。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "第一句中的fast是个修饰名词的形容词，而第二句中的fast却是个修饰动词的副词"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "Adverbs also modify adjectives, other adverbs, and whole sentences", "zh": "副词还能修饰形容词、其他副词和整句" },
+      "body": { "en": "Adverbs are versatile. In 'a very fast rabbit', 'very' modifies the adjective 'fast'; in 'runs very fast', 'very' modifies the adverb 'fast'. That is why we say 'very good' (adjective) but 'very well' (adverb). And a sentence adverb like 'obviously' modifies the whole sentence, not any single word.", "zh": "副词多才多艺。在 a very fast rabbit 中，very 修饰形容词 fast；在 runs very fast 中，very 修饰副词 fast。这也是为什么 very good（形容词）和 very well（副词）的区别。而像 obviously 这样的句子副词修饰整个句子，而非某个单词。" },
+      "exampleRefs": ["e2", "e3"],
+      "sourceRef": "第一句的副词very修饰做形容词的fast，而第二句中的very修饰做副词的fast"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "What an adverb does in a sentence: adverbial, attributive, predicative, complement", "zh": "副词在句中的成分：状语、定语、表语、补语" },
+      "body": { "en": "By component, adverbs usually act as adverbials. But they can do more: 'here' in 'this rabbit here' is an attributive (modifying a noun); 'abroad' in 'the wolf is abroad' is a predicative / subject complement after a linking verb; 'in' in 'let me in' and 'out' in 'let me out' are object complements — and these are adverbs, not prepositions.", "zh": "从成分上说，副词通常作状语。但也不止于此：this rabbit here 中的 here 是定语（修饰名词）；the wolf is abroad 中的 abroad 是系动词后的表语/主语补语；let me in 的 in、let me out 的 out 是宾语补语——而且它们是副词，不是介词。" },
+      "exampleRefs": ["e4", "e5", "e6"],
+      "sourceRef": "副词能充当状语、定语、表语，也就是主语补语和谓语补语"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Adverb forms: same spelling, or add -ly", "zh": "副词的形式：同形或加 -ly" },
+      "body": { "en": "Many adjectives and adverbs share a spelling (fast). Many adverbs add '-ly' to the adjective (quick → quickly). For pronunciation, a final 'e' may drop: 'possible → possibly', 'true → truly'. Beware: same spelling does not guarantee same meaning — 'pretty' the adjective means attractive, but as an adverb means 'fairly/quite' (a pretty smart rabbit = a fairly smart rabbit); 'largely' does not mean 'big' but 'mostly/on the whole'.", "zh": "很多形容词和副词同形（fast）。很多副词是在形容词后加 -ly（quick → quickly）。为发音需要，词尾 e 可能去掉：possible → possibly、true → truly。注意：同形不一定同义——pretty 作形容词是“漂亮”，作副词却是“相当、挺”（a pretty smart rabbit = 相当聪明的兔子）；largely 不是“大”，而是“基本上、总体上”。" },
+      "exampleRefs": ["e7", "e8"],
+      "sourceRef": "你可能意识到了，很多形容词和副词同形，而很多副词需要在形容词后加ly"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "Manner & degree adverbs", "zh": "方式副词与程度副词" },
+      "body": { "en": "A manner adverb tells how an action is done ('runs fast' = the way it runs). Many manner adverbs can sit at the front, middle, or end ('Suddenly the driver turned left' / 'turned left suddenly'), though not all (you can't say 'this rabbit fast runs'). A degree adverb tells how much, and normally sits right before the adjective or adverb it modifies ('very fast').", "zh": "方式副词说明动作如何进行（runs fast = 跑的方式）。很多方式副词可位于句首、句中或句尾（Suddenly the driver turned left / turned left suddenly），但并非全部（不能说 this rabbit fast runs）。程度副词说明程度，一般紧位于所修饰的形容词或副词之前（very fast）。" },
+      "exampleRefs": ["e9", "e10"],
+      "sourceRef": "fast是形容兔子怎么跑的，即跑的方式，所以这里的fast属于方式副词"
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "Place, time & frequency adverbs", "zh": "地点、时间与频率副词" },
+      "body": { "en": "Place adverbs fix where ('eats carrots indoors or outdoors'); they usually end the sentence but can move to the front for emphasis ('Here you can relax'). Time adverbs fix when ('ate some carrots yesterday'); usually at the end, sometimes front or middle ('has already eaten'). Frequency adverbs fix how often ('sometimes', 'usually', 'three times a day'); most go before the main verb but after the auxiliary or modal — like 'always' in 'I will always love you'.", "zh": "地点副词限定地点（eats carrots indoors or outdoors），通常在句尾，强调时可前移（Here you can relax）。时间副词限定时间（ate some carrots yesterday），通常在句尾，有时句首或句中（has already eaten）。频率副词限定频率（sometimes、usually、three times a day）；大多位于实义动词之前、助动词或情态动词之后——如 I will always love you 中的 always。" },
+      "exampleRefs": ["e11", "e12", "e13"],
+      "sourceRef": "大部分频率副词都位于行为动作之前，谓语动词、助动词、情态动词之后"
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "Interrogative, connective & relative adverbs", "zh": "疑问、连接与关系副词" },
+      "body": { "en": "Interrogative adverbs build wh-questions: how / where / when / why does the rabbit eat carrots. Connective adverbs (same words) introduce noun clauses: 'How the rabbit eats carrots is interesting', 'I don't know where the rabbit eats carrots', 'That is why the rabbit eats carrots'. Relative adverbs introduce adjective clauses: 'the place where...', 'the reason why...', 'the day when...'. They look alike but do different jobs.", "zh": "疑问副词构成特殊疑问句：how / where / when / why does the rabbit eat carrots。连接副词（同形）引导名词性从句：How the rabbit eats carrots is interesting、I don't know where the rabbit eats carrots、That is why the rabbit eats carrots。关系副词引导形容词性从句：the place where...、the reason why...、the day when...。它们长得一样，但用途不同。" },
+      "exampleRefs": ["e14", "e15", "e16"],
+      "sourceRef": "这类连接副词和刚才的疑问副词长得一样，但它们不是一回事哦"
+    },
+    {
+      "id": "c8",
+      "heading": { "en": "Sentence adverbs", "zh": "句子副词" },
+      "body": { "en": "A sentence adverb modifies the whole sentence rather than any one word. In 'Obviously, this rabbit here runs very fast', 'obviously' says the whole description is obvious. Sentence adverbs usually open the sentence and are set off by a comma.", "zh": "句子副词修饰整个句子，而非某个单词。在 Obviously, this rabbit here runs very fast 中，obviously 表示后面整个描述是显然的。句子副词一般在句首，并用逗号和主句分开。" },
+      "exampleRefs": ["e17"],
+      "sourceRef": "句子副词一般在句子的开头，且用逗号和主句分开"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "This rabbit runs fast.",
+      "annotations": [
+        { "quote": "runs", "tag": "verb-intransitive" },
+        { "quote": "fast", "tag": "adverb" }
+      ],
+      "note": { "en": "Here 'fast' is an adverb modifying the verb 'runs' — not the noun. Compare 'a fast rabbit', where 'fast' is an adjective.", "zh": "这里 fast 是修饰动词 runs 的副词，不是修饰名词。对比 a fast rabbit，那里的 fast 是形容词。" }
+    },
+    {
+      "id": "e2",
+      "text": "This is a very fast rabbit.",
+      "annotations": [
+        { "quote": "very", "tag": "adverb" },
+        { "quote": "fast", "tag": "adjective" },
+        { "quote": "rabbit", "tag": "object" }
+      ],
+      "note": { "en": "'Very' is an adverb modifying the adjective 'fast'. An adverb modifying an adjective.", "zh": "very 是副词，修饰形容词 fast。副词修饰形容词。" }
+    },
+    {
+      "id": "e3",
+      "text": "This rabbit runs very fast.",
+      "annotations": [
+        { "quote": "runs", "tag": "verb-intransitive" },
+        { "quote": "very", "tag": "adverb" },
+        { "quote": "fast", "tag": "adverb" }
+      ],
+      "note": { "en": "Here 'very' (adverb) modifies 'fast', which is itself an adverb modifying 'runs'. An adverb modifying another adverb.", "zh": "这里 very（副词）修饰 fast，而 fast 本身是修饰 runs 的副词。副词修饰副词。" }
+    },
+    {
+      "id": "e4",
+      "text": "This rabbit here runs very fast.",
+      "annotations": [
+        { "quote": "rabbit", "tag": "subject" },
+        { "quote": "here", "tag": "attributive" },
+        { "quote": "runs", "tag": "verb-intransitive" }
+      ],
+      "note": { "en": "'Here' modifies the noun 'rabbit' — an adverb acting as an attributive (this rabbit, not some other one).", "zh": "here 修饰名词 rabbit——副词作定语（这只兔子，而非别只）。" }
+    },
+    {
+      "id": "e5",
+      "text": "The wolf is abroad.",
+      "annotations": [
+        { "quote": "wolf", "tag": "subject" },
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "abroad", "tag": "predicative" }
+      ],
+      "note": { "en": "After the linking verb 'is', the adverb 'abroad' is a predicative (subject complement). Only certain linking verbs allow an adverb here.", "zh": "在系动词 is 之后，副词 abroad 作表语（主语补语）。这种作表语的副词只能用在某些系动词之后。" }
+    },
+    {
+      "id": "e6",
+      "text": "Let me in.",
+      "annotations": [
+        { "quote": "Let", "tag": "verb-transitive" },
+        { "quote": "me", "tag": "object" },
+        { "quote": "in", "tag": "object-complement" }
+      ],
+      "note": { "en": "'In' here is an adverb, not a preposition — it completes 'let me' as an object complement. Likewise 'out' in 'let me out'.", "zh": "这里的 in 是副词，不是介词——它补充 let me，作宾语补语。let me out 的 out 同理。" }
+    },
+    {
+      "id": "e7",
+      "text": "This rabbit runs quickly.",
+      "annotations": [
+        { "quote": "runs", "tag": "verb-intransitive" },
+        { "quote": "quickly", "tag": "adverb" }
+      ],
+      "note": { "en": "'Quick' can't act as an adverb, so it adds '-ly' → 'quickly'. You cannot say 'this rabbit runs quick'.", "zh": "quick 不能作副词，所以加 -ly 变 quickly。不能说 this rabbit runs quick。" }
+    },
+    {
+      "id": "e8",
+      "text": "I largely only eat carrots.",
+      "annotations": [
+        { "quote": "largely", "tag": "adverb" },
+        { "quote": "eat", "tag": "verb-transitive" },
+        { "quote": "carrots", "tag": "object" }
+      ],
+      "note": { "en": "'Largely' is the adverb of 'large', but it means 'mostly / on the whole', not 'big' — so this means 'I mostly eat only carrots'.", "zh": "largely 是 large 的副词，但意思是“基本上、总体上”，不是“大”——所以这句是“我基本上只吃胡萝卜”。" }
+    },
+    {
+      "id": "e9",
+      "text": "The driver suddenly turned left.",
+      "annotations": [
+        { "quote": "driver", "tag": "subject" },
+        { "quote": "suddenly", "tag": "adverb" },
+        { "quote": "turned", "tag": "verb-intransitive" }
+      ],
+      "note": { "en": "Manner adverb 'suddenly' here sits mid-sentence; it could also start or end it ('Suddenly the driver turned left' / 'turned left suddenly').", "zh": "方式副词 suddenly 这里在句中；也可放句首或句尾（Suddenly the driver turned left / turned left suddenly）。" }
+    },
+    {
+      "id": "e10",
+      "text": "This is a pretty smart rabbit.",
+      "annotations": [
+        { "quote": "pretty", "tag": "adverb" },
+        { "quote": "smart", "tag": "adjective" },
+        { "quote": "rabbit", "tag": "object" }
+      ],
+      "note": { "en": "As a degree adverb 'pretty' means 'fairly/quite' and sits before the adjective 'smart' — a fairly smart rabbit, not pretty + smart.", "zh": "作程度副词时 pretty 意为“相当、挺”，位于形容词 smart 之前——相当聪明的兔子，不是又漂亮又聪明。" }
+    },
+    {
+      "id": "e11",
+      "text": "The rabbit eats carrots indoors or outdoors.",
+      "annotations": [
+        { "quote": "eats", "tag": "verb-transitive" },
+        { "quote": "carrots", "tag": "object" },
+        { "quote": "indoors", "tag": "adverb" },
+        { "quote": "outdoors", "tag": "adverb" }
+      ],
+      "note": { "en": "Place adverbs 'indoors / outdoors' fix where; they sit at the end of the sentence.", "zh": "地点副词 indoors / outdoors 限定地点；位于句尾。" }
+    },
+    {
+      "id": "e12",
+      "text": "The rabbit ate some carrots yesterday.",
+      "annotations": [
+        { "quote": "ate", "tag": "verb-transitive" },
+        { "quote": "carrots", "tag": "object" },
+        { "quote": "yesterday", "tag": "adverb" }
+      ],
+      "note": { "en": "Time adverb 'yesterday' fixes when; time adverbs usually end the sentence.", "zh": "时间副词 yesterday 限定时间；时间副词通常在句尾。" }
+    },
+    {
+      "id": "e13",
+      "text": "The rabbit usually eats carrots.",
+      "annotations": [
+        { "quote": "usually", "tag": "adverb" },
+        { "quote": "eats", "tag": "verb-transitive" },
+        { "quote": "carrots", "tag": "object" }
+      ],
+      "note": { "en": "Frequency adverb 'usually' fixes how often; most frequency adverbs sit before the main verb.", "zh": "频率副词 usually 限定频率；大部分频率副词位于实义动词之前。" }
+    },
+    {
+      "id": "e14",
+      "text": "Where does the rabbit eat carrots?",
+      "annotations": [
+        { "quote": "Where", "tag": "adverb" },
+        { "quote": "eat", "tag": "verb-transitive" },
+        { "quote": "carrots", "tag": "object" }
+      ],
+      "note": { "en": "Interrogative adverb 'where' builds a wh-question asking about place.", "zh": "疑问副词 where 构成对地点提问的特殊疑问句。" }
+    },
+    {
+      "id": "e15",
+      "text": "I don't know where the rabbit eats carrots.",
+      "annotations": [
+        { "quote": "where", "tag": "clause-marker" },
+        { "quote": "eats", "tag": "verb-transitive" },
+        { "quote": "carrots", "tag": "object" }
+      ],
+      "note": { "en": "Connective adverb 'where' introduces a noun clause (the object of 'know'). Same word as the interrogative, different job.", "zh": "连接副词 where 引导名词性从句（know 的宾语从句）。与疑问副词同形，用途不同。" }
+    },
+    {
+      "id": "e16",
+      "text": "This was the place where the rabbit ate the carrot.",
+      "annotations": [
+        { "quote": "place", "tag": "subject-complement" },
+        { "quote": "where", "tag": "clause-marker" },
+        { "quote": "ate", "tag": "verb-transitive" }
+      ],
+      "note": { "en": "Relative adverb 'where' introduces an adjective clause modifying 'place'.", "zh": "关系副词 where 引导修饰 place 的形容词性从句。" }
+    },
+    {
+      "id": "e17",
+      "text": "Obviously, this rabbit here runs very fast.",
+      "annotations": [
+        { "quote": "Obviously", "tag": "adverb" },
+        { "quote": "here", "tag": "attributive" },
+        { "quote": "runs", "tag": "verb-intransitive" }
+      ],
+      "note": { "en": "Sentence adverb 'obviously' modifies the whole sentence and is set off by a comma at the front.", "zh": "句子副词 obviously 修饰整句，置于句首并用逗号隔开。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "In 'This rabbit runs fast', what is 'fast'?", "zh": "在 This rabbit runs fast 中，fast 是什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "An adjective modifying 'rabbit'", "zh": "修饰 rabbit 的形容词" } },
+        { "id": "b", "text": { "en": "An adverb modifying 'runs'", "zh": "修饰 runs 的副词" } },
+        { "id": "c", "text": { "en": "A preposition", "zh": "介词" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "Here 'fast' modifies the verb 'runs', so it is an adverb. In 'a fast rabbit' it would be an adjective.", "zh": "这里 fast 修饰动词 runs，所以是副词。在 a fast rabbit 中才是形容词。" },
+      "refs": ["c1", "e1"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "Why do we say 'I'm doing very well' and not 'very good'?", "zh": "为什么说 I'm doing very well 而不是 very good？" },
+      "choices": [
+        { "id": "a", "text": { "en": "'Very' must modify an adverb, and 'well' is the adverb form", "zh": "very 此处修饰副词，well 是副词形式" } },
+        { "id": "b", "text": { "en": "'Good' is never correct English", "zh": "good 永远是错的" } },
+        { "id": "c", "text": { "en": "'Well' is a noun here", "zh": "well 在这里是名词" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "After the verb 'doing' you need an adverb, so 'well' (the adverb) is used, modified by 'very'. 'Very good' uses the adjective 'good'.", "zh": "在动词 doing 后需要副词，所以用副词 well，由 very 修饰。very good 用的是形容词 good。" },
+      "refs": ["c2", "e3"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "'Quick' can't be an adverb, so make it one: This rabbit runs ____.", "zh": "quick 不能作副词，把它变成副词：This rabbit runs ____。" },
+      "answers": ["quickly"],
+      "explain": { "en": "Add '-ly' to the adjective: quick → quickly. 'Runs quick' is not standard.", "zh": "在形容词后加 -ly：quick → quickly。runs quick 不规范。" },
+      "refs": ["c4", "e7"]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": { "en": "What does 'pretty' mean in 'This is a pretty smart rabbit'?", "zh": "在 This is a pretty smart rabbit 中，pretty 是什么意思？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Attractive — the rabbit is both pretty and smart", "zh": "漂亮——兔子又漂亮又聪明" } },
+        { "id": "b", "text": { "en": "Fairly / quite — a fairly smart rabbit", "zh": "相当、挺——相当聪明的兔子" } },
+        { "id": "c", "text": { "en": "Quickly", "zh": "迅速地" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "As an adverb before the adjective 'smart', 'pretty' means 'fairly/quite' — same spelling, different meaning from the adjective.", "zh": "作副词位于形容词 smart 之前时，pretty 意为“相当、挺”——同形但与形容词义不同。" },
+      "refs": ["c4", "e10"]
+    },
+    {
+      "id": "q5",
+      "type": "error",
+      "sentence": "Fast the rabbit runs.",
+      "fix": "The rabbit runs fast.",
+      "explain": { "en": "Not every manner adverb can move freely; 'fast' can't sit at the front like this, so it stays after the verb.", "zh": "并非每个方式副词都能自由移动；fast 不能这样放句首，应放在动词之后。" },
+      "refs": ["c5", "e9"]
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": { "en": "In 'I don't know where the rabbit eats carrots', what kind of adverb is 'where'?", "zh": "在 I don't know where the rabbit eats carrots 中，where 是哪类副词？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Interrogative adverb (asking a question)", "zh": "疑问副词（提问）" } },
+        { "id": "b", "text": { "en": "Connective adverb (introducing a noun clause)", "zh": "连接副词（引导名词性从句）" } },
+        { "id": "c", "text": { "en": "Relative adverb (introducing an adjective clause)", "zh": "关系副词（引导形容词性从句）" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'Where' here leads a noun clause that is the object of 'know' — a connective adverb. It looks like the interrogative but does a different job.", "zh": "这里 where 引导作 know 宾语的名词性从句——连接副词。它与疑问副词同形但用途不同。" },
+      "refs": ["c7", "e15"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "The wolf at the rabbit's door", "zh": "狼到了兔子的门口" },
+    "targets": ["adverb", "predicative", "object-complement", "attributive"],
+    "lines": [
+      { "speaker": "Rabbit", "text": "Obviously, this rabbit here runs very fast.", "annotations": [ { "quote": "Obviously", "tag": "adverb" }, { "quote": "here", "tag": "attributive" }, { "quote": "very", "tag": "adverb" }, { "quote": "fast", "tag": "adverb" } ], "note": { "en": "Sentence adverb 'obviously', attributive 'here', degree adverb 'very', manner adverb 'fast'.", "zh": "句子副词 obviously、定语 here、程度副词 very、方式副词 fast。" } },
+      { "speaker": "Wolf", "text": "The wolf is abroad now.", "annotations": [ { "quote": "is", "tag": "verb-linking" }, { "quote": "abroad", "tag": "predicative" }, { "quote": "now", "tag": "adverb" } ], "note": { "en": "Adverb 'abroad' as predicative after 'is'; time adverb 'now' at the end.", "zh": "副词 abroad 在 is 后作表语；时间副词 now 在句尾。" } },
+      { "speaker": "Wolf", "text": "Let me in.", "annotations": [ { "quote": "Let", "tag": "verb-transitive" }, { "quote": "me", "tag": "object" }, { "quote": "in", "tag": "object-complement" } ], "note": { "en": "Adverb 'in' (not a preposition) as object complement.", "zh": "副词 in（不是介词）作宾语补语。" } },
+      { "speaker": "Rabbit", "text": "Let me out!", "annotations": [ { "quote": "Let", "tag": "verb-transitive" }, { "quote": "me", "tag": "object" }, { "quote": "out", "tag": "object-complement" } ], "note": { "en": "Same pattern: adverb 'out' as object complement.", "zh": "同一句型：副词 out 作宾语补语。" } }
+    ]
+  }
+}

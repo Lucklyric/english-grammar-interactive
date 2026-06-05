@@ -1,0 +1,618 @@
+{
+  "id": "24",
+  "slug": "mastering-english-prepositions",
+  "category": "parts-of-speech",
+  "shape": "deep-dive",
+  "order": 39,
+  "title": { "en": "Mastering English Prepositions", "zh": "英语介词攻略（看完就懂）" },
+  "summary": { "en": "A preposition is just a 'pre-position' word: it sits before a noun and adds information through its relationship with what follows. Don't hunt for one-to-one Chinese matches — start from each preposition's root spatial sense and reason outward to its many derived meanings.", "zh": "介词不过就是“前置词”：它放在名词等之前，通过与后面内容的关系来增添信息。学习诀窍不是给每个介词找一个对应的中文词，而是从介词的空间本意入手，推导出它的各种引申含义。" },
+  "source": { "videoId": "VcZglLpFlRs", "youtube": "https://www.youtube.com/watch?v=VcZglLpFlRs", "duration": "46:38", "script": "scripts/24-mastering-english-prepositions.md" },
+  "tags": [
+    { "id": "prep-object", "label": { "en": "prepositional object", "zh": "介词宾语" }, "abbr": "pO", "color": "#0891b2", "underline": "dashed" },
+    { "id": "prep-phrase", "label": { "en": "prepositional phrase", "zh": "介词短语" }, "abbr": "PP", "color": "#0e7490", "underline": "dotted" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "A preposition is a 'pre-position' word", "zh": "介词就是“前置词”" },
+      "body": { "en": "The English word 'preposition' is built from a prefix meaning 'before' plus 'position' — literally a word placed in front. More precisely, it is a word placed before a noun, pronoun, etc., to add extra information to it. The Chinese term 介词 likewise points to a function word whose job is to 'introduce' content words.", "zh": "英文 preposition 由表示“在……之前”的前缀加上 position（位置）构成，字面意思就是放在前面的词，即前置词。更进一步说，介词就是通常放在名词、代词等之前、用来给它们增添附加信息的词。中文“介词”同样指一个介绍实词的虚词。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "介词preposition就是放置在前面的词，即前置词"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "A preposition needs an object — it can't stand alone", "zh": "介词必须带宾语——不能单独成分" },
+      "body": { "en": "Because a preposition expresses meaning only through its relationship to what follows, the part after it is essential. With nothing after it, that relationship is missing and the meaning is incomplete — which is why a preposition can't be a sentence element by itself. The receiver after it is the prepositional object, and it can be a noun, pronoun, numeral, adjective, or adverb.", "zh": "介词只能通过与后面内容的关系来表达意思，所以后面的部分必不可少。如果只有介词，关系缺失，意思就不完整——这也是介词不能单独充当句子成分的原因。介词后面的承受对象就是介词宾语，它可以由名词、代词、数词、形容词、副词充当。" },
+      "exampleRefs": ["e2"],
+      "sourceRef": "介词不能单独作为句子的成分存在"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Prepositions add many kinds of information", "zh": "介词添加多种信息" },
+      "body": { "en": "Swap the preposition and the added meaning changes. Prepositions can supply time, space, manner, logic, cause, purpose, and so on — the receiver stays the same but the relationship shifts.", "zh": "换一个介词，所加的意思就变了。介词可以补充时间、空间、方式、逻辑、原因、目的、对象等信息——后面的承受对象不变，但关系变了。" },
+      "exampleRefs": ["e3"],
+      "sourceRef": "因为介词不同，表达的附加意思都是不同的"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Four ways prepositions are built", "zh": "介词的四种构成形式" },
+      "body": { "en": "Prepositions take many forms because they only need to sit before content and form a relationship. Simple prepositions are single words (in, to, with). Phrasal prepositions are multi-word units acting as one preposition (by way of, because of, along with). Compound prepositions fuse two together (into, onto, within). Participial prepositions are verb participles doing a preposition's job (including, regarding, considering, given).", "zh": "介词形式多样，因为它只需放在内容之前建立关系。简单介词是单个词（in、to、with）；短语介词是多词短语充当一个介词（by way of、because of、along with）；合成介词由两个介词合并（into、onto、within）；分词介词由动词分词充当（including、regarding、considering、given）。" },
+      "exampleRefs": ["e4", "e5"],
+      "sourceRef": "包括简单介词、短语介词、合成介词、分词介词等"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "The biggest mistake: forcing one-to-one Chinese matches", "zh": "最大误区：强求中英一一对应" },
+      "body": { "en": "Content words like nouns usually have direct translations (rabbit = 兔子), but high-frequency prepositions such as in, on, with carry so many senses that no single Chinese word covers them. 'in two days' = 两天后, 'on the left' = 在左边, 'angry with me' = 生我的气. The worst habit is cramming an English preposition into a fixed Chinese preposition — it usually won't fit and breeds Chinglish.", "zh": "名词等实词通常有对应翻译（rabbit = 兔子），但 in、on、with 这类高频介词含义太多，没有一个中文词能涵盖。in two days 是“两天后”，on the left 是“在左边”，angry with me 是“生我的气”。最忌讳的就是拼命给英文介词找一个中文介词对号入座——那往往不可能，还会造成中式英语。" },
+      "exampleRefs": ["e6"],
+      "sourceRef": "学习英语介词最忌讳的，最适当避免的，就是拼命去找个中文介词对号入座"
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "It's not the preposition's fault — it's polysemy", "zh": "不是介词的问题，是多义词的问题" },
+      "body": { "en": "The more common a word is in any language, the more meanings it tends to carry. Chinese 打 means very different things in 打人, 打字, 打雷; English 'hit' likewise means strike, reach ('hit 42 degrees'), realize ('the idea hit me'), press ('hit the brake'), set off ('hit the road'). Prepositions are no different — they aren't in one-to-one correspondence with Chinese.", "zh": "任何语言中越常用的词，意思往往越多。中文“打”在“打人、打字、打雷”里含义迥异；英文 hit 也一样，除了“打”，还有“hit 42 degrees”（达到42度）、“the idea hit me”（我意识到）、“hit the brake”（踩刹车）、“hit the road”（出发）。介词同理，并非和中文一一对应。" },
+      "exampleRefs": ["e7"],
+      "sourceRef": "其实不是介词的问题，而是多义词的问题"
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "The key trick: start from the root spatial sense", "zh": "诀窍：从空间本意入手" },
+      "body": { "en": "A preposition's root meaning usually expresses a clear spatial relation, and its non-spatial senses are extended from there. 'about' originally meant 'on the outside of' — from that come 'concerning' (peripheral info), 'approximately' (a rough count around a number), and 'here and there' (moving around outside). Tracing back to the spatial root makes the many senses feel natural and easier to remember.", "zh": "介词的根源意义通常表达明确的空间含义，非空间的引申义都从这里发展而来。about 原意是 on the outside of（在……外面），由此引申出“关于”（外围信息）、“大约”（从外大致数）、“到处”（在外面来回）。追溯到空间本意，能让众多含义显得自然、也更好记。" },
+      "exampleRefs": ["e8", "e9"],
+      "sourceRef": "学习英语介词的诀窍就是从介词的空间本意入手，去理解推导引申含义"
+    },
+    {
+      "id": "c8",
+      "heading": { "en": "in / on / at — big to small range, in space and time", "zh": "in / on / at —— 范围由大到小，空间与时间皆然" },
+      "body": { "en": "Spatially, 'in' means inside a large space you can move around in; 'on' fixes you to one surface, so a smaller range; 'at' pins you to a definite point. Extended to time the same scale holds: 'in 2030 / in winter' (large range), 'on Monday / on April 1st' (a single day), 'at 8 o'clock / at noon' (a precise moment).", "zh": "在空间上，in 表示在一个可大范围移动的内部；on 把你固定在一个面上，范围小一些；at 把你钉在一个确定的点上。引申到时间，同样的尺度成立：in 2030 / in winter（大范围）、on Monday / on April 1st（具体某天）、at 8 o'clock / at noon（精确时刻）。" },
+      "exampleRefs": ["e10", "e11", "e12"],
+      "sourceRef": "in 一般表示在一堆东西中间，或者说上下左右前后都能移动，说明是在一个大范围内"
+    },
+    {
+      "id": "c9",
+      "heading": { "en": "in the tree vs on the tree", "zh": "in the tree 与 on the tree 的区别" },
+      "body": { "en": "Because 'on' means contact with the surface, 'on the tree' suggests something growing as part of the tree; 'in' just means inside it, something foreign that entered. So apples are 'on the tree' (they grow there), but birds are 'in the tree' (they flew in).", "zh": "因为 on 表示与物体表面接触，on the tree 指长在树上、属于树本身的东西；in 只是在树里，是外来事物进入树中。所以苹果是 on the tree（树本身结的），而鸟是 in the tree（飞进树里的）。" },
+      "exampleRefs": ["e13", "e14"],
+      "sourceRef": "on表示与物体有接触，所以咱们可以引申为长在树上的"
+    },
+    {
+      "id": "c10",
+      "heading": { "en": "Why 'in the morning' but 'on that day'?", "zh": "为什么是 in the morning，却是 on that day？" },
+      "body": { "en": "Though morning is smaller than a day, 'in the morning' treats the morning as a span of time you move around inside — like saying there are many hours in the morning. To mark a definite point you use 'on the morning of April 1st', parallel to 'on that day'. And 'at noon' takes 'at' because noon is a precise point between the broad spans of forenoon and afternoon.", "zh": "虽然 morning 比 day 小，但 in the morning 把早晨当作一个可在其中移动的时间段——就像说早晨里有很多小时。要表示明确的点，就用 on the morning of April 1st，与 on that day 平行。而 at noon 用 at，是因为中午相对上午和下午的大范围来说是一个明确的点。" },
+      "exampleRefs": ["e15", "e16"],
+      "sourceRef": "当我们使用\"in the morning\"这个短语时，通常是表达一个时间段的范围"
+    },
+    {
+      "id": "c11",
+      "heading": { "en": "Above / over / under / below — the vertical set", "zh": "above / over / under / below —— 上下方位组" },
+      "body": { "en": "'on' = contact with a surface. 'over' and 'above' both mean higher up without contact, but 'over' is more directly overhead and can describe dynamic motion ('jumped over the table'), whereas 'above' cannot. 'under' is the opposite of 'over' (directly below, contact possible); 'below' is the opposite of 'above' (lower than a plane, not necessarily directly under).", "zh": "on 表示与表面接触。over 和 above 都表示不接触的上方，但 over 更指正上方且能描述动态（jumped over the table），above 则不能。under 与 over 相对（正下方，可接触）；below 与 above 相对（低于某平面，不一定正下方）。" },
+      "exampleRefs": ["e17", "e18", "e19"],
+      "sourceRef": "over 可以描述动态，而 above 不行"
+    },
+    {
+      "id": "c12",
+      "heading": { "en": "across vs through; between vs among", "zh": "across 与 through；between 与 among" },
+      "body": { "en": "'across' moves over a surface (like 'on'): swim across the river. 'through' moves through an interior (like 'in'): walk through the forest. 'between' focuses on two parties (often 'between X and Y'), while 'among' is for three or more — though in modern speech 'between' is often used for multiples too.", "zh": "across 从表面穿过（类似 on）：swim across the river。through 从内部穿过（类似 in）：walk through the forest。between 侧重两者之间（常用 between X and Y），among 用于三者及以上——不过现代口语里 between 也常用于多者。" },
+      "exampleRefs": ["e20", "e21", "e22"],
+      "sourceRef": "across 一般指从表面穿过，与介词 on 那个表面相似"
+    },
+    {
+      "id": "c13",
+      "heading": { "en": "Manner: in / through / by / with / on", "zh": "方式：in / through / by / with / on" },
+      "body": { "en": "Manner senses extend from spatial roots. 'in English' = wrapped inside English speech. 'through hard work' = passing through an experience. 'by car' — 'by' (root: beside) extends to dependence: we depend on the car. 'with a pen' — 'with' (root: together) means doing the act together with the tool. 'on the phone' — 'on' (root: on top of), like 'online', the medium we travel on.", "zh": "方式义都从空间本意引申。in English = 包裹在英语话语里；through hard work = 穿过某种经历；by car —— by（本意：旁边）引申为依靠，靠汽车出行；with a pen —— with（本意：一起）指和工具一起完成动作；on the phone —— on（本意：在上面），就像 online，我们交流是通过线上传播的。" },
+      "exampleRefs": ["e23", "e24", "e25"],
+      "sourceRef": "By 的本意是在什么什么旁边，引申出相关、离不开、依靠的意思"
+    },
+    {
+      "id": "c14",
+      "heading": { "en": "Cause: for / with / because of", "zh": "原因：for / with / because of" },
+      "body": { "en": "'for' originally carried 'because of': famous for being able to speak. 'with' (root: together) marks a cause inseparable from the result: shaking with cold — cold and shaking are inseparable. 'because' joins a clause, while 'because of' takes a noun: didn't go out because of the rain.", "zh": "for 本就有“因为、由于”之意：famous for being able to speak。with（本意：一起）表示和结果分不开的原因：shaking with cold——冷和发抖分不开。because 连接从句，because of 后接名词：didn't go out because of the rain。" },
+      "exampleRefs": ["e26", "e27", "e28"],
+      "sourceRef": "Because 做连词连接从句，because of 后接名词"
+    },
+    {
+      "id": "c15",
+      "heading": { "en": "after vs in (future time)", "zh": "after 与 in（将来时间）" },
+      "body": { "en": "'in two hours' usually means 'within the next two hours from now' — uncertain, it could happen sooner. 'after two hours' means strictly only once two hours have passed, not before. For past time you must use 'after', not 'in', because it is already certain: 'I returned after two hours.'", "zh": "in two hours 一般指“从现在算起的两小时内”——不确定，也许更早就发生。after two hours 表示只有过了两小时之后才会、之前不会。过去时间必须用 after，不能用 in，因为已是确定信息：I returned after two hours。" },
+      "exampleRefs": ["e29", "e30"],
+      "sourceRef": "过去时间要使用after，不能使用in，因为已经是确定信息了嘛"
+    },
+    {
+      "id": "c16",
+      "heading": { "en": "by vs before (deadline)", "zh": "by 与 before（截止）" },
+      "body": { "en": "'by' (root: beside/by the edge) extends to 'no later than' — it draws a deadline line you must not cross. 'before' just means generally earlier than a point. 'finish by 8pm' stresses 8pm as the cut-off; 'finish before 8pm' is looser.", "zh": "by（本意：旁边、靠边）引申为“不迟于”——划定一条不能逾越的截止线。before 只泛指某时间点之前。finish by 8pm 强调八点是截止时间；finish before 8pm 则较宽松。" },
+      "exampleRefs": ["e31"],
+      "sourceRef": "by相当于限定了一条时间线，更侧重于不超过不迟于这条时间线"
+    },
+    {
+      "id": "c17",
+      "heading": { "en": "State, value, exclusion senses", "zh": "状态、数值、排除等含义" },
+      "body": { "en": "State: 'in a dilemma' (inside it), 'on a diet' (supported on it), 'at work' (a definite point), 'under construction' (under a framework). Value points use 'at a high price', 'by the hour', 'for 100 yuan'. Exclusion: 'besides' = in addition to, 'except' = removing from a whole, 'except for' often raises a flaw in an otherwise good thing.", "zh": "状态：in a dilemma（在其中）、on a diet（受其支撑）、at work（明确的点）、under construction（在框架之下）。数值点：at a high price、by the hour、for 100 yuan。排除：besides = 除……还，except = 从整体中剔除，except for 常用来指出美中不足之处。" },
+      "exampleRefs": ["e32", "e33", "e34"],
+      "sourceRef": "except 通常表示从整体中剔除出去，所以之前那句表示兔子没去参加聚会"
+    },
+    {
+      "id": "c18",
+      "heading": { "en": "Phrasal preposition vs prepositional phrase", "zh": "短语介词 vs 介词短语" },
+      "body": { "en": "Don't confuse the two. A phrasal preposition (by way of, because of) acts as a preposition and is still incomplete. A prepositional phrase = preposition + its object (in the room, on the roof); it already expresses a complete meaning and can serve as subject, complement, attributive, object complement, and most often as an adverbial modifying the verb.", "zh": "别把两者混淆。短语介词（by way of、because of）相当于介词，意思仍不完整。介词短语 = 介词 + 介词宾语（in the room、on the roof），已表达完整意思，可充当主语、表语、定语、宾语补语，最常见的是作状语修饰动词。" },
+      "exampleRefs": ["e35", "e36"],
+      "sourceRef": "短语介词相当于介词，意思不完整，而这里的介词短语意思已经完整"
+    },
+    {
+      "id": "c19",
+      "heading": { "en": "Collocations and phrasal verbs", "zh": "固定搭配与短语动词" },
+      "body": { "en": "Many nouns, verbs, and adjectives conventionally pair with a particular preposition ('the need for', 'long for', 'ready for' — not 'need of/in/on'). Trickiest of all are phrasal verbs: a verb plus a particle that together make a seemingly unrelated new meaning (check out, work out, pass out). Some can be explained via the particle's spatial sense, but many must simply be memorized as new words.", "zh": "许多名词、动词、形容词约定俗成地与某个介词搭配（the need for、long for、ready for，而不说 need of/in/on）。最棘手的是短语动词：动词加小品词凑成看似毫不相干的新含义（check out、work out、pass out）。有些可用小品词的空间义解释，但很多只能作为新单词去记。" },
+      "exampleRefs": ["e37"],
+      "sourceRef": "短语动词是英语的一大难点，往往动词本身和之后的介词你都明白是什么意思，但凑到一起就完全猜不到意思，相当于一个全新的单词"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "This is the kind of tedious nonsense that I shall not put up with.",
+      "annotations": [
+        { "quote": "of", "tag": "preposition" },
+        { "quote": "up with", "tag": "preposition" }
+      ],
+      "note": { "en": "Churchill's retort to the rule that a preposition mustn't end a sentence — a preposition is just a 'pre-position' word, but the rule isn't absolute.", "zh": "丘吉尔反驳“介词不能放句末”的名句。介词虽是“前置词”，但这条规则并非绝对。" }
+    },
+    {
+      "id": "e2",
+      "text": "the age of twenty",
+      "annotations": [
+        { "quote": "of", "tag": "preposition" },
+        { "quote": "twenty", "tag": "prep-object" }
+      ],
+      "note": { "en": "The prepositional object can be a numeral. After a preposition you always need a receiver — the object.", "zh": "介词宾语可以是数词。介词后面总要有承受对象——宾语。" }
+    },
+    {
+      "id": "e3",
+      "text": "The rabbit eats carrots before eight o'clock.",
+      "annotations": [
+        { "quote": "before", "tag": "preposition" },
+        { "quote": "eight o'clock", "tag": "prep-object" }
+      ],
+      "note": { "en": "Swap 'before' for 'after' or 'at' and the added time meaning changes, though the receiver stays the same.", "zh": "把 before 换成 after 或 at，所加的时间义就变了，而后面的承受对象不变。" }
+    },
+    {
+      "id": "e4",
+      "text": "We learn English by way of watching videos.",
+      "annotations": [
+        { "quote": "by way of", "tag": "preposition" }
+      ],
+      "note": { "en": "'by way of' is a phrasal preposition — a multi-word unit acting as a single preposition.", "zh": "by way of 是短语介词——多个词充当一个介词。" }
+    },
+    {
+      "id": "e5",
+      "text": "Everyone is here, including the rabbit.",
+      "annotations": [
+        { "quote": "including", "tag": "preposition" },
+        { "quote": "the rabbit", "tag": "prep-object" }
+      ],
+      "note": { "en": "'including' is a participial preposition — a verb participle doing a preposition's job.", "zh": "including 是分词介词——动词分词充当介词。" }
+    },
+    {
+      "id": "e6",
+      "text": "I will eat a carrot in two days.",
+      "annotations": [
+        { "quote": "in", "tag": "preposition" },
+        { "quote": "two days", "tag": "prep-object" }
+      ],
+      "note": { "en": "'in two days' = 两天后 — there is no fixed Chinese preposition that maps onto this 'in'. Don't force a one-to-one match.", "zh": "in two days = 两天后——没有固定中文介词能对应这个 in。不要强求一一对应。" }
+    },
+    {
+      "id": "e7",
+      "text": "The idea hit me.",
+      "annotations": [],
+      "note": { "en": "Like prepositions, common words are polysemous: 'hit' here means 'realize', not 'strike'. High frequency breeds many senses.", "zh": "和介词一样，常用词多义：这里 hit 是“意识到”，不是“打”。越常用，含义越多。" }
+    },
+    {
+      "id": "e8",
+      "text": "I know something about the rabbit.",
+      "annotations": [
+        { "quote": "about", "tag": "preposition" },
+        { "quote": "the rabbit", "tag": "prep-object" }
+      ],
+      "note": { "en": "'about' = 'on the outside of'; 'concerning' is the peripheral info around something — derived from the spatial root.", "zh": "about = on the outside of；“关于”就是某物外围的相关信息——从空间本意引申而来。" }
+    },
+    {
+      "id": "e9",
+      "text": "There are about twenty carrots.",
+      "annotations": [
+        { "quote": "about", "tag": "preposition" }
+      ],
+      "note": { "en": "'about' = 'approximately' — counting roughly from the outside of a number. Same root, different extension.", "zh": "about = 大约——从外围大致数。同一本意，不同引申。" }
+    },
+    {
+      "id": "e10",
+      "text": "There are some apples in winter.",
+      "annotations": [
+        { "quote": "in winter", "tag": "preposition" }
+      ],
+      "note": { "en": "'in' takes a large time range — seasons, months, years (in 2030, in December).", "zh": "in 用于较大的时间范围——季节、月份、年份（in 2030、in December）。" }
+    },
+    {
+      "id": "e11",
+      "text": "The rabbit ate a carrot on Monday.",
+      "annotations": [
+        { "quote": "on Monday", "tag": "preposition" }
+      ],
+      "note": { "en": "'on' marks a single day (on Monday, on April 1st) — a smaller range than 'in'.", "zh": "on 表示具体某天（on Monday、on April 1st）——比 in 范围小。" }
+    },
+    {
+      "id": "e12",
+      "text": "The rabbit ate a carrot at noon.",
+      "annotations": [
+        { "quote": "at noon", "tag": "preposition" }
+      ],
+      "note": { "en": "'at' pins a precise point (at six o'clock, at noon, at sunset) — the smallest range.", "zh": "at 钉住精确的点（at six o'clock、at noon、at sunset）——范围最小。" }
+    },
+    {
+      "id": "e13",
+      "text": "There are some apples on the tree.",
+      "annotations": [
+        { "quote": "on", "tag": "preposition" },
+        { "quote": "the tree", "tag": "prep-object" }
+      ],
+      "note": { "en": "'on' = contact / part of the tree — the apples grow there. Not apples falling from the sky.", "zh": "on = 接触/属于树本身——苹果是长在树上的，可不是天外飞苹果。" }
+    },
+    {
+      "id": "e14",
+      "text": "There are some birds in the tree.",
+      "annotations": [
+        { "quote": "in", "tag": "preposition" },
+        { "quote": "the tree", "tag": "prep-object" }
+      ],
+      "note": { "en": "'in' = inside, something foreign that entered — the birds flew in. Not birds grown by the tree.", "zh": "in = 在里面、外来进入——鸟是飞进树里的，可不是树上结出鸟。" }
+    },
+    {
+      "id": "e15",
+      "text": "I eat carrots in the morning.",
+      "annotations": [
+        { "quote": "in the morning", "tag": "preposition" }
+      ],
+      "note": { "en": "'in the morning' treats the morning as a span you move around inside — a time range.", "zh": "in the morning 把早晨当作可在其中移动的时间段——一个时间范围。" }
+    },
+    {
+      "id": "e16",
+      "text": "I saw the wolf on the morning of April 1st.",
+      "annotations": [
+        { "quote": "on", "tag": "preposition" },
+        { "quote": "the morning of April 1st", "tag": "prep-object" }
+      ],
+      "note": { "en": "Specifying a definite morning makes it a point on the calendar — 'on that morning', parallel to 'on that day'.", "zh": "指明具体某天的早晨，就成了日历上的一个点——on that morning，与 on that day 平行。" }
+    },
+    {
+      "id": "e17",
+      "text": "There is a carrot on the table.",
+      "annotations": [
+        { "quote": "on", "tag": "preposition" },
+        { "quote": "the table", "tag": "prep-object" }
+      ],
+      "note": { "en": "'on' = contact with the surface. Contrast with 'over' and 'above', which mean higher up without contact.", "zh": "on = 与表面接触。对比 over 和 above——不接触的上方。" }
+    },
+    {
+      "id": "e18",
+      "text": "The rabbit jumped over the table.",
+      "annotations": [
+        { "quote": "over", "tag": "preposition" },
+        { "quote": "the table", "tag": "prep-object" }
+      ],
+      "note": { "en": "'over' can describe dynamic motion across the top. You cannot say 'jumped above the table'.", "zh": "over 可描述越过上空的动态。不能说 jumped above the table。" }
+    },
+    {
+      "id": "e19",
+      "text": "the sky above us",
+      "annotations": [
+        { "quote": "above", "tag": "preposition" },
+        { "quote": "us", "tag": "prep-object" }
+      ],
+      "note": { "en": "'above' = simply higher than a plane, static. Unlike 'over' it isn't necessarily directly overhead and can't be dynamic.", "zh": "above = 只要高于某平面即可，静态。不像 over 那样特指正上方，也不能表动态。" }
+    },
+    {
+      "id": "e20",
+      "text": "swim across the river",
+      "annotations": [
+        { "quote": "across", "tag": "preposition" },
+        { "quote": "the river", "tag": "prep-object" }
+      ],
+      "note": { "en": "'across' = over the surface, like 'on'. Compare 'walk through the forest' (through an interior, like 'in').", "zh": "across = 从表面穿过，类似 on。对比 walk through the forest（从内部穿过，类似 in）。" }
+    },
+    {
+      "id": "e21",
+      "text": "The carrot is between the rabbit and the wolf.",
+      "annotations": [
+        { "quote": "between", "tag": "preposition" },
+        { "quote": "the rabbit", "tag": "prep-object" },
+        { "quote": "the wolf", "tag": "prep-object" }
+      ],
+      "note": { "en": "'between' focuses on two parties, often 'between X and Y'.", "zh": "between 侧重两者之间，常用 between X and Y。" }
+    },
+    {
+      "id": "e22",
+      "text": "The rabbit is standing among the carrots.",
+      "annotations": [
+        { "quote": "among", "tag": "preposition" },
+        { "quote": "the carrots", "tag": "prep-object" }
+      ],
+      "note": { "en": "'among' is for three or more. In casual modern English 'between' is often used here too.", "zh": "among 用于三者及以上。现代口语中此处也常用 between。" }
+    },
+    {
+      "id": "e23",
+      "text": "We write with pens.",
+      "annotations": [
+        { "quote": "with", "tag": "preposition" },
+        { "quote": "pens", "tag": "prep-object" }
+      ],
+      "note": { "en": "'with' (root: together) = we complete the writing together with the pen — manner / instrument.", "zh": "with（本意：一起）= 我们和笔一起完成写字——表方式/工具。" }
+    },
+    {
+      "id": "e24",
+      "text": "I go to work by car.",
+      "annotations": [
+        { "quote": "by", "tag": "preposition" },
+        { "quote": "car", "tag": "prep-object" }
+      ],
+      "note": { "en": "'by' (root: beside) extends to dependence: we depend on the car as the means of transport.", "zh": "by（本意：旁边）引申为依靠：依靠汽车这个交通方式。" }
+    },
+    {
+      "id": "e25",
+      "text": "We talked on the phone.",
+      "annotations": [
+        { "quote": "on the phone", "tag": "preposition" }
+      ],
+      "note": { "en": "'on' (root: on top of), like 'online' — the medium our communication travels on.", "zh": "on（本意：在上面），就像 online——交流通过其传播的媒介。" }
+    },
+    {
+      "id": "e26",
+      "text": "This rabbit is famous for being able to speak.",
+      "annotations": [
+        { "quote": "for", "tag": "preposition" },
+        { "quote": "being able to speak", "tag": "prep-object" }
+      ],
+      "note": { "en": "'for' originally carried 'because of' — the cause of the fame.", "zh": "for 本就有“因为”之意——出名的原因。" }
+    },
+    {
+      "id": "e27",
+      "text": "The rabbit is shaking with cold.",
+      "annotations": [
+        { "quote": "with", "tag": "preposition" },
+        { "quote": "cold", "tag": "prep-object" }
+      ],
+      "note": { "en": "'with' (root: together) here = a cause inseparable from the result: cold and shaking go together.", "zh": "with（本意：一起）此处=与结果分不开的原因：冷和发抖分不开。" }
+    },
+    {
+      "id": "e28",
+      "text": "The rabbit didn't go out because of the rain.",
+      "annotations": [
+        { "quote": "because of", "tag": "preposition" },
+        { "quote": "the rain", "tag": "prep-object" }
+      ],
+      "note": { "en": "'because of' is a phrasal preposition taking a noun; 'because' alone joins a clause.", "zh": "because of 是短语介词，后接名词；because 单独使用连接从句。" }
+    },
+    {
+      "id": "e29",
+      "text": "I will eat a carrot in two hours.",
+      "annotations": [
+        { "quote": "in", "tag": "preposition" },
+        { "quote": "two hours", "tag": "prep-object" }
+      ],
+      "note": { "en": "'in two hours' = within the next two hours — uncertain, could be sooner.", "zh": "in two hours = 从现在算起的两小时内——不确定，也许更早。" }
+    },
+    {
+      "id": "e30",
+      "text": "I returned after two hours.",
+      "annotations": [
+        { "quote": "after", "tag": "preposition" },
+        { "quote": "two hours", "tag": "prep-object" }
+      ],
+      "note": { "en": "Past time must use 'after', not 'in' — it is already certain. Contrast the future 'in two hours'.", "zh": "过去时间必须用 after，不能用 in——已是确定信息。对比将来的 in two hours。" }
+    },
+    {
+      "id": "e31",
+      "text": "Please finish your homework by 8pm.",
+      "annotations": [
+        { "quote": "by", "tag": "preposition" },
+        { "quote": "8pm", "tag": "prep-object" }
+      ],
+      "note": { "en": "'by 8pm' stresses 8pm as the deadline you must not pass; 'before 8pm' is looser.", "zh": "by 8pm 强调八点是不能逾越的截止线；before 8pm 较宽松。" }
+    },
+    {
+      "id": "e32",
+      "text": "The bridge is under construction.",
+      "annotations": [
+        { "quote": "under", "tag": "preposition" },
+        { "quote": "construction", "tag": "prep-object" }
+      ],
+      "note": { "en": "'under' (root: below) extends to being inside a framework/process — under construction, under discussion.", "zh": "under（本意：下面）引申为处在某个框架/过程之下——under construction、under discussion。" }
+    },
+    {
+      "id": "e33",
+      "text": "I bought these books for 100 yuan.",
+      "annotations": [
+        { "quote": "for", "tag": "preposition" },
+        { "quote": "100 yuan", "tag": "prep-object" }
+      ],
+      "note": { "en": "Value 'for' is really the cause 'for': because I paid 100 yuan, I got the books.", "zh": "表数值的 for 其实就是表原因的 for：因为付了100元，所以得到书。" }
+    },
+    {
+      "id": "e34",
+      "text": "Everyone went to the party except the rabbit.",
+      "annotations": [
+        { "quote": "except", "tag": "preposition" },
+        { "quote": "the rabbit", "tag": "prep-object" }
+      ],
+      "note": { "en": "'except' removes one item from a whole — the rabbit was the one left out.", "zh": "except 从整体中剔除一项——兔子是被排除的那个。" }
+    },
+    {
+      "id": "e35",
+      "text": "This is the key to the house.",
+      "annotations": [
+        { "quote": "to the house", "tag": "prep-phrase" }
+      ],
+      "note": { "en": "The prepositional phrase 'to the house' is complete and works as an attributive modifying 'key'.", "zh": "介词短语 to the house 意思完整，作定语修饰 key。" }
+    },
+    {
+      "id": "e36",
+      "text": "The rabbit is eating a carrot in the kitchen.",
+      "annotations": [
+        { "quote": "in the kitchen", "tag": "prep-phrase" }
+      ],
+      "note": { "en": "Most often a prepositional phrase is an adverbial — here it tells where the eating happens.", "zh": "介词短语最常作状语——此处说明吃的地点。" }
+    },
+    {
+      "id": "e37",
+      "text": "The rabbit didn't work out the answer.",
+      "annotations": [
+        { "quote": "work out", "tag": "preposition" }
+      ],
+      "note": { "en": "Phrasal verb: 'work' + 'out' = figure out — a seemingly unrelated new meaning to memorize as a whole.", "zh": "短语动词：work + out = 算出/弄明白——看似无关的新含义，要整体记忆。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "According to the lesson, why can't a preposition stand alone as a sentence element?", "zh": "按本课，介词为什么不能单独充当句子成分？" },
+      "choices": [
+        { "id": "a", "text": { "en": "It expresses meaning only through its relationship with the receiver that follows it", "zh": "它只能通过与后面承受对象的关系来表达意思" } },
+        { "id": "b", "text": { "en": "It always has to come at the end of a sentence", "zh": "它必须放在句子末尾" } },
+        { "id": "c", "text": { "en": "It can never combine with a noun", "zh": "它永远不能和名词组合" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "A preposition is a 'pre-position' word: without the part after it, the relationship is missing and the meaning is incomplete.", "zh": "介词是“前置词”：缺了后面的部分，关系缺失，意思不完整。" },
+      "refs": ["c2"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "Which best explains why we say 'There are some apples on the tree' but 'some birds in the tree'?", "zh": "为什么说苹果是 on the tree，而鸟是 in the tree？" },
+      "choices": [
+        { "id": "a", "text": { "en": "'on' implies contact / growing as part of the tree, while 'in' implies something foreign inside it", "zh": "on 表示接触/长在树上属于树本身，in 表示外来事物在树里" } },
+        { "id": "b", "text": { "en": "Apples are bigger than birds", "zh": "苹果比鸟大" } },
+        { "id": "c", "text": { "en": "'in' and 'on' are fully interchangeable here", "zh": "这里 in 和 on 完全可以互换" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "'on' = contact, so apples grow on the tree; 'in' = inside, so birds flew into the tree.", "zh": "on = 接触，苹果长在树上；in = 在里面，鸟飞进树里。" },
+      "refs": ["c9", "e13", "e14"]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": { "en": "Which form is a phrasal preposition (not a complete prepositional phrase)?", "zh": "哪一个是短语介词（而非完整的介词短语）？" },
+      "choices": [
+        { "id": "a", "text": { "en": "because of", "zh": "because of" } },
+        { "id": "b", "text": { "en": "in the room", "zh": "in the room" } },
+        { "id": "c", "text": { "en": "on the roof", "zh": "on the roof" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "'because of' acts as a single preposition and is still incomplete; 'in the room' / 'on the roof' are prepositional phrases with complete meaning.", "zh": "because of 充当一个介词、意思不完整；in the room / on the roof 是意思完整的介词短语。" },
+      "refs": ["c4", "c18"]
+    },
+    {
+      "id": "q4",
+      "type": "fill",
+      "prompt": { "en": "Pin a precise clock time: 'The rabbit ate a carrot ____ noon.'", "zh": "填入表精确时刻的介词：The rabbit ate a carrot ____ noon." },
+      "answers": ["at"],
+      "explain": { "en": "Noon is a definite point between the broad forenoon and afternoon, so it takes 'at' (like at six o'clock, at sunset).", "zh": "中午相对上午下午是一个明确的点，所以用 at（如 at six o'clock、at sunset）。" },
+      "refs": ["c8", "c10", "e12"]
+    },
+    {
+      "id": "q5",
+      "type": "fill",
+      "prompt": { "en": "Express 'span of time inside the morning': 'I eat carrots ____ the morning.'", "zh": "填入“在早晨这个时间段内”的介词：I eat carrots ____ the morning." },
+      "answers": ["in"],
+      "explain": { "en": "'in the morning' treats the morning as a span you move around inside — a time range, hence 'in', not 'on'.", "zh": "in the morning 把早晨当作可移动的时间段——一个范围，故用 in 而非 on。" },
+      "refs": ["c10", "e15"]
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": { "en": "'I will eat a carrot in two hours' most precisely means:", "zh": "I will eat a carrot in two hours 最准确的意思是？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Some time within the next two hours — possibly sooner", "zh": "在从现在算起的两小时内——也许更早" } },
+        { "id": "b", "text": { "en": "Strictly only after a full two hours have passed", "zh": "严格在整整过了两小时之后才吃" } },
+        { "id": "c", "text": { "en": "Two hours ago", "zh": "两小时前" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "'in two hours' = within the next two hours, uncertain. 'after two hours' would mean strictly once two hours have passed.", "zh": "in two hours = 未来两小时内，不确定。after two hours 才是严格过了两小时之后。" },
+      "refs": ["c15", "e29", "e30"]
+    },
+    {
+      "id": "q7",
+      "type": "error",
+      "sentence": "I returned in two hours yesterday.",
+      "fix": "I returned after two hours yesterday.",
+      "explain": { "en": "Past time is already certain, so it must use 'after', not 'in'. 'in' for future time signals an uncertain window.", "zh": "过去时间已确定，必须用 after，不用 in。in 用于将来时表示不确定的时间窗。" },
+      "refs": ["c15"]
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": { "en": "Why does 'by 8pm' differ from 'before 8pm'?", "zh": "by 8pm 和 before 8pm 有何区别？" },
+      "choices": [
+        { "id": "a", "text": { "en": "'by' draws a deadline line — no later than 8pm; 'before' just means generally earlier", "zh": "by 划定截止线——不迟于八点；before 只泛指更早" } },
+        { "id": "b", "text": { "en": "'by' means after 8pm", "zh": "by 表示八点之后" } },
+        { "id": "c", "text": { "en": "They are identical in every way", "zh": "两者完全相同" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "'by' (root: by the edge) extends to 'no later than', stressing the cut-off; 'before' is looser.", "zh": "by（本意：靠边）引申为“不迟于”，强调截止；before 较宽松。" },
+      "refs": ["c16", "e31"]
+    },
+    {
+      "id": "q9",
+      "type": "fill",
+      "prompt": { "en": "Manner with an instrument: 'We write ____ pens.'", "zh": "用工具表方式：We write ____ pens." },
+      "answers": ["with"],
+      "explain": { "en": "'with' (root: together) — we complete the writing together with the pen.", "zh": "with（本意：一起）——我们和笔一起完成写字。" },
+      "refs": ["c13", "e23"]
+    },
+    {
+      "id": "q10",
+      "type": "error",
+      "sentence": "Most Chinese learners naturally say 'under these situations'.",
+      "fix": "Most Chinese learners naturally say 'in these situations'.",
+      "explain": { "en": "English thinks of a 'situation' as something you are inside, so it takes 'in', not 'under' — a classic one-to-one-mapping trap. ('circumstances', by contrast, takes 'under'.)", "zh": "英文把 situation 当作可在其中的东西，用 in 而非 under——典型的对号入座陷阱。（而 circumstances 反而用 under。）" },
+      "refs": ["c5"]
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": { "en": "In 'We learn English by watching videos', how is the 'by' sense derived from its spatial root?", "zh": "在 We learn English by watching videos 中，by 的含义如何从空间本意引申？" },
+      "choices": [
+        { "id": "a", "text": { "en": "'by' (root: beside) extends to relying on / depending on — learning by means of videos", "zh": "by（本意：旁边）引申为依靠——靠看视频来学" } },
+        { "id": "b", "text": { "en": "'by' means 'against' here", "zh": "这里 by 表示“逆着”" } },
+        { "id": "c", "text": { "en": "'by' has no connection to its spatial meaning", "zh": "by 与它的空间义毫无关系" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "From 'beside' comes 'inseparable from / depending on', so 'by watching videos' = by means of videos.", "zh": "由“旁边”引申出“离不开/依靠”，所以 by watching videos = 借助看视频。" },
+      "refs": ["c7", "c13", "e24"]
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": { "en": "In 'The rabbit is eating a carrot in the kitchen', what role does the prepositional phrase 'in the kitchen' play?", "zh": "在 The rabbit is eating a carrot in the kitchen 中，介词短语 in the kitchen 充当什么成分？" },
+      "choices": [
+        { "id": "a", "text": { "en": "An adverbial modifying the verb (telling where)", "zh": "状语，修饰动词（说明地点）" } },
+        { "id": "b", "text": { "en": "The subject of the sentence", "zh": "句子的主语" } },
+        { "id": "c", "text": { "en": "The direct object", "zh": "直接宾语" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "A complete prepositional phrase most often serves as an adverbial; here it gives the location of the action.", "zh": "完整的介词短语最常作状语；这里说明动作发生的地点。" },
+      "refs": ["c18", "e36"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "Carrot Street: prepositions in action", "zh": "胡萝卜街：介词实战" },
+    "targets": ["preposition", "prep-object", "prep-phrase"],
+    "lines": [
+      { "speaker": "Wolf", "text": "Right now I'm at Carrot Street, by the bridge over the river.", "annotations": [ { "quote": "at", "tag": "preposition" }, { "quote": "by", "tag": "preposition" }, { "quote": "over", "tag": "preposition" }, { "quote": "the river", "tag": "prep-object" } ], "note": { "en": "'at' a definite point, 'by' (beside), 'over' the river (above, not touching).", "zh": "at 表确定的点，by 表旁边，over the river 表不接触的上方。" } },
+      { "speaker": "Rabbit", "text": "I'm walking in the street toward the park.", "annotations": [ { "quote": "in the street", "tag": "prep-phrase" }, { "quote": "toward", "tag": "preposition" }, { "quote": "the park", "tag": "prep-object" } ], "note": { "en": "'in the street' = moving within the area of the street; 'toward' = in the direction of.", "zh": "in the street = 在街道范围内移动；toward = 朝……方向。" } },
+      { "speaker": "Wolf", "text": "Will you get there in two hours?", "annotations": [ { "quote": "in", "tag": "preposition" }, { "quote": "two hours", "tag": "prep-object" } ], "note": { "en": "'in two hours' = within the next two hours — uncertain, maybe sooner.", "zh": "in two hours = 未来两小时内——不确定，也许更早。" } },
+      { "speaker": "Rabbit", "text": "No, I'll be there by noon — that's the deadline.", "annotations": [ { "quote": "by", "tag": "preposition" }, { "quote": "noon", "tag": "prep-object" } ], "note": { "en": "'by noon' draws a cut-off line: no later than noon.", "zh": "by noon 划定截止线：不迟于中午。" } },
+      { "speaker": "Wolf", "text": "Everyone will be at the party except you, then.", "annotations": [ { "quote": "at", "tag": "preposition" }, { "quote": "except", "tag": "preposition" }, { "quote": "you", "tag": "prep-object" } ], "note": { "en": "'except' removes one item from the whole group.", "zh": "except 从整体中剔除一项。" } },
+      { "speaker": "Rabbit", "text": "I'm just shaking with cold; I'll learn English by watching videos at home instead.", "annotations": [ { "quote": "with", "tag": "preposition" }, { "quote": "cold", "tag": "prep-object" }, { "quote": "by", "tag": "preposition" }, { "quote": "at home", "tag": "prep-phrase" } ], "note": { "en": "'with cold' = cause; 'by watching videos' = means; 'at home' = a definite-point location phrase.", "zh": "with cold 表原因；by watching videos 表方式；at home 表确定地点的介词短语。" } }
+    ]
+  }
+}

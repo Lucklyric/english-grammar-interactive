@@ -1,0 +1,122 @@
+{
+  "id": "18",
+  "slug": "purpose-adverbial-clauses",
+  "category": "clauses",
+  "shape": "tiny",
+  "order": 25,
+  "title": { "en": "Purpose Adverbial Clauses", "zh": "目的状语（副词）从句" },
+  "summary": { "en": "A purpose adverbial clause says why the main clause happens. Use 'in order that' or 'so that' (never 'so that' at the very start), and the clause usually carries a modal like can, could, may, might, should or would.", "zh": "目的副词从句说明主句为何发生。用 in order that 或 so that 引导（so that 不能放句首），从句里一般带情态动词 can、could、may、might、should、would。" },
+  "source": { "videoId": "UhuFOe0ZIYw", "youtube": "https://www.youtube.com/watch?v=UhuFOe0ZIYw", "duration": "1:00", "script": "scripts/18-purpose-adverbial-clauses.md" },
+  "tags": [
+    { "id": "purpose-marker", "label": { "en": "purpose marker", "zh": "目的从句引导词" }, "abbr": "Purp", "color": "#65a30d", "underline": "dotted" },
+    { "id": "purpose-clause", "label": { "en": "purpose clause", "zh": "目的从句" }, "abbr": "PCl", "color": "#16a34a", "underline": "dashed" },
+    { "id": "main-clause", "label": { "en": "main clause", "zh": "主句" }, "abbr": "Main", "color": "#2563eb", "underline": "solid" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "What a purpose clause does", "zh": "目的从句的作用" },
+      "body": { "en": "A purpose adverbial clause is easy to grasp and carries a cause–effect feel, but stated as a purpose: because you want to reach goal A (the clause), you do B (the main clause) — or equally, you do B in order to reach A.", "zh": "目的副词从句很好理解，也带有一定的因果关系，只不过是用目的的方式说出来：因为要达到目的 A（从句），所以做了 B（主句）；或者说，之所以做 B（主句），是为了达到目的 A（从句）。" },
+      "exampleRefs": ["e1", "e2"],
+      "sourceRef": "因为要达到目的A，从句，所以做了B主句"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "'in order that' vs 'so that'", "zh": "in order that 与 so that" },
+      "body": { "en": "Both 'in order that' and 'so that' introduce a purpose clause and mean essentially the same thing. The one rule: 'so that' cannot stand at the very front of the sentence, while 'in order that' can.", "zh": "in order that 和 so that 都引导目的从句，意思基本相同。唯一的规则是：so that 不可以放在句首，而 in order that 可以。" },
+      "exampleRefs": ["e1", "e2", "e3"],
+      "sourceRef": "注意，so that 不可以放在句首。"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Use a modal inside the clause", "zh": "从句内一般用情态动词" },
+      "body": { "en": "Inside a purpose clause you normally use a modal verb — can, could, may, might, should, would — because a modal brings out the sense of intended purpose better than a plain verb.", "zh": "目的副词从句中一般使用情态动词 can、could、may、might、should、would 等，因为这样能更好地体现目的性。" },
+      "exampleRefs": ["e1", "e2"],
+      "sourceRef": "目的副词从句中一般使用情态动词 can, could, may, might, should, would 等，因为这样能更好体现目的性"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "In order that I could finish the video in time, I pulled an all-nighter.",
+      "annotations": [
+        { "quote": "In order that", "tag": "purpose-marker" },
+        { "quote": "I could finish the video in time", "tag": "purpose-clause" },
+        { "quote": "I pulled an all-nighter", "tag": "main-clause" }
+      ],
+      "note": { "en": "'In order that' can open the sentence. The goal (finishing in time) is stated first; the modal 'could' marks it as an intended purpose.", "zh": "in order that 可以放在句首。先说出目的（及时完成），情态动词 could 体现这是要达成的目的。" }
+    },
+    {
+      "id": "e2",
+      "text": "I pulled an all-nighter so that I could finish the video in time.",
+      "annotations": [
+        { "quote": "I pulled an all-nighter", "tag": "main-clause" },
+        { "quote": "so that", "tag": "purpose-marker" },
+        { "quote": "I could finish the video in time", "tag": "purpose-clause" }
+      ],
+      "note": { "en": "Almost the same meaning as e1, but with 'so that' the main clause comes first — 'so that' must follow it, never lead.", "zh": "意思与 e1 基本相同，但用 so that 时主句在前——so that 必须跟在主句后，不能领头。" }
+    },
+    {
+      "id": "e3",
+      "text": "So that I could finish the video in time, I pulled an all-nighter.",
+      "annotations": [
+        { "quote": "So that", "tag": "purpose-marker" }
+      ],
+      "note": { "en": "Incorrect: 'so that' cannot stand at the very front of the sentence. Use 'in order that' here instead.", "zh": "错误：so that 不可以放在句首。这里应改用 in order that。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Which marker is NOT allowed at the very start of a sentence?", "zh": "哪个引导词不能放在句首？" },
+      "choices": [
+        { "id": "a", "text": { "en": "in order that", "zh": "in order that" } },
+        { "id": "b", "text": { "en": "so that", "zh": "so that" } },
+        { "id": "c", "text": { "en": "both are fine at the start", "zh": "两个放句首都可以" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'So that' cannot lead a sentence; it must follow the main clause. 'In order that' can open the sentence.", "zh": "so that 不能领头，必须跟在主句之后；in order that 可以放句首。" },
+      "refs": ["c2", "e3"]
+    },
+    {
+      "id": "q2",
+      "type": "fill",
+      "prompt": { "en": "Fill the blank with the modal from the transcript: 'I pulled an all-nighter so that I ____ finish the video in time.'", "zh": "用讲解中的情态动词填空：'I pulled an all-nighter so that I ____ finish the video in time.'" },
+      "answers": ["could"],
+      "explain": { "en": "A purpose clause normally takes a modal; here the transcript uses 'could' to mark the intended purpose.", "zh": "目的从句一般用情态动词；讲解中用 could 体现这一目的。" },
+      "refs": ["c3", "e2"]
+    },
+    {
+      "id": "q3",
+      "type": "error",
+      "sentence": "So that I could finish the video in time, I pulled an all-nighter.",
+      "fix": "In order that I could finish the video in time, I pulled an all-nighter.",
+      "explain": { "en": "'So that' cannot sit at the front of the sentence. When the purpose comes first, use 'in order that'.", "zh": "so that 不能放在句首。目的从句放在前面时要用 in order that。" },
+      "refs": ["c2", "e1", "e3"]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": { "en": "Why do purpose clauses usually contain a modal like 'could' or 'might'?", "zh": "目的从句为什么一般含 could、might 这类情态动词？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Because a modal better brings out the sense of intended purpose", "zh": "因为情态动词能更好体现目的性" } },
+        { "id": "b", "text": { "en": "Because the clause must always be in the past tense", "zh": "因为从句必须用过去时" } },
+        { "id": "c", "text": { "en": "Because 'so that' grammatically requires a modal after it", "zh": "因为 so that 后面语法上必须接情态动词" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "The transcript's reason is meaning, not a hard rule: a modal (can, could, may, might, should, would) brings out the intended-purpose sense.", "zh": "讲解给的理由是为了表意，而非硬性规则：情态动词（can、could、may、might、should、would）能更好体现目的性。" },
+      "refs": ["c3"]
+    }
+  ],
+  "dialogue": {
+    "kind": "scenario",
+    "title": { "en": "Pulling an all-nighter, on purpose", "zh": "为了赶视频，特意熬夜" },
+    "targets": ["purpose-marker", "purpose-clause", "main-clause"],
+    "lines": [
+      { "speaker": "Friend", "text": "Why do you look so tired today?", "note": { "en": "Sets up the cause/purpose to be explained.", "zh": "引出要解释的原因/目的。" } },
+      { "speaker": "Me", "text": "I pulled an all-nighter so that I could finish the video in time.", "annotations": [ { "quote": "I pulled an all-nighter", "tag": "main-clause" }, { "quote": "so that", "tag": "purpose-marker" }, { "quote": "I could finish the video in time", "tag": "purpose-clause" } ], "note": { "en": "Main clause first, then 'so that' + modal — the standard order for 'so that'.", "zh": "主句在前，再用 so that + 情态动词——so that 的标准语序。" } },
+      { "speaker": "Friend", "text": "You could just say: In order that I could finish it in time, I stayed up.", "annotations": [ { "quote": "In order that", "tag": "purpose-marker" }, { "quote": "I could finish it in time", "tag": "purpose-clause" }, { "quote": "I stayed up", "tag": "main-clause" } ], "note": { "en": "Same idea fronted with 'in order that', which is allowed at the start.", "zh": "同样的意思用 in order that 提到句首——这是允许的。" } }
+    ]
+  }
+}

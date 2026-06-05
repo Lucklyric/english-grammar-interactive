@@ -1,0 +1,186 @@
+{
+  "id": "08",
+  "slug": "predicate-clauses-noun-clauses-3",
+  "category": "clauses",
+  "shape": "tiny",
+  "order": 15,
+  "title": { "en": "Predicate Clauses (Noun Clauses #3)", "zh": "表语从句（名词从句 #3）" },
+  "summary": { "en": "A predicate clause is just a clause sitting where a subject complement goes — after a linking verb. It is often a subject clause moved behind the linking verb.", "zh": "表语从句就是一个从句充当系动词之后的表语（主语补语）。它往往就是把主语从句移到系动词之后而已。" },
+  "source": { "videoId": "RMQ-V1y67pY", "youtube": "https://www.youtube.com/watch?v=RMQ-V1y67pY", "duration": "3:18", "script": "scripts/08-predicate-clauses-noun-clauses-3.md" },
+  "tags": [
+    { "id": "predicate-clause", "label": { "en": "predicate clause", "zh": "表语从句" }, "abbr": "PC", "color": "#0284c7", "underline": "dotted" },
+    { "id": "formal-subject", "label": { "en": "formal subject 'it'", "zh": "形式主语 it" }, "abbr": "fS", "color": "#6366f1", "underline": "dashed" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "What a subject complement (表语) is", "zh": "什么是表语（主语补语）" },
+      "body": { "en": "We all grasp subject and object instinctively, but what is a complement? A linking verb (be, taste, etc.) roughly draws an equals sign between what comes before and after it. Before it is the subject; after it is information that completes the subject — the subject complement, also called the predicate (表语). The two names are the same thing.", "zh": "我们对主语和宾语都很有本能的理解，可什么是表语呢？系动词（be、taste 等）的功能近似于给它之前和之后的部分划等号。它之前是主语，之后是对主语做补充的信息——这就是主语补语，另一个名字就是表语，两者是一回事儿。" },
+      "exampleRefs": ["e1", "e2"],
+      "sourceRef": "它的功能近似于给它之前和之后的部分划等号"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "A predicate clause fills the complement slot", "zh": "表语从句填进表语这个位置" },
+      "body": { "en": "Once you see the complement slot, a predicate clause is easy: just use a whole clause as the subject complement that sits after the linking verb. The most common linking verb here is the be-verb.", "zh": "看懂了表语这个位置，表语从句就好理解了：就是用一个从句充当系动词之后的那个表语。表语从句中最常见的系动词就是 be 动词。" },
+      "exampleRefs": ["e3", "e4"]
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Clause markers — the same variety as before", "zh": "引导词——和之前一样多种可能" },
+      "body": { "en": "As with other noun clauses, many markers are possible: that, whether, and the wh-words (what, where, when, how...). The marker comes first, and the word order after it stays the same as a normal statement.", "zh": "和之前的从句一样，引导词也有多种可能：that、whether，以及 what、where、when、how 等疑问词。引导词开头，之后的语序和陈述句基本一致。" },
+      "exampleRefs": ["e4", "e5"]
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Often just a subject clause, moved", "zh": "往往只是主语从句换了位置" },
+      "body": { "en": "A predicate clause is often a subject clause shifted to behind the linking verb. 'That the rabbit ate the carrot is a secret' becomes 'The secret is that the rabbit ate the carrot.' The meaning is roughly the same; the subtle difference is which information gets emphasized.", "zh": "表语从句往往就是把主语从句移到系动词之后而已。“That the rabbit ate the carrot is a secret” 改成表语从句就是 “The secret is that the rabbit ate the carrot.” 意思大致相同，微妙的区别主要体现在要强调的信息上。" },
+      "exampleRefs": ["e3", "e6"]
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "Non-be linking verbs and formal 'it'", "zh": "非 be 系动词与形式主语 it" },
+      "body": { "en": "The linking verb need not be 'be' — feel, seem, look, taste also work: 'It seems that the rabbit is hungry.' Here 'it' is a formal subject with no real meaning, just holding the slot; the real meaning lives in the clause, which is grammatically the predicate clause.", "zh": "系动词不一定是 be，feel、seem、look、taste 也可以：“It seems that the rabbit is hungry.” 这里的 it 是形式主语，没有实际意义，只是占个位子；句子真正的意思全在后面的从句里，而这个从句在语法上就是表语成分，所以是表语从句。" },
+      "exampleRefs": ["e7", "e8"]
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "I am a rabbit.",
+      "annotations": [
+        { "quote": "I", "tag": "subject" },
+        { "quote": "am", "tag": "verb-linking" },
+        { "quote": "a rabbit", "tag": "subject-complement" }
+      ],
+      "note": { "en": "'Am' draws an equals sign: I = a rabbit. 'A rabbit' is the subject complement (表语).", "zh": "“am”在划等号：I = a rabbit。“a rabbit”是表语。" }
+    },
+    {
+      "id": "e2",
+      "text": "The carrot tastes good.",
+      "annotations": [
+        { "quote": "The carrot", "tag": "subject" },
+        { "quote": "tastes", "tag": "verb-linking" },
+        { "quote": "good", "tag": "subject-complement" }
+      ],
+      "note": { "en": "'Tastes' also equates subject and 'good', just with an added sense of tasting. 'Good' is the complement.", "zh": "“tastes”也在给主语和“good”划等号，只是多了一层品尝的意思。“good”是表语。" }
+    },
+    {
+      "id": "e3",
+      "text": "The secret is that the rabbit ate the carrot.",
+      "annotations": [
+        { "quote": "The secret", "tag": "subject" },
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "that the rabbit ate the carrot", "tag": "predicate-clause" }
+      ],
+      "note": { "en": "The whole 'that...' clause is the subject complement after 'is' — a predicate clause.", "zh": "整个“that…”从句是“is”之后的表语——表语从句。" }
+    },
+    {
+      "id": "e4",
+      "text": "The problem is that the rabbit is hungry.",
+      "annotations": [
+        { "quote": "The problem", "tag": "subject" },
+        { "quote": "is", "tag": "verb-linking", "occurrence": 1 },
+        { "quote": "that", "tag": "clause-marker" },
+        { "quote": "the rabbit is hungry", "tag": "predicate-clause" }
+      ],
+      "note": { "en": "Marker 'that' opens the clause; word order after it is a normal statement.", "zh": "引导词“that”开头；其后语序和陈述句一致。" }
+    },
+    {
+      "id": "e5",
+      "text": "The question is whether the rabbit is hungry.",
+      "annotations": [
+        { "quote": "The question", "tag": "subject" },
+        { "quote": "is", "tag": "verb-linking", "occurrence": 1 },
+        { "quote": "whether", "tag": "clause-marker" },
+        { "quote": "the rabbit is hungry", "tag": "predicate-clause" }
+      ],
+      "note": { "en": "'Whether' marks a yes/no predicate clause. Compare 'what the rabbit should eat' for a wh-marker.", "zh": "“whether”引导是非类的表语从句。与之对比的疑问词引导如“what the rabbit should eat”。" }
+    },
+    {
+      "id": "e6",
+      "text": "That the rabbit ate the carrot is a secret.",
+      "annotations": [
+        { "quote": "That the rabbit ate the carrot", "tag": "subject" },
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "a secret", "tag": "subject-complement" }
+      ],
+      "note": { "en": "Same clause as a SUBJECT clause. Move it behind 'is' and it becomes a predicate clause (see e3).", "zh": "同一个从句作主语从句。移到“is”之后就变成表语从句（见 e3）。" }
+    },
+    {
+      "id": "e7",
+      "text": "It seems that the rabbit is hungry.",
+      "annotations": [
+        { "quote": "It", "tag": "formal-subject" },
+        { "quote": "seems", "tag": "verb-linking" },
+        { "quote": "that the rabbit is hungry", "tag": "predicate-clause" }
+      ],
+      "note": { "en": "'It' is a formal subject (no real meaning); the real content is the predicate clause.", "zh": "“it”是形式主语（无实义）；真正的内容在表语从句里。" }
+    },
+    {
+      "id": "e8",
+      "text": "It feels that you're not telling the truth.",
+      "annotations": [
+        { "quote": "It", "tag": "formal-subject" },
+        { "quote": "feels", "tag": "verb-linking" },
+        { "quote": "that you're not telling the truth", "tag": "predicate-clause" }
+      ],
+      "note": { "en": "A non-be linking verb ('feels') with formal 'it' and a predicate clause carrying the meaning.", "zh": "非 be 系动词“feels”+形式主语 it，意义由表语从句承载。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "In 'The reason is that there is no more carrot', what is the underlined 'that...' clause?", "zh": "在“The reason is that there is no more carrot”中，“that…”从句是什么成分？" },
+      "choices": [
+        { "id": "a", "text": { "en": "A subject clause", "zh": "主语从句" } },
+        { "id": "b", "text": { "en": "A predicate clause (subject complement)", "zh": "表语从句（主语补语）" } },
+        { "id": "c", "text": { "en": "An object clause", "zh": "宾语从句" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "It sits after the linking verb 'is' and completes the subject 'the reason' — a predicate clause.", "zh": "它在系动词“is”之后，补充主语“the reason”——表语从句。" },
+      "refs": ["c2", "e4"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "In 'It seems that the rabbit is hungry', what role does 'it' play?", "zh": "在“It seems that the rabbit is hungry”中，“it”起什么作用？" },
+      "choices": [
+        { "id": "a", "text": { "en": "A real subject referring to an object", "zh": "指代某物体的真实主语" } },
+        { "id": "b", "text": { "en": "A formal subject just holding the slot", "zh": "占位的形式主语" } },
+        { "id": "c", "text": { "en": "The object of 'seems'", "zh": "“seems”的宾语" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'It' has no real meaning here; it only holds the subject slot while the predicate clause carries the meaning.", "zh": "这里“it”没有实义，只是占住主语的位子，意义都在表语从句里。" },
+      "refs": ["c5", "e7"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Turn the subject clause into a predicate clause. 'That the rabbit ate the carrot is a secret.' → 'The secret ____ that the rabbit ate the carrot.'", "zh": "把主语从句改写成表语从句。“That the rabbit ate the carrot is a secret.” → “The secret ____ that the rabbit ate the carrot.”" },
+      "answers": ["is"],
+      "explain": { "en": "Moving the clause behind the linking verb 'is' makes it the subject complement — a predicate clause.", "zh": "把从句移到系动词“is”之后，它就成了表语——表语从句。" },
+      "refs": ["c4", "e3", "e6"]
+    },
+    {
+      "id": "q4",
+      "type": "error",
+      "sentence": "The question is what should the rabbit eat.",
+      "fix": "The question is what the rabbit should eat.",
+      "explain": { "en": "In a noun clause the word order stays a statement, not a question — no inversion. Use 'what the rabbit should eat'.", "zh": "名词从句里语序保持陈述句，不能用疑问句倒装。应为“what the rabbit should eat”。" },
+      "refs": ["c3"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "What's the problem?", "zh": "问题到底是什么？" },
+    "targets": ["predicate-clause", "verb-linking", "formal-subject"],
+    "lines": [
+      { "speaker": "Wolf", "text": "The problem is that the rabbit is hungry.", "annotations": [ { "quote": "is", "tag": "verb-linking", "occurrence": 1 }, { "quote": "that the rabbit is hungry", "tag": "predicate-clause" } ], "note": { "en": "Be-verb + predicate clause.", "zh": "be 动词 + 表语从句。" } },
+      { "speaker": "Rabbit", "text": "The real question is whether you brought a carrot.", "annotations": [ { "quote": "is", "tag": "verb-linking" }, { "quote": "whether", "tag": "clause-marker" }, { "quote": "you brought a carrot", "tag": "predicate-clause" } ], "note": { "en": "'Whether' marks a yes/no predicate clause.", "zh": "“whether”引导是非表语从句。" } },
+      { "speaker": "Wolf", "text": "It seems that you are right.", "annotations": [ { "quote": "It", "tag": "formal-subject" }, { "quote": "seems", "tag": "verb-linking" }, { "quote": "that you are right", "tag": "predicate-clause" } ], "note": { "en": "Formal 'it' + non-be linking verb; the clause carries the meaning.", "zh": "形式主语 it + 非 be 系动词；意义在从句里。" } },
+      { "speaker": "Rabbit", "text": "So the secret is that I am always hungry.", "annotations": [ { "quote": "is", "tag": "verb-linking" }, { "quote": "that I am always hungry", "tag": "predicate-clause" } ], "note": { "en": "A subject clause moved behind 'is' — a predicate clause.", "zh": "把主语从句移到“is”之后——表语从句。" } }
+    ]
+  }
+}

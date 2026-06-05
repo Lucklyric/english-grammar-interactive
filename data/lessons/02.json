@@ -1,0 +1,503 @@
+{
+  "id": "02",
+  "slug": "english-grammar-comprehensive-guide-to-16-verb-tenses",
+  "category": "verbs-tenses-mood",
+  "shape": "deep-dive",
+  "order": 5,
+  "title": { "en": "A Comprehensive Guide to the 16 Verb Tenses", "zh": "16种时态终极详解" },
+  "summary": { "en": "An English tense is a verb's time fused with its state (aspect). Four times (present, past, future, past-future) times four states (simple, progressive, perfect, perfect progressive) give 16 tenses in theory. Master the two dimensions first, then the auxiliaries that build each one.", "zh": "英语时态是动词的“时间”与“状态（体）”的合称。四种时间（现在、过去、将来、过去将来）乘以四种状态（一般、进行、完成、完成进行）= 理论上的16种时态。先把这两个维度理清，再看用什么助动词去构成每一种。" },
+  "source": { "videoId": "P5FrIGgyNSc", "youtube": "https://www.youtube.com/watch?v=P5FrIGgyNSc", "duration": "1:00:25", "script": "scripts/02-english-grammar-comprehensive-guide-to-16-verb-tenses.md" },
+  "tags": [
+    { "id": "state-simple",      "label": { "en": "simple state", "zh": "一般状态" },      "abbr": "Simp", "color": "#64748b", "underline": "dotted" },
+    { "id": "state-progressive", "label": { "en": "progressive state", "zh": "进行状态" }, "abbr": "Prog", "color": "#0891b2", "underline": "dotted" },
+    { "id": "state-perfect",     "label": { "en": "perfect state", "zh": "完成状态" },     "abbr": "Perf", "color": "#7c3aed", "underline": "dotted" },
+    { "id": "state-perf-prog",   "label": { "en": "perfect progressive state", "zh": "完成进行状态" }, "abbr": "PfPr", "color": "#c026d3", "underline": "dotted" },
+    { "id": "present-participle", "label": { "en": "present participle (-ing)", "zh": "现在分词" }, "abbr": "ing", "color": "#059669", "underline": "dashed" },
+    { "id": "past-participle",    "label": { "en": "past participle", "zh": "过去分词" },   "abbr": "pp",  "color": "#dc2626", "underline": "dashed" },
+    { "id": "past-form",         "label": { "en": "past-tense form", "zh": "过去式" },     "abbr": "V2",  "color": "#ea580c", "underline": "solid" },
+    { "id": "modal-future",      "label": { "en": "future auxiliary (will/would)", "zh": "将来助动词 will/would" }, "abbr": "will", "color": "#4f46e5", "underline": "solid" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "A tense = time + state (aspect)", "zh": "时态 = 时间 + 状态（体）" },
+      "body": { "en": "An English tense is more precisely the tense of the verb: the verb's time and the verb's state (aspect) combined. A verb has four times and four states; freely combining them gives the 16 tenses in theory. This follows China's traditional teaching system — the goal is clearer explanation, not innovation.", "zh": "英语时态更准确地说是动词的时态：动词的时间和动词的状态（体）合称为时态。动词有四种时间，也有四种状态，自由排列组合便是理论上的16种时态。本课立足国内传统语法教学，目的是把它解释清楚，而非创新。" },
+      "sourceRef": "动词的时间和动词的状态合称为时态"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "The four times — present, past, future, past-future", "zh": "四种时间 — 现在、过去、将来、过去将来" },
+      "body": { "en": "Present, past and future are easy. The fourth, past-future, is the future relative to some past point — e.g. tomorrow as seen from yesterday. Note it has no fixed relation to now: a past point's future can land before, on, or after the present moment. It is rare in real speech and mostly appears in subordinate clauses.", "zh": "现在、过去、将来很好理解。第四种“过去将来”是相对于过去某一时间点而言的将来——比如昨天看到的明天。注意它和现在没有必然关系：过去某点的将来，可能在现在之前、正好是现在、也可能在现在之后。它在现实中不常见，一般只出现在从句中。" },
+      "sourceRef": "过去将来就是对于过去某一个时间点而言的将来"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "State 1 — simple (the default, unmarked state)", "zh": "状态一 — 一般（默认、未特别指出的状态）" },
+      "body": { "en": "The simple state is the default state that does not specifically point out anything about the action's progress or completion. In 'the rabbit ate carrots in the past and will eat carrots in the future', once you strip away the time information, the sentence never actually states the action's state. That unmarked state is the simple state.", "zh": "一般状态就是默认的、没有特别指出动作进行或完成情况的状态。在“这兔子过去吃胡萝卜，将来也吃胡萝卜”里，去掉时间信息后，句子本身并没有特别指出动作的状态。这种未标注的状态就是一般状态。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "没有特别指出的默认的简单的一般的状态"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "State 2 — progressive (an action in process)", "zh": "状态二 — 进行（动作正在进行中）" },
+      "body": { "en": "The progressive state shows an action or process underway. 'The rabbit is eating a carrot' means the eating is in progress. Picture an ongoing process — like a video rather than a photo.", "zh": "进行状态表示一个正在进行中的动作或过程。“这兔子正在吃胡萝卜”就是说吃胡萝卜这个动作正在进行中。可以想象成一段视频，而不是一张照片。" },
+      "exampleRefs": ["e2"],
+      "sourceRef": "进行状态。这兔子正在吃胡萝卜"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "State 3 — perfect (the action is completed)", "zh": "状态三 — 完成（动作状态已完成）" },
+      "body": { "en": "The perfect state means the action's state is completed. Crucially, it does NOT state when the action began — you cannot mark the action arrow's starting point. 'The rabbit ate the carrot up' means the carrot is already in the rabbit's belly, finished.", "zh": "完成状态表示动作的状态已经完成。关键在于：它并不指出动作具体的开始时间——你没法标注动作箭头的起点。“这兔子吃掉了胡萝卜”意思就是胡萝卜已在兔子肚子里，吃完了。" },
+      "exampleRefs": ["e3"],
+      "sourceRef": "完成态的重点在动作状态完成了"
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "State 4 — perfect progressive (partly done, still going)", "zh": "状态四 — 完成进行（已完成一部分，还在继续）" },
+      "body": { "en": "The perfect progressive state means part of the action is done but the rest is still in progress. 'The rabbit started eating carrots this morning and still hasn't stopped' — lots of carrots are eaten, but there's a pile left to go.", "zh": "完成进行状态表示动作的一部分已经完成，但剩下的还在进行中。“这兔子从早上就开始吃胡萝卜，现在还没停呢”——已经有好多胡萝卜进了肚子，但还有一堆没吃呢。" },
+      "exampleRefs": ["e4"],
+      "sourceRef": "表示动作的一部分完成了，但剩下的还在进行中"
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "Present simple — facts, habits, scheduled events", "zh": "一般现在时 — 事实、习惯、已计划的事" },
+      "body": { "en": "Formation: the bare verb (its dictionary form), with -s in the third-person singular. It expresses (1) facts ('The sun rises in the east'), (2) habits/repeated actions ('I play basketball'), and (3) scheduled events ('The bus leaves at 8pm tonight'). The big trap: present TIME is not the progressive STATE — 'I eat carrots' is NOT 'I am eating carrots', and present simple rarely pairs with 'now'.", "zh": "构成：直接加动词原型（字典词条），第三人称单数词尾加 s。它表达：(1) 事实（“太阳从东边升起”）；(2) 习惯/重复动作（“我打篮球”）；(3) 已计划的事（“公车今晚八点离站”）。最大陷阱：现在“时间”不等于进行“状态”——“I eat carrots”不是“我正在吃”，而且一般现在时几乎不和 now 连用。" },
+      "exampleRefs": ["e5", "e6"],
+      "sourceRef": "一般现在时态有最常见的三种情况"
+    },
+    {
+      "id": "c8",
+      "heading": { "en": "Present progressive — be + present participle", "zh": "现在进行时 — be 的变位 + 现在分词" },
+      "body": { "en": "Formation: a form of auxiliary 'be' (am/is/are) plus the verb's present participle (usually verb + -ing, with spelling tweaks like writing, hitting, dying). It corresponds to Chinese '正在做某事'. 'I eat carrots' becomes 'I am eating a carrot'.", "zh": "构成：助动词 be 的变位（am/is/are）+ 动词的现在分词（通常加 -ing，部分要改拼写，如 writing、hitting、dying）。相当于中文“正在做某事”。“I eat carrots”变成“I am eating a carrot”。" },
+      "exampleRefs": ["e7"],
+      "sourceRef": "助动词be的变位加动词的现在分词"
+    },
+    {
+      "id": "c9",
+      "heading": { "en": "Present perfect — have + past participle", "zh": "现在完成时 — have 的变位 + 过去分词" },
+      "body": { "en": "Formation: a form of auxiliary 'have' (have/has) plus the verb's past participle (usually -ed, but many are irregular: eaten, brought, felt). It describes a completed action that often affects the present. 'I have eaten the carrot' implies 'so I'm not hungry'.", "zh": "构成：助动词 have 的变位（have/has）+ 动词的过去分词（通常加 -ed，但很多不规则：eaten、brought、felt）。表达已经完成、且往往对现在有影响的动作。“I have eaten the carrot”暗示“所以我不饿了”。" },
+      "exampleRefs": ["e8"],
+      "sourceRef": "助动词have的变位加动词的过去分词"
+    },
+    {
+      "id": "c10",
+      "heading": { "en": "Present perfect progressive — have + been + present participle", "zh": "现在完成进行时 — have 的变位 + been + 现在分词" },
+      "body": { "en": "Combine perfect (have + past participle) with progressive (be + present participle): make 'be' the verb inside the perfect, so its past participle 'been' appears. Formation: have/has + been + present participle. 'I have been eating carrots' — already eaten some, still going. Beautifully, 'been' is the same for every person.", "zh": "把完成态（have + 过去分词）和进行态（be + 现在分词）综合：让 be 作为完成态里的动词，于是出现它的过去分词 been。构成：have/has + been + 现在分词。“I have been eating carrots”——已经吃了些，还要继续。妙在 been 在所有人称里都一样。" },
+      "exampleRefs": ["e9"],
+      "sourceRef": "现在完成进行时态的构成就是have的变位加been加动词的现在分词"
+    },
+    {
+      "id": "c11",
+      "heading": { "en": "Past tenses — shift the present forward by one time slot", "zh": "过去四时态 — 把现在四时态往前推一个时间段" },
+      "body": { "en": "The four past tenses are simply the four present tenses pushed back one slot. Past simple = the verb's past-tense form (the same for all persons): 'I ate a carrot yesterday'. Past progressive = was/were + present participle. Past perfect = had + past participle. Past perfect progressive = had + been + present participle. In each, you just put the auxiliary into its past form.", "zh": "过去四种时态就是现在四种时态往前推一个时间段。一般过去时 = 动词的过去式（各人称相同）：“I ate a carrot yesterday”。过去进行时 = was/were + 现在分词。过去完成时 = had + 过去分词。过去完成进行时 = had + been + 现在分词。每一种都只是把助动词改成过去式而已。" },
+      "exampleRefs": ["e10", "e11", "e12", "e13"],
+      "sourceRef": "过去时间的四种时态，其实就是把现在时间的四种时态往前推一个时间段而已"
+    },
+    {
+      "id": "c12",
+      "heading": { "en": "Distinguish: past simple vs present perfect", "zh": "辨析：一般过去时 vs 现在完成时" },
+      "body": { "en": "Past simple states a past fact — was it done or not (think of a photo). Present perfect stresses an action's effect on now. 'I went to Shanghai' (I'm back, said face to face) vs 'I have gone to Shanghai' (I've left, you can't find me — said on the phone). 'I saw a carrot' (it really existed) vs 'I have seen a carrot' (I've seen one, I know what it looks like).", "zh": "一般过去时陈述过去的事实——做了没有（想成一张照片）。现在完成时强调动作对现在的影响。“I went to Shanghai”（我已经回来了，当面说）对比“I have gone to Shanghai”（我已离开、你找不到我了，电话里说）。“I saw a carrot”（它确实存在）对比“I have seen a carrot”（我见过、我知道它什么样）。" },
+      "exampleRefs": ["e14", "e15"],
+      "sourceRef": "I have gone to Shanghai, I went to Shanghai"
+    },
+    {
+      "id": "c13",
+      "heading": { "en": "Distinguish: past simple vs past progressive", "zh": "辨析：一般过去时 vs 过去进行时" },
+      "body": { "en": "Both sit in past time, but past simple is a photo — was the action done? — while past progressive is a video — the action was in process at some past moment. 'The rabbit ate a carrot' vs 'The rabbit was eating a carrot'.", "zh": "两者都在过去时间里，但一般过去时是照片——动作做了没有；过去进行时是视频——动作在过去某刻正处在进行过程中。“The rabbit ate a carrot”对比“The rabbit was eating a carrot”。" },
+      "exampleRefs": ["e11"],
+      "sourceRef": "一般过去时态你可以想做一张照片"
+    },
+    {
+      "id": "c14",
+      "heading": { "en": "Don't confuse past-tense form vs past participle", "zh": "切勿混淆：过去式 vs 过去分词" },
+      "body": { "en": "The past-tense form (V2) builds past simple ('I ate'); the past participle builds perfect tenses ('I have eaten'). Many verbs differ in the two: eat/ate/eaten, do/did/done, go/went/gone, take/took/taken. Also don't confuse the past-tense FORM (a verb form) with past TIME (a span holding four tenses).", "zh": "过去式（V2）构成一般过去时（I ate）；过去分词构成各种完成时（I have eaten）。很多动词两者不同：eat/ate/eaten、do/did/done、go/went/gone、take/took/taken。也别把动词的“过去式”（一种形式）和“过去时”（一段时间里有四种时态）搞混。" },
+      "exampleRefs": ["e10", "e8"],
+      "sourceRef": "千万不要把动词的过去式和之前现在完成时态中提到的动词的过去分词弄混淆"
+    },
+    {
+      "id": "c15",
+      "heading": { "en": "Future tenses need 'will' — English has no future verb form", "zh": "将来时态需借助 will — 英语动词没有将来变位" },
+      "body": { "en": "English (a Germanic language) has no spelling change for future the way it does for past, so it must borrow the auxiliary 'will' (sometimes 'shall') placed before the main verb. Some linguists even argue English has no future tense, only ways to express it. Other expressions: present simple ('the bus leaves at 8pm'), be going to + verb, be to + verb (commanding tone), be about to + verb.", "zh": "英语属日耳曼语族，将来没有像过去式那样的拼写变化，必须借助助动词 will（有时用 shall），放在谓语动词之前。有些语言学家甚至认为英语没有将来时态，只有将来的表达方式。其他表达：一般现在时（the bus leaves at 8pm）、be going to + 动词原型、be to + 动词原型（命令意味）、be about to + 动词原型。" },
+      "exampleRefs": ["e16"],
+      "sourceRef": "英语中要表达将来时态，必须借助助动词"
+    },
+    {
+      "id": "c16",
+      "heading": { "en": "The four future tenses — will + ...", "zh": "将来四时态 — will + ……" },
+      "body": { "en": "Future simple = will + bare verb ('I will eat a carrot'); will is the same for all persons. Once will is used, the auxiliary after it stays in base form: future progressive = will + be + present participle; future perfect = will + have + past participle; future perfect progressive = will + have + been + present participle. Future progressive and future perfect sound even more certain than future simple.", "zh": "一般将来时 = will + 动词原型（I will eat a carrot），will 各人称相同。一旦用了 will，其后的助动词保持原型：将来进行时 = will + be + 现在分词；将来完成时 = will + have + 过去分词；将来完成进行时 = will + have + been + 现在分词。将来进行时、将来完成时比一般将来时听上去更笃定。" },
+      "exampleRefs": ["e16", "e17", "e18", "e19"],
+      "sourceRef": "将来完成进行时态的构成是will加have加been加动词的现在分词"
+    },
+    {
+      "id": "c17",
+      "heading": { "en": "Past-future tenses — swap will for would", "zh": "过去将来四时态 — 把 will 换成 would" },
+      "body": { "en": "Past-future is the future relative to a past point; it has no necessary link to now and usually appears in clauses. Build it from the four future tenses by changing 'will' to its past form 'would'. Past-future simple = would + bare verb ('I said I would eat a carrot for lunch'); then would + be + -ing, would + have + past participle, would + have been + -ing. You can also use was/were going to.", "zh": "过去将来是相对于过去某点的将来；和现在没有必然关系，多出现在从句中。把将来四时态里的 will 改成它的过去式 would 即可。一般过去将来时 = would + 动词原型（I said I would eat a carrot for lunch）；其后是 would + be + -ing、would + have + 过去分词、would + have been + -ing。也可用 was/were going to。" },
+      "exampleRefs": ["e20", "e21"],
+      "sourceRef": "一般过去将来时态的构成也很简单，would 加动词原型"
+    },
+    {
+      "id": "c18",
+      "heading": { "en": "Watch out: 'would' has other jobs", "zh": "注意：would 还有别的用法" },
+      "body": { "en": "Besides being will's past form for past-future tense, 'would' also marks the subjunctive (contrary to fact): 'If I were you, I would eat a carrot' carries no past-future meaning. It is also a politeness marker: 'Would you pass me the carrot, please?' is more polite than 'Will you...'. Tell them apart by the time information in the sentence.", "zh": "除了作 will 的过去式构成过去将来时，would 还用于虚拟语气（与事实相反）：“If I were you, I would eat a carrot”没有过去将来的含义。它也表礼貌：“Would you pass me the carrot, please?”比“Will you...”更礼貌。靠句中的时间信息把它们区分开。" },
+      "exampleRefs": ["e22"],
+      "sourceRef": "这里的would可不是表达过去将来啊"
+    },
+    {
+      "id": "c19",
+      "heading": { "en": "Why tenses feel hard for Chinese speakers", "zh": "为何中国人觉得时态难" },
+      "body": { "en": "Four reasons: (1) school teaches time and state mixed together; (2) English conjugates — the verb's spelling changes (eat to ate), unlike Chinese characters which never change form; (3) tenses borrow auxiliaries that appear or vanish and themselves conjugate (be to was/been); (4) tenses tangle with other grammar (modals, passive). This course deliberately isolates tense, setting modals and passive voice aside.", "zh": "四个原因：(1) 学校把时间和状态揉在一起教；(2) 英语有变位——动词拼写会变（eat 变 ate），不像汉字写法永不改变；(3) 时态借助助动词，时有时无且自身也变位（be 变 was/been）；(4) 时态常和其他语法（情态动词、被动）纠缠。本课刻意孤立时态，暂不讨论情态动词与被动态。" },
+      "sourceRef": "英语兔，我觉得这主要是因为四点"
+    },
+    {
+      "id": "c20",
+      "heading": { "en": "Which tenses are actually common", "zh": "实际常用的时态" },
+      "body": { "en": "Of the 16, past-future time is relatively rarely used, and in future time only the first two (future simple, future progressive) are common. So everyday tenses are few — don't be scared. Advice: spend a day, a few days, or a whole week getting comfortable with just one time or one state before moving on; be patient and repeat.", "zh": "16种里，过去将来这个时间相对少用，将来时间里只有前两种（一般将来、将来进行）比较常用。所以常用时态并不多，别被吓怕。建议：每天、每几天或一整周只熟悉一个时间或一个状态，掌握熟练后再下一个；要有耐心、反复体会。" },
+      "sourceRef": "在日常生活中，过去将来这个时间相对少用一些"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "The rabbit ate carrots in the past and will eat carrots in the future.",
+      "annotations": [
+        { "quote": "ate", "tag": "past-form" },
+        { "quote": "will", "tag": "modal-future" }
+      ],
+      "note": { "en": "Strip the time words and the sentence never states the action's STATE — that unmarked default is the simple state.", "zh": "去掉时间词，句子并没有指出动作的“状态”——这种未标注的默认就是一般状态。" }
+    },
+    {
+      "id": "e2",
+      "text": "The rabbit is eating a carrot.",
+      "annotations": [
+        { "quote": "is", "tag": "auxiliary" },
+        { "quote": "eating", "tag": "present-participle" }
+      ],
+      "note": { "en": "Progressive state: the eating is in process. Picture a video, not a photo.", "zh": "进行状态：吃这个动作正在进行中。想成一段视频，而非一张照片。" }
+    },
+    {
+      "id": "e3",
+      "text": "The rabbit has eaten the carrot.",
+      "annotations": [
+        { "quote": "has", "tag": "auxiliary" },
+        { "quote": "eaten", "tag": "past-participle" }
+      ],
+      "note": { "en": "Perfect state: the carrot is gone. It does NOT say when eating began.", "zh": "完成状态：胡萝卜没了。它并不说明吃是什么时候开始的。" }
+    },
+    {
+      "id": "e4",
+      "text": "The rabbit has been eating a carrot.",
+      "annotations": [
+        { "quote": "has", "tag": "auxiliary" },
+        { "quote": "been", "tag": "past-participle" },
+        { "quote": "eating", "tag": "present-participle" }
+      ],
+      "note": { "en": "Perfect progressive: some is done, more still going. 'been' is invariant across persons.", "zh": "完成进行：吃了一部分，还在继续。been 在各人称里都一样。" }
+    },
+    {
+      "id": "e5",
+      "text": "The rabbit eats carrots.",
+      "annotations": [
+        { "quote": "eats", "tag": "state-simple" },
+        { "quote": "carrots", "tag": "object" }
+      ],
+      "note": { "en": "Present simple stating a fact: rabbits are carrot-eating creatures. Bare plural 'carrots', no article = generic.", "zh": "一般现在时陈述事实：兔子是吃胡萝卜的生物。光杆复数 carrots、无冠词 = 泛指。" }
+    },
+    {
+      "id": "e6",
+      "text": "The bus leaves at 8pm tonight.",
+      "annotations": [
+        { "quote": "leaves", "tag": "state-simple" }
+      ],
+      "note": { "en": "Present simple for a scheduled event. Change to 'every day' and it becomes a habit/repeated action.", "zh": "一般现在时表已计划的事。改成 every day 就成了习惯/重复动作。" }
+    },
+    {
+      "id": "e7",
+      "text": "I am eating a carrot.",
+      "annotations": [
+        { "quote": "am", "tag": "auxiliary" },
+        { "quote": "eating", "tag": "present-participle" }
+      ],
+      "note": { "en": "Present progressive = be + present participle. This, not present simple, is the one that pairs with 'now'.", "zh": "现在进行时 = be + 现在分词。和 now 连用的是这个，而非一般现在时。" }
+    },
+    {
+      "id": "e8",
+      "text": "I have eaten the carrot.",
+      "annotations": [
+        { "quote": "have", "tag": "auxiliary" },
+        { "quote": "eaten", "tag": "past-participle" }
+      ],
+      "note": { "en": "Present perfect = have + past participle. Implies 'so I'm not hungry' — effect on now.", "zh": "现在完成时 = have + 过去分词。暗示“所以我不饿”——对现在的影响。" }
+    },
+    {
+      "id": "e9",
+      "text": "I have been eating carrots.",
+      "annotations": [
+        { "quote": "have", "tag": "auxiliary" },
+        { "quote": "been", "tag": "past-participle" },
+        { "quote": "eating", "tag": "present-participle" }
+      ],
+      "note": { "en": "Present perfect progressive = have + been + present participle. Eaten some already, still going.", "zh": "现在完成进行时 = have + been + 现在分词。已经吃了些，还要继续。" }
+    },
+    {
+      "id": "e10",
+      "text": "I ate a carrot yesterday.",
+      "annotations": [
+        { "quote": "ate", "tag": "past-form" }
+      ],
+      "note": { "en": "Past simple = the verb's past-tense form (ate), the same for every person.", "zh": "一般过去时 = 动词的过去式（ate），各人称相同。" }
+    },
+    {
+      "id": "e11",
+      "text": "The rabbit was eating a carrot.",
+      "annotations": [
+        { "quote": "was", "tag": "auxiliary" },
+        { "quote": "eating", "tag": "present-participle" }
+      ],
+      "note": { "en": "Past progressive = was/were + present participle. A video of a past moment in process.", "zh": "过去进行时 = was/were + 现在分词。过去某刻正在进行的一段视频。" }
+    },
+    {
+      "id": "e12",
+      "text": "I had eaten five carrots for lunch yesterday, so I wasn't hungry at all yesterday afternoon.",
+      "annotations": [
+        { "quote": "had", "tag": "auxiliary" },
+        { "quote": "eaten", "tag": "past-participle" }
+      ],
+      "note": { "en": "Past perfect = had + past participle. A past-of-the-past (B) affecting a past point A (yesterday afternoon).", "zh": "过去完成时 = had + 过去分词。过去的过去（B）影响过去某点 A（昨天下午）。" }
+    },
+    {
+      "id": "e13",
+      "text": "The rabbit had been eating a carrot.",
+      "annotations": [
+        { "quote": "had", "tag": "auxiliary" },
+        { "quote": "been", "tag": "past-participle" },
+        { "quote": "eating", "tag": "present-participle" }
+      ],
+      "note": { "en": "Past perfect progressive = had + been + present participle. By a past point, eaten a while and still going.", "zh": "过去完成进行时 = had + been + 现在分词。到过去某点已吃了一阵，还要继续。" }
+    },
+    {
+      "id": "e14",
+      "text": "Are you looking for me? Sorry, I've gone to Shanghai, so you can't find me.",
+      "annotations": [
+        { "quote": "gone", "tag": "past-participle" }
+      ],
+      "note": { "en": "Present perfect: 'I've gone' = I've left and not returned — said on the phone, never face to face.", "zh": "现在完成时：I've gone = 我已离开未归——电话里说，不能当面说。" }
+    },
+    {
+      "id": "e15",
+      "text": "I went to Shanghai.",
+      "annotations": [
+        { "quote": "went", "tag": "past-form" }
+      ],
+      "note": { "en": "Past simple: just states a past fact (and usually implies 'I'm back') — said face to face.", "zh": "一般过去时：只陈述过去事实（通常暗示我已回来）——当面说。" }
+    },
+    {
+      "id": "e16",
+      "text": "I will eat a carrot.",
+      "annotations": [
+        { "quote": "will", "tag": "modal-future" },
+        { "quote": "eat", "tag": "state-simple" }
+      ],
+      "note": { "en": "Future simple = will + bare verb. 'will' is identical for all persons.", "zh": "一般将来时 = will + 动词原型。will 在所有人称里都一样。" }
+    },
+    {
+      "id": "e17",
+      "text": "I will be eating a carrot for lunch tomorrow.",
+      "annotations": [
+        { "quote": "will", "tag": "modal-future" },
+        { "quote": "be", "tag": "auxiliary" },
+        { "quote": "eating", "tag": "present-participle" }
+      ],
+      "note": { "en": "Future progressive = will + be + present participle. Even more certain than future simple.", "zh": "将来进行时 = will + be + 现在分词。比一般将来时更笃定。" }
+    },
+    {
+      "id": "e18",
+      "text": "I will have finished making this video by 4pm tomorrow, so I can publish it after that.",
+      "annotations": [
+        { "quote": "will", "tag": "modal-future" },
+        { "quote": "have", "tag": "auxiliary" },
+        { "quote": "finished", "tag": "past-participle" }
+      ],
+      "note": { "en": "Future perfect = will + have + past participle. Done before future point A (4pm), affecting A.", "zh": "将来完成时 = will + have + 过去分词。在将来某点 A（4 点）前完成，并影响 A。" }
+    },
+    {
+      "id": "e19",
+      "text": "I will have been eating carrots for 2 hours by 3pm tomorrow.",
+      "annotations": [
+        { "quote": "will", "tag": "modal-future" },
+        { "quote": "have", "tag": "auxiliary" },
+        { "quote": "been", "tag": "past-participle" },
+        { "quote": "eating", "tag": "present-participle" }
+      ],
+      "note": { "en": "Future perfect progressive = will + have + been + present participle. Rare — very specific meaning.", "zh": "将来完成进行时 = will + have + been + 现在分词。很少用——意思太具体。" }
+    },
+    {
+      "id": "e20",
+      "text": "I said I would eat a carrot for lunch.",
+      "annotations": [
+        { "quote": "said", "tag": "past-form" },
+        { "quote": "would", "tag": "modal-future" },
+        { "quote": "eat", "tag": "state-simple" }
+      ],
+      "note": { "en": "Past-future simple = would + bare verb. Lunch was future relative to when I spoke.", "zh": "一般过去将来时 = would + 动词原型。午饭相对于我说话时是将来。" }
+    },
+    {
+      "id": "e21",
+      "text": "I said I would have been eating lunch for two hours by 1pm tomorrow.",
+      "annotations": [
+        { "quote": "would", "tag": "modal-future" },
+        { "quote": "have", "tag": "auxiliary" },
+        { "quote": "been", "tag": "past-participle" },
+        { "quote": "eating", "tag": "present-participle" }
+      ],
+      "note": { "en": "Past-future perfect progressive = would + have + been + present participle (will to would).", "zh": "过去将来完成进行时 = would + have + been + 现在分词（will 改 would）。" }
+    },
+    {
+      "id": "e22",
+      "text": "If I were you, I would eat a carrot.",
+      "annotations": [
+        { "quote": "were", "tag": "past-form" },
+        { "quote": "would", "tag": "modal-future" }
+      ],
+      "note": { "en": "Here 'would' is the subjunctive (contrary to fact), NOT past-future. 'If I were you' is impossible by nature.", "zh": "这里 would 是虚拟语气（与事实相反），不是过去将来。“If I were you”本就不可能。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "In this course, an English tense is defined as the combination of which two things?", "zh": "本课中，英语时态被定义为哪两样东西的合体？" },
+      "choices": [
+        { "id": "a", "text": { "en": "The verb's person and number", "zh": "动词的人称和数" } },
+        { "id": "b", "text": { "en": "The verb's time and its state (aspect)", "zh": "动词的时间和它的状态（体）" } },
+        { "id": "c", "text": { "en": "The verb's mood and its voice", "zh": "动词的语气和语态" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "A tense is the verb's time fused with its state. Four times times four states = 16 tenses in theory.", "zh": "时态是动词的时间与状态的合称。四种时间乘四种状态 = 理论上 16 种时态。" },
+      "refs": ["c1"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "Why doesn't 'I eat carrots' mean 'I am eating carrots right now'?", "zh": "为什么“I eat carrots”不表示“我现在正在吃胡萝卜”？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Because present time always forces the progressive state", "zh": "因为现在时间总是强制进行状态" } },
+        { "id": "b", "text": { "en": "Because the simple state is the default, unmarked state, not the in-progress one", "zh": "因为一般状态是默认、未标注的状态，并非正在进行的状态" } },
+        { "id": "c", "text": { "en": "Because 'eat' cannot take an object", "zh": "因为 eat 不能带宾语" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "Present TIME is not the progressive STATE. Present simple states a fact/habit; it rarely pairs with 'now'.", "zh": "现在“时间”不等于进行“状态”。一般现在时陈述事实/习惯，几乎不和 now 连用。" },
+      "refs": ["c7", "c3"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Fill the blanks. Present perfect progressive = have + ____ + the verb's ____ participle.", "zh": "填空。现在完成进行时 = have + ____ + 动词的____分词。" },
+      "answers": ["been ... present", "been, present", "been present", "been／present", "been/present"],
+      "explain": { "en": "have/has + been + present participle. 'been' (be's past participle) is the same for every person.", "zh": "have/has + been + 现在分词。been（be 的过去分词）在所有人称里都一样。" },
+      "refs": ["c10"]
+    },
+    {
+      "id": "q4",
+      "type": "fill",
+      "prompt": { "en": "Convert to past perfect: 'The rabbit has eaten a carrot' becomes 'The rabbit ____ eaten a carrot.'", "zh": "改为过去完成时：“The rabbit has eaten a carrot”变成“The rabbit ____ eaten a carrot.”" },
+      "answers": ["had"],
+      "explain": { "en": "Past perfect just puts the auxiliary 'have' into its past form 'had' (same for all persons).", "zh": "过去完成时只是把助动词 have 改成过去式 had（各人称相同）。" },
+      "refs": ["c11"]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": { "en": "You are standing face to face with someone. Which is natural?", "zh": "你正和某人面对面。哪句自然？" },
+      "choices": [
+        { "id": "a", "text": { "en": "I have gone to Shanghai.", "zh": "I have gone to Shanghai." } },
+        { "id": "b", "text": { "en": "I went to Shanghai.", "zh": "I went to Shanghai." } },
+        { "id": "c", "text": { "en": "I am go to Shanghai.", "zh": "I am go to Shanghai." } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'I have gone' means you've left and can't be found — only on the phone. Face to face, past simple 'I went' (I'm back) fits.", "zh": "“I have gone”意为你已离开、找不到你——只能电话里说。当面要用一般过去时“I went”（我回来了）。" },
+      "refs": ["c12"]
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": { "en": "Why must English borrow 'will' to express the future?", "zh": "为何英语必须借助 will 来表达将来？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Because the verb has no future spelling change, unlike the past form", "zh": "因为动词没有将来的拼写变化，不像过去式那样" } },
+        { "id": "b", "text": { "en": "Because 'will' is a present participle", "zh": "因为 will 是现在分词" } },
+        { "id": "c", "text": { "en": "Because every future verb must add -ed", "zh": "因为将来动词都要加 -ed" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "English (Germanic) has no future conjugation like 'eat'→'ate', so it places the auxiliary 'will' before the main verb.", "zh": "英语（日耳曼语族）没有像 eat→ate 那样的将来变位，所以把助动词 will 放在主动词之前。" },
+      "refs": ["c15"]
+    },
+    {
+      "id": "q7",
+      "type": "error",
+      "sentence": "I eat a carrot now.",
+      "fix": "I am eating a carrot now.",
+      "explain": { "en": "Present simple 'eat' rarely pairs with 'now'; 'now' goes with the present progressive 'am eating'.", "zh": "一般现在时 eat 很少和 now 连用；now 要配现在进行时 am eating。" },
+      "refs": ["c7", "c8"]
+    },
+    {
+      "id": "q8",
+      "type": "error",
+      "sentence": "I have eat a carrot.",
+      "fix": "I have eaten a carrot.",
+      "explain": { "en": "Present perfect uses the PAST PARTICIPLE, not the base form: have + eaten. Don't confuse it with the past-tense form 'ate'.", "zh": "现在完成时用过去分词，而非原型：have + eaten。别和过去式 ate 混淆。" },
+      "refs": ["c9", "c14"]
+    },
+    {
+      "id": "q9",
+      "type": "fill",
+      "prompt": { "en": "Build future perfect progressive of 'eat': 'I will have ____ ____ carrots for 2 hours by 3pm tomorrow.'", "zh": "构造 eat 的将来完成进行时：“I will have ____ ____ carrots for 2 hours by 3pm tomorrow.”" },
+      "answers": ["been eating", "been ... eating", "been／eating", "been/eating"],
+      "explain": { "en": "Future perfect progressive = will + have + been + present participle. After 'will', the auxiliaries stay base/been.", "zh": "将来完成进行时 = will + have + been + 现在分词。用了 will 之后，助动词保持原型/been。" },
+      "refs": ["c16"]
+    },
+    {
+      "id": "q10",
+      "type": "fill",
+      "prompt": { "en": "Turn this future sentence into past-future: 'I will eat a carrot' becomes 'I said I ____ eat a carrot.'", "zh": "把将来句改成过去将来：“I will eat a carrot”变成“I said I ____ eat a carrot.”" },
+      "answers": ["would"],
+      "explain": { "en": "Past-future swaps 'will' for its past form 'would': would + bare verb.", "zh": "过去将来把 will 换成它的过去式 would：would + 动词原型。" },
+      "refs": ["c17"]
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": { "en": "In 'If I were you, I would eat a carrot', what is 'would' doing?", "zh": "在“If I were you, I would eat a carrot”中，would 起什么作用？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Marking the subjunctive (contrary to fact)", "zh": "标记虚拟语气（与事实相反）" } },
+        { "id": "b", "text": { "en": "Marking the past-future tense", "zh": "标记过去将来时" } },
+        { "id": "c", "text": { "en": "Marking the past progressive", "zh": "标记过去进行时" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "'If I were you' is impossible by nature, so 'would' here is the subjunctive — no past-future meaning. Use sentence time to tell would's jobs apart.", "zh": "“If I were you”本就不可能，所以这里 would 是虚拟语气——没有过去将来含义。靠句中时间区分 would 的不同用法。" },
+      "refs": ["c18"]
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": { "en": "Which statement about how common the 16 tenses are is correct?", "zh": "关于 16 种时态常用程度，哪项正确？" },
+      "choices": [
+        { "id": "a", "text": { "en": "All 16 are used about equally often in daily speech", "zh": "16 种在日常口语中使用频率大致相同" } },
+        { "id": "b", "text": { "en": "Past-future time is relatively rare, and in future time only the first two are common", "zh": "过去将来时间相对少用，将来时间里只有前两种常用" } },
+        { "id": "c", "text": { "en": "Only the present perfect progressive is ever used", "zh": "只有现在完成进行时会被用到" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "Past-future is rare and mostly clause-bound; in future time, future simple and future progressive dominate. Everyday tenses are few.", "zh": "过去将来少用且多在从句中；将来时间里以一般将来、将来进行为主。常用时态并不多。" },
+      "refs": ["c20"]
+    }
+  ],
+  "dialogue": {
+    "kind": "scenario",
+    "title": { "en": "The case of the rabbit-biting suspect — past-future in action", "zh": "咬兔子嫌犯案——过去将来时态实战" },
+    "targets": ["modal-future", "state-progressive", "state-perfect", "state-perf-prog", "past-participle"],
+    "lines": [
+      { "speaker": "Suspect (last month)", "text": "On some day next month, you will see me biting that rabbit.", "annotations": [ { "quote": "will", "tag": "modal-future" }, { "quote": "biting", "tag": "present-participle" } ], "note": { "en": "Future-in-the-past, progressive state: caught in the act = past-future progressive.", "zh": "对过去某点而言的将来 + 进行状态：正咬着 = 过去将来进行时。" } },
+      { "speaker": "Suspect (bolder)", "text": "You will find that I have already bitten that rabbit.", "annotations": [ { "quote": "have", "tag": "auxiliary" }, { "quote": "bitten", "tag": "past-participle" } ], "note": { "en": "Past-future time + perfect state (the biting is done) = past-future perfect.", "zh": "过去将来时间 + 完成状态（咬这个动作完成了）= 过去将来完成时。" } },
+      { "speaker": "Suspect (worst)", "text": "You will find I have not only bitten that rabbit but will keep biting it.", "annotations": [ { "quote": "bitten", "tag": "past-participle" }, { "quote": "biting", "tag": "present-participle" } ], "note": { "en": "Partly done, still going = perfect progressive state, in past-future time.", "zh": "已完成一部分、还在继续 = 完成进行状态，处在过去将来时间。" } },
+      { "speaker": "Suspect (vague)", "text": "Just wait — I will bite that rabbit.", "annotations": [ { "quote": "will", "tag": "modal-future" }, { "quote": "bite", "tag": "state-simple" } ], "note": { "en": "No state is specified = simple state. Past-future simple, the unmarked default.", "zh": "未指明状态 = 一般状态。过去将来一般时，未标注的默认。" } }
+    ]
+  }
+}

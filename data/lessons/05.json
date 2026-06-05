@@ -1,0 +1,251 @@
+{
+  "id": "05",
+  "slug": "understanding-adjective-clauses-the-most-challenging-english-clauses",
+  "category": "clauses",
+  "shape": "standard",
+  "order": 12,
+  "title": { "en": "Understanding Adjective Clauses: The Most Challenging English Clauses?", "zh": "形容词从句（定语从句/关系从句）：英语从句中最难的？" },
+  "summary": { "en": "An adjective clause describes a noun and works as an attributive. Unlike Chinese, English puts it AFTER the noun, linked by a relative word — the same clause is also called a relative or attributive clause.", "zh": "形容词从句描述名词，充当定语。和中文不同，英语把它放在名词之后，用关系词引导——它也叫关系从句或定语从句。" },
+  "source": { "videoId": "1XEKoM4mitg", "youtube": "https://www.youtube.com/watch?v=1XEKoM4mitg", "duration": "17:09", "script": "scripts/05-understanding-adjective-clauses-the-most-challenging-english-clauses.md" },
+  "tags": [
+    { "id": "antecedent", "abbr": "Ante", "color": "#be185d", "underline": "solid", "label": { "en": "antecedent", "zh": "先行词" } },
+    { "id": "rel-pronoun", "abbr": "RelP", "color": "#0d9488", "underline": "dotted", "label": { "en": "relative pronoun", "zh": "关系代词" } },
+    { "id": "rel-adverb", "abbr": "RelA", "color": "#7c3aed", "underline": "dotted", "label": { "en": "relative adverb", "zh": "关系副词" } },
+    { "id": "adj-clause", "abbr": "AdjCl", "color": "#9333ea", "underline": "dashed", "label": { "en": "adjective clause", "zh": "形容词从句" } }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "One clause, three names", "zh": "一种从句，三个名字" },
+      "body": { "en": "A clause that describes a person or thing has the nature of an adjective, so it is called an adjective clause. Because it serves as the attributive in the sentence, it is also called an attributive clause. And because it contains a relative word, it is also called a relative clause. These are not three different clauses — they are one and the same thing.", "zh": "一类从句对某个人或事物进行描述，具有形容词的性质，所以叫形容词从句。因为它在句中充当定语这个成分，所以也叫定语从句。又因为其中包含关系词，所以也叫关系从句。它们不是三种从句，而是一回事儿。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "形容词从句、定语从句、关系从句"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "Chinese puts modifiers before, English puts the clause after", "zh": "中文定语前置，英语从句后置" },
+      "body": { "en": "In Chinese the attributive — a single adjective like 'tasty' or a whole sentence like 'that I bought' — always sits BEFORE the noun. In English a single adjective also goes before (a tasty carrot), but when a whole sentence does the describing, it must go AFTER the noun. This difference comes from a difference in Chinese-versus-Western thinking.", "zh": "在中文里，定语——无论是单个形容词如“好吃的”，还是一整句话如“我买来的”——都放在名词之前。英语里单个形容词也前置（a tasty carrot），但当用一整句话来描述时，就必须放在名词之后。这种差异源于中西方思维方式的不同。" },
+      "exampleRefs": ["e1", "e2"],
+      "sourceRef": "你看，从句做定语都是后置的"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Antecedent + relative word: the core mechanism", "zh": "先行词 + 关系词：核心机制" },
+      "body": { "en": "The English way of thinking: after the modified noun, add another word that relates to it, then put that new word into a second sentence that explains or adds logic. Grammatically the new word is the relative word; the modified word before it is the antecedent; the second sentence is the adjective clause.", "zh": "英语的思维方式：在被修饰的词之后，添加另一个和它有关系的词，再把这个新词放进另一个句子里进行补充说明或逻辑阐述。语法上，这个新词叫关系词；它之前被修饰的词叫先行词；那另一个句子就是形容词从句。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "这个新词叫关系词，它之前的被修饰的词叫先行词"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Relative pronouns: who, whom, whose, which, that", "zh": "关系代词：who, whom, whose, which, that" },
+      "body": { "en": "Relative pronouns lead the clause and play the role of a pronoun inside it: that/which (for things), who (subject person), whom (object person), whose (possessive). They come from the matching statement: take the word to be replaced, turn it into the relative pronoun, and move it to the front — the rest of the word order stays the same as the original statement.", "zh": "关系代词引导从句，并在从句里起代词的作用：that/which（指物）、who（作主语的人）、whom（作宾语的人）、whose（所有格）。它们由对应的陈述句变来：把要替代的词变成关系代词，再移到开头，其余语序与原陈述句一致。" },
+      "exampleRefs": ["e3", "e4", "e5"],
+      "sourceRef": "很多我们之前见过的词也可以做关系代词"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "that vs. which", "zh": "that 与 which 的区别" },
+      "body": { "en": "When the antecedent is definite and unique — marked by the largest, all, only, first — there is no choice, so use 'that'. When you pick one out of many similar things by a limiting condition, you may use 'which' (or that). A quick test: if you can still ask 'which one are you talking about?', you can use which; if not, only that.", "zh": "当先行词明确、唯一——由 the largest、all、only、first 等限定——没得选，就用 that。当从许多同类事物中按限定条件挑一个时，可以用 which（也可用 that）。判断法：如果还能问“你说的是哪一个？”就能用 which；如果不能问，就只能用 that。" },
+      "exampleRefs": ["e6", "e7"],
+      "sourceRef": "如果先行词明确，唯一，没有其他可能时就要用that"
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "Relative adverbs: where, why, when", "zh": "关系副词：where, why, when" },
+      "body": { "en": "where, why, and when also introduce adjective clauses, modifying place, reason, and time. Their job is just like a relative pronoun, except their word class inside the clause is adverb, not pronoun — so they are relative adverbs. Each equals a preposition + which: where = at which, why = for which, when = on which.", "zh": "where、why、when 也引导形容词从句，分别修饰地点、原因、时间。它们的作用和关系代词差不多，只是在从句里的词性是副词而非代词——所以叫关系副词。每个都相当于“介词 + which”：where = at which，why = for which，when = on which。" },
+      "exampleRefs": ["e8"],
+      "sourceRef": "关系副词相当于介词加关系代词which"
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "Restrictive clauses: narrowing the range", "zh": "限定性从句：缩小范围" },
+      "body": { "en": "The main job of an adjective clause is to limit range. In 'the rabbit ate the carrot which was on the table', the clause narrows down which carrot: there were many carrots, but the rabbit ate just one — the one on the table. This is a restrictive adjective clause.", "zh": "形容词从句的主要功能是限定范围。在“the rabbit ate the carrot which was on the table”中，从句缩小了是哪根胡萝卜：有好多胡萝卜，但兔子只吃了其中一根——桌上那一根。这就是限定性形容词从句。" },
+      "exampleRefs": ["e9"],
+      "sourceRef": "这样的形容词从句属于限定性形容词从句"
+    },
+    {
+      "id": "c8",
+      "heading": { "en": "Non-restrictive clauses: just adding info", "zh": "非限定性从句：只是补充信息" },
+      "body": { "en": "A non-restrictive clause does not limit — it merely keeps talking by using a pronoun to avoid repeating the noun, so it is set off and used as a parenthetical insert that can be dropped without harming the main clause. It can even refer to the WHOLE preceding sentence, as in 'the rabbit ate the carrot, which was not surprising' — 'which' means the whole event, not the carrot.", "zh": "非限定性从句不起限定作用——它只是用一个代词接着往下说，避免重复名词，所以用逗号隔开作插入语，去掉也不影响主句。它甚至能指代前面一整句话，如“the rabbit ate the carrot, which was not surprising”——这里 which 指整件事，而非胡萝卜。" },
+      "exampleRefs": ["e10", "e11"],
+      "sourceRef": "而是可以指代整句话"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "The rabbit is eating a carrot that I bought.",
+      "annotations": [
+        { "quote": "carrot", "tag": "antecedent" },
+        { "quote": "that", "tag": "rel-pronoun" }
+      ],
+      "note": { "en": "'Carrot' is the antecedent; 'that' is the relative pronoun; 'that I bought' is the adjective clause, placed after the noun.", "zh": "“carrot”是先行词；“that”是关系代词；“that I bought”是形容词从句，放在名词之后。" }
+    },
+    {
+      "id": "e2",
+      "text": "The rabbit is eating a tasty carrot.",
+      "annotations": [
+        { "quote": "tasty", "tag": "attributive" },
+        { "quote": "carrot", "tag": "object" }
+      ],
+      "note": { "en": "A single adjective ('tasty') still goes before the noun, just like Chinese. Only a whole-sentence modifier must go after.", "zh": "单个形容词（tasty）仍放在名词之前，和中文一样。只有用整句话作修饰时才必须后置。" }
+    },
+    {
+      "id": "e3",
+      "text": "The teacher who ate a carrot is a rabbit.",
+      "annotations": [
+        { "quote": "teacher", "tag": "antecedent" },
+        { "quote": "who", "tag": "rel-pronoun" }
+      ],
+      "note": { "en": "'Who' replaces the person-subject of the original statement (the teacher ate a carrot).", "zh": "“who”替代原陈述句中作主语的人（the teacher ate a carrot）。" }
+    },
+    {
+      "id": "e4",
+      "text": "The teacher whom I saw yesterday is a rabbit.",
+      "annotations": [
+        { "quote": "teacher", "tag": "antecedent" },
+        { "quote": "whom", "tag": "rel-pronoun" }
+      ],
+      "note": { "en": "'Whom' is the object person — from 'I saw the teacher yesterday', moved to the front.", "zh": "“whom”是作宾语的人——由“I saw the teacher yesterday”变来，移到开头。" }
+    },
+    {
+      "id": "e5",
+      "text": "The teacher whose favorite food is carrot is a rabbit.",
+      "annotations": [
+        { "quote": "teacher", "tag": "antecedent" },
+        { "quote": "whose", "tag": "rel-pronoun" }
+      ],
+      "note": { "en": "'Whose' is the possessive relative pronoun (the teacher's favorite food is carrot).", "zh": "“whose”是所有格关系代词（the teacher's favorite food is carrot）。" }
+    },
+    {
+      "id": "e6",
+      "text": "The rabbit ate the largest carrot that I've ever seen.",
+      "annotations": [
+        { "quote": "largest", "tag": "attributive" },
+        { "quote": "carrot", "tag": "antecedent" },
+        { "quote": "that", "tag": "rel-pronoun" }
+      ],
+      "note": { "en": "'The largest' makes the carrot unique — no choice — so the relative pronoun must be 'that', not 'which'.", "zh": "“the largest”已指明唯一，没得选，所以关系代词只能用 that，不能用 which。" }
+    },
+    {
+      "id": "e7",
+      "text": "The rabbit ate a carrot which I bought.",
+      "annotations": [
+        { "quote": "carrot", "tag": "antecedent" },
+        { "quote": "which", "tag": "rel-pronoun" }
+      ],
+      "note": { "en": "Among countless carrots, 'which I bought' picks one out — you can still ask 'which one?', so 'which' (or 'that') works.", "zh": "世上胡萝卜千千万，“which I bought”挑出一根——还能问“哪一根？”，所以用 which（或 that）都行。" }
+    },
+    {
+      "id": "e8",
+      "text": "This was the place where the rabbit ate the carrot.",
+      "annotations": [
+        { "quote": "place", "tag": "antecedent" },
+        { "quote": "where", "tag": "rel-adverb" }
+      ],
+      "note": { "en": "'Where' modifies 'place' as a relative adverb. It equals 'at which': the place at which the rabbit ate the carrot.", "zh": "“where”作关系副词修饰 place，相当于“at which”：the place at which the rabbit ate the carrot。" }
+    },
+    {
+      "id": "e9",
+      "text": "The rabbit ate the carrot which was on the table.",
+      "annotations": [
+        { "quote": "carrot", "tag": "antecedent" },
+        { "quote": "which", "tag": "rel-pronoun" }
+      ],
+      "note": { "en": "Restrictive: there were several carrots, and the clause narrows down to the one on the table.", "zh": "限定性：有好几根胡萝卜，从句把范围缩小到桌上的那一根。" }
+    },
+    {
+      "id": "e10",
+      "text": "My head, which is big, is useful when it rains.",
+      "annotations": [
+        { "quote": "head", "tag": "antecedent" },
+        { "quote": "which", "tag": "rel-pronoun" }
+      ],
+      "note": { "en": "Non-restrictive: I have one head; 'which is big' just adds info as a parenthetical and can be dropped.", "zh": "非限定性：我只有一个头；“which is big”只是补充信息作插入语，去掉也无妨。" }
+    },
+    {
+      "id": "e11",
+      "text": "The rabbit ate the carrot, which was not surprising.",
+      "annotations": [
+        { "quote": "which", "tag": "rel-pronoun" }
+      ],
+      "note": { "en": "Here 'which' refers to the whole event 'the rabbit ate the carrot', not to the rabbit or the carrot.", "zh": "这里 which 指代整件事“the rabbit ate the carrot”，而非 rabbit 或 carrot。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "How does English say 'a carrot I bought'?", "zh": "“一根我买来的胡萝卜”英语怎么说？" },
+      "choices": [
+        { "id": "a", "text": { "en": "a I bought the carrot", "zh": "a I bought the carrot" } },
+        { "id": "b", "text": { "en": "a carrot that I bought", "zh": "a carrot that I bought" } },
+        { "id": "c", "text": { "en": "a I-bought carrot", "zh": "a I-bought carrot" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "English puts a whole-sentence modifier AFTER the noun, linked by a relative word: a carrot that I bought.", "zh": "英语把整句话作的定语放在名词之后，用关系词连接：a carrot that I bought。" },
+      "refs": ["c2", "c3", "e1"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "In 'the largest carrot ____ I've ever seen', which relative word is required?", "zh": "在“the largest carrot ____ I've ever seen”中，必须用哪个关系词？" },
+      "choices": [
+        { "id": "a", "text": { "en": "which", "zh": "which" } },
+        { "id": "b", "text": { "en": "that", "zh": "that" } },
+        { "id": "c", "text": { "en": "where", "zh": "where" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'The largest' makes the antecedent unique — no choice — so only 'that' is correct.", "zh": "“the largest”使先行词唯一，没得选，所以只能用 that。" },
+      "refs": ["c5", "e6"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Use a relative pronoun for the object person: 'The teacher ____ I saw yesterday is a rabbit.'", "zh": "用一个表示宾语的人的关系代词填空：“The teacher ____ I saw yesterday is a rabbit.”" },
+      "answers": ["whom", "who", "that"],
+      "explain": { "en": "The relative pronoun is the object of 'saw'. Formal English uses 'whom'; 'who'/'that' are also accepted in everyday use.", "zh": "关系代词作 saw 的宾语。正式英语用 whom；日常中 who/that 也可接受。" },
+      "refs": ["c4", "e4"]
+    },
+    {
+      "id": "q4",
+      "type": "fill",
+      "prompt": { "en": "Fill the relative adverb of place: 'This was the place ____ the rabbit ate the carrot.'", "zh": "填表示地点的关系副词：“This was the place ____ the rabbit ate the carrot.”" },
+      "answers": ["where", "at which"],
+      "explain": { "en": "'Where' modifies 'place'; it equals the preposition + which form 'at which'.", "zh": "“where”修饰 place，相当于“介词 + which”即“at which”。" },
+      "refs": ["c6", "e8"]
+    },
+    {
+      "id": "q5",
+      "type": "error",
+      "sentence": "The rabbit is eating I bought a carrot.",
+      "fix": "The rabbit is eating a carrot that I bought.",
+      "explain": { "en": "You can't drop a whole sentence in front of the noun the Chinese way. Place the clause after the noun with a relative word: a carrot that I bought.", "zh": "不能像中文那样把整句塞在名词前。要把从句放在名词后并加关系词：a carrot that I bought。" },
+      "refs": ["c2", "c3"]
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": { "en": "In 'The rabbit ate the carrot, which was not surprising', what does 'which' refer to?", "zh": "在“The rabbit ate the carrot, which was not surprising”中，which 指代什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "the rabbit", "zh": "兔子" } },
+        { "id": "b", "text": { "en": "the carrot", "zh": "胡萝卜" } },
+        { "id": "c", "text": { "en": "the whole event of the rabbit eating the carrot", "zh": "兔子吃胡萝卜这整件事" } }
+      ],
+      "answer": "c",
+      "explain": { "en": "A non-restrictive 'which' can refer to the entire preceding clause, not just one noun — here, the whole event.", "zh": "非限定性的 which 可以指代前面整个分句，而非单个名词——这里指整件事。" },
+      "refs": ["c8", "e11"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "Which carrot did the rabbit eat?", "zh": "兔子吃的是哪根胡萝卜？" },
+    "targets": ["antecedent", "rel-pronoun", "rel-adverb", "adj-clause"],
+    "lines": [
+      { "speaker": "Wolf", "text": "The rabbit ate the carrot which was on the table.", "annotations": [ { "quote": "carrot", "tag": "antecedent" }, { "quote": "which", "tag": "rel-pronoun" } ], "note": { "en": "Restrictive clause narrowing down which carrot.", "zh": "限定性从句，缩小是哪根胡萝卜。" } },
+      { "speaker": "Rabbit", "text": "Yes, the one that I bought yesterday.", "annotations": [ { "quote": "that", "tag": "rel-pronoun" } ], "note": { "en": "'That I bought yesterday' picks out one carrot — you could still ask 'which one?'.", "zh": "“that I bought yesterday”挑出一根——还能问“哪一根？”。" } },
+      { "speaker": "Wolf", "text": "Show me the place where you bought it.", "annotations": [ { "quote": "place", "tag": "antecedent" }, { "quote": "where", "tag": "rel-adverb" } ], "note": { "en": "Relative adverb 'where' modifies 'place' (= at which).", "zh": "关系副词 where 修饰 place（= at which）。" } },
+      { "speaker": "Rabbit", "text": "Sure. By the way, I ate it all, which was not surprising.", "annotations": [ { "quote": "which", "tag": "rel-pronoun" } ], "note": { "en": "Non-restrictive 'which' refers to the whole event, set off by a comma.", "zh": "非限定性 which 指代整件事，用逗号隔开。" } }
+    ]
+  }
+}

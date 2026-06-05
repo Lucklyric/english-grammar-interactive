@@ -1,0 +1,165 @@
+{
+  "id": "40",
+  "slug": "english-verbs-transitive-intransitive-action-state-complete-incomplete-predicate-non-predicate",
+  "category": "foundations",
+  "shape": "tiny",
+  "order": 3,
+  "title": { "en": "Classifying Verbs: Transitive/Intransitive, Action/State, Predicate/Non-Finite", "zh": "动词分类：及物/不及物、动作/状态、谓语/非谓语" },
+  "summary": { "en": "The same verb can be sorted three ways: by whether it needs an object (transitive vs intransitive), by whether it moves (action vs state), and by whether it can be the one predicate verb of a clause (finite vs non-finite).", "zh": "同一个动词可以从三个角度分类：看是否需要宾语（及物 vs 不及物），看是否真的动起来（动作 vs 状态），以及看能否做句子的谓语动词（谓语/限定 vs 非谓语/非限定）。" },
+  "source": { "videoId": "GCin_huvz5o", "youtube": "https://www.youtube.com/watch?v=GCin_huvz5o", "duration": "4:37", "script": "scripts/40-english-verbs-transitive-intransitive-action-state-complete-incomplete-predicate-non-predicate.md" },
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "Transitive vs intransitive — does it need an object?", "zh": "及物 vs 不及物 —— 需要宾语吗？" },
+      "body": { "en": "A verb that needs no receiver of the action — no object — is intransitive (e.g. the verb in 'The rabbit slept.'). A verb that needs a receiver — an object — is transitive (e.g. the verbs in patterns 2 through 4). The Chinese term 及物 literally means 'reach / carry an object', i.e. the action has a target, and that target is the object.", "zh": "无需动作承受者、也就是无需宾语的动词，是不及物动词（如 The rabbit slept. 里的动词）。需要动作承受者、也就是需要宾语的动词，是及物动词（如句型二到四里的动词）。“及物”的“及”是达到、关联、带着的意思，所以“及物”就是动作有对象，而这个对象就是动词的宾语。" },
+      "exampleRefs": ["e1", "e2"],
+      "sourceRef": "无需承受者，也就是宾语的动词"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "Action verbs vs state verbs", "zh": "动作动词 vs 状态动词" },
+      "body": { "en": "Transitive and intransitive verbs together are the lexical (full) verbs, also called action/behavior verbs, because they carry real meaning. Sorted instead by motion, lexical verbs split into action verbs (e.g. eat — clearly something moving) and state verbs (e.g. have, feel, own, believe — relatively still, nothing really 'moves').", "zh": "及物动词和不及物动词合起来就是实意动词，也叫行为动词，因为它们有实际意义。如果改按动作与状态来分，实意动词又分为动作动词（如 eat 吃，明显动起来了）和状态动词（如 have 有、feel 感觉、own 拥有、believe 相信，相对静止，没有真正动起来）。" },
+      "exampleRefs": ["e3", "e4"],
+      "sourceRef": "如果按照状态动作来分，实意动词还可分为动作动词和状态动词"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Linking verbs", "zh": "系动词" },
+      "body": { "en": "A linking verb assigns a state or quality: before it is the subject, after it is the subject complement (also called the predicative). Traditional grammar lists it as its own class because its meaning is weak — it mostly just links subject and complement. Some systems instead file it under intransitive verbs, and a linking verb can usually be seen as a state verb.", "zh": "系动词（联系动词）用来赋予状态或性质：它前面是主语，后面是主语补语，又称表语。传统语法常把它单列一类，因为它实际意义不强，往往只是联系主语和表语。但也有些语法体系把系动词算作不及物动词，而系动词往往也可被视作状态动词。" },
+      "exampleRefs": ["e5"],
+      "sourceRef": "用来赋予状态性质的系动词"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Predicate (finite) vs non-finite verbs", "zh": "谓语（限定）动词 vs 非谓语（非限定）动词" },
+      "body": { "en": "Lexical verbs and linking verbs can serve as the predicate verb; auxiliaries and modals cannot stand alone as the verb. A simple sentence has exactly ONE predicate verb, which can express tense-aspect-mood; any other verb in it must appear as a non-finite (non-predicate) verb, which cannot carry tense-aspect-mood.", "zh": "实意动词和系动词可以做句子的谓语动词；助动词和情态动词不能独立作动词。一个简单句只能有一个谓语动词，它可以表达时态、语态、语气；句中其他动词必须以非谓语动词（非限定动词）的身份出现，无法表达时态语气。" },
+      "exampleRefs": ["e6"],
+      "sourceRef": "一个简单句只能有一个谓语动词"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "Complete vs incomplete transitive (a note on terminology)", "zh": "完全及物 vs 不完全及物（术语小注）" },
+      "body": { "en": "You may also hear 'complete transitive' vs 'incomplete transitive' — that simply means whether an object complement is needed (pattern 2 vs pattern 4). As a learner, don't argue over exactly which box a verb belongs in; grammar systems differ and even shift over time. What matters is understanding the usage behind the term.", "zh": "你也可能听到“完全及物”和“不完全及物”这样的术语，其实就是在说是否需要宾语补语（句型二 vs 句型四）。作为学习者，不必纠结某个词究竟该归到哪一类——语法体系有很多种，同一体系也会随时间改变。最重要的是理解术语背后的用法。" },
+      "exampleRefs": ["e2", "e4"],
+      "sourceRef": "完全及物动词和不完全及物动词这样的术语，其实就是在说是否需要宾语补语"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "The rabbit slept.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "subject" },
+        { "quote": "slept", "tag": "verb-intransitive" }
+      ],
+      "note": { "en": "No object is needed — 'slept' is intransitive.", "zh": "不需要宾语——“slept”是不及物动词。" }
+    },
+    {
+      "id": "e2",
+      "text": "The rabbit ate a carrot.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "subject" },
+        { "quote": "ate", "tag": "verb-transitive" },
+        { "quote": "a carrot", "tag": "object" }
+      ],
+      "note": { "en": "'Ate' needs a receiver — the object 'a carrot'. One object, no complement = (complete) transitive.", "zh": "“ate”需要承受者——宾语“a carrot”。一个宾语、无需补语 = （完全）及物。" }
+    },
+    {
+      "id": "e3",
+      "text": "The rabbit gave the wolf a carrot.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "subject" },
+        { "quote": "gave", "tag": "verb-transitive" },
+        { "quote": "the wolf", "tag": "indirect-object" },
+        { "quote": "a carrot", "tag": "object" }
+      ],
+      "note": { "en": "An action verb taking two objects: indirect 'the wolf' + direct 'a carrot'.", "zh": "带两个宾语的动作动词：间接宾语“the wolf”+ 直接宾语“a carrot”。" }
+    },
+    {
+      "id": "e4",
+      "text": "The rabbit considered the carrot tasty.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "subject" },
+        { "quote": "considered", "tag": "verb-transitive" },
+        { "quote": "the carrot", "tag": "object" },
+        { "quote": "tasty", "tag": "object-complement" }
+      ],
+      "note": { "en": "One object plus an object complement 'tasty' = incomplete transitive. 'Considered' is also a state verb (believing).", "zh": "一个宾语再加宾语补语“tasty” = 不完全及物。“considered”也属状态动词（认为/相信）。" }
+    },
+    {
+      "id": "e5",
+      "text": "The rabbit is smart.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "subject" },
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "smart", "tag": "subject-complement" }
+      ],
+      "note": { "en": "'Is' links the subject to the subject complement 'smart' (the predicative). A linking verb, often viewed as a state verb.", "zh": "“is”把主语和主语补语（表语）“smart”联系起来。系动词，常被视作状态动词。" }
+    },
+    {
+      "id": "e6",
+      "text": "The rabbit owns a carrot.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "subject" },
+        { "quote": "owns", "tag": "verb-transitive" },
+        { "quote": "a carrot", "tag": "object" }
+      ],
+      "note": { "en": "'Owns' (have/possess) is a transitive verb that is also a state verb — nothing physically moves. Here it is the one finite predicate verb of the clause.", "zh": "“owns”（拥有）是及物动词，同时也是状态动词——没有真正动起来。它在此句中是唯一的谓语（限定）动词。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "In 'The rabbit slept.', what kind of verb is 'slept'?", "zh": "在“The rabbit slept.”中，“slept”是哪类动词？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Transitive — it needs an object", "zh": "及物动词——需要宾语" } },
+        { "id": "b", "text": { "en": "Intransitive — it needs no object", "zh": "不及物动词——不需要宾语" } },
+        { "id": "c", "text": { "en": "Linking verb — it needs a subject complement", "zh": "系动词——需要表语" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "Sleeping needs no receiver of the action, so 'slept' is intransitive.", "zh": "“睡”不需要动作承受者，所以“slept”是不及物动词。" },
+      "refs": ["c1", "e1"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "Which verb is a STATE verb rather than an action verb?", "zh": "下列哪个是状态动词，而不是动作动词？" },
+      "choices": [
+        { "id": "a", "text": { "en": "eat", "zh": "eat（吃）" } },
+        { "id": "b", "text": { "en": "believe", "zh": "believe（相信）" } },
+        { "id": "c", "text": { "en": "give", "zh": "give（给）" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'Believe' (like have, feel, own) is relatively still — a state verb. 'Eat' and 'give' clearly involve motion.", "zh": "“believe”（和 have、feel、own 一样）相对静止——状态动词。“eat”和“give”明显有动作。" },
+      "refs": ["c2"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "A simple sentence can have only ONE ____ verb; every other verb must appear as a non-finite verb. (one word)", "zh": "一个简单句只能有一个____动词；其余动词都必须以非谓语动词出现。（填一个词）" },
+      "answers": ["predicate", "finite"],
+      "explain": { "en": "Only the predicate (finite) verb carries tense-aspect-mood; the rest must be non-finite.", "zh": "只有谓语（限定）动词承载时态语气；其余必须是非谓语动词。" },
+      "refs": ["c4"]
+    },
+    {
+      "id": "q4",
+      "type": "error",
+      "sentence": "The rabbit slept a carrot.",
+      "fix": "The rabbit ate a carrot.",
+      "explain": { "en": "'Slept' is intransitive and cannot take the object 'a carrot'. Use a transitive verb like 'ate' to take an object.", "zh": "“slept”是不及物动词，不能带宾语“a carrot”。要带宾语得用及物动词，如“ate”。" },
+      "refs": ["c1", "e1", "e2"]
+    }
+  ],
+  "dialogue": {
+    "kind": "scenario",
+    "title": { "en": "Sorting one verb three ways", "zh": "把动词从三个角度归类" },
+    "targets": ["verb-intransitive", "verb-transitive", "verb-linking", "object", "object-complement", "subject-complement"],
+    "lines": [
+      { "speaker": "Wolf", "text": "The rabbit slept.", "annotations": [ { "quote": "The rabbit", "tag": "subject" }, { "quote": "slept", "tag": "verb-intransitive" } ], "note": { "en": "No object — intransitive.", "zh": "无宾语——不及物。" } },
+      { "speaker": "Rabbit", "text": "And then the rabbit ate a carrot.", "annotations": [ { "quote": "ate", "tag": "verb-transitive" }, { "quote": "a carrot", "tag": "object" } ], "note": { "en": "One object — transitive, and an action verb.", "zh": "一个宾语——及物，且是动作动词。" } },
+      { "speaker": "Wolf", "text": "The rabbit considered the carrot tasty.", "annotations": [ { "quote": "considered", "tag": "verb-transitive" }, { "quote": "the carrot", "tag": "object" }, { "quote": "tasty", "tag": "object-complement" } ], "note": { "en": "Object + object complement — incomplete transitive; also a state verb.", "zh": "宾语 + 宾语补语——不完全及物；也是状态动词。" } },
+      { "speaker": "Rabbit", "text": "Either way, the rabbit is smart.", "annotations": [ { "quote": "is", "tag": "verb-linking" }, { "quote": "smart", "tag": "subject-complement" } ], "note": { "en": "Linking verb + subject complement (predicative).", "zh": "系动词 + 主语补语（表语）。" } }
+    ]
+  }
+}

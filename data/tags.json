@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "tags": {
+    "subject":            { "abbr": "S",   "color": "#2563eb", "underline": "solid",  "label": { "en": "subject", "zh": "主语" } },
+    "predicate":          { "abbr": "P",   "color": "#7c3aed", "underline": "solid",  "label": { "en": "predicate", "zh": "谓语" } },
+    "verb-transitive":    { "abbr": "Vt",  "color": "#dc2626", "underline": "solid",  "label": { "en": "transitive verb", "zh": "及物动词" } },
+    "verb-intransitive":  { "abbr": "Vi",  "color": "#ea580c", "underline": "solid",  "label": { "en": "intransitive verb", "zh": "不及物动词" } },
+    "verb-linking":       { "abbr": "Vl",  "color": "#b45309", "underline": "solid",  "label": { "en": "linking verb", "zh": "系动词" } },
+    "object":             { "abbr": "O",   "color": "#059669", "underline": "dashed", "label": { "en": "object", "zh": "宾语" } },
+    "indirect-object":    { "abbr": "iO",  "color": "#0d9488", "underline": "dashed", "label": { "en": "indirect object", "zh": "间接宾语" } },
+    "object-complement":  { "abbr": "oC",  "color": "#0891b2", "underline": "dotted", "label": { "en": "object complement", "zh": "宾语补语" } },
+    "subject-complement": { "abbr": "sC",  "color": "#0284c7", "underline": "dotted", "label": { "en": "subject complement", "zh": "主语补语/表语" } },
+    "attributive":        { "abbr": "Attr","color": "#9333ea", "underline": "dashed", "label": { "en": "attributive", "zh": "定语" } },
+    "adverbial":          { "abbr": "Adv", "color": "#c026d3", "underline": "dashed", "label": { "en": "adverbial", "zh": "状语" } },
+    "appositive":         { "abbr": "App", "color": "#db2777", "underline": "dotted", "label": { "en": "appositive", "zh": "同位语" } },
+    "clause-marker":      { "abbr": "Cm",  "color": "#65a30d", "underline": "dotted", "label": { "en": "clause marker", "zh": "从句引导词" } },
+    "non-finite":         { "abbr": "Nf",  "color": "#a16207", "underline": "dotted", "label": { "en": "non-finite verb", "zh": "非谓语动词" } },
+    "auxiliary":          { "abbr": "Aux", "color": "#4f46e5", "underline": "dotted", "label": { "en": "auxiliary", "zh": "助动词" } },
+    "preposition":        { "abbr": "Prep","color": "#0369a1", "underline": "solid",  "label": { "en": "preposition", "zh": "介词" } },
+    "conjunction":        { "abbr": "Conj","color": "#15803d", "underline": "solid",  "label": { "en": "conjunction", "zh": "连词" } },
+    "article":            { "abbr": "Art", "color": "#92400e", "underline": "dashed", "label": { "en": "article", "zh": "冠词" } },
+    "determiner":         { "abbr": "Det", "color": "#854d0e", "underline": "dashed", "label": { "en": "determiner", "zh": "限定词" } },
+    "countable":          { "abbr": "C",   "color": "#1d4ed8", "underline": "dotted", "label": { "en": "countable", "zh": "可数" } },
+    "uncountable":        { "abbr": "U",   "color": "#b91c1c", "underline": "dotted", "label": { "en": "uncountable", "zh": "不可数" } },
+    "reference-class":    { "abbr": "Ref", "color": "#7e22ce", "underline": "dotted", "label": { "en": "reference", "zh": "指代" } }
+  }
+}

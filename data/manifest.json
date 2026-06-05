@@ -1,0 +1,544 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "foundations",
+      "label": {
+        "en": "Foundations",
+        "zh": "语法基础"
+      }
+    },
+    {
+      "id": "verbs-tenses-mood",
+      "label": {
+        "en": "Verbs, tenses & mood",
+        "zh": "动词 · 时态 · 语气"
+      }
+    },
+    {
+      "id": "clauses",
+      "label": {
+        "en": "Clauses",
+        "zh": "从句"
+      }
+    },
+    {
+      "id": "sentence-structure",
+      "label": {
+        "en": "Sentence structure",
+        "zh": "句子结构"
+      }
+    },
+    {
+      "id": "parts-of-speech",
+      "label": {
+        "en": "Parts of speech",
+        "zh": "词类"
+      }
+    },
+    {
+      "id": "punctuation-usage",
+      "label": {
+        "en": "Punctuation & usage",
+        "zh": "标点 · 用法辨析"
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "id": "01",
+      "slug": "understanding-the-english-grammar-system",
+      "order": 1,
+      "category": "foundations",
+      "shape": "standard",
+      "title": {
+        "en": "Understanding the English Grammar System",
+        "zh": "看懂整个英语语法体系"
+      }
+    },
+    {
+      "id": "39",
+      "slug": "english-grammar-sentence-components-classification",
+      "order": 2,
+      "category": "foundations",
+      "shape": "tiny",
+      "title": {
+        "en": "Sentence Components & Sentence Classification",
+        "zh": "句子成分 & 句子分类"
+      }
+    },
+    {
+      "id": "40",
+      "slug": "english-verbs-transitive-intransitive-action-state-complete-incomplete-predicate-non-predicate",
+      "order": 3,
+      "category": "foundations",
+      "shape": "tiny",
+      "title": {
+        "en": "Classifying Verbs: Transitive/Intransitive, Action/State, Predicate/Non-Finite",
+        "zh": "动词分类：及物/不及物、动作/状态、谓语/非谓语"
+      }
+    },
+    {
+      "id": "04",
+      "slug": "understanding-english-clauses",
+      "order": 4,
+      "category": "foundations",
+      "shape": "standard",
+      "title": {
+        "en": "Understanding English Clauses",
+        "zh": "英语从句到底怎么回事"
+      }
+    },
+    {
+      "id": "02",
+      "slug": "english-grammar-comprehensive-guide-to-16-verb-tenses",
+      "order": 5,
+      "category": "verbs-tenses-mood",
+      "shape": "deep-dive",
+      "title": {
+        "en": "A Comprehensive Guide to the 16 Verb Tenses",
+        "zh": "16种时态终极详解"
+      }
+    },
+    {
+      "id": "03",
+      "slug": "understanding-english-subjunctive-mood-made-easy",
+      "order": 6,
+      "category": "verbs-tenses-mood",
+      "shape": "deep-dive",
+      "title": {
+        "en": "Understanding the English Subjunctive Mood, Made Easy",
+        "zh": "英语\"虚拟语气\"就是这么简单（看完就懂！）"
+      }
+    },
+    {
+      "id": "36",
+      "slug": "english-grammar-auxiliary-verbs-and-modal-verbs",
+      "order": 7,
+      "category": "verbs-tenses-mood",
+      "shape": "deep-dive",
+      "title": {
+        "en": "Auxiliary Verbs and Modal Verbs",
+        "zh": "助动词（基本助动词、情态助动词、半助动词）"
+      }
+    },
+    {
+      "id": "37",
+      "slug": "understanding-linking-verbs-the-meaning-of-link",
+      "order": 8,
+      "category": "verbs-tenses-mood",
+      "shape": "tiny",
+      "title": {
+        "en": "Understanding Linking Verbs: The Meaning of 'Link'",
+        "zh": "你还搞不懂“系动词”？“系”到底啥意思？"
+      }
+    },
+    {
+      "id": "38",
+      "slug": "causative-verbs-in-english-grammar",
+      "order": 9,
+      "category": "verbs-tenses-mood",
+      "shape": "standard",
+      "title": {
+        "en": "Causative Verbs: make, let, have, get",
+        "zh": "使役动词：make、let、have、get"
+      }
+    },
+    {
+      "id": "20",
+      "slug": "detailed-explanation-of-non-finite-verbs-infinitives-gerunds-present-participles-past-participles",
+      "order": 10,
+      "category": "verbs-tenses-mood",
+      "shape": "deep-dive",
+      "title": {
+        "en": "Non-Finite Verbs: Infinitives, Gerunds, Present & Past Participles",
+        "zh": "非谓语动词详解：不定式、动名词、现在分词、过去分词"
+      }
+    },
+    {
+      "id": "21",
+      "slug": "english-grammar-passive-voice",
+      "order": 11,
+      "category": "verbs-tenses-mood",
+      "shape": "standard",
+      "title": {
+        "en": "The Passive Voice",
+        "zh": "被动语态"
+      }
+    },
+    {
+      "id": "05",
+      "slug": "understanding-adjective-clauses-the-most-challenging-english-clauses",
+      "order": 12,
+      "category": "clauses",
+      "shape": "standard",
+      "title": {
+        "en": "Understanding Adjective Clauses: The Most Challenging English Clauses?",
+        "zh": "形容词从句（定语从句/关系从句）：英语从句中最难的？"
+      }
+    },
+    {
+      "id": "06",
+      "slug": "subject-clauses-in-english",
+      "order": 13,
+      "category": "clauses",
+      "shape": "standard",
+      "title": {
+        "en": "Subject Clauses (Noun Clauses #1)",
+        "zh": "主语从句（名词从句 #1）"
+      }
+    },
+    {
+      "id": "07",
+      "slug": "object-clauses-in-english",
+      "order": 14,
+      "category": "clauses",
+      "shape": "standard",
+      "title": {
+        "en": "Object Clauses in English",
+        "zh": "宾语从句（名词从句 #2）"
+      }
+    },
+    {
+      "id": "08",
+      "slug": "predicate-clauses-noun-clauses-3",
+      "order": 15,
+      "category": "clauses",
+      "shape": "tiny",
+      "title": {
+        "en": "Predicate Clauses (Noun Clauses #3)",
+        "zh": "表语从句（名词从句 #3）"
+      }
+    },
+    {
+      "id": "09",
+      "slug": "appositive-clauses-in-english",
+      "order": 16,
+      "category": "clauses",
+      "shape": "tiny",
+      "title": {
+        "en": "Appositive Clauses",
+        "zh": "同位语从句"
+      }
+    },
+    {
+      "id": "10",
+      "slug": "object-complement-clauses",
+      "order": 17,
+      "category": "clauses",
+      "shape": "tiny",
+      "title": {
+        "en": "Object Complement Clauses",
+        "zh": "宾语补语从句"
+      }
+    },
+    {
+      "id": "11",
+      "slug": "adverbial-clauses-of-time",
+      "order": 18,
+      "category": "clauses",
+      "shape": "standard",
+      "title": {
+        "en": "Adverbial Clauses of Time",
+        "zh": "时间状语（副词）从句"
+      }
+    },
+    {
+      "id": "12",
+      "slug": "adverbial-clauses-of-place",
+      "order": 19,
+      "category": "clauses",
+      "shape": "tiny",
+      "title": {
+        "en": "Adverbial Clauses of Place",
+        "zh": "地点状语从句"
+      }
+    },
+    {
+      "id": "13",
+      "slug": "comparative-adverbial-clauses",
+      "order": 20,
+      "category": "clauses",
+      "shape": "tiny",
+      "title": {
+        "en": "Comparative Adverbial Clauses",
+        "zh": "比较状语（副词）从句"
+      }
+    },
+    {
+      "id": "14",
+      "slug": "conditional-adverbial-clauses-explained",
+      "order": 21,
+      "category": "clauses",
+      "shape": "standard",
+      "title": {
+        "en": "Conditional Adverbial Clauses Explained",
+        "zh": "条件状语（副词）从句详解"
+      }
+    },
+    {
+      "id": "15",
+      "slug": "concessive-adverbial-clauses",
+      "order": 22,
+      "category": "clauses",
+      "shape": "tiny",
+      "title": {
+        "en": "Concessive Adverbial Clauses",
+        "zh": "让步状语从句"
+      }
+    },
+    {
+      "id": "16",
+      "slug": "adverbial-clauses-of-manner",
+      "order": 23,
+      "category": "clauses",
+      "shape": "tiny",
+      "title": {
+        "en": "Adverbial Clauses of Manner",
+        "zh": "方式状语（副词）从句"
+      }
+    },
+    {
+      "id": "17",
+      "slug": "adverbial-clauses-of-cause",
+      "order": 24,
+      "category": "clauses",
+      "shape": "tiny",
+      "title": {
+        "en": "Adverbial Clauses of Cause",
+        "zh": "原因状语（副词）从句"
+      }
+    },
+    {
+      "id": "18",
+      "slug": "purpose-adverbial-clauses",
+      "order": 25,
+      "category": "clauses",
+      "shape": "tiny",
+      "title": {
+        "en": "Purpose Adverbial Clauses",
+        "zh": "目的状语（副词）从句"
+      }
+    },
+    {
+      "id": "19",
+      "slug": "result-adverbial-clauses",
+      "order": 26,
+      "category": "clauses",
+      "shape": "tiny",
+      "title": {
+        "en": "Result Adverbial Clauses",
+        "zh": "结果状语从句"
+      }
+    },
+    {
+      "id": "22",
+      "slug": "english-grammar-inversion-sentences",
+      "order": 27,
+      "category": "sentence-structure",
+      "shape": "deep-dive",
+      "title": {
+        "en": "Inversion Sentences",
+        "zh": "倒装句"
+      }
+    },
+    {
+      "id": "23",
+      "slug": "english-grammar-absolute-construction",
+      "order": 28,
+      "category": "sentence-structure",
+      "shape": "standard",
+      "title": {
+        "en": "The Absolute Construction",
+        "zh": "独立主格结构"
+      }
+    },
+    {
+      "id": "25",
+      "slug": "emphasis-in-english",
+      "order": 29,
+      "category": "sentence-structure",
+      "shape": "deep-dive",
+      "title": {
+        "en": "Emphasis in English",
+        "zh": "英语中的强调"
+      }
+    },
+    {
+      "id": "26",
+      "slug": "ellipsis-in-english-grammar",
+      "order": 30,
+      "category": "sentence-structure",
+      "shape": "standard",
+      "title": {
+        "en": "Ellipsis in English Grammar",
+        "zh": "英语中的省略"
+      }
+    },
+    {
+      "id": "27",
+      "slug": "subject-verb-agreement-in-english-grammar",
+      "order": 31,
+      "category": "sentence-structure",
+      "shape": "standard",
+      "title": {
+        "en": "Subject-Verb Agreement",
+        "zh": "主谓一致"
+      }
+    },
+    {
+      "id": "28",
+      "slug": "understanding-english-articles-indefinite-definite-zero",
+      "order": 32,
+      "category": "parts-of-speech",
+      "shape": "deep-dive",
+      "title": {
+        "en": "English Articles: Indefinite, Definite, and Zero",
+        "zh": "英语冠词：不定冠词、定冠词与零冠词"
+      }
+    },
+    {
+      "id": "29",
+      "slug": "english-grammar-nouns-common-proper-countable-uncountable",
+      "order": 33,
+      "category": "parts-of-speech",
+      "shape": "standard",
+      "title": {
+        "en": "Nouns: Common, Proper, Countable, Uncountable",
+        "zh": "名词：普通、专有、可数、不可数"
+      }
+    },
+    {
+      "id": "30",
+      "slug": "english-grammar-numbers",
+      "order": 34,
+      "category": "parts-of-speech",
+      "shape": "deep-dive",
+      "title": {
+        "en": "Numbers (Numerals)",
+        "zh": "数词"
+      }
+    },
+    {
+      "id": "31",
+      "slug": "english-grammar-pronouns",
+      "order": 35,
+      "category": "parts-of-speech",
+      "shape": "deep-dive",
+      "title": {
+        "en": "Pronouns: the Full Family",
+        "zh": "代词：完整家族"
+      }
+    },
+    {
+      "id": "32",
+      "slug": "english-grammar-conjunctions",
+      "order": 36,
+      "category": "parts-of-speech",
+      "shape": "standard",
+      "title": {
+        "en": "Conjunctions (Coordinating & Subordinating)",
+        "zh": "连词（并列、选择、转折、因果、从属）"
+      }
+    },
+    {
+      "id": "33",
+      "slug": "english-grammar-adjectives",
+      "order": 37,
+      "category": "parts-of-speech",
+      "shape": "deep-dive",
+      "title": {
+        "en": "Adjectives (Pre/Post-positioned, Simple, Compound, Comparative, Superlative)",
+        "zh": "形容词（前置、后置、简单、复合、比较级、最高级）"
+      }
+    },
+    {
+      "id": "34",
+      "slug": "english-grammar-adverbs",
+      "order": 38,
+      "category": "parts-of-speech",
+      "shape": "standard",
+      "title": {
+        "en": "Adverbs",
+        "zh": "副词"
+      }
+    },
+    {
+      "id": "24",
+      "slug": "mastering-english-prepositions",
+      "order": 39,
+      "category": "parts-of-speech",
+      "shape": "deep-dive",
+      "title": {
+        "en": "Mastering English Prepositions",
+        "zh": "英语介词攻略（看完就懂）"
+      }
+    },
+    {
+      "id": "41",
+      "slug": "common-english-interjections",
+      "order": 40,
+      "category": "parts-of-speech",
+      "shape": "tiny",
+      "title": {
+        "en": "Common English Interjections",
+        "zh": "常见的英语叹词"
+      }
+    },
+    {
+      "id": "42",
+      "slug": "have-you-heard-about-english-determiners",
+      "order": 41,
+      "category": "parts-of-speech",
+      "shape": "tiny",
+      "title": {
+        "en": "Have You Heard About English Determiners?",
+        "zh": "你听说过英语的“限定词”吗？"
+      }
+    },
+    {
+      "id": "35",
+      "slug": "english-punctuation-usage",
+      "order": 42,
+      "category": "punctuation-usage",
+      "shape": "deep-dive",
+      "title": {
+        "en": "English Punctuation Usage",
+        "zh": "英语标点符号用法"
+      }
+    },
+    {
+      "id": "43",
+      "slug": "distinguishing-other-others-the-other-the-others-another-one-another",
+      "order": 43,
+      "category": "punctuation-usage",
+      "shape": "standard",
+      "title": {
+        "en": "Telling Apart Other, Others, The Other, The Others, Another, One Another",
+        "zh": "分清 other, others, the other, the others, another, one another"
+      }
+    },
+    {
+      "id": "45",
+      "slug": "distinguishing-sometime-sometimes-some-time-some-times",
+      "order": 44,
+      "category": "punctuation-usage",
+      "shape": "tiny",
+      "title": {
+        "en": "Sometime, Sometimes, Some Time, Some Times",
+        "zh": "分清 sometime、sometimes、some time、some times"
+      }
+    },
+    {
+      "id": "46",
+      "slug": "in-five-minutes-within-or-after",
+      "order": 45,
+      "category": "punctuation-usage",
+      "shape": "tiny",
+      "title": {
+        "en": "In Five Minutes: Within or After?",
+        "zh": "in 5 minutes 到底是“5分钟内”还是“5分钟后”？"
+      }
+    }
+  ]
+}

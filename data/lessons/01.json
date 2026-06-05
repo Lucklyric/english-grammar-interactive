@@ -1,0 +1,182 @@
+{
+  "id": "01",
+  "slug": "understanding-the-english-grammar-system",
+  "category": "foundations",
+  "shape": "standard",
+  "order": 1,
+  "title": { "en": "Understanding the English Grammar System", "zh": "看懂整个英语语法体系" },
+  "summary": { "en": "The whole grammar system has one job: building sentences. Almost every sentence is subject + predicate, and the verb decides everything.", "zh": "所有语法只有一个目的——造句。几乎每个句子都是“主语+谓语”，而动词决定了一切。" },
+  "source": { "videoId": "is7vn5URVcc", "youtube": "https://www.youtube.com/watch?v=is7vn5URVcc", "duration": "27:07", "script": "scripts/01-understanding-the-english-grammar-system.md" },
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "Every simple sentence = subject + predicate", "zh": "每个简单句 = 主语 + 谓语" },
+      "body": { "en": "Break any long sentence down until it can't be split further and you get a simple sentence. Stripped of exclamations and ellipsis, almost every one says 'what' + 'how it is' — i.e. subject + predicate. The subject is usually a person or thing; the predicate always contains a core verb.", "zh": "把任何长句拆到不能再拆，就得到简单句。除去感叹和省略，几乎每句都是在说“什么 + 怎么样”，也就是主语 + 谓语。主语一般是人或物，谓语里一定有一个核心动词。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "主语subject和谓语predicate"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "Pattern 1 — intransitive verb (no object)", "zh": "句型一 — 不及物动词（无宾语）" },
+      "body": { "en": "Some actions complete on their own and need no receiver. The verb is intransitive, and the pattern is just subject + verb.", "zh": "有些动作可以独立完成，没有承受者。这样的动词是不及物动词，句型就是“主语 + 不及物动词”。" },
+      "exampleRefs": ["e1"]
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Patterns 2 & 3 — transitive & ditransitive", "zh": "句型二、三 — 单及物与双及物" },
+      "body": { "en": "A monotransitive verb takes one object (subject + verb + object). A ditransitive verb takes two — an indirect object (the receiver) and a direct object (the thing): subject + verb + indirect object + direct object.", "zh": "单及物动词带一个宾语：“主语 + 及物动词 + 宾语”。双及物动词带两个——间接宾语（接收者）和直接宾语（事物）：“主语 + 动词 + 间接宾语 + 直接宾语”。" },
+      "exampleRefs": ["e2", "e3"]
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Pattern 4 — complex transitive (object complement)", "zh": "句型四 — 复杂及物（宾语补语）" },
+      "body": { "en": "Some verbs take one object but still feel incomplete — they need extra info about that object, called the object complement: subject + verb + object + object complement.", "zh": "有些动词只带一个宾语，但仍不完整——它需要补充关于宾语的信息，即宾语补语：“主语 + 动词 + 宾语 + 宾语补语”。" },
+      "exampleRefs": ["e4"]
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "Pattern 5 — linking verb (subject complement)", "zh": "句型五 — 系动词（主语补语/表语）" },
+      "body": { "en": "A linking verb just hands the information after it back to the subject — it draws an equals sign. The info after it is the subject complement (in Chinese teaching, 表语): subject + linking verb + subject complement.", "zh": "系动词只是把它后面的信息赋予前面的主语——相当于画等号。它后面的信息是主语补语（中文叫表语）：“主语 + 系动词 + 主语补语”。" },
+      "exampleRefs": ["e5"]
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "Components, word classes, and the verb's three powers", "zh": "句子成分、词类，与动词的三大本领" },
+      "body": { "en": "Beyond subject/verb/object/complements, sentences may carry attributive, adverbial, and appositive elements. The same slot can be filled by different word classes (the ten parts of speech). Simple sentences combine into compound (parallel) and complex (nested clause) sentences. Only the predicate verb is always a verb — and it alone carries tense-aspect-mood (TAM), needing auxiliaries and turning into non-finite forms.", "zh": "除了主谓宾和补语，句子还可能有定语、状语、同位语。同一个成分可以由不同词类（十大词类）充当。简单句可组合成并列句和复杂句（从句套句）。只有谓语动词永远是动词——也只有它承载时态、语气、语态（TAM），需要助动词，并能变成非谓语形式。" },
+      "exampleRefs": ["e6"]
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "Papa Rabbit sleeps.",
+      "annotations": [
+        { "quote": "Papa Rabbit", "tag": "subject" },
+        { "quote": "sleeps", "tag": "verb-intransitive" }
+      ],
+      "note": { "en": "'Sleeps' needs no receiver — an intransitive verb. Pattern: subject + verb.", "zh": "“sleeps”不需要承受者——不及物动词。句型：主语 + 动词。" }
+    },
+    {
+      "id": "e2",
+      "text": "Papa Rabbit likes you.",
+      "annotations": [
+        { "quote": "Papa Rabbit", "tag": "subject" },
+        { "quote": "likes", "tag": "verb-transitive" },
+        { "quote": "you", "tag": "object" }
+      ],
+      "note": { "en": "'Like' needs a receiver — the object 'you'. Pattern: subject + verb + object.", "zh": "“like”需要承受者——宾语“you”。句型：主语 + 动词 + 宾语。" }
+    },
+    {
+      "id": "e3",
+      "text": "Papa Rabbit teaches you English.",
+      "annotations": [
+        { "quote": "Papa Rabbit", "tag": "subject" },
+        { "quote": "teaches", "tag": "verb-transitive" },
+        { "quote": "you", "tag": "indirect-object" },
+        { "quote": "English", "tag": "object" }
+      ],
+      "note": { "en": "Two receivers: 'you' (indirect object) and 'English' (direct object). A ditransitive verb.", "zh": "两个承受者：“you”（间接宾语）和“English”（直接宾语）。双及物动词。" }
+    },
+    {
+      "id": "e4",
+      "text": "Papa Rabbit considers you smart.",
+      "annotations": [
+        { "quote": "Papa Rabbit", "tag": "subject" },
+        { "quote": "considers", "tag": "verb-transitive" },
+        { "quote": "you", "tag": "object" },
+        { "quote": "smart", "tag": "object-complement" }
+      ],
+      "note": { "en": "'You' is the object; 'smart' completes it — the object complement. A complex transitive verb.", "zh": "“you”是宾语；“smart”补充它——宾语补语。复杂及物动词。" }
+    },
+    {
+      "id": "e5",
+      "text": "Papa Rabbit is tall.",
+      "annotations": [
+        { "quote": "Papa Rabbit", "tag": "subject" },
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "tall", "tag": "subject-complement" }
+      ],
+      "note": { "en": "'Is' just equates subject and 'tall'. 'Tall' is the subject complement (表语).", "zh": "“is”只是把主语和“tall”划等号。“tall”是主语补语（表语）。" }
+    },
+    {
+      "id": "e6",
+      "text": "The little white rabbit ate a large carrot quickly.",
+      "annotations": [
+        { "quote": "little white", "tag": "attributive" },
+        { "quote": "ate", "tag": "verb-transitive" },
+        { "quote": "a large", "tag": "attributive" },
+        { "quote": "carrot", "tag": "object" },
+        { "quote": "quickly", "tag": "adverbial" }
+      ],
+      "note": { "en": "'Little white' and 'a large' are attributives (modify nouns); 'quickly' is an adverbial (modifies the verb).", "zh": "“little white”和“a large”是定语（修饰名词）；“quickly”是状语（修饰动词）。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Which sentence pattern is 'Papa Rabbit gives the wolf a carrot'?", "zh": "“Papa Rabbit gives the wolf a carrot”属于哪种句型？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Subject + linking verb + complement", "zh": "主语 + 系动词 + 表语" } },
+        { "id": "b", "text": { "en": "Subject + ditransitive verb + indirect object + direct object", "zh": "主语 + 双及物动词 + 间接宾语 + 直接宾语" } },
+        { "id": "c", "text": { "en": "Subject + intransitive verb", "zh": "主语 + 不及物动词" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'The wolf' (receiver) is the indirect object; 'a carrot' (thing) is the direct object — a ditransitive verb.", "zh": "“the wolf”（接收者）是间接宾语，“a carrot”（事物）是直接宾语——双及物动词。" },
+      "refs": ["c3", "e3"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "In 'Papa Rabbit looks tired', what is 'looks'?", "zh": "在“Papa Rabbit looks tired”中，“looks”是什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "A linking verb", "zh": "系动词" } },
+        { "id": "b", "text": { "en": "A transitive verb", "zh": "及物动词" } },
+        { "id": "c", "text": { "en": "An intransitive verb", "zh": "不及物动词" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "'Looks' here hands 'tired' back to the subject (he looks tired) — a linking verb, with 'tired' as subject complement.", "zh": "这里“looks”把“tired”赋予主语（他看上去累）——系动词，“tired”是主语补语。" },
+      "refs": ["c5"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Fill the blank with the component name: in 'They elected her president', 'president' is the object ____.", "zh": "填空（成分名）：在“They elected her president”中，“president”是宾语____。" },
+      "answers": ["complement", "object complement"],
+      "explain": { "en": "'President' completes the object 'her' — it is the object complement (complex transitive pattern).", "zh": "“president”补充宾语“her”——宾语补语（复杂及物句型）。" },
+      "refs": ["c4"]
+    },
+    {
+      "id": "q4",
+      "type": "error",
+      "sentence": "Papa Rabbit sleeps a carrot.",
+      "fix": "Papa Rabbit eats a carrot.",
+      "explain": { "en": "'Sleep' is intransitive and can't take an object. Use a transitive verb like 'eats' if you want an object.", "zh": "“sleep”是不及物动词，不能带宾语。想带宾语要用及物动词，如“eats”。" },
+      "refs": ["c2", "c3"]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": { "en": "Which is always — and only ever — a verb?", "zh": "哪个句子成分永远、且只能是动词？" },
+      "choices": [
+        { "id": "a", "text": { "en": "The subject", "zh": "主语" } },
+        { "id": "b", "text": { "en": "The attributive", "zh": "定语" } },
+        { "id": "c", "text": { "en": "The predicate verb", "zh": "谓语动词" } }
+      ],
+      "answer": "c",
+      "explain": { "en": "Other components can be different word classes, but the predicate verb is always a verb — and it alone carries tense, aspect and mood.", "zh": "其他成分可由不同词类充当，但谓语动词永远是动词——也只有它承载时态、语态、语气。" },
+      "refs": ["c6"]
+    }
+  ],
+  "dialogue": {
+    "kind": "scenario",
+    "title": { "en": "Five patterns in one chat", "zh": "一段对话用尽五种句型" },
+    "targets": ["verb-intransitive", "verb-transitive", "indirect-object", "object-complement", "subject-complement"],
+    "lines": [
+      { "speaker": "Wolf", "text": "Papa Rabbit sleeps a lot.", "annotations": [ { "quote": "Papa Rabbit", "tag": "subject" }, { "quote": "sleeps", "tag": "verb-intransitive" } ], "note": { "en": "Pattern 1: intransitive.", "zh": "句型一：不及物。" } },
+      { "speaker": "Rabbit", "text": "But I teach you English every day!", "annotations": [ { "quote": "teach", "tag": "verb-transitive" }, { "quote": "you", "tag": "indirect-object" }, { "quote": "English", "tag": "object" } ], "note": { "en": "Pattern 3: ditransitive.", "zh": "句型三：双及物。" } },
+      { "speaker": "Wolf", "text": "Fine, you are a good teacher.", "annotations": [ { "quote": "are", "tag": "verb-linking" }, { "quote": "a good teacher", "tag": "subject-complement" } ], "note": { "en": "Pattern 5: linking verb + complement.", "zh": "句型五：系动词 + 表语。" } },
+      { "speaker": "Rabbit", "text": "And everyone considers me smart.", "annotations": [ { "quote": "considers", "tag": "verb-transitive" }, { "quote": "me", "tag": "object" }, { "quote": "smart", "tag": "object-complement" } ], "note": { "en": "Pattern 4: object + object complement.", "zh": "句型四：宾语 + 宾语补语。" } }
+    ]
+  }
+}

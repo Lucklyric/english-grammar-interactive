@@ -1,0 +1,187 @@
+{
+  "id": "04",
+  "slug": "understanding-english-clauses",
+  "category": "foundations",
+  "shape": "standard",
+  "order": 4,
+  "title": { "en": "Understanding English Clauses", "zh": "英语从句到底怎么回事" },
+  "summary": { "en": "A clause is a whole sentence that has become a single component inside a bigger sentence. That one idea explains every type of subordinate clause.", "zh": "从句就是一个本可独立成句的句子，变成了更大句子里的一个成分。理解了这一点，所有从句的分类就迎刃而解。" },
+  "source": { "videoId": "QiLSfgoe8ao", "youtube": "https://www.youtube.com/watch?v=QiLSfgoe8ao", "duration": "7:42", "script": "scripts/04-understanding-english-clauses.md" },
+  "tags": [
+    { "id": "main-clause", "label": { "en": "main clause", "zh": "主句" }, "abbr": "MC", "color": "#1e40af", "underline": "solid" },
+    { "id": "subordinate-clause", "label": { "en": "subordinate clause", "zh": "从句" }, "abbr": "SubC", "color": "#9a3412", "underline": "dashed" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "Why clauses confuse Chinese learners", "zh": "从句为何让中文母语者困惑" },
+      "body": { "en": "Chinese has expressions that match English clauses, but the sentence structure is often very different — the way an adjective (relative) clause is built barely exists in Chinese. On top of that, the terminology is a mess: one concept goes by several names, and names from different levels get mistaken for siblings. Start from the underlying principle instead.", "zh": "中文虽然有和英语从句对应的表达，但语句结构往往很不一样——形容词从句的构成方式在中文里几乎不存在。再加上术语繁多：同一个概念有好几个名字，不同层次的名字又容易被当成同级概念。所以要从原理入手。" },
+      "sourceRef": "但是往往在语句结构上很不一样"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "The principle: a sentence becomes one component", "zh": "原理：一个句子充当一个成分" },
+      "body": { "en": "Take 'The rabbit ate a carrot.' Now wrap it: 'I saw that the rabbit ate a carrot.' What did I see? Not the rabbit, not the carrot, but the whole event 'the rabbit ate a carrot'. That entire former sentence has become one big object. A sentence A can serve as a component of a larger sentence B; A then depends on B, obeys B, and can no longer stand alone.", "zh": "拿“兔子吃了根胡萝卜”来说，套进去就成了“我看见这兔子吃了根胡萝卜”。我看见的是什么？不是兔子，也不是胡萝卜，而是“兔子吃了根胡萝卜”这整个事件。这个原本能独立成句的句子，成了一个大宾语。一个句子 A 可以充当更大句子 B 的某个成分；A 从此附属于 B、服从 B，也不能再独立成句了。" },
+      "exampleRefs": ["e1", "e2"],
+      "sourceRef": "其实是“兔子吃了根胡萝卜”这个动作或者事件本身啊"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Subordinate clause vs. main clause", "zh": "从句 vs. 主句" },
+      "body": { "en": "The embedded sentence A is the subordinate clause; the rest, B, that hosts it is the main clause. Together they form one complex sentence. Note: '从' in 从句 means 'subordinate / dependent', not 'the back half' — a subordinate clause is not simply the second half of a sentence.", "zh": "被嵌入的句子 A 是从句（subordinate clause）；容纳它的其余部分 B 是主句（main clause）。两者合起来是一句复杂句。注意：“从句”的“从”是附属、服从的意思，不是“后半段”——从句并不等于句子的后半部分。" },
+      "exampleRefs": ["e2"],
+      "sourceRef": "A就是所谓从句，subordinate clause，B就是所谓主句，main clause"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Three sentence types: simple, compound, complex", "zh": "三种句子：简单句、复合句、复杂句" },
+      "body": { "en": "A simple sentence can't be split further without losing its meaning. Join simple sentences with a conjunction as equals — neither subordinate — and you get a compound sentence. When one is the main clause and the other a subordinate clause filling a component slot, you get a complex sentence. (Domestic books often translate compound as '并列句' and complex as '复合句'; to avoid confusion call them '并列复合句' and '主从复合句'.)", "zh": "简单句就是不能再拆、否则句意不完整的句子。用连词把简单句不分主次地连起来，就是复合句（compound）。当一个是主句、另一个是充当成分的从句时，就是复杂句（complex）。（国内不少书把 compound 译作“并列句”、complex 译作“复合句”；为免混淆，可分别叫“并列复合句”和“主从复合句”。）" },
+      "exampleRefs": ["e3", "e2"],
+      "sourceRef": "英语有三种句子，一，简单句，simple sentences，二，复合句，compound sentences，三，复杂句"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "Classifying clauses by sentence component", "zh": "按句子成分给从句分类" },
+      "body": { "en": "Every clause fills a component slot, so list the slots and you have listed the clause types. Except the predicate verb (the core, which can never be a clause), each component can be a clause: subject clause, object clause, object-complement clause, subject-complement (predicative) clause, attributive (relative) clause, adverbial clause, and appositive clause.", "zh": "每个从句都充当某个成分，所以把成分列出来，从句的种类也就列出来了。除了最特殊的谓语动词（核心，永远不能由从句充当）之外，每种成分都能由从句充当：主语从句、宾语从句、宾语补语从句、主语补语从句（即表语从句）、定语从句、状语从句、同位语从句。" },
+      "exampleRefs": ["e2"],
+      "sourceRef": "每一种句子成分其实都可以由从句充当"
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "Classifying clauses by word class", "zh": "按词类给从句分类" },
+      "body": { "en": "Clauses can also be grouped by the part of speech they act like. Subject, object, subject-complement (predicative), object-complement and appositive clauses all behave like a big noun, so they are noun clauses. The attributive clause behaves like a big adjective — hence adjective clause, also called relative clause (it uses relative words). The adverbial clause behaves like a big adverb — an adverb clause, splitting into time, place, condition, reason, manner, comparison, and so on.", "zh": "从句也能按它们相当于的词类来分。主语从句、宾语从句、主语补语从句（表语从句）、宾语补语从句、同位语从句都相当于一个大名词，合称名词性从句。定语从句相当于一个大形容词，所以又叫形容词从句，也叫关系从句（因为用到关系词）。状语从句相当于一个大副词，叫副词从句，又细分为时间、地点、条件、原因、方式、比较等类型。" },
+      "exampleRefs": ["e2", "e4"],
+      "sourceRef": "定语从句、形容词从句、关系从句是一回事"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "The rabbit ate a carrot.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "subject" },
+        { "quote": "ate", "tag": "verb-transitive" },
+        { "quote": "a carrot", "tag": "object" }
+      ],
+      "note": { "en": "A complete simple sentence on its own — subject + verb + object.", "zh": "一个完整的简单句——主语 + 谓语动词 + 宾语。" }
+    },
+    {
+      "id": "e2",
+      "text": "I saw that the rabbit ate a carrot.",
+      "annotations": [
+        { "quote": "I", "tag": "subject" },
+        { "quote": "saw", "tag": "verb-transitive" },
+        { "quote": "that", "tag": "clause-marker" },
+        { "quote": "the rabbit ate a carrot", "tag": "subordinate-clause" }
+      ],
+      "note": { "en": "The whole former sentence 'the rabbit ate a carrot' is now one big object — an object clause. 'I saw' is the main clause.", "zh": "原本的整句“the rabbit ate a carrot”现在成了一个大宾语——宾语从句。“I saw”是主句。" }
+    },
+    {
+      "id": "e3",
+      "text": "The rabbit was hungry, so it ate a carrot.",
+      "annotations": [
+        { "quote": "The rabbit was hungry", "tag": "main-clause" },
+        { "quote": "so", "tag": "conjunction" },
+        { "quote": "it ate a carrot", "tag": "main-clause", "occurrence": 1 }
+      ],
+      "note": { "en": "Two equal simple sentences joined by 'so' — neither is subordinate. This is a compound sentence, not a complex one.", "zh": "两个对等的简单句用“so”连接——谁也不附属于谁。这是复合句（并列），不是复杂句。" }
+    },
+    {
+      "id": "e4",
+      "text": "I know the rabbit that ate a carrot.",
+      "annotations": [
+        { "quote": "I", "tag": "subject" },
+        { "quote": "know", "tag": "verb-transitive" },
+        { "quote": "the rabbit", "tag": "object" },
+        { "quote": "that ate a carrot", "tag": "subordinate-clause" }
+      ],
+      "note": { "en": "Here the clause modifies 'the rabbit' like a big adjective — an attributive (relative) clause, using the relative word 'that'.", "zh": "这里的从句像一个大形容词修饰“the rabbit”——定语（关系）从句，用了关系词“that”。" }
+    },
+    {
+      "id": "e5",
+      "text": "What the rabbit ate was a carrot.",
+      "annotations": [
+        { "quote": "What the rabbit ate", "tag": "subordinate-clause" },
+        { "quote": "was", "tag": "verb-linking" },
+        { "quote": "a carrot", "tag": "subject-complement" }
+      ],
+      "note": { "en": "The clause 'What the rabbit ate' acts like a big noun in the subject slot — a subject (noun) clause.", "zh": "从句“What the rabbit ate”像一个大名词占据主语位置——主语从句（名词性从句）。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "In 'I saw that the rabbit ate a carrot', what role does 'that the rabbit ate a carrot' play?", "zh": "在“I saw that the rabbit ate a carrot”中，“that the rabbit ate a carrot”充当什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "The object of 'saw' (an object clause)", "zh": "“saw”的宾语（宾语从句）" } },
+        { "id": "b", "text": { "en": "The subject of the sentence", "zh": "整句的主语" } },
+        { "id": "c", "text": { "en": "An adverbial of time", "zh": "时间状语" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "What I saw is the whole event — the entire former sentence becomes one big object, i.e. an object clause.", "zh": "我看见的是整个事件——原本的整句变成一个大宾语，即宾语从句。" },
+      "refs": ["c2", "e2"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "Which sentence is a complex sentence (main clause + subordinate clause)?", "zh": "哪一句是复杂句（主句 + 从句）？" },
+      "choices": [
+        { "id": "a", "text": { "en": "The rabbit was hungry, so it ate a carrot.", "zh": "The rabbit was hungry, so it ate a carrot." } },
+        { "id": "b", "text": { "en": "I know the rabbit that ate a carrot.", "zh": "I know the rabbit that ate a carrot." } },
+        { "id": "c", "text": { "en": "The rabbit ate a carrot.", "zh": "The rabbit ate a carrot." } }
+      ],
+      "answer": "b",
+      "explain": { "en": "B has a subordinate (relative) clause filling a slot. A joins two equals (compound); C is a simple sentence.", "zh": "B 含一个充当成分的定语从句。A 是对等连接（复合句）；C 是简单句。" },
+      "refs": ["c4", "e3", "e4"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "A clause that behaves like a big adjective and modifies a noun is called an ____ clause (also: relative clause).", "zh": "相当于一个大形容词、修饰名词的从句叫作____从句（也叫关系从句）。" },
+      "answers": ["attributive", "adjective", "relative"],
+      "explain": { "en": "Attributive clause = adjective clause = relative clause — three names, one concept.", "zh": "定语从句 = 形容词从句 = 关系从句——同一概念的三个名字。" },
+      "refs": ["c6"]
+    },
+    {
+      "id": "q4",
+      "type": "fill",
+      "prompt": { "en": "Subject, object, predicative and appositive clauses all act like a big noun, so together they are called ____ clauses.", "zh": "主语、宾语、表语、同位语从句都相当于一个大名词，所以合称____从句。" },
+      "answers": ["noun", "nominal", "noun (nominal)"],
+      "explain": { "en": "Clauses that behave like a noun are grouped as noun (nominal) clauses.", "zh": "相当于名词的从句合称名词性（名词）从句。" },
+      "refs": ["c6"]
+    },
+    {
+      "id": "q5",
+      "type": "error",
+      "sentence": "A subordinate clause can stand alone as a complete sentence.",
+      "fix": "A subordinate clause cannot stand alone as a complete sentence.",
+      "explain": { "en": "Once a sentence becomes a component of a bigger one, it depends on the main clause and can no longer stand alone.", "zh": "一旦一个句子变成更大句子的成分，它就附属于主句，不能再独立成句了。" },
+      "refs": ["c2", "c3"]
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": { "en": "Which component can NEVER be filled by a clause?", "zh": "哪种句子成分永远不能由从句充当？" },
+      "choices": [
+        { "id": "a", "text": { "en": "The object", "zh": "宾语" } },
+        { "id": "b", "text": { "en": "The predicate verb", "zh": "谓语动词" } },
+        { "id": "c", "text": { "en": "The subject", "zh": "主语" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "The predicate verb is the special core component; every other slot can be a clause, but the predicate verb cannot.", "zh": "谓语动词是最特殊的核心成分；其余每种成分都能由从句充当，唯独谓语动词不行。" },
+      "refs": ["c5"]
+    }
+  ],
+  "dialogue": {
+    "kind": "scenario",
+    "title": { "en": "One event, three slots", "zh": "同一个事件，三种成分" },
+    "targets": ["subordinate-clause", "main-clause", "clause-marker"],
+    "lines": [
+      { "speaker": "Teacher", "text": "The rabbit ate a carrot.", "annotations": [ { "quote": "The rabbit", "tag": "subject" }, { "quote": "ate", "tag": "verb-transitive" }, { "quote": "a carrot", "tag": "object" } ], "note": { "en": "Start with a complete simple sentence.", "zh": "先从一个完整的简单句开始。" } },
+      { "speaker": "Student", "text": "I saw that the rabbit ate a carrot.", "annotations": [ { "quote": "I saw", "tag": "main-clause" }, { "quote": "that", "tag": "clause-marker" }, { "quote": "the rabbit ate a carrot", "tag": "subordinate-clause" } ], "note": { "en": "Now it is a big object — an object clause.", "zh": "现在它成了一个大宾语——宾语从句。" } },
+      { "speaker": "Teacher", "text": "What the rabbit ate was a carrot.", "annotations": [ { "quote": "What the rabbit ate", "tag": "subordinate-clause" }, { "quote": "was", "tag": "verb-linking" }, { "quote": "a carrot", "tag": "subject-complement" } ], "note": { "en": "Same event, now in the subject slot — a subject (noun) clause.", "zh": "同一事件，这次占据主语位置——主语从句（名词性从句）。" } },
+      { "speaker": "Student", "text": "I know the rabbit that ate a carrot.", "annotations": [ { "quote": "I know", "tag": "main-clause" }, { "quote": "that ate a carrot", "tag": "subordinate-clause" } ], "note": { "en": "And now it modifies a noun — an attributive (relative) clause.", "zh": "这次它修饰名词——定语（关系）从句。" } }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "id": "43",
+  "slug": "distinguishing-other-others-the-other-the-others-another-one-another",
+  "category": "punctuation-usage",
+  "shape": "standard",
+  "order": 43,
+  "title": { "en": "Telling Apart Other, Others, The Other, The Others, Another, One Another", "zh": "分清 other, others, the other, the others, another, one another" },
+  "summary": { "en": "'Other' words split along two axes: definite (the) vs indefinite, and singular vs plural. Master 'the other' (the remaining one of two), 'the others' (the remaining ones), 'others' (other people in general), 'another' (one more of many), and the reciprocal pair 'each other' / 'one another'.", "zh": "这一组词沿两条线分类：是否特指（加 the）与单复数。掌握 the other（两个中剩下的那一个）、the others（剩下的那些）、others（泛指别人）、another（许多里再来一个），以及表相互的 each other / one another。" },
+  "source": { "videoId": "5lD0vL7uw0A", "youtube": "https://www.youtube.com/watch?v=5lD0vL7uw0A", "duration": "5:56", "script": "scripts/43-distinguishing-other-others-the-other-the-others-another-one-another.md" },
+  "tags": [
+    { "id": "adjective-other", "label": { "en": "adjective 'other'", "zh": "形容词 other" }, "abbr": "Adj", "color": "#9333ea", "underline": "dashed" },
+    { "id": "pronoun-other", "label": { "en": "'other' pronoun", "zh": "代词 other" }, "abbr": "Pron", "color": "#059669", "underline": "dashed" },
+    { "id": "definite-the", "label": { "en": "definite 'the'", "zh": "定冠词 the（特指）" }, "abbr": "the", "color": "#92400e", "underline": "dashed" },
+    { "id": "another-det", "label": { "en": "'another'", "zh": "another（再一个）" }, "abbr": "an+oth", "color": "#0891b2", "underline": "dotted" },
+    { "id": "reciprocal", "label": { "en": "reciprocal", "zh": "相互关系" }, "abbr": "Rec", "color": "#db2777", "underline": "dotted" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "'Other' as an adjective: other / additional ones", "zh": "形容词 other：其他的、别的" },
+      "body": { "en": "The most common meaning of 'other' is 'other / additional', used as an adjective to modify a noun, e.g. 'other rabbits'. In this use it sits in front of a noun and never changes form.", "zh": "other 最常用的意思是“其他的、别的”，作形容词修饰名词，例如 other rabbits（其他兔子）。这种用法放在名词前面，本身不变形。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "它最常用的一个意思是其他的，别的"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "'The other' = the remaining one of two", "zh": "the other = 两个中剩下的那一个" },
+      "body": { "en": "'Other' can also be a pronoun. With exactly two things, 'one ... the other ...' names the first and the second. 'The other' means 'the remaining one of the two'. Because once you've said the first one the listener knows exactly which one is left, it is specific — so 'the' is required and must not be dropped. You cannot say 'one is white, other is black'.", "zh": "other 也能作代词。在正好两个事物之间，用“one … the other …”分别指第一个和另一个。the other 意思是“两个中剩下的那一个”。因为说了第一个，对方就确切知道剩下哪个，所以是特指——必须加 the，不能漏掉。不能说 one is white, other is black。" },
+      "exampleRefs": ["e2", "e3"],
+      "sourceRef": "肯定是the other，不能漏掉the"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "'The others' = the remaining ones (plural of 'the other')", "zh": "the others = 剩下的那些（the other 的复数）" },
+      "body": { "en": "'The others' is simply the plural of 'the other'. If three rabbits are in the room and one is white, the rest are referred to as 'the others' — a specific, known group: 'the remaining ones'.", "zh": "the others 就是 the other 的复数。如果房间里有三只兔子，一只是白色的，其余的就用 the others——一个特指、已知的群体：“剩下的那些”。" },
+      "exampleRefs": ["e4"],
+      "sourceRef": "其实the others就是the other的复数"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "'Others' (no 'the') = other people in general", "zh": "others（不加 the）= 泛指别人" },
+      "body": { "en": "Drop 'the' and 'the others' becomes 'others'. 'The' marks specific reference (speaker and listener both know who); without it, 'others' is generic. As a pronoun it generically means 'other people', equal to 'other people'. Add 'the' back and the meaning flips to a specific group — 'those other particular people'.", "zh": "去掉 the，the others 就变成 others。the 表示特指（说话人和听话人都清楚是谁）；没有 the，others 就是泛指。作代词时泛指“其他人、别人”，相当于 other people。再把 the 加回去，意思就变成特指那几个人——“其他的那几个人”。" },
+      "exampleRefs": ["e5", "e6"],
+      "sourceRef": "去掉the，others就变成了泛指"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "'Another' = an + other = one more of many", "zh": "another = an + other = 许多中再来一个" },
+      "body": { "en": "'Another' is literally 'an' + 'other' fused — the word was formed by merging the two in the 13th century. It means 'one more of the others', always relative to a 'one' already mentioned, but it implies there are several to talk about. Like 'an', it points to one unspecified extra item, so it is used with multiples (three, ten...). It can be a pronoun ('another is black') or an adjective ('another rabbit is black').", "zh": "another 字面上就是 an + other 合在一起——这个词在 13 世纪由两者合并而成。它指“其他中的另一个”，总是相对于已经提到的 one，但它暗示要谈论的对象有多个。和 an 一样，它指向一个未指明的额外个体，所以用于多个（三只、十只……）。它可作代词（another is black），也可作形容词（another rabbit is black）。" },
+      "exampleRefs": ["e7", "e8"],
+      "sourceRef": "another这个词就是在13世纪由an和other合并而成的"
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "'Each other' vs 'one another': reciprocal relations", "zh": "each other 与 one another：表相互" },
+      "body": { "en": "Both express a reciprocal relation ('We love each other'). In theory 'each other' implies just two people, while 'one another' implies more than two. In practice many native speakers ignore the rule and say 'each other' for groups too. For exams, however, prefer 'one another' when more than two people are involved.", "zh": "两者都表示相互关系（We love each other，我们互相爱对方）。理论上 each other 暗示只有两人，one another 暗示不止两人。实际中很多母语者并不在意这条规则，多人时也说 each other。但考试时，涉及两人以上最好用 one another。" },
+      "exampleRefs": ["e9", "e10"],
+      "sourceRef": "理论上两人之间用 each other，多数人之间用 one another"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "I am smarter than other rabbits.",
+      "annotations": [
+        { "quote": "other", "tag": "adjective-other" },
+        { "quote": "rabbits", "tag": "object" }
+      ],
+      "note": { "en": "'Other' modifies the noun 'rabbits' — adjective use, meaning 'the other / additional rabbits'.", "zh": "other 修饰名词 rabbits——形容词用法，意为“其他的兔子”。" }
+    },
+    {
+      "id": "e2",
+      "text": "There are two rabbits in the room, one is white, the other is black.",
+      "annotations": [
+        { "quote": "one", "tag": "pronoun-other" },
+        { "quote": "the", "tag": "definite-the", "occurrence": 2 },
+        { "quote": "other", "tag": "pronoun-other", "occurrence": 1 }
+      ],
+      "note": { "en": "With exactly two, 'one ... the other'. 'The other' = the remaining one of the two; 'the' is required.", "zh": "正好两个时用“one … the other”。the other = 两个中剩下的那一个；the 不可省。" }
+    },
+    {
+      "id": "e3",
+      "text": "I have two coins, one is from you, the other is also from you.",
+      "annotations": [
+        { "quote": "one", "tag": "pronoun-other" },
+        { "quote": "the other", "tag": "pronoun-other" }
+      ],
+      "note": { "en": "Two coins: 'one' and 'the other'. The second of two is always 'the other', never bare 'other'.", "zh": "两枚硬币：one 与 the other。两个中的第二个永远是 the other，不能光说 other。" }
+    },
+    {
+      "id": "e4",
+      "text": "There are three rabbits in the room, one is white, the others are black.",
+      "annotations": [
+        { "quote": "one", "tag": "pronoun-other" },
+        { "quote": "the others", "tag": "pronoun-other" }
+      ],
+      "note": { "en": "Three rabbits: one white, the rest black. 'The others' = the remaining ones, a specific known group.", "zh": "三只兔子：一只白，其余黑。the others = 剩下的那些，一个特指、已知的群体。" }
+    },
+    {
+      "id": "e5",
+      "text": "I like helping others.",
+      "annotations": [
+        { "quote": "others", "tag": "pronoun-other" }
+      ],
+      "note": { "en": "No 'the' — 'others' is generic, meaning 'other people'. Equal to 'I like helping other people'.", "zh": "没有 the——others 是泛指，意为“别人、其他人”。等于 I like helping other people。" }
+    },
+    {
+      "id": "e6",
+      "text": "I like helping the others.",
+      "annotations": [
+        { "quote": "the ", "tag": "definite-the" },
+        { "quote": "others", "tag": "pronoun-other" }
+      ],
+      "note": { "en": "Adding 'the' makes it specific: 'those other particular people', not people in general — a different meaning.", "zh": "加 the 就变特指：“其他的那几个人”，不是泛指的别人——意思变了。" }
+    },
+    {
+      "id": "e7",
+      "text": "There are three rabbits in the room, one is white, another is black, another is gray.",
+      "annotations": [
+        { "quote": "one", "tag": "pronoun-other" },
+        { "quote": "another", "tag": "another-det", "occurrence": 1 },
+        { "quote": "another", "tag": "another-det", "occurrence": 2 }
+      ],
+      "note": { "en": "'Another' (an + other) = one more of the rest, relative to 'one' but implying several. Pronoun use here.", "zh": "another（an + other）= 其余中再来一个，相对于 one，但暗示有多个。这里是代词用法。" }
+    },
+    {
+      "id": "e8",
+      "text": "There are ten rabbits in the room. One is white, another rabbit is black, another rabbit is grey.",
+      "annotations": [
+        { "quote": "another rabbit", "tag": "another-det", "occurrence": 1 },
+        { "quote": "another rabbit", "tag": "another-det", "occurrence": 2 }
+      ],
+      "note": { "en": "Adjective use: 'another rabbit'. Works with ten just as with three — 'another' implies a larger pool.", "zh": "形容词用法：another rabbit。十只和三只都成立——another 暗示对象的总数更多。" }
+    },
+    {
+      "id": "e9",
+      "text": "We love each other.",
+      "annotations": [
+        { "quote": "each other", "tag": "reciprocal" }
+      ],
+      "note": { "en": "Reciprocal: each loves the other. 'Each other' classically implies just two people.", "zh": "相互：彼此相爱。each other 传统上暗示只有两人。" }
+    },
+    {
+      "id": "e10",
+      "text": "My mom, my dad and I, we love one another.",
+      "annotations": [
+        { "quote": "one another", "tag": "reciprocal" }
+      ],
+      "note": { "en": "More than two people, so 'one another' is the exam-safe choice (though native speakers often say 'each other' too).", "zh": "超过两人，所以 one another 是考试更稳妥的选择（虽然母语者也常说 each other）。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "fill",
+      "prompt": { "en": "Two rabbits: 'One is white, ____ is black.' Fill the blank (two words).", "zh": "两只兔子：“One is white, ____ is black.” 填空（两个词）。" },
+      "answers": ["the other"],
+      "explain": { "en": "With exactly two, the second is 'the other' — the remaining one of the two. 'The' cannot be dropped.", "zh": "正好两个时，第二个是 the other——两个中剩下的那一个。the 不能省。" },
+      "refs": ["c2", "e2"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "Which sentence means 'I like helping people in general'?", "zh": "哪句意思是“我喜欢帮助（泛指的）别人”？" },
+      "choices": [
+        { "id": "a", "text": { "en": "I like helping others.", "zh": "I like helping others." } },
+        { "id": "b", "text": { "en": "I like helping the others.", "zh": "I like helping the others." } },
+        { "id": "c", "text": { "en": "I like helping the other.", "zh": "I like helping the other." } }
+      ],
+      "answer": "a",
+      "explain": { "en": "'Others' (no 'the') is generic = 'other people'. Adding 'the' makes it specific ('those particular other people').", "zh": "others（不加 the）是泛指 = 别人。加 the 就变特指（其他的那几个人）。" },
+      "refs": ["c4", "e5", "e6"]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": { "en": "Three rabbits, one already named white: 'one is white, ____ are black.' Best fit?", "zh": "三只兔子，已说一只是白的：“one is white, ____ are black.” 最合适的是？" },
+      "choices": [
+        { "id": "a", "text": { "en": "the others", "zh": "the others" } },
+        { "id": "b", "text": { "en": "the other", "zh": "the other" } },
+        { "id": "c", "text": { "en": "another", "zh": "another" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "Two remaining, specific rabbits = 'the others' (plural of 'the other'), and it takes plural 'are'.", "zh": "剩下两只、特指 = the others（the other 的复数），且配复数 are。" },
+      "refs": ["c3", "e4"]
+    },
+    {
+      "id": "q4",
+      "type": "fill",
+      "prompt": { "en": "Many rabbits, naming one more after 'one': 'One is white, ____ is black.' Fill the single word (= an + other).", "zh": "多只兔子，在 one 之后再点一只：“One is white, ____ is black.” 填一个词（= an + other）。" },
+      "answers": ["another"],
+      "explain": { "en": "'Another' = an + other = one more of many; it follows a mentioned 'one' and implies several remain.", "zh": "another = an + other = 许多里再来一个；紧跟提过的 one，并暗示还有多个。" },
+      "refs": ["c5", "e7"]
+    },
+    {
+      "id": "q5",
+      "type": "error",
+      "sentence": "There are two rabbits, one is white, other is black.",
+      "fix": "There are two rabbits, one is white, the other is black.",
+      "explain": { "en": "With two things, the second is specific — you must say 'the other', not bare 'other'. 'The' cannot be dropped.", "zh": "两个事物中，第二个是特指——必须说 the other，不能光说 other。the 不能漏。" },
+      "refs": ["c2"]
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": { "en": "For an exam, which fits best: 'My mom, my dad and I, we love ____.'?", "zh": "考试时，哪个最合适：“My mom, my dad and I, we love ____.”？" },
+      "choices": [
+        { "id": "a", "text": { "en": "one another", "zh": "one another" } },
+        { "id": "b", "text": { "en": "the other", "zh": "the other" } },
+        { "id": "c", "text": { "en": "others", "zh": "others" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "More than two people, so the exam-safe reciprocal is 'one another' ('each other' is common in speech but classically for two).", "zh": "超过两人，所以考试更稳妥的相互代词是 one another（each other 口语常见，但传统上用于两人）。" },
+      "refs": ["c6", "e10"]
+    }
+  ],
+  "dialogue": {
+    "kind": "scenario",
+    "title": { "en": "Two carrots, many words for 'other'", "zh": "两根胡萝卜，用尽各种 other" },
+    "targets": ["pronoun-other", "definite-the", "another-det", "reciprocal"],
+    "lines": [
+      { "speaker": "Rabbit", "text": "I just bought two carrots from the wolf. One is big and the other is small.", "annotations": [ { "quote": "One", "tag": "pronoun-other" }, { "quote": "the other", "tag": "pronoun-other" } ], "note": { "en": "Exactly two: 'one ... the other' (the remaining one of two).", "zh": "正好两个：one … the other（两个中剩下的那一个）。" } },
+      { "speaker": "Rabbit", "text": "I told the wolf, this carrot is too small, give me another.", "annotations": [ { "quote": "another", "tag": "another-det" } ], "note": { "en": "'Another' = one more, an unspecified extra carrot.", "zh": "another = 再来一个，未指明的额外一根。" } },
+      { "speaker": "Wolf", "text": "The others were sold already.", "annotations": [ { "quote": "The", "tag": "definite-the" }, { "quote": "others", "tag": "pronoun-other" } ], "note": { "en": "'The others' — the specific remaining carrots, already known to both.", "zh": "the others——特指剩下的那些胡萝卜，双方都清楚。" } },
+      { "speaker": "Rabbit", "text": "She was lying because I had seen other carrots behind the counter, and I never lie to others.", "annotations": [ { "quote": "other carrots", "tag": "adjective-other" }, { "quote": "others", "tag": "pronoun-other" } ], "note": { "en": "'Other carrots' = adjective; 'others' (no 'the') = people in general.", "zh": "other carrots = 形容词；others（不加 the）= 泛指别人。" } },
+      { "speaker": "Rabbit", "text": "That's why we quarreled with each other, even though everyone had promised to be nice to one another.", "annotations": [ { "quote": "each other", "tag": "reciprocal" }, { "quote": "one another", "tag": "reciprocal" } ], "note": { "en": "Reciprocal pair: 'each other' (two) vs 'one another' (more than two).", "zh": "相互一对：each other（两人）对 one another（多人）。" } }
+    ]
+  }
+}

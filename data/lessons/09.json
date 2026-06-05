@@ -1,0 +1,154 @@
+{
+  "id": "09",
+  "slug": "appositive-clauses-in-english",
+  "category": "clauses",
+  "shape": "tiny",
+  "order": 16,
+  "title": { "en": "Appositive Clauses", "zh": "同位语从句" },
+  "summary": { "en": "An appositive restates one concept in a different way. When a whole clause does that restating, it is an appositive clause — usually renaming an abstract noun like 'fact', 'question', or 'idea'.", "zh": "同位语就是用不同的方式把一个概念再说一遍。当一整个从句来做这件事，它就是同位语从句——通常是给抽象名词（如 fact、question、idea）换种说法再说一遍。" },
+  "source": { "videoId": "hPevpe3yEqc", "youtube": "https://www.youtube.com/watch?v=hPevpe3yEqc", "duration": "3:28", "script": "scripts/09-appositive-clauses-in-english.md" },
+  "tags": [
+    { "id": "appositive-clause", "label": { "en": "appositive clause", "zh": "同位语从句" }, "abbr": "AppCl", "color": "#be185d", "underline": "dotted" },
+    { "id": "antecedent-noun", "label": { "en": "noun restated", "zh": "被同位的名词" }, "abbr": "N", "color": "#db2777", "underline": "dashed" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "What an appositive is", "zh": "什么是同位语" },
+      "body": { "en": "An appositive simply restates one concept in a different way, set off by a comma so the two don't blur together. In 'my teacher, Papa Rabbit', the teacher and Papa Rabbit are not two people — they are one concept, with 'Papa Rabbit' being another way of saying 'my teacher'. So 'Papa Rabbit' is the appositive of the subject 'teacher'.", "zh": "同位语就是用不同的方式把同一个概念再说一遍，用逗号隔开，否则会乱在一起。在 my teacher, Papa Rabbit 中，老师和兔老爹不是两个人——它们是同一个概念，兔老爹只是“我的老师”的另一种说法。所以 Papa Rabbit 是主语 teacher 的同位语。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "papa rabbit在这里是主语teacher的同位语"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "From appositive to appositive clause", "zh": "从同位语到同位语从句" },
+      "body": { "en": "Extend the idea: when a whole clause acts as the appositive, that clause is an appositive clause. It typically modifies an abstract noun — precisely because the noun is abstract, you want a second way to spell it out. Because a clause marker shows where the clause begins, no comma is needed.", "zh": "把这个概念引申到从句：当一整个从句来充当同位语时，这个从句就是同位语从句。它常修饰抽象的名词——正因为抽象，才要用另一种方式再说一遍。因为有引导词标明从句从哪里开始，所以不需要逗号隔开。" },
+      "exampleRefs": ["e2"],
+      "sourceRef": "当一个从句来充当同位语时，那么这个从句就是同位语从句"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Known vs. unknown information", "zh": "已知信息与未知信息" },
+      "body": { "en": "An appositive clause can carry known information (introduced by 'that': the fact that...) or unknown information (introduced by 'whether', 'who', etc.: the question whether..., the idea who...). Either way, the clause renames the noun it follows.", "zh": "同位语从句既可以包含已知信息（由 that 引导：the fact that...），也可以包含未知信息（由 whether、who 等引导：the question whether...、the idea who...）。无论哪种，从句都是把它前面的名词重新说一遍。" },
+      "exampleRefs": ["e3", "e4"],
+      "sourceRef": "同位语从句当然也可以包含未知信息"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Word order differs in Chinese", "zh": "中英词序不同" },
+      "body": { "en": "The Chinese translation usually reorders the words, because Chinese has no clause markers. 'The fact that the rabbit ate the carrot' becomes '兔子吃了胡萝卜这个事实' — the clause comes before the noun, not after it.", "zh": "中文翻译的词序往往和英文不一样，因为中文没有引导词的概念。the fact that the rabbit ate the carrot 译成“兔子吃了胡萝卜这个事实”——从句放在名词前面，而不是后面。" },
+      "exampleRefs": ["e2"],
+      "sourceRef": "中文翻译的词序往往是和英文不一样的"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "My teacher, Papa Rabbit, likes carrots.",
+      "annotations": [
+        { "quote": "My teacher", "tag": "antecedent-noun" },
+        { "quote": "Papa Rabbit", "tag": "appositive" },
+        { "quote": "likes", "tag": "verb-transitive" },
+        { "quote": "carrots", "tag": "object" }
+      ],
+      "note": { "en": "'Papa Rabbit' is just another way of saying 'my teacher' — the appositive of the subject, set off by commas.", "zh": "“Papa Rabbit”只是“my teacher”的另一种说法——主语的同位语，用逗号隔开。" }
+    },
+    {
+      "id": "e2",
+      "text": "The fact that the rabbit ate the carrot did not surprise me.",
+      "annotations": [
+        { "quote": "The fact", "tag": "antecedent-noun" },
+        { "quote": "that", "tag": "clause-marker" },
+        { "quote": "the rabbit ate the carrot", "tag": "appositive-clause" },
+        { "quote": "did not surprise", "tag": "verb-transitive" },
+        { "quote": "me", "tag": "object" }
+      ],
+      "note": { "en": "'The fact' and 'that the rabbit ate the carrot' are one concept said two ways. The marker 'that' shows where the clause starts, so no comma is needed.", "zh": "“the fact”和“that the rabbit ate the carrot”是同一个概念的两种说法。引导词 that 标明从句起点，所以不需要逗号。" }
+    },
+    {
+      "id": "e3",
+      "text": "The question whether the rabbit would eat the carrot is on all our minds.",
+      "annotations": [
+        { "quote": "The question", "tag": "antecedent-noun" },
+        { "quote": "whether", "tag": "clause-marker" },
+        { "quote": "the rabbit would eat the carrot", "tag": "appositive-clause" }
+      ],
+      "note": { "en": "Unknown information: 'whether the rabbit would eat the carrot' restates the subject 'question'.", "zh": "未知信息：“whether the rabbit would eat the carrot”把主语“question”又说了一遍。" }
+    },
+    {
+      "id": "e4",
+      "text": "I have no idea who ate the carrot.",
+      "annotations": [
+        { "quote": "idea", "tag": "antecedent-noun" },
+        { "quote": "who", "tag": "clause-marker" },
+        { "quote": "ate the carrot", "tag": "appositive-clause" }
+      ],
+      "note": { "en": "'Idea' is the object; 'who ate the carrot' redefines it — an appositive clause of the object.", "zh": "“idea”是宾语；“who ate the carrot”重新定义它——宾语的同位语从句。" }
+    },
+    {
+      "id": "e5",
+      "text": "I am sure of the fact that there's a carrot on the table.",
+      "annotations": [
+        { "quote": "the fact", "tag": "antecedent-noun" },
+        { "quote": "that", "tag": "clause-marker" },
+        { "quote": "there's a carrot on the table", "tag": "appositive-clause" }
+      ],
+      "note": { "en": "Rewriting 'I am sure that...' as 'I am sure of the fact that...' makes it a pure appositive clause renaming the object 'fact'.", "zh": "把“I am sure that...”改成“I am sure of the fact that...”，就成了纯粹的同位语从句，给宾语“fact”换种说法。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "In 'The fact that the rabbit ate the carrot did not surprise me', what does 'that the rabbit ate the carrot' do?", "zh": "在“The fact that the rabbit ate the carrot did not surprise me”中，“that the rabbit ate the carrot”起什么作用？" },
+      "choices": [
+        { "id": "a", "text": { "en": "It restates the noun 'fact' — an appositive clause", "zh": "把名词“fact”再说一遍——同位语从句" } },
+        { "id": "b", "text": { "en": "It is the object of 'surprise'", "zh": "是“surprise”的宾语" } },
+        { "id": "c", "text": { "en": "It is the subject of the sentence", "zh": "是句子的主语" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "The clause and 'the fact' are one concept said two ways, so the clause is the appositive of 'fact'.", "zh": "从句和“the fact”是同一概念的两种说法，所以从句是“fact”的同位语。" },
+      "refs": ["c2", "e2"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "Why does an appositive clause not need a comma, while a noun appositive like 'Papa Rabbit' does?", "zh": "为什么同位语从句不需要逗号，而像“Papa Rabbit”这样的名词同位语却需要？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Clauses are never separated by punctuation", "zh": "从句从不用标点隔开" } },
+        { "id": "b", "text": { "en": "A clause marker already shows where the clause begins", "zh": "引导词已经标明了从句的起点" } },
+        { "id": "c", "text": { "en": "The clause is too long for a comma", "zh": "从句太长，不适合用逗号" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "Because a marker like 'that' or 'whether' marks the start of the clause, no comma is needed to separate it.", "zh": "因为 that、whether 等引导词标明了从句的起点，所以不需要逗号来隔开。" },
+      "refs": ["c2"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Complete the appositive clause: 'The question ____ the rabbit would eat the carrot is on all our minds.'", "zh": "补全同位语从句：“The question ____ the rabbit would eat the carrot is on all our minds.”" },
+      "answers": ["whether"],
+      "explain": { "en": "Unknown yes/no information after 'question' is introduced by 'whether'.", "zh": "“question”后面表示是否的未知信息，由“whether”引导。" },
+      "refs": ["c3", "e3"]
+    },
+    {
+      "id": "q4",
+      "type": "error",
+      "sentence": "I have no idea, who ate the carrot.",
+      "fix": "I have no idea who ate the carrot.",
+      "explain": { "en": "An appositive clause takes no comma — the marker 'who' already shows where the clause begins.", "zh": "同位语从句不加逗号——引导词“who”已经标明从句的起点。" },
+      "refs": ["c2", "e4"]
+    }
+  ],
+  "dialogue": {
+    "kind": "scenario",
+    "title": { "en": "Restating the noun", "zh": "把名词再说一遍" },
+    "targets": ["appositive", "appositive-clause", "clause-marker", "antecedent-noun"],
+    "lines": [
+      { "speaker": "Wolf", "text": "My teacher, Papa Rabbit, eats too many carrots.", "annotations": [ { "quote": "My teacher", "tag": "antecedent-noun" }, { "quote": "Papa Rabbit", "tag": "appositive" } ], "note": { "en": "A noun appositive, set off by commas.", "zh": "名词同位语，用逗号隔开。" } },
+      { "speaker": "Rabbit", "text": "The fact that I eat carrots does not surprise anyone.", "annotations": [ { "quote": "The fact", "tag": "antecedent-noun" }, { "quote": "that", "tag": "clause-marker" }, { "quote": "I eat carrots", "tag": "appositive-clause" } ], "note": { "en": "A 'that' appositive clause renaming 'fact' — no comma.", "zh": "由 that 引导、重述“fact”的同位语从句——不加逗号。" } },
+      { "speaker": "Wolf", "text": "But the question whether you share them stays on my mind.", "annotations": [ { "quote": "the question", "tag": "antecedent-noun" }, { "quote": "whether", "tag": "clause-marker" }, { "quote": "you share them", "tag": "appositive-clause" } ], "note": { "en": "Unknown information introduced by 'whether'.", "zh": "由 whether 引导的未知信息。" } },
+      { "speaker": "Rabbit", "text": "I have no idea who told you that.", "annotations": [ { "quote": "idea", "tag": "antecedent-noun" }, { "quote": "who", "tag": "clause-marker" }, { "quote": "told you that", "tag": "appositive-clause" } ], "note": { "en": "'Who told you that' redefines the object 'idea'.", "zh": "“who told you that”重新定义宾语“idea”。" } }
+    ]
+  }
+}

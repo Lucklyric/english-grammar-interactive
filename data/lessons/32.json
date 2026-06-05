@@ -1,0 +1,245 @@
+{
+  "id": "32",
+  "slug": "english-grammar-conjunctions",
+  "category": "parts-of-speech",
+  "shape": "standard",
+  "order": 36,
+  "title": { "en": "Conjunctions (Coordinating & Subordinating)", "zh": "连词（并列、选择、转折、因果、从属）" },
+  "summary": { "en": "Conjunctions link words, phrases, and clauses to add logic. English has two big families: coordinating conjunctions join grammatically equal parts (parallel, alternative, contrast, cause-effect), and subordinating conjunctions attach a clause to a main clause.", "zh": "连词把语句连接起来、增加逻辑性。英语连词分两大类：并列连词连接语法地位同等的词、词组或句子（并列、选择、转折、因果），从属连词把从句连接到主句上。" },
+  "source": { "videoId": "0sSXMLb8EoI", "youtube": "https://www.youtube.com/watch?v=0sSXMLb8EoI", "duration": "9:00", "script": "scripts/32-english-grammar-conjunctions.md" },
+  "tags": [
+    { "id": "coord-conj", "label": { "en": "coordinating conjunction", "zh": "并列连词" }, "abbr": "Cc", "color": "#16a34a", "underline": "solid" },
+    { "id": "subord-conj", "label": { "en": "subordinating conjunction", "zh": "从属连词" }, "abbr": "Sc", "color": "#0d9488", "underline": "solid" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "What a conjunction is — two big families", "zh": "什么是连词——两大类" },
+      "body": { "en": "A conjunction links language to make it more logical — like Chinese 然后/但是/因此. One family, coordinating conjunctions, joins words, phrases, or clauses that share equal grammatical standing. The other family, subordinating conjunctions, joins a main clause to a subordinate (dependent) clause. Since Chinese has no clauses like English does, subordinating conjunctions deserve special attention.", "zh": "连词把语句连接起来、增加逻辑性，就像中文的“然后、但是、因此”。一类是并列连词，连接语法地位同等的单词、词组或句子；另一类是从属连词，连接主句和从句。因为中文没有英文那样的从句，从属连词需要特别注意。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "英语连词分两大类：并列连词和从属连词"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "Coordinating — parallel relation (and, both...and, not only...but also)", "zh": "并列连词——并列关系（and / both...and / not only...but also）" },
+      "body": { "en": "The simplest coordinating logic just adds things together: 'and', 'both...and', and 'not only...but also'. The joined parts can be single words, phrases, or whole clauses, and they stay grammatically equal.", "zh": "最容易理解的并列逻辑就是把事物加在一起：and、both...and、not only...but also。连接的可以是单词、词组或句子，且它们语法地位同等。" },
+      "exampleRefs": ["e1", "e2"]
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Parallel can be negative (neither...nor)", "zh": "并列关系也可表否定（neither...nor）" },
+      "body": { "en": "The parallel relation can also be negated. 'Neither...nor' adds two things in the negative — neither one nor the other.", "zh": "并列关系还可以表否定。neither...nor 把两样东西在否定意义上加起来——既不是这个也不是那个。" },
+      "exampleRefs": ["e3"]
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Coordinating — alternative relation (or, either...or)", "zh": "并列连词——选择关系（or / either...or）" },
+      "body": { "en": "Don't think the alternative meaning clashes with the label 'coordinating': 'coordinating' refers to joining equal grammatical units, while the logic expressed can be a choice. 'Or' and 'either...or' offer a choice; its negative form is 'neither...nor' (neither ate nor slept), and 'or' can also warn ('hurry, or you'll be late').", "zh": "千万别以为选择关系和并列连词冲突——并列连词指的是连接同等语法地位，而它表达的逻辑可以是选择。or 和 either...or 表示选择；其否定是 neither...nor（既没吃也没睡），or 还可以表警告（快点，否则你要迟到了）。" },
+      "exampleRefs": ["e4", "e5"]
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "Proximity rule (就近原则)", "zh": "就近原则" },
+      "body": { "en": "With 'either...or', 'neither...nor', and 'not only...but also', the verb agrees with the subject nearest to it. In 'Either the rabbit or I am going', the verb is 'am' because 'I' is closest. This is the proximity rule.", "zh": "用 either...or、neither...nor、not only...but also 时，谓语动词由离它最近的主语决定。在“Either the rabbit or I am going”中用 am，因为“I”离得最近。这就是就近原则。" },
+      "exampleRefs": ["e5", "e6"]
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "Coordinating — contrast relation (but, yet, however, nevertheless)", "zh": "并列连词——转折关系（but / yet / however / nevertheless）" },
+      "body": { "en": "Contrast is the '虽然...但是' idea. 'But' can be replaced by 'yet' (the conjunction 'yet' meaning 'but', not the adverb 'yet' meaning 'not yet'). 'However' and 'nevertheless' also mark a turn that negates the information just mentioned; 'nevertheless' is more formal and sounds bookish in speech.", "zh": "转折就是“虽然...但是”。but 可以用 yet 替换（这里 yet 是表转折的连词，不是表“还没有”的副词）。however 和 nevertheless 也标转折，否定刚才提到的信息；nevertheless 偏书面，口语里听起来文绉绉。" },
+      "exampleRefs": ["e7", "e8"]
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "Coordinating — cause-effect relation (so, therefore, for)", "zh": "并列连词——因果关系（so / therefore / for）" },
+      "body": { "en": "For cause and effect, 'so' (replaceable by the more formal 'therefore') puts the cause before it and the result after. 'For' reverses the order — result first, then cause — and here 'for' is the conjunction meaning 'because', not the preposition meaning 'for the purpose of'.", "zh": "表因果时，so（可用更书面的 therefore 替换）连词前是原因、后是结果；for 则相反——前果后因，这里的 for 是表“因为”的连词，不是表“为了”的介词。" },
+      "exampleRefs": ["e9", "e10"]
+    },
+    {
+      "id": "c8",
+      "heading": { "en": "Subordinating — links a main clause to a clause", "zh": "从属连词——连接主句和从句" },
+      "body": { "en": "'Because' is missing from the coordinating list because it is a subordinating conjunction, not a coordinating one — so it cannot pair with the coordinating 'so'. Subordinating conjunctions fall into two groups: those introducing noun clauses (subject, object, predicative, appositive) such as 'that', 'if', 'whether', and those introducing adverbial clauses — time (when, while, before, after, until, since), condition (if, unless), concession (although, though, even if), reason (because, since, as), and more.", "zh": "because 不在并列连词里，因为它是从属连词，不是并列连词——所以它不能和并列连词 so 连用。从属连词分两类：引导名词性从句（主语、宾语、表语、同位语从句）的，如 that、if、whether；引导状语从句的，如时间（when, while, before, after, until, since）、条件（if, unless）、让步（although, though, even if）、原因（because, since, as）等。" },
+      "exampleRefs": ["e11", "e12"]
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "The rabbit is smart and cute.",
+      "annotations": [
+        { "quote": "and", "tag": "coord-conj" }
+      ],
+      "note": { "en": "'And' joins two equal adjectives — the parallel relation. 这兔子聪明且可爱。", "zh": "and 连接两个同等的形容词——并列关系。这兔子聪明且可爱。" }
+    },
+    {
+      "id": "e2",
+      "text": "The rabbit not only teaches English but also makes videos.",
+      "annotations": [
+        { "quote": "not only", "tag": "coord-conj" },
+        { "quote": "but also", "tag": "coord-conj" }
+      ],
+      "note": { "en": "'Not only...but also' adds two parallel predicates. 兔子不仅教英语，还做视频。", "zh": "not only...but also 把两个并列的谓语加在一起。兔子不仅教英语，还做视频。" }
+    },
+    {
+      "id": "e3",
+      "text": "The rabbit likes neither apples nor pears.",
+      "annotations": [
+        { "quote": "neither", "tag": "coord-conj" },
+        { "quote": "nor", "tag": "coord-conj" }
+      ],
+      "note": { "en": "Negative parallel: 'neither...nor'. 这兔子既不喜欢苹果，也不喜欢梨子。", "zh": "否定的并列：neither...nor。这兔子既不喜欢苹果，也不喜欢梨子。" }
+    },
+    {
+      "id": "e4",
+      "text": "Does the rabbit like apples or carrots?",
+      "annotations": [
+        { "quote": "or", "tag": "coord-conj" }
+      ],
+      "note": { "en": "'Or' offers a choice — the alternative relation. 兔子喜欢什么，苹果还是胡萝卜？", "zh": "or 表示选择——选择关系。兔子喜欢什么，苹果还是胡萝卜？" }
+    },
+    {
+      "id": "e5",
+      "text": "Hurry, or you'll be late.",
+      "annotations": [
+        { "quote": "or", "tag": "coord-conj" }
+      ],
+      "note": { "en": "'Or' can also warn of a consequence. 快点，否则你要迟到了。", "zh": "or 也可以表示警告后果。快点，否则你要迟到了。" }
+    },
+    {
+      "id": "e6",
+      "text": "Either the rabbit or I am going to the party tonight.",
+      "annotations": [
+        { "quote": "Either", "tag": "coord-conj" },
+        { "quote": "or", "tag": "coord-conj" },
+        { "quote": "am", "tag": "verb-linking" }
+      ],
+      "note": { "en": "Proximity rule: the verb is 'am' because 'I' is the nearest subject. 不是兔子就是我将参加今晚的聚会。", "zh": "就近原则：用 am，因为最近的主语是“I”。不是兔子就是我将参加今晚的聚会。" }
+    },
+    {
+      "id": "e7",
+      "text": "I haven't eaten yet, but I'm not hungry yet.",
+      "annotations": [
+        { "quote": "but", "tag": "coord-conj" }
+      ],
+      "note": { "en": "Here 'but' marks contrast; both 'yet' words are adverbs meaning 'not yet', NOT the conjunction. 我还没吃，但我还不饿。", "zh": "这里 but 表转折；两个 yet 都是表“还没有”的副词，不是连词。我还没吃，但我还不饿。" }
+    },
+    {
+      "id": "e8",
+      "text": "The carrots were ready, however, the rabbit was still making videos.",
+      "annotations": [
+        { "quote": "however", "tag": "coord-conj" }
+      ],
+      "note": { "en": "'However' (or the more formal 'nevertheless') negates the prior information — a contrast. 胡萝卜做好了，但是兔子还在做视频。", "zh": "however（或更书面的 nevertheless）否定前面的信息——转折。胡萝卜做好了，但是兔子还在做视频。" }
+    },
+    {
+      "id": "e9",
+      "text": "The rabbit is busy, so he won't go to the party tonight.",
+      "annotations": [
+        { "quote": "so", "tag": "coord-conj" }
+      ],
+      "note": { "en": "Cause before 'so', result after. 'Therefore' could replace 'so' (more formal). 兔子很忙，所以今晚他不能参加聚会了。", "zh": "so 前是原因，后是结果。可用更书面的 therefore 替换。兔子很忙，所以今晚他不能参加聚会了。" }
+    },
+    {
+      "id": "e10",
+      "text": "The rabbit will skip lunch, for he is busy making a video.",
+      "annotations": [
+        { "quote": "for", "tag": "coord-conj" }
+      ],
+      "note": { "en": "'For' here is the conjunction 'because' (result first, then cause), not the preposition. 兔子不吃午餐了，因为他在忙着做视频。", "zh": "这里 for 是表“因为”的连词（前果后因），不是介词。兔子不吃午餐了，因为他在忙着做视频。" }
+    },
+    {
+      "id": "e11",
+      "text": "I saw that the rabbit ate the carrot.",
+      "annotations": [
+        { "quote": "that", "tag": "subord-conj" },
+        { "quote": "the rabbit ate the carrot", "tag": "clause-marker" }
+      ],
+      "note": { "en": "'That' is a subordinating conjunction introducing an object clause (it only connects, no meaning). 我看见兔子吃了胡萝卜。", "zh": "that 是引导宾语从句的从属连词（只起连接作用，无实义）。我看见兔子吃了胡萝卜。" }
+    },
+    {
+      "id": "e12",
+      "text": "The rabbit will skip lunch because he is busy making a video.",
+      "annotations": [
+        { "quote": "because", "tag": "subord-conj" },
+        { "quote": "he is busy making a video", "tag": "clause-marker" }
+      ],
+      "note": { "en": "'Because' is a SUBORDINATING conjunction (reason adverbial clause) — so it can't pair with the coordinating 'so'. 兔子不吃午餐，因为他在忙着做视频。", "zh": "because 是从属连词（原因状语从句）——所以不能和并列连词 so 连用。兔子不吃午餐，因为他在忙着做视频。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Which logical relation does 'The rabbit ate neither apples nor pears' express?", "zh": "“The rabbit ate neither apples nor pears”表达哪种逻辑关系？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Cause-effect", "zh": "因果关系" } },
+        { "id": "b", "text": { "en": "Negative parallel", "zh": "否定的并列关系" } },
+        { "id": "c", "text": { "en": "Contrast", "zh": "转折关系" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'Neither...nor' adds two items in the negative — a negative parallel relation, still a coordinating conjunction.", "zh": "neither...nor 在否定意义上把两样东西加起来——否定的并列关系，仍属并列连词。" },
+      "refs": ["c3", "e3"]
+    },
+    {
+      "id": "q2",
+      "type": "fill",
+      "prompt": { "en": "Proximity rule — fill the verb: 'Either the rabbit or I ____ going to the party.'", "zh": "就近原则——填动词：“Either the rabbit or I ____ going to the party.”" },
+      "answers": ["am"],
+      "explain": { "en": "With 'either...or', the verb agrees with the nearest subject 'I', so it is 'am'.", "zh": "用 either...or 时谓语动词由最近的主语“I”决定，所以是 am。" },
+      "refs": ["c5", "e6"]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": { "en": "In 'The rabbit will skip lunch, for he is busy', what is 'for'?", "zh": "在“The rabbit will skip lunch, for he is busy”中，“for”是什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "A preposition meaning 'for the purpose of'", "zh": "表“为了”的介词" } },
+        { "id": "b", "text": { "en": "A coordinating conjunction meaning 'because'", "zh": "表“因为”的并列连词" } },
+        { "id": "c", "text": { "en": "A subordinating conjunction meaning 'although'", "zh": "表“虽然”的从属连词" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "Here 'for' is the coordinating conjunction meaning 'because' (result first, then cause), not the preposition.", "zh": "这里 for 是表“因为”的并列连词（前果后因），不是介词。" },
+      "refs": ["c7", "e10"]
+    },
+    {
+      "id": "q4",
+      "type": "error",
+      "sentence": "Because the rabbit is busy, so he won't go to the party.",
+      "fix": "Because the rabbit is busy, he won't go to the party.",
+      "explain": { "en": "'Because' is a subordinating conjunction; it cannot pair with the coordinating 'so' in the same sentence. Drop 'so'.", "zh": "because 是从属连词，不能在同一句里和并列连词 so 连用。去掉 so。" },
+      "refs": ["c8", "e12"]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": { "en": "Which word is a SUBORDINATING conjunction?", "zh": "下列哪个是从属连词？" },
+      "choices": [
+        { "id": "a", "text": { "en": "but", "zh": "but" } },
+        { "id": "b", "text": { "en": "or", "zh": "or" } },
+        { "id": "c", "text": { "en": "although", "zh": "although" } }
+      ],
+      "answer": "c",
+      "explain": { "en": "'Although' introduces a concession (adverbial) clause — a subordinating conjunction. 'But' and 'or' are coordinating.", "zh": "although 引导让步状语从句——从属连词。but 和 or 是并列连词。" },
+      "refs": ["c8"]
+    },
+    {
+      "id": "q6",
+      "type": "fill",
+      "prompt": { "en": "Fill the contrast conjunction (the formal, bookish one starting with N): 'The carrots were ready; ____, the rabbit was still making videos.'", "zh": "填表转折的连词（书面、文绉绉、以 N 开头的那个）：“The carrots were ready; ____, the rabbit was still making videos.”" },
+      "answers": ["nevertheless"],
+      "explain": { "en": "'Nevertheless' negates the prior information to mark a contrast; it is more formal than 'however' and sounds bookish in speech.", "zh": "nevertheless 否定前面的信息以标转折；比 however 更书面，口语里听起来文绉绉。" },
+      "refs": ["c6", "e8"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "Why the rabbit skips the party", "zh": "兔子为什么不去聚会" },
+    "targets": ["coord-conj", "subord-conj"],
+    "lines": [
+      { "speaker": "Wolf", "text": "The rabbit is smart and cute, but he's always busy.", "annotations": [ { "quote": "and", "tag": "coord-conj" }, { "quote": "but", "tag": "coord-conj" } ], "note": { "en": "Parallel ('and') then contrast ('but') — both coordinating.", "zh": "先并列（and）再转折（but）——都是并列连词。" } },
+      { "speaker": "Rabbit", "text": "The carrots were ready, so I should eat, however, I'm still making videos.", "annotations": [ { "quote": "so", "tag": "coord-conj" }, { "quote": "however", "tag": "coord-conj" } ], "note": { "en": "Cause-effect ('so') and contrast ('however').", "zh": "因果（so）与转折（however）。" } },
+      { "speaker": "Wolf", "text": "So either the rabbit or I am going tonight?", "annotations": [ { "quote": "either", "tag": "coord-conj" }, { "quote": "or", "tag": "coord-conj" }, { "quote": "am", "tag": "verb-linking" } ], "note": { "en": "Alternative relation; 'am' follows the proximity rule (nearest subject 'I').", "zh": "选择关系；am 遵循就近原则（最近的主语是“I”）。" } },
+      { "speaker": "Rabbit", "text": "You go, because I am busy making a video.", "annotations": [ { "quote": "because", "tag": "subord-conj" }, { "quote": "I am busy making a video", "tag": "clause-marker" } ], "note": { "en": "'Because' is subordinating — note we don't add 'so'.", "zh": "because 是从属连词——注意不能再加 so。" } }
+    ]
+  }
+}

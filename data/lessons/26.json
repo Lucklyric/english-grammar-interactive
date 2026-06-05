@@ -1,0 +1,217 @@
+{
+  "id": "26",
+  "slug": "ellipsis-in-english-grammar",
+  "category": "sentence-structure",
+  "shape": "standard",
+  "order": 30,
+  "title": { "en": "Ellipsis in English Grammar", "zh": "英语中的省略" },
+  "summary": { "en": "Both Chinese and English drop repeated or obvious elements to stay concise. Ellipsis splits into lexical (articles, prepositions, infinitives, clause markers) and syntactic (simple, compound, and complex sentences).", "zh": "中英文说话写作时都会省略重复或显而易见的成分，让表达更简洁。省略分为词法上的省略（冠词、介词、不定式、引导词）和句法上的省略（简单句、并列句、复杂句）。" },
+  "source": { "videoId": "owyLrGRVQ1I", "youtube": "https://www.youtube.com/watch?v=owyLrGRVQ1I", "duration": "9:33", "script": "scripts/26-ellipsis-in-english-grammar.md" },
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "Dropping the article before a unique title", "zh": "独一无二称号前的冠词省略" },
+      "body": { "en": "Before a one-of-a-kind title or office — Chairman, President, Head — that is unique within its scope, the definite article 'the' can be dropped, because there is usually only one such position.", "zh": "在某个范围内独一无二的称号或身份前，定冠词可以省略。比如 Chairman、President、Head 这样的职位往往就那么一个，所以可以省略前面的 The。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "Chairman, President, Head这样的职位往往就那么一个"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "The second article in a coordinated pair", "zh": "并列名词中的第二个冠词" },
+      "body": { "en": "When two coordinated nouns share the same article, the second article can be dropped as long as it causes no ambiguity. Beware: 'a teacher and video creator' is one person; 'a teacher and a video creator' is two — keeping or dropping the article changes the meaning.", "zh": "两个并列的名词前有相同的冠词时，在不引发歧义的情况下，第二个冠词可省略。但要注意：a teacher and video creator 指同一个人，a teacher and a video creator 则指两个人——有无冠词意思不同，不能随意省略。" },
+      "exampleRefs": ["e2"],
+      "sourceRef": "第二个冠词可省略"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Dropping time prepositions", "zh": "时间介词的省略" },
+      "body": { "en": "The most common preposition omission is the time preposition. 'I ate ten carrots that day' drops 'on' before 'that day'; 'I worked sixty hours last week' drops 'for' before the hours and 'in' before 'last week'.", "zh": "最常见的省略介词情况就是时间介词。I ate ten carrots that day 省略了 that day 前的 on；I worked sixty hours last week 省略了 sixty hours 前的 for 和 last week 前的 in。" },
+      "exampleRefs": ["e3"],
+      "sourceRef": "最常见的省略介词的情况就是时间介词"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Dropping clause markers", "zh": "从句引导词的省略" },
+      "body": { "en": "In an adjective (relative) clause, a relative pronoun acting as object can be dropped: 'This is the rabbit we met yesterday.' In an object clause, the 'that' can be dropped: 'The rabbit said carrots were tasty.'", "zh": "定语从句里，关系代词在从句中作宾语时可省略：This is the rabbit we met yesterday。宾语从句中的 that 也可以省略：The rabbit said carrots were tasty。" },
+      "exampleRefs": ["e4"],
+      "sourceRef": "关系代词在从句中做宾语可以省略"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "Ellipsis in simple sentences", "zh": "简单句中的省略" },
+      "body": { "en": "Imperatives drop the subject 'you' — that is their hallmark: 'Open the door, please.' Exclamations also drop heavily: 'What a smart rabbit!' omits 'He is'; 'How time flies!' omits the adverb 'fast'.", "zh": "起始句（祈使句）省略主语 you，这是它的典型特征：Open the door, please。感叹句中的省略也很常见：What a smart rabbit! 省略了 He is；How time flies! 省略了副词 fast。" },
+      "exampleRefs": ["e5"],
+      "sourceRef": "省略主语 you 是起始句的典型特征"
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "Ellipsis in compound sentences", "zh": "并列句中的省略" },
+      "body": { "en": "Coordination implies similar meaning, so repeated parts in the second clause drop out. The repeated subject goes ('The rabbit went home and ate a carrot'), and so can a repeated verb+object ('The rabbit has eaten the carrot, but the wolf hasn't').", "zh": "并列暗示相似的意思，所以第二个分句中重复的部分可省略。重复的主语省略：The rabbit went home after work and ate a carrot；重复的谓语动词加宾语也可省略：The rabbit has eaten the carrot, but the wolf hasn't。" },
+      "exampleRefs": ["e6", "e7"],
+      "sourceRef": "并列句中的第二个或者后几个成分中，重复的部分就可以省略"
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "Ellipsis in complex sentences — the subordinate clause", "zh": "复杂句中的省略——从句" },
+      "body": { "en": "In a complex sentence, ellipsis can hit the subordinate clause. After 'When young', the subject and 'be' are both dropped, and 'You are smarter than I' is short for 'than I am smart'. The missing info is recoverable from the main clause.", "zh": "复杂句中，省略可发生在从句里。When young 省略了主语和 be 动词；You are smarter than I 其实是 than I am smart 的省略。省略的信息能从主句还原出来。" },
+      "exampleRefs": ["e8"],
+      "sourceRef": "其他类型的状语从句也可以省略"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "Wolf is Head of our group.",
+      "annotations": [
+        { "quote": "Head", "tag": "subject-complement" }
+      ],
+      "note": { "en": "'Head' is a unique office, so 'the' before it is dropped — 'Wolf is the Head of our group.'", "zh": "Head 是独一无二的职位，所以前面的 the 省略了——完整为 Wolf is the Head of our group。" }
+    },
+    {
+      "id": "e2",
+      "text": "Both the rabbit and wolf will be invited to the party.",
+      "annotations": [
+        { "quote": "the rabbit", "tag": "subject" },
+        { "quote": "wolf", "tag": "subject" }
+      ],
+      "note": { "en": "The two coordinated nouns share 'the', so the second article is dropped — full form 'Both the rabbit and the wolf'.", "zh": "两个并列名词共用 the，第二个冠词省略——完整为 Both the rabbit and the wolf。" }
+    },
+    {
+      "id": "e3",
+      "text": "I ate ten carrots that day.",
+      "annotations": [
+        { "quote": "I", "tag": "subject" },
+        { "quote": "ate", "tag": "verb-transitive" },
+        { "quote": "ten carrots", "tag": "object" },
+        { "quote": "that day", "tag": "adverbial" }
+      ],
+      "note": { "en": "The time preposition 'on' before 'that day' is dropped — full form 'I ate ten carrots on that day.'", "zh": "that day 前的时间介词 on 省略了——完整为 I ate ten carrots on that day。" }
+    },
+    {
+      "id": "e4",
+      "text": "This is the rabbit we met yesterday.",
+      "annotations": [
+        { "quote": "the rabbit", "tag": "subject-complement" },
+        { "quote": "we met yesterday", "tag": "attributive" }
+      ],
+      "note": { "en": "The relative pronoun acting as the object of 'met' is dropped — full form 'the rabbit that/whom we met yesterday'.", "zh": "作 met 宾语的关系代词省略了——完整为 the rabbit that/whom we met yesterday。" }
+    },
+    {
+      "id": "e5",
+      "text": "Open the door, please.",
+      "annotations": [
+        { "quote": "Open", "tag": "verb-transitive" },
+        { "quote": "the door", "tag": "object" }
+      ],
+      "note": { "en": "An imperative: the subject 'you' is dropped — that is the hallmark of imperatives.", "zh": "祈使句：省略了主语 you，这是祈使句的典型特征。" }
+    },
+    {
+      "id": "e6",
+      "text": "The rabbit went home after work and ate a carrot.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "subject" },
+        { "quote": "went", "tag": "verb-intransitive" },
+        { "quote": "ate", "tag": "verb-transitive" },
+        { "quote": "a carrot", "tag": "object" }
+      ],
+      "note": { "en": "The repeated subject of the second clause ('The rabbit') is dropped before 'ate'.", "zh": "第二个分句重复的主语 The rabbit 在 ate 前被省略了。" }
+    },
+    {
+      "id": "e7",
+      "text": "The rabbit has eaten the carrot, but the wolf hasn't.",
+      "annotations": [
+        { "quote": "the wolf", "tag": "subject" },
+        { "quote": "hasn't", "tag": "auxiliary" }
+      ],
+      "note": { "en": "The repeated verb+object 'eaten the carrot' is dropped after 'hasn't'.", "zh": "重复的谓语动词加宾语 eaten the carrot 在 hasn't 后被省略了。" }
+    },
+    {
+      "id": "e8",
+      "text": "When young, the rabbit went to school every day.",
+      "annotations": [
+        { "quote": "When young", "tag": "adverbial" },
+        { "quote": "the rabbit", "tag": "subject" },
+        { "quote": "went", "tag": "verb-intransitive" }
+      ],
+      "note": { "en": "The time clause drops both subject and 'be' — full form 'When the rabbit was young, he went to school every day.'", "zh": "时间状语从句省略了主语和 be 动词——完整为 When the rabbit was young, he went to school every day。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Which phrase refers to ONE person (a single individual who is both)?", "zh": "哪个短语指的是同一个人（既是老师又是制作者）？" },
+      "choices": [
+        { "id": "a", "text": { "en": "a teacher and video creator", "zh": "a teacher and video creator" } },
+        { "id": "b", "text": { "en": "a teacher and a video creator", "zh": "a teacher and a video creator" } },
+        { "id": "c", "text": { "en": "the teacher and the video creator", "zh": "the teacher and the video creator" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "Dropping the second article ('a teacher and video creator') marks one person with both identities; repeating it marks two people.", "zh": "省略第二个冠词（a teacher and video creator）表示一个人兼具两种身份；重复冠词则表示两个人。" },
+      "refs": ["c2"]
+    },
+    {
+      "id": "q2",
+      "type": "fill",
+      "prompt": { "en": "Restore the dropped time preposition: 'I worked sixty hours last week' → 'I worked ____ sixty hours in last week.'", "zh": "补回省略的时间介词：'I worked sixty hours last week' → 'I worked ____ sixty hours in last week.'" },
+      "answers": ["for"],
+      "explain": { "en": "'For' before the duration 'sixty hours' is dropped in the concise version; 'in' before 'last week' is also dropped.", "zh": "简洁说法省略了时长 sixty hours 前的 for；last week 前的 in 也被省略。" },
+      "refs": ["c3"]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": { "en": "In 'The rabbit said carrots were tasty', what has been dropped?", "zh": "在 'The rabbit said carrots were tasty' 中，省略了什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "The subject 'the rabbit'", "zh": "主语 the rabbit" } },
+        { "id": "b", "text": { "en": "The clause marker 'that'", "zh": "从句引导词 that" } },
+        { "id": "c", "text": { "en": "The verb 'said'", "zh": "动词 said" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "The 'that' introducing the object clause is dropped — full form 'The rabbit said that carrots were tasty.'", "zh": "引导宾语从句的 that 被省略了——完整为 The rabbit said that carrots were tasty。" },
+      "refs": ["c4"]
+    },
+    {
+      "id": "q4",
+      "type": "error",
+      "sentence": "When was young, the rabbit went to school every day.",
+      "fix": "When young, the rabbit went to school every day.",
+      "explain": { "en": "In this clause both the subject and 'be' are dropped together; you can't leave 'was' stranded. Use 'When young' (or write it out fully as 'When the rabbit was young').", "zh": "这种从句要把主语和 be 动词一起省略，不能只剩 was。应说 When young（或写全为 When the rabbit was young）。" },
+      "refs": ["c7"]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": { "en": "Why can the subject 'you' be dropped in 'Open the door, please'?", "zh": "为什么 'Open the door, please' 可以省略主语 you？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Because it is an imperative, where dropping 'you' is the hallmark", "zh": "因为它是祈使句，省略 you 是其典型特征" } },
+        { "id": "b", "text": { "en": "Because 'door' is the real subject", "zh": "因为 door 才是真正的主语" } },
+        { "id": "c", "text": { "en": "Because 'please' replaces the subject", "zh": "因为 please 代替了主语" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "Imperatives address the listener directly, so the subject 'you' is understood and dropped.", "zh": "祈使句直接对听者说话，主语 you 不言自明，因此省略。" },
+      "refs": ["c5"]
+    },
+    {
+      "id": "q6",
+      "type": "fill",
+      "prompt": { "en": "'The rabbit likes carrots, and the wolf ____ apples.' What word is dropped here in the concise version?", "zh": "'The rabbit likes carrots, and the wolf ____ apples.' 简洁说法省略了哪个词？" },
+      "answers": ["likes"],
+      "explain": { "en": "The repeated verb 'likes' is dropped in the second clause — 'The rabbit likes carrots, and the wolf apples.'", "zh": "第二个分句省略了重复的动词 likes——The rabbit likes carrots, and the wolf apples。" },
+      "refs": ["c6"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "Saying less, meaning the same", "zh": "说得更少，意思不变" },
+    "targets": ["subject", "verb-transitive", "object", "auxiliary"],
+    "lines": [
+      { "speaker": "Wolf", "text": "What did you eat?", "annotations": [ { "quote": "did", "tag": "auxiliary" }, { "quote": "you", "tag": "subject" }, { "quote": "eat", "tag": "verb-transitive" } ], "note": { "en": "Full question.", "zh": "完整问句。" } },
+      { "speaker": "Rabbit", "text": "A carrot.", "annotations": [ { "quote": "A carrot", "tag": "object" } ], "note": { "en": "Spoken ellipsis: 'I ate' (subject + verb) is dropped, leaving only the object.", "zh": "口语省略：省略了 I ate（主语加谓语），只留下宾语。" } },
+      { "speaker": "Wolf", "text": "Who ate the carrot?", "annotations": [ { "quote": "Who", "tag": "subject" }, { "quote": "ate", "tag": "verb-transitive" }, { "quote": "the carrot", "tag": "object" } ], "note": { "en": "Full question.", "zh": "完整问句。" } },
+      { "speaker": "Rabbit", "text": "The rabbit.", "annotations": [ { "quote": "The rabbit", "tag": "subject" } ], "note": { "en": "Only the subject remains; 'ate the carrot' (verb + object) is dropped.", "zh": "只留下主语；ate the carrot（谓语加宾语）被省略。" } },
+      { "speaker": "Wolf", "text": "Would you like to eat a carrot?", "annotations": [ { "quote": "you", "tag": "subject" }, { "quote": "to eat a carrot", "tag": "object" } ], "note": { "en": "Full offer.", "zh": "完整问句。" } },
+      { "speaker": "Rabbit", "text": "Yes, I'd like to.", "annotations": [ { "quote": "I", "tag": "subject" }, { "quote": "to", "tag": "non-finite" } ], "note": { "en": "Part of the object infinitive is dropped but 'to' is kept — 'I'd like to (eat a carrot).'", "zh": "省略了宾语不定式的一部分，但保留了 to——I'd like to (eat a carrot)。" } }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "id": "25",
+  "slug": "emphasis-in-english",
+  "category": "sentence-structure",
+  "shape": "deep-dive",
+  "order": 29,
+  "title": { "en": "Emphasis in English", "zh": "英语中的强调" },
+  "summary": { "en": "Emphasis means highlighting one piece of information in a sentence. English does it four ways: tone, written formatting, lexical emphasis (really / do / repetition), and structural emphasis (inversion, exclamatives, and the It-is...that cleft).", "zh": "强调就是突出一句话中的某一个信息。英语主要有四种方式：语气、书面格式、词汇强调（really / do / 重复），以及句式强调（倒装、感叹、It is...that 强调句）。" },
+  "source": { "videoId": "KkTvt3prZks", "youtube": "https://www.youtube.com/watch?v=KkTvt3prZks", "duration": "11:38", "script": "scripts/25-emphasis-in-english.md" },
+  "tags": [
+    { "id": "emphasizer", "label": { "en": "emphasizing word", "zh": "强调词" }, "abbr": "Emph", "color": "#dc2626", "underline": "solid" },
+    { "id": "do-emphatic", "label": { "en": "emphatic do", "zh": "强调助动词" }, "abbr": "do", "color": "#4f46e5", "underline": "solid" },
+    { "id": "cleft-frame", "label": { "en": "cleft frame (It is...that)", "zh": "强调句框架" }, "abbr": "Clft", "color": "#0891b2", "underline": "dotted" },
+    { "id": "focus", "label": { "en": "focused element", "zh": "被强调成分" }, "abbr": "Foc", "color": "#ea580c", "underline": "solid" },
+    { "id": "fronted", "label": { "en": "fronted element", "zh": "前置成分" }, "abbr": "Frt", "color": "#9333ea", "underline": "dashed" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "What emphasis means", "zh": "什么是强调" },
+      "body": { "en": "Emphasis is a broad idea, not one fixed structure: it is any method of making one piece of information stand out from the several pieces a sentence carries. Take the plain sentence 'Rabbits like carrots' — a complete subject-verb-object sentence with three pieces of information: the doer, the action, and the receiver. Emphasis decides which of them to spotlight.", "zh": "强调是一个比较笼统的概念，并不是某一特定句式：它是用某种方法，突出一句话中包含的多个信息中的某一个。比如普通句子“Rabbits like carrots”——完整的主谓宾，含三个信息：动作发出者、动作本身、动作承受者。强调就是决定突出其中哪一个。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "强调就是用某种方法突出一句话中包含的多个信息中的某一个信息"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "Tone: stress, interjections, intonation", "zh": "语气：重读、叹词、语调" },
+      "body": { "en": "The simplest spoken emphasis is just stressing the word you mean. 'Rabbits like carrots' (not the wolf), 'Rabbits like carrots' (they like them, not hate them), 'Rabbits like carrots' (not greens). You can also add an interjection — Wow / Oh my god / Bloody hell — to throw weight onto the whole sentence.", "zh": "口语中最简单的强调，就是把要强调的词着重说出来。“Rabbits like carrots”（是兔子而不是狼）、“Rabbits like carrots”（是喜欢而不是讨厌）、“Rabbits like carrots”（是胡萝卜而不是青菜）。也可以加叹词——Wow / Oh my god / Bloody hell——来给整句加重语气。" },
+      "exampleRefs": ["e2"],
+      "sourceRef": "最简单的强调方式是什么？其实就是把需要强调的内容着重说出来嘛"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Written formatting", "zh": "书面格式" },
+      "body": { "en": "When sound is not available, formatting carries the weight: punctuation, bold, italics, underline, and capitalization are all emphasis. These add no information and change no structure — they only make one part louder on the page.", "zh": "当无法通过声音传递信息时，就用格式来承担强调：标点符号、粗体、斜体、下划线、大小写都是强调。它们不增添信息、不改变结构，只是让某一部分在纸面上更“响”。" },
+      "exampleRefs": [],
+      "sourceRef": "最简单的方法就是标点符号、粗体斜体、大小写嘛"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Lexical emphasis: adding an emphasizing word", "zh": "词汇强调：增添强调词" },
+      "body": { "en": "The most common everyday method is to insert an emphasizing word. 'really' stresses a verb (Rabbits really like carrots), 'very' stresses an adverb (I eat very fast), a noun (the very beginning), or an adjective; 'just' stresses an adjective (This is just unbelievable); 'ever' stresses a verb (All I ever wanted...). Phrases like 'in the world' / 'on earth' stress a question word (What on earth...). Remove these words and the meaning stays — only the emphasis is gone.", "zh": "最常见的日常强调方式，就是加一个强调词。really 强调动词（Rabbits really like carrots），very 强调副词（I eat very fast）、名词（the very beginning）或形容词；just 强调形容词（This is just unbelievable）；ever 强调动词（All I ever wanted...）。in the world / on earth 这类词组强调疑问词（What on earth...）。把这些词去掉，句意不变——只是没那么强调了。" },
+      "exampleRefs": ["e3", "e4", "e5"],
+      "sourceRef": "比如，rabbits really like carrots"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "Lexical emphasis: repetition", "zh": "词汇强调：重复" },
+      "body": { "en": "Repeating a word piles on emphasis: 'I eat very very very fast', 'He went on and on and on', 'He walked and walked and walked'. The repeated element marks intensity or duration.", "zh": "重复某个词可以叠加强调：“I eat very very very fast”、“He went on and on and on”（说个不停）、“He walked and walked and walked”（走个不停）。重复的部分表示程度或持续。" },
+      "exampleRefs": ["e6"],
+      "sourceRef": "咱们有时候还能重复某个词做强调"
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "Emphatic do/does/did", "zh": "强调助动词 do/does/did" },
+      "body": { "en": "To stress the predicate verb — usually the core of the sentence — put the auxiliary do/does/did before it even in an affirmative sentence: 'Rabbits do like carrots', 'I did give you a thumbs up'. This works in writing where tone is lost, or when you do not want to add a word like 'really'. The auxiliary still agrees with tense and person.", "zh": "要强调谓语动词——它往往是句子的核心——可以在肯定句里也用助动词 do/does/did 放在它前面：“Rabbits do like carrots”（确实喜欢）、“I did give you a thumbs up”（确实点赞了）。书面缺少语气、或不想加 really 这类词时尤其有用。助动词仍按时态和人称变位。" },
+      "exampleRefs": ["e7", "e8"],
+      "sourceRef": "那么咱们可以在肯定句里也使用助动词do或者does"
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "Emphatic pronouns (myself)", "zh": "强调代词（myself）" },
+      "body": { "en": "In 'I can do it myself' and 'I myself went there', 'myself' is there only to emphasize — drop it and the meaning holds. That differs from 'I saw myself in the mirror', where 'myself' is a true object you cannot remove. So some grammars call the emphatic kind an emphatic pronoun rather than a reflexive pronoun.", "zh": "在“I can do it myself”（我自己能做）和“I myself went there”（我本人去了）中，myself 只为强调，去掉句意不变。这与“I saw myself in the mirror”（在镜子里看见自己）不同——那里的 myself 是不能去掉的真正宾语。因此有的语法把前者归为强调代词，而非反身代词。" },
+      "exampleRefs": ["e9"],
+      "sourceRef": "因此，有的语法体系也把这样的myself归类为代词中的强调代词，而不是算作反身代词"
+    },
+    {
+      "id": "c8",
+      "heading": { "en": "Structural emphasis: inversion & exclamatives", "zh": "句式强调：倒装与感叹" },
+      "body": { "en": "Move an element to the front and the sentence often becomes an inversion: 'Not a single carrot did I eat yesterday', 'Never have I met a wolf', 'Here comes the wolf'. Exclamatives are inherently emphatic: 'How big the carrot is' stresses the adjective; 'What a big carrot you've grown' stresses the whole noun phrase. (For inversion in depth, see the inversion lesson.)", "zh": "把某个成分提前，句子往往变成倒装句：“Not a single carrot did I eat yesterday”（昨天一根胡萝卜都没吃）、“Never have I met a wolf”（从没遇见过狼）、“Here comes the wolf”（狼来了）。感叹句本身自带强调：“How big the carrot is”强调形容词，“What a big carrot you've grown”强调整个名词短语。（倒装的细节见倒装专题。）" },
+      "exampleRefs": ["e10", "e11"],
+      "sourceRef": "感叹句其实本来就自带强调功能"
+    },
+    {
+      "id": "c9",
+      "heading": { "en": "The It is/was ... that cleft sentence", "zh": "It is/was ... that 强调句" },
+      "body": { "en": "The famous emphasis structure: take 'The rabbit will eat the carrot' and to stress the rabbit say 'It is the rabbit who/that will eat the carrot'. The main clause is the linking-verb frame 'It is the rabbit'; 'who/that will eat the carrot' is a relative-style clause modifying it — that by default, who for people. The same frame can spotlight almost any element of the sentence.", "zh": "最著名的强调句式：把“The rabbit will eat the carrot”要强调 the rabbit，就说“It is the rabbit who/that will eat the carrot”。主句是主系表框架“It is the rabbit”；“who/that will eat the carrot”是修饰它的从句——默认用 that，指人可用 who。同一框架几乎能突出句子的任何成分。" },
+      "exampleRefs": ["e12"],
+      "sourceRef": "It is the rabbit who or that will eat the carrot"
+    },
+    {
+      "id": "c10",
+      "heading": { "en": "Clefting subject, object, place, time", "zh": "强调主语、宾语、地点、时间" },
+      "body": { "en": "From 'I met a lovely rabbit in the field this morning': stress the subject → 'It was I that met a lovely rabbit...'; the object → 'It was a lovely rabbit that I met...'; place → 'It was in the field that I met...'; time → 'It was this morning that I met...'. The recipe: send the focused element to the front, use 'it' + a tensed form of 'be', then 'that' + a clause holding the rest. (Whether the place/time 'that'-clauses are true adverbial clauses is debated, but treat them that way to understand them.)", "zh": "由“I met a lovely rabbit in the field this morning”：强调主语→“It was I that met a lovely rabbit...”；宾语→“It was a lovely rabbit that I met...”；地点→“It was in the field that I met...”；时间→“It was this morning that I met...”。公式：把被强调成分提到开头，用 it + be 的相应变位，再用 that + 从句补全剩余信息。（地点/时间的 that 从句是否算状语从句有争议，但可用状语从句的思路理解。）" },
+      "exampleRefs": ["e13", "e14"],
+      "sourceRef": "一到开头去，用it加b动词要相应变位，再加强调的信息，然后再用一个that引导的从句，补全剩余信息"
+    },
+    {
+      "id": "c11",
+      "heading": { "en": "Spotting a cleft: remove It-is...that", "zh": "判断强调句的小窍门" },
+      "body": { "en": "A handy test: delete 'it is/was' and 'that/who', and the leftover words should still form the original sentence. From 'It was I who met a lovely rabbit in the field this morning', strip 'it was' and 'who' and you get 'I met a lovely rabbit in the field this morning'. If they recombine, it is a cleft.", "zh": "一个小窍门：去掉“it is/was”和“that/who”，剩下的词应仍能组成原句。从“It was I who met a lovely rabbit in the field this morning”去掉“it was”和“who”，得到“I met a lovely rabbit in the field this morning”。能复原，就是强调句。" },
+      "exampleRefs": ["e15"],
+      "sourceRef": "其实这也是判断这个强调句式的小窍门"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "Rabbits like carrots.",
+      "annotations": [
+        { "quote": "Rabbits", "tag": "subject" },
+        { "quote": "like", "tag": "verb-transitive" },
+        { "quote": "carrots", "tag": "object" }
+      ],
+      "note": { "en": "The plain, unemphasized base sentence: doer + action + receiver.", "zh": "未加强调的祖传例句：发出者 + 动作 + 承受者。" }
+    },
+    {
+      "id": "e2",
+      "text": "Bloody hell, rabbits like carrots.",
+      "annotations": [
+        { "quote": "Bloody hell", "tag": "emphasizer" }
+      ],
+      "note": { "en": "An interjection throws emphasis onto the whole sentence — pure tone, no change to structure.", "zh": "叹词把强调加在整句上——纯语气，不改变结构。" }
+    },
+    {
+      "id": "e3",
+      "text": "Rabbits really like carrots.",
+      "annotations": [
+        { "quote": "really", "tag": "emphasizer" },
+        { "quote": "like", "tag": "verb-transitive" }
+      ],
+      "note": { "en": "'really' stresses the verb 'like' — truly, not falsely. Remove it and the meaning stays.", "zh": "really 强调动词 like——真的喜欢，不骗你。去掉它句意不变。" }
+    },
+    {
+      "id": "e4",
+      "text": "I eat very fast.",
+      "annotations": [
+        { "quote": "very", "tag": "emphasizer" },
+        { "quote": "fast", "tag": "adverbial" }
+      ],
+      "note": { "en": "'very' stresses the adverb 'fast'. You can stack it: I eat very very very fast.", "zh": "very 强调副词 fast。还能叠加：I eat very very very fast。" }
+    },
+    {
+      "id": "e5",
+      "text": "What on earth are you talking about?",
+      "annotations": [
+        { "quote": "on earth", "tag": "emphasizer" },
+        { "quote": "What", "tag": "reference-class" }
+      ],
+      "note": { "en": "'on earth' (or 'in the world') stresses the question word 'What'. Do not translate it literally.", "zh": "on earth（或 in the world）强调疑问词 What。不要字面翻译。" }
+    },
+    {
+      "id": "e6",
+      "text": "He went on and on and on.",
+      "annotations": [
+        { "quote": "on and on and on", "tag": "emphasizer" }
+      ],
+      "note": { "en": "Repetition marks unrelenting duration — he went on and on without stopping.", "zh": "重复表示没完没了的持续——说个不停。" }
+    },
+    {
+      "id": "e7",
+      "text": "Rabbits do like carrots.",
+      "annotations": [
+        { "quote": "do", "tag": "do-emphatic" },
+        { "quote": "like", "tag": "verb-transitive" }
+      ],
+      "note": { "en": "Not a negative — the extra 'do' is emphatic, stressing the verb 'like' even in writing.", "zh": "这不是否定句——额外的 do 是强调，即便在书面中也突出动词 like。" }
+    },
+    {
+      "id": "e8",
+      "text": "I did give you a thumbs up.",
+      "annotations": [
+        { "quote": "did", "tag": "do-emphatic" },
+        { "quote": "give", "tag": "verb-transitive" }
+      ],
+      "note": { "en": "Emphatic 'did' in the past: I really did do it. The verb stays in base form 'give'.", "zh": "过去时的强调 did：我确实做了。动词保持原形 give。" }
+    },
+    {
+      "id": "e9",
+      "text": "I myself went there.",
+      "annotations": [
+        { "quote": "myself", "tag": "emphasizer" },
+        { "quote": "went", "tag": "verb-intransitive" }
+      ],
+      "note": { "en": "An emphatic pronoun — drop 'myself' and the meaning holds, unlike the reflexive in 'I saw myself'.", "zh": "强调代词——去掉 myself 句意不变，不同于“I saw myself”里的反身代词。" }
+    },
+    {
+      "id": "e10",
+      "text": "Never have I met a wolf.",
+      "annotations": [
+        { "quote": "Never", "tag": "fronted" },
+        { "quote": "have", "tag": "auxiliary" },
+        { "quote": "I", "tag": "subject" }
+      ],
+      "note": { "en": "Fronting 'Never' forces inversion of auxiliary and subject — emphasis by structure.", "zh": "把 Never 提前，迫使助动词与主语倒装——靠结构强调。" }
+    },
+    {
+      "id": "e11",
+      "text": "What a big carrot you've grown!",
+      "annotations": [
+        { "quote": "What", "tag": "fronted" },
+        { "quote": "a big carrot", "tag": "focus" }
+      ],
+      "note": { "en": "A 'What'-exclamative spotlights the whole noun phrase 'a big carrot'. Exclamatives are inherently emphatic.", "zh": "What 感叹句突出整个名词短语 a big carrot。感叹句本身自带强调。" }
+    },
+    {
+      "id": "e12",
+      "text": "It is the rabbit who will eat the carrot.",
+      "annotations": [
+        { "quote": "It is", "tag": "cleft-frame" },
+        { "quote": "the rabbit", "tag": "focus" },
+        { "quote": "who", "tag": "clause-marker" }
+      ],
+      "note": { "en": "Cleft of the subject: frame 'It is ... who/that ...' spotlights 'the rabbit'. 'who' is used for a person.", "zh": "强调主语：用“It is ... who/that ...”框架突出 the rabbit。指人用 who。" }
+    },
+    {
+      "id": "e13",
+      "text": "It was in the field that I met a lovely rabbit this morning.",
+      "annotations": [
+        { "quote": "It was", "tag": "cleft-frame" },
+        { "quote": "in the field", "tag": "focus" },
+        { "quote": "that", "tag": "clause-marker" }
+      ],
+      "note": { "en": "Cleft of the place adverbial — equivalent to 'where I met a lovely rabbit this morning'.", "zh": "强调地点状语——相当于“where I met a lovely rabbit this morning”。" }
+    },
+    {
+      "id": "e14",
+      "text": "It was this morning that I met a lovely rabbit in the field.",
+      "annotations": [
+        { "quote": "It was", "tag": "cleft-frame" },
+        { "quote": "this morning", "tag": "focus" },
+        { "quote": "that", "tag": "clause-marker" }
+      ],
+      "note": { "en": "Cleft of the time adverbial — equivalent to 'when I met a lovely rabbit in the field'.", "zh": "强调时间状语——相当于“when I met a lovely rabbit in the field”。" }
+    },
+    {
+      "id": "e15",
+      "text": "It was I who met a lovely rabbit in the field this morning.",
+      "annotations": [
+        { "quote": "It was", "tag": "cleft-frame" },
+        { "quote": "I", "tag": "focus", "occurrence": 2 },
+        { "quote": "who", "tag": "clause-marker" }
+      ],
+      "note": { "en": "Test: strip 'It was' and 'who' → 'I met a lovely rabbit in the field this morning'. It recombines, so it's a cleft.", "zh": "测试：去掉“It was”和“who”→“I met a lovely rabbit in the field this morning”。能复原，所以是强调句。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "In 'Rabbits do like carrots', what is the job of 'do'?", "zh": "在“Rabbits do like carrots”中，“do”起什么作用？" },
+      "choices": [
+        { "id": "a", "text": { "en": "It makes the sentence negative", "zh": "把句子变成否定" } },
+        { "id": "b", "text": { "en": "It emphasizes the verb 'like'", "zh": "强调动词 like" } },
+        { "id": "c", "text": { "en": "It turns the sentence into a question", "zh": "把句子变成疑问" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "Emphatic 'do' in an affirmative sentence stresses the predicate verb 'like' — no negation, no question.", "zh": "肯定句里的强调 do 突出谓语动词 like——既不否定，也不疑问。" },
+      "refs": ["c6", "e7"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "Which sentence is a cleft (It-is...that) emphasis structure?", "zh": "哪一句是 It is...that 强调句？" },
+      "choices": [
+        { "id": "a", "text": { "en": "It was in the field that I met a lovely rabbit this morning.", "zh": "It was in the field that I met a lovely rabbit this morning." } },
+        { "id": "b", "text": { "en": "It is raining, so I stayed home.", "zh": "It is raining, so I stayed home." } },
+        { "id": "c", "text": { "en": "It is good that you came early.", "zh": "It is good that you came early." } }
+      ],
+      "answer": "a",
+      "explain": { "en": "Only (a) passes the test: remove 'It was' and 'that' and the rest recombines into 'I met a lovely rabbit in the field this morning'. The 'in the field' is the focused element.", "zh": "只有 (a) 通过测试：去掉“It was”和“that”后能复原成“I met a lovely rabbit in the field this morning”，被强调的是 in the field。" },
+      "refs": ["c10", "c11"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Make a cleft to stress the object 'a lovely rabbit': 'It was a lovely rabbit ____ I met in the field this morning.'", "zh": "用强调句强调宾语 a lovely rabbit：“It was a lovely rabbit ____ I met in the field this morning.”填引导词。" },
+      "answers": ["that"],
+      "explain": { "en": "The default cleft linker is 'that'. (Only 'who' may replace it when the focus is a person, which a rabbit is not here.)", "zh": "强调句默认引导词是 that。（只有被强调成分指人时才可改用 who，这里是兔子不行。）" },
+      "refs": ["c9", "c10"]
+    },
+    {
+      "id": "q4",
+      "type": "fill",
+      "prompt": { "en": "Add the emphasizing word that stresses the verb in 'Rabbits ____ like carrots' (an everyday adverb, not the auxiliary 'do').", "zh": "填一个强调动词的词，使“Rabbits ____ like carrots”强调动词（常用副词，不是助动词 do）。" },
+      "answers": ["really"],
+      "explain": { "en": "'really' is the everyday emphasizer for a verb. Remove it and the meaning is unchanged — only the emphasis is gone.", "zh": "really 是强调动词的常用词。去掉它句意不变——只是没那么强调。" },
+      "refs": ["c4", "e3"]
+    },
+    {
+      "id": "q5",
+      "type": "error",
+      "sentence": "It was the field where I met a lovely rabbit this morning.",
+      "fix": "It was in the field that I met a lovely rabbit this morning.",
+      "explain": { "en": "The cleft frame is 'It is/was + focus + that ...'. The focus here is the place adverbial 'in the field' (keep the preposition), and the linker is 'that', not 'where'.", "zh": "强调句框架是“It is/was + 被强调成分 + that ...”。这里被强调的是地点状语 in the field（保留介词），引导词用 that，不用 where。" },
+      "refs": ["c10"]
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": { "en": "Which 'myself' is an emphatic pronoun (removable without changing meaning)?", "zh": "哪个 myself 是强调代词（去掉不改变句意）？" },
+      "choices": [
+        { "id": "a", "text": { "en": "I saw myself in the mirror.", "zh": "I saw myself in the mirror." } },
+        { "id": "b", "text": { "en": "I myself went there.", "zh": "I myself went there." } },
+        { "id": "c", "text": { "en": "She helped herself to cake.", "zh": "She helped herself to cake." } }
+      ],
+      "answer": "b",
+      "explain": { "en": "In (b) 'myself' only emphasizes the subject and can be dropped. In (a) it is a true object you cannot remove, so it is reflexive.", "zh": "(b) 中 myself 只强调主语，可去掉。(a) 中它是不能去掉的真正宾语，是反身代词。" },
+      "refs": ["c7", "e9"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "Who really ate the carrot?", "zh": "到底是谁吃了胡萝卜？" },
+    "targets": ["do-emphatic", "cleft-frame", "focus", "emphasizer", "fronted"],
+    "lines": [
+      { "speaker": "Wolf", "text": "Rabbits really like carrots, don't they?", "annotations": [ { "quote": "really", "tag": "emphasizer" }, { "quote": "like", "tag": "verb-transitive" } ], "note": { "en": "Lexical emphasis: 'really' stresses the verb.", "zh": "词汇强调：really 强调动词。" } },
+      { "speaker": "Rabbit", "text": "We do like carrots — every single day.", "annotations": [ { "quote": "do", "tag": "do-emphatic" }, { "quote": "like", "tag": "verb-transitive" } ], "note": { "en": "Emphatic 'do' stresses the verb in an affirmative sentence.", "zh": "强调助动词 do 在肯定句里突出动词。" } },
+      { "speaker": "Wolf", "text": "But who ate my carrot this morning?", "annotations": [ { "quote": "who", "tag": "reference-class" } ], "note": { "en": "A plain question — the answer will be emphasized.", "zh": "普通提问——回答会用强调。" } },
+      { "speaker": "Rabbit", "text": "It was the rabbit next door that ate it, not me!", "annotations": [ { "quote": "It was", "tag": "cleft-frame" }, { "quote": "the rabbit next door", "tag": "focus" }, { "quote": "that", "tag": "clause-marker" } ], "note": { "en": "Cleft sentence spotlighting the subject 'the rabbit next door'.", "zh": "强调句突出主语 the rabbit next door。" } },
+      { "speaker": "Wolf", "text": "Never have I trusted a rabbit!", "annotations": [ { "quote": "Never", "tag": "fronted" }, { "quote": "have", "tag": "auxiliary" }, { "quote": "I", "tag": "subject" } ], "note": { "en": "Fronted 'Never' triggers inversion — structural emphasis.", "zh": "前置 Never 引发倒装——句式强调。" } },
+      { "speaker": "Rabbit", "text": "What a careless wolf you are!", "annotations": [ { "quote": "What", "tag": "fronted" }, { "quote": "a careless wolf", "tag": "focus" } ], "note": { "en": "A 'What'-exclamative — inherently emphatic.", "zh": "What 感叹句——本身自带强调。" } }
+    ]
+  }
+}

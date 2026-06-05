@@ -1,0 +1,209 @@
+{
+  "id": "39",
+  "slug": "english-grammar-sentence-components-classification",
+  "category": "foundations",
+  "shape": "tiny",
+  "order": 2,
+  "title": { "en": "Sentence Components & Sentence Classification", "zh": "句子成分 & 句子分类" },
+  "summary": { "en": "A quick map of the nine sentence components, then how sentences are classified two ways: by structure (simple / compound / complex) and by purpose (statement / question / command / exclamation).", "zh": "先快速梳理九种句子成分，再讲句子的两种分类：按结构（简单句／并列句／复杂句）和按用途（陈述句／疑问句／祈使句／感叹句）。" },
+  "source": { "videoId": "9j2ShKN-yTU", "youtube": "https://www.youtube.com/watch?v=9j2ShKN-yTU", "duration": "4:51", "script": "scripts/39-english-grammar-sentence-components-classification.md" },
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "Predicate vs. predicate verb", "zh": "谓语 vs. 谓语动词" },
+      "body": { "en": "A simple sentence's two main components are the subject and the predicate, and the core of the predicate is the predicate verb. But the predicate and the predicate verb are not the same thing. In 'the rabbit ate a carrot', the subject is 'the rabbit', the predicate is 'ate a carrot', while the predicate verb is just 'ate'. The object of 'ate' is 'a carrot'.", "zh": "简单句的两个主要句子成分是主语和谓语，谓语的核心是谓语动词。但谓语和谓语动词可不是一回事。在“the rabbit ate a carrot”里，主语是“the rabbit”，谓语是“ate a carrot”，而谓语动词只是“ate”，“ate”的宾语是“a carrot”。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "谓语和谓语动词可不是一回事"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "Object complement vs. subject complement", "zh": "宾语补语 vs. 主语补语（表语）" },
+      "body": { "en": "Some predicate verbs need an object complement after the object: in 'the rabbit considered the carrot tasty', 'the carrot' is the object and 'tasty' is the object complement. With a linking verb the same idea points back at the subject: in 'the carrot is tasty', 'tasty' describes the subject, so it is the subject complement, also called the predicative (表语).", "zh": "有的谓语动词在宾语后还需要宾语补语：在“the rabbit considered the carrot tasty”里，“the carrot”是宾语，“tasty”是宾语补语。用系动词时，同样的信息指回主语：在“the carrot is tasty”里，“tasty”补充说明主语，所以叫主语补语，又称表语。" },
+      "exampleRefs": ["e2", "e3"]
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Attributive, adverbial, and appositive", "zh": "定语、状语、同位语" },
+      "body": { "en": "Expand the sentence to 'the rabbit ate a tasty carrot quickly': 'tasty' modifies 'carrot', so it is an attributive; 'quickly' describes how 'ate' happened, so it is an adverbial. The last component is the appositive — an element that has equal standing with another (usually the subject or object), restating the same person or thing a different way. In 'the rabbit ate his lunch, a tasty carrot, quickly', 'a tasty carrot' renames 'his lunch', so it is an appositive.", "zh": "把句子扩充为“the rabbit ate a tasty carrot quickly”：“tasty”修饰限定“carrot”，所以是定语；“quickly”描述“ate”的情形状况，所以是状语。最后一种成分是同位语——和某个成分（一般是主语或宾语）有同等地位，把同一个人或事用不同方法再说一遍。在“the rabbit ate his lunch, a tasty carrot, quickly”里，“a tasty carrot”指的就是“his lunch”，所以是同位语。" },
+      "exampleRefs": ["e4", "e5"]
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Components don't map one-to-one to word classes", "zh": "句子成分与词性没有一一对应" },
+      "body": { "en": "The full list of components is: subject, predicate, predicate verb, object, object complement, subject complement (predicative), attributive, adverbial, and appositive. There is no one-to-one match between a component and a part of speech. An attributive, for example, can be an adjective, an adverb, a number, a verb's present participle, a prepositional phrase, and so on.", "zh": "句子成分的完整清单是：主语、谓语、谓语动词、宾语、宾语补语、主语补语（表语）、定语、状语、同位语。句子成分和词性之间没有一一对应的关系。比如定语就可能是形容词、副词、数字、动词的现在分词、介词短语等等。" }
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "Classifying by structure: simple / compound / complex", "zh": "按结构分类：简单句／并列句／复杂句" },
+      "body": { "en": "Join two or more simple sentences with a conjunction and you get a compound sentence (并列复合句), e.g. 'the carrot is tasty and the rabbit ate it'. If one sentence serves as a component inside another sentence, you get a complex sentence (主从复合句), e.g. 'the rabbit ate the carrot that is tasty' — here 'that is tasty' is a clause modifying 'the carrot', an attributive (adjective) clause. Simple, compound, and complex are the three English sentence types by structural complexity.", "zh": "用连词把两个或多个简单句连接起来，就成了并列句（并列复合句），如“the carrot is tasty and the rabbit ate it”。如果一个句子充当了另一个句子的某种成分，就得到复杂句（主从复合句），如“the rabbit ate the carrot that is tasty”——这里“that is tasty”是修饰限定“the carrot”的定语从句。简单句、并列句、复杂句就是按结构复杂度划分的三种英语句子。" },
+      "exampleRefs": ["e6", "e7"]
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "Classifying by purpose: statement / question / command / exclamation", "zh": "按用途分类：陈述句／疑问句／祈使句／感叹句" },
+      "body": { "en": "By purpose there are four classes. A statement states a fact. A question asks, and splits into yes/no ('did the rabbit eat the carrot?'), wh- ('what did the rabbit eat?'), alternative ('did the rabbit eat a carrot or an apple?'), and tag questions ('the rabbit ate a carrot, didn't he?'). A command (imperative) orders someone, e.g. 'eat the carrot'. An exclamation expresses feeling, e.g. 'what a tasty carrot'.", "zh": "按用途有四类。陈述句陈述事实。疑问句提问，又细分为一般疑问句（“did the rabbit eat the carrot?”，可用是／否回答）、特殊疑问句（“what did the rabbit eat?”，要用具体信息回答）、选择疑问句（“did the rabbit eat a carrot or an apple?”，要选一个答案）和反意疑问句（“the rabbit ate a carrot, didn't he?”，带附加疑问）。祈使句命令某人做事，如“eat the carrot”。感叹句表达感叹，如“what a tasty carrot”。" },
+      "exampleRefs": ["e8", "e9"]
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "The rabbit ate a carrot.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "subject" },
+        { "quote": "ate", "tag": "verb-transitive" },
+        { "quote": "a carrot", "tag": "object" }
+      ],
+      "note": { "en": "Subject 'the rabbit'; the predicate is 'ate a carrot', but the predicate verb is only 'ate', whose object is 'a carrot'.", "zh": "主语“the rabbit”；谓语是“ate a carrot”，但谓语动词只是“ate”，它的宾语是“a carrot”。" }
+    },
+    {
+      "id": "e2",
+      "text": "The rabbit considered the carrot tasty.",
+      "annotations": [
+        { "quote": "The rabbit", "tag": "subject" },
+        { "quote": "considered", "tag": "verb-transitive" },
+        { "quote": "the carrot", "tag": "object" },
+        { "quote": "tasty", "tag": "object-complement" }
+      ],
+      "note": { "en": "'The carrot' is the object; 'tasty' completes it — the object complement.", "zh": "“the carrot”是宾语；“tasty”补充它——宾语补语。" }
+    },
+    {
+      "id": "e3",
+      "text": "The carrot is tasty.",
+      "annotations": [
+        { "quote": "The carrot", "tag": "subject" },
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "tasty", "tag": "subject-complement" }
+      ],
+      "note": { "en": "The linking verb 'is' sends 'tasty' back to the subject. 'Tasty' is the subject complement (predicative, 表语).", "zh": "系动词“is”把“tasty”赋予主语。“tasty”是主语补语（表语）。" }
+    },
+    {
+      "id": "e4",
+      "text": "The rabbit ate a tasty carrot quickly.",
+      "annotations": [
+        { "quote": "tasty", "tag": "attributive" },
+        { "quote": "carrot", "tag": "object" },
+        { "quote": "quickly", "tag": "adverbial" }
+      ],
+      "note": { "en": "'Tasty' modifies 'carrot' (attributive); 'quickly' describes how 'ate' happened (adverbial).", "zh": "“tasty”修饰“carrot”（定语）；“quickly”描述“ate”的情形（状语）。" }
+    },
+    {
+      "id": "e5",
+      "text": "The rabbit ate his lunch, a tasty carrot, quickly.",
+      "annotations": [
+        { "quote": "his lunch", "tag": "object" },
+        { "quote": "a tasty carrot", "tag": "appositive" }
+      ],
+      "note": { "en": "'A tasty carrot' restates 'his lunch' — an appositive (equal standing with the object).", "zh": "“a tasty carrot”把“his lunch”再说一遍——同位语（与宾语同等地位）。" }
+    },
+    {
+      "id": "e6",
+      "text": "The carrot is tasty and the rabbit ate it.",
+      "annotations": [
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "and", "tag": "conjunction" },
+        { "quote": "ate", "tag": "verb-transitive" }
+      ],
+      "note": { "en": "Two simple sentences joined by the conjunction 'and' — a compound sentence (并列句).", "zh": "两个简单句被连词“and”连接——并列句。" }
+    },
+    {
+      "id": "e7",
+      "text": "The rabbit ate the carrot that is tasty.",
+      "annotations": [
+        { "quote": "ate", "tag": "verb-transitive" },
+        { "quote": "the carrot", "tag": "object" },
+        { "quote": "that", "tag": "clause-marker" },
+        { "quote": "is tasty", "tag": "attributive" }
+      ],
+      "note": { "en": "'That is tasty' is a clause that modifies 'the carrot' — an attributive (adjective) clause, making this a complex sentence.", "zh": "“that is tasty”是修饰“the carrot”的定语从句，于是这是复杂句。" }
+    },
+    {
+      "id": "e8",
+      "text": "What did the rabbit eat?",
+      "annotations": [
+        { "quote": "did", "tag": "auxiliary" },
+        { "quote": "the rabbit", "tag": "subject" },
+        { "quote": "eat", "tag": "verb-transitive" }
+      ],
+      "note": { "en": "A wh- (special) question — it can't be answered yes/no, only with specific information.", "zh": "特殊疑问句——不能用是／否回答，要用具体信息。" }
+    },
+    {
+      "id": "e9",
+      "text": "The rabbit ate a carrot, didn't he?",
+      "annotations": [
+        { "quote": "ate", "tag": "verb-transitive" },
+        { "quote": "a carrot", "tag": "object" },
+        { "quote": "didn't he", "tag": "auxiliary" }
+      ],
+      "note": { "en": "A tag question — a short add-on question that asks for agreement or denial.", "zh": "反意疑问句——句尾附加一个小问句，请对方赞同或否定。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "In 'the rabbit ate a carrot', what is the predicate verb?", "zh": "在“the rabbit ate a carrot”中，谓语动词是什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "ate a carrot", "zh": "ate a carrot" } },
+        { "id": "b", "text": { "en": "ate", "zh": "ate" } },
+        { "id": "c", "text": { "en": "a carrot", "zh": "a carrot" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'Ate a carrot' is the whole predicate; the predicate verb is only 'ate'. 'A carrot' is its object.", "zh": "“ate a carrot”是整个谓语；谓语动词只是“ate”，“a carrot”是它的宾语。" },
+      "refs": ["c1", "e1"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "In 'the carrot is tasty', what is 'tasty'?", "zh": "在“the carrot is tasty”中，“tasty”是什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Object complement", "zh": "宾语补语" } },
+        { "id": "b", "text": { "en": "Subject complement (predicative)", "zh": "主语补语（表语）" } },
+        { "id": "c", "text": { "en": "Adverbial", "zh": "状语" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'Is' is a linking verb, so the word after it describes the subject — 'tasty' is the subject complement (predicative, 表语).", "zh": "“is”是系动词，它后面的词补充说明主语——“tasty”是主语补语（表语）。" },
+      "refs": ["c2", "e3"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "In 'the rabbit ate his lunch, a tasty carrot, quickly', 'a tasty carrot' renames 'his lunch', so it is the ____.", "zh": "在“the rabbit ate his lunch, a tasty carrot, quickly”中，“a tasty carrot”重述了“his lunch”，所以它是____。" },
+      "answers": ["appositive", "同位语"],
+      "explain": { "en": "An appositive has equal standing with another component (here the object) and restates the same thing a different way.", "zh": "同位语与另一个成分（这里是宾语）地位同等，把同一事物换种说法再说一遍。" },
+      "refs": ["c3", "e5"]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": { "en": "What kind of sentence is 'the rabbit ate the carrot that is tasty'?", "zh": "“the rabbit ate the carrot that is tasty”是哪种句子？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Simple sentence", "zh": "简单句" } },
+        { "id": "b", "text": { "en": "Compound sentence", "zh": "并列句" } },
+        { "id": "c", "text": { "en": "Complex sentence", "zh": "复杂句（主从复合句）" } }
+      ],
+      "answer": "c",
+      "explain": { "en": "'That is tasty' is a clause acting as a component (attributive) inside the main sentence — that nesting makes it a complex sentence.", "zh": "“that is tasty”是充当成分（定语）的从句，这种嵌套使它成为复杂句。" },
+      "refs": ["c5", "e7"]
+    },
+    {
+      "id": "q5",
+      "type": "error",
+      "sentence": "What a tasty carrot?",
+      "fix": "What a tasty carrot!",
+      "explain": { "en": "'What a tasty carrot' expresses feeling — it is an exclamation, not a question, so it ends with '!' not '?'.", "zh": "“what a tasty carrot”表达感叹——是感叹句而非疑问句，所以应以“！”结尾，而不是“？”。" },
+      "refs": ["c6"]
+    }
+  ],
+  "dialogue": {
+    "kind": "scenario",
+    "title": { "en": "Components and sentence types in one chat", "zh": "一段对话讲完成分与句型分类" },
+    "targets": ["object-complement", "subject-complement", "appositive", "conjunction", "clause-marker"],
+    "lines": [
+      { "speaker": "Wolf", "text": "The rabbit considered the carrot tasty.", "annotations": [ { "quote": "the carrot", "tag": "object" }, { "quote": "tasty", "tag": "object-complement" } ], "note": { "en": "Object + object complement.", "zh": "宾语 + 宾语补语。" } },
+      { "speaker": "Rabbit", "text": "And the carrot is tasty, so I ate it!", "annotations": [ { "quote": "is", "tag": "verb-linking" }, { "quote": "tasty", "tag": "subject-complement" }, { "quote": "so", "tag": "conjunction" } ], "note": { "en": "Subject complement after a linking verb; a conjunction joins two clauses.", "zh": "系动词后的主语补语（表语）；连词连接两个分句。" } },
+      { "speaker": "Wolf", "text": "You mean you ate your lunch, a tasty carrot?", "annotations": [ { "quote": "your lunch", "tag": "object" }, { "quote": "a tasty carrot", "tag": "appositive" } ], "note": { "en": "'A tasty carrot' restates 'your lunch' — an appositive — inside a yes/no question.", "zh": "“a tasty carrot”重述“your lunch”——同位语——出现在一般疑问句里。" } },
+      { "speaker": "Rabbit", "text": "Yes — the carrot that is tasty is gone now!", "annotations": [ { "quote": "that", "tag": "clause-marker" }, { "quote": "is tasty", "tag": "attributive" } ], "note": { "en": "'That is tasty' is an attributive clause modifying 'the carrot' — a complex sentence.", "zh": "“that is tasty”是修饰“the carrot”的定语从句——复杂句。" } }
+    ]
+  }
+}

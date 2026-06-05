@@ -1,0 +1,120 @@
+{
+  "id": "10",
+  "slug": "object-complement-clauses",
+  "category": "clauses",
+  "shape": "tiny",
+  "order": 17,
+  "title": { "en": "Object Complement Clauses", "zh": "宾语补语从句" },
+  "summary": { "en": "A rarely listed clause type: swap a single-word object complement for a whole clause. It pairs with complex transitive verbs like call, make, and consider.", "zh": "一种很多体系都不收录的从句：把单个词的宾语补语换成一整个从句。它对应 call、make、consider 这类复杂及物动词。" },
+  "source": { "videoId": "x_RqISIYCzg", "youtube": "https://www.youtube.com/watch?v=x_RqISIYCzg", "duration": "2:52", "script": "scripts/10-object-complement-clauses.md" },
+  "tags": [
+    { "id": "oc-clause", "label": { "en": "object complement clause", "zh": "宾语补语从句" }, "abbr": "oCcl", "color": "#0e7490", "underline": "dotted" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "Which verbs need an object complement", "zh": "哪些动词需要宾语补语" },
+      "body": { "en": "Among the five verb classes, the complex transitive (Pattern 4) verb takes an object but still feels incomplete — it needs an object complement that adds info about that object. Verbs like call, make, and consider work this way: 'You can call me Papa Rabbit' (me = object, Papa Rabbit = object complement).", "zh": "在五大类动词中，复杂及物动词（句型四）带一个宾语却仍不完整——它需要一个宾语补语来补充关于宾语的信息。call、make、consider 就是这样：“You can call me Papa Rabbit”（me 是宾语，Papa Rabbit 是宾语补语）。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "复杂及物动词 call 的宾语"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "Replace the complement with a clause", "zh": "把宾语补语换成一个从句" },
+      "body": { "en": "Take the single word that fills the object complement slot and swap in a whole clause instead. The clause now does the job of the object complement — that is an object complement clause. 'Papa Rabbit' becomes 'what you like': You can call me what you like.", "zh": "把充当宾语补语的那个词，替换成一整个从句，这个从句就充当了宾语补语——这就是宾语补语从句。把“Papa Rabbit”换成“what you like”：You can call me what you like。" },
+      "exampleRefs": ["e2", "e3"]
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Noun-like or adjective-like — classification is just a label", "zh": "可名可形——分类只是个标签" },
+      "body": { "en": "We file object complement clauses under noun clauses, but they needn't behave like a noun: 'who I am today' simply replaces the adjective 'smart' in 'made me smart', so it can be adjective-like too. Because the type is uncommon, many systems skip it entirely — don't be surprised if you never see it named. What matters is the principle, not the label.", "zh": "我们把宾语补语从句归在名词从句里，但它不一定有名词性质：“who I am today”不过是把“made me smart”里的形容词“smart”替换掉，所以也可能是形容词性质。因为这类从句少见，很多体系干脆略过它——别的分类里没有它也别吃惊。重要的是背后的原理，而不是这个标签。" },
+      "exampleRefs": ["e3"]
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "You can call me Papa Rabbit.",
+      "annotations": [
+        { "quote": "call", "tag": "verb-transitive" },
+        { "quote": "me", "tag": "object" },
+        { "quote": "Papa Rabbit", "tag": "object-complement" }
+      ],
+      "note": { "en": "Baseline simple sentence: 'me' is the object of complex transitive 'call'; 'Papa Rabbit' is the object complement that fills in 'me'.", "zh": "基础简单句：“me”是复杂及物动词“call”的宾语，“Papa Rabbit”是补充“me”的宾语补语。" }
+    },
+    {
+      "id": "e2",
+      "text": "You can call me what you like.",
+      "annotations": [
+        { "quote": "call", "tag": "verb-transitive" },
+        { "quote": "me", "tag": "object" },
+        { "quote": "what you like", "tag": "oc-clause" }
+      ],
+      "note": { "en": "Swap the proper noun 'Papa Rabbit' for the clause 'what you like' — now a clause does the object complement's job. Meaning: call me whatever you want.", "zh": "把专有名词“Papa Rabbit”换成从句“what you like”——从句充当了宾语补语。意思是：你可以随便叫我什么。" }
+    },
+    {
+      "id": "e3",
+      "text": "My education made me who I am today.",
+      "annotations": [
+        { "quote": "made", "tag": "verb-transitive" },
+        { "quote": "me", "tag": "object" },
+        { "quote": "who I am today", "tag": "oc-clause" }
+      ],
+      "note": { "en": "'Who I am today' is the object complement clause — it just replaces the adjective 'smart' in 'made me smart'. So an object complement clause can be adjective-like, not only noun-like.", "zh": "“who I am today”是宾语补语从句——它只是替换了“made me smart”里的形容词“smart”。所以宾语补语从句可以是形容词性质，不只是名词性质。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "An object complement clause pairs with which verb class?", "zh": "宾语补语从句对应哪一类动词？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Intransitive verbs", "zh": "不及物动词" } },
+        { "id": "b", "text": { "en": "Complex transitive verbs (call, make, consider)", "zh": "复杂及物动词（call、make、consider）" } },
+        { "id": "c", "text": { "en": "Linking verbs", "zh": "系动词" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "Object complement clauses correspond to the complex transitive (Pattern 4) verbs — the ones that take an object plus an object complement.", "zh": "宾语补语从句对应复杂及物动词（句型四）——那种既带宾语又带宾语补语的动词。" },
+      "refs": ["c1"]
+    },
+    {
+      "id": "q2",
+      "type": "fill",
+      "prompt": { "en": "Complete the clause so it means 'call me whatever you want': You can call me ____ you like.", "zh": "补全从句，使其表示“随便叫我什么”：You can call me ____ you like。" },
+      "answers": ["what"],
+      "explain": { "en": "'What you like' is the object complement clause that replaces the proper noun 'Papa Rabbit'.", "zh": "“what you like”是替换专有名词“Papa Rabbit”的宾语补语从句。" },
+      "refs": ["c2", "e2"]
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": { "en": "In 'My education made me who I am today', the clause 'who I am today' replaces what kind of word?", "zh": "在“My education made me who I am today”中，从句“who I am today”替换了什么样的词？" },
+      "choices": [
+        { "id": "a", "text": { "en": "The adjective in 'made me smart'", "zh": "“made me smart”里的形容词" } },
+        { "id": "b", "text": { "en": "The subject of the sentence", "zh": "句子的主语" } },
+        { "id": "c", "text": { "en": "An auxiliary verb", "zh": "一个助动词" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "It stands in for the adjective 'smart' — which is why an object complement clause can be adjective-like, not only noun-like.", "zh": "它替换了形容词“smart”——所以宾语补语从句可以是形容词性质，不只是名词性质。" },
+      "refs": ["c3", "e3"]
+    },
+    {
+      "id": "q4",
+      "type": "error",
+      "sentence": "You can call me what do you like.",
+      "fix": "You can call me what you like.",
+      "explain": { "en": "An embedded object complement clause uses statement word order, not question order — drop the auxiliary 'do': 'what you like'.", "zh": "内嵌的宾语补语从句用陈述语序，而非疑问语序——去掉助动词“do”：“what you like”。" },
+      "refs": ["c2"]
+    }
+  ],
+  "dialogue": {
+    "kind": "scenario",
+    "title": { "en": "From one word to a whole clause", "zh": "从一个词到一整句从句" },
+    "targets": ["object-complement", "oc-clause"],
+    "lines": [
+      { "speaker": "Wolf", "text": "You can call me Big Bad Wolf.", "annotations": [ { "quote": "call", "tag": "verb-transitive" }, { "quote": "me", "tag": "object" }, { "quote": "Big Bad Wolf", "tag": "object-complement" } ], "note": { "en": "A single-word object complement.", "zh": "一个词的宾语补语。" } },
+      { "speaker": "Rabbit", "text": "Fine — you can call me what you like.", "annotations": [ { "quote": "call", "tag": "verb-transitive" }, { "quote": "me", "tag": "object" }, { "quote": "what you like", "tag": "oc-clause" } ], "note": { "en": "Same slot, now a clause: an object complement clause.", "zh": "同一个位置，换成从句：宾语补语从句。" } },
+      { "speaker": "Wolf", "text": "Hard work made me who I am today.", "annotations": [ { "quote": "made", "tag": "verb-transitive" }, { "quote": "me", "tag": "object" }, { "quote": "who I am today", "tag": "oc-clause" } ], "note": { "en": "Here the clause replaces an adjective — adjective-like.", "zh": "这里从句替换了一个形容词——形容词性质。" } }
+    ]
+  }
+}

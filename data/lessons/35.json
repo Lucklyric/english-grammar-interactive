@@ -1,0 +1,427 @@
+{
+  "id": "35",
+  "slug": "english-punctuation-usage",
+  "category": "punctuation-usage",
+  "shape": "deep-dive",
+  "order": 42,
+  "title": { "en": "English Punctuation Usage", "zh": "英语标点符号用法" },
+  "summary": { "en": "A guided tour of English punctuation — comma, period, semicolon, colon, quotation marks, dash, question mark, exclamation mark, hyphen, apostrophe, and ellipsis — and how each one shapes meaning. One misplaced comma can change 'Let's eat, rabbit' into 'Let's eat rabbit.'", "zh": "系统讲解英文标点：逗号、句号、分号、冒号、引号、破折号、问号、叹号、连字符、撇号、省略号，以及每种符号如何改变意思。一个逗号就能让“Let's eat, rabbit”变成“Let's eat rabbit”。" },
+  "source": { "videoId": "sXBK3Fhub8o", "youtube": "https://www.youtube.com/watch?v=sXBK3Fhub8o", "duration": "10:47", "script": "scripts/35-english-punctuation-usage.md" },
+  "tags": [
+    { "id": "comma", "label": { "en": "comma", "zh": "逗号" }, "abbr": ",", "color": "#dc2626", "underline": "solid" },
+    { "id": "period", "label": { "en": "period", "zh": "句号/句点" }, "abbr": ".", "color": "#2563eb", "underline": "solid" },
+    { "id": "semicolon", "label": { "en": "semicolon", "zh": "分号" }, "abbr": ";", "color": "#7c3aed", "underline": "solid" },
+    { "id": "colon", "label": { "en": "colon", "zh": "冒号" }, "abbr": ":", "color": "#0891b2", "underline": "solid" },
+    { "id": "quote-mark", "label": { "en": "quotation marks", "zh": "引号" }, "abbr": "\"\"", "color": "#059669", "underline": "dashed" },
+    { "id": "dash", "label": { "en": "dash", "zh": "破折号" }, "abbr": "—", "color": "#ea580c", "underline": "solid" },
+    { "id": "question-mark", "label": { "en": "question mark", "zh": "问号" }, "abbr": "?", "color": "#0d9488", "underline": "solid" },
+    { "id": "exclamation-mark", "label": { "en": "exclamation mark", "zh": "叹号" }, "abbr": "!", "color": "#c026d3", "underline": "solid" },
+    { "id": "hyphen", "label": { "en": "hyphen", "zh": "连字符" }, "abbr": "-", "color": "#b45309", "underline": "dashed" },
+    { "id": "apostrophe", "label": { "en": "apostrophe", "zh": "撇号" }, "abbr": "'", "color": "#9333ea", "underline": "dashed" },
+    { "id": "ellipsis", "label": { "en": "ellipsis", "zh": "省略号" }, "abbr": "...", "color": "#db2777", "underline": "dotted" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "Comma — splitting a sentence for clarity", "zh": "逗号 — 断句以便理解" },
+      "body": { "en": "The comma's main job is to split a sentence so it is easy to parse — what Chinese calls 断句. The position of a single comma can flip the meaning entirely: without one, 'Let's eat rabbit' means eat rabbit meat; with one, 'Let's eat, rabbit' means 'let's eat, my friend rabbit.'", "zh": "逗号最主要的作用是分割句子、便于理解，也就是通常说的“断句”。一个逗号的位置可以彻底改变意思：不加是 Let's eat rabbit（吃兔肉），加了是 Let's eat, rabbit（一起吃饭吧，兔兄）。" },
+      "exampleRefs": ["e1", "e2"],
+      "sourceRef": "所以逗号最主要的作用就是分割句子，便于理解，也就是通常说的断句"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "Comma — separating items in a list", "zh": "逗号 — 分隔列举项" },
+      "body": { "en": "Commas separate the items in a list so each one is clear; otherwise the items blur together and you can't tell them apart. Compare 'carrots, apples, and bananas' with 'carrots, red apples, and bananas' — the commas keep 'red' attached to 'apples' only.", "zh": "逗号分隔列举的事物，使每一项清晰；否则眉毛胡子一把抓，分不清有哪些项目。对比 carrots, apples, and bananas 与 carrots, red apples, and bananas——逗号让“red”只修饰 apples。" },
+      "exampleRefs": ["e3"],
+      "sourceRef": "其实这样的列举说到底也是为了表达清晰"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "The serial (Oxford) comma", "zh": "系列逗号（牛津逗号）" },
+      "body": { "en": "The comma placed before 'and' at the end of a list — to prevent ambiguity — is the serial comma, commonly called the Oxford comma (or Harvard comma), since both the Oxford and Harvard presses endorse it. 'I love my parents, the rabbit and the wolf' could mean my parents ARE the rabbit and the wolf; adding the serial comma, 'I love my parents, the rabbit, and the wolf', makes them three separate things.", "zh": "为防止歧义而在列举末尾 and 前加的逗号叫系列逗号，俗称牛津逗号（或哈佛逗号），因为牛津出版社和哈佛出版社都主张这种用法。I love my parents, the rabbit and the wolf 可能是说我父母就是兔子和狼；加上系列逗号 I love my parents, the rabbit, and the wolf，三者就是并列的三方。" },
+      "exampleRefs": ["e4", "e5"],
+      "sourceRef": "这样的在句末的为了防止歧义的逗号，叫做系列逗号，serial comma，俗称牛津逗号，Oxford comma"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Comma with quotations and inserted speech tags", "zh": "逗号用于引语与插入语" },
+      "body": { "en": "When a quotation comes first, a comma closes it before the speech tag: 'Oh yes, let's eat, my dear wolf,' said the rabbit. A quote can be split into two halves around the tag, joined by commas, for a smoother feel: 'Oh yes,' said the rabbit, 'let's eat, my dear wolf.' The tag 'said the rabbit' is an inserted element (parenthetical); inserts don't have to be speech — they can simply break in to add a remark.", "zh": "引语在前时，先用逗号结束引语再接说话人：'Oh yes, let's eat, my dear wolf,' said the rabbit。引语也可拆成两块、放在说话人两端、用逗号隔开，对话更流畅：'Oh yes,' said the rabbit, 'let's eat, my dear wolf.'。said the rabbit 属于插入语；插入语不一定表引用，也可只是句中打断、做个说明。" },
+      "exampleRefs": ["e6", "e7"],
+      "sourceRef": "这里的said the rabbit属于所谓插入语"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "Comma joining clauses — and the comma splice", "zh": "逗号连接分句 — 与逗号粘连错误" },
+      "body": { "en": "To link the parts of a compound sentence you need BOTH a comma AND a coordinating conjunction (and, but...): 'The rabbit ate some carrots, but he was still hungry.' A comma alone is not enough — 'The rabbit was hungry, he ate some carrots' wrongly forces two predicate verbs (was, ate) into one sentence. In a complex sentence, the main clause and a subordinate clause are joined with a comma and a subordinating conjunction (e.g. because). Commas also appear in tag questions, and in dates, places, and large numbers.", "zh": "连接并列句既要逗号也要并列连词（and、but……）：The rabbit ate some carrots, but he was still hungry。光用逗号不行——The rabbit was hungry, he ate some carrots 会让一句里出现两个谓语动词（was、ate），是错误的。复杂句中，主句与从句用逗号加从属连词（如 because）连接。逗号还用于反义疑问句，以及日期、地点和大数字中。" },
+      "exampleRefs": ["e8", "e9", "e10"],
+      "sourceRef": "注意，连词是必须使用的，不能仅用逗号"
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "Period (full stop) — and the dot in abbreviations", "zh": "句号（句点）— 兼缩略语中的点" },
+      "body": { "en": "A statement always ends with a period. Unlike the Chinese hollow circle, the English period is a solid dot — hence the name 句点 (dot). The same dot follows abbreviations (Mr. Rabbit, Dec., 8.30am, though it is often dropped in casual writing), serves as the decimal point (0.01), and appears in web addresses (www...com).", "zh": "陈述句结尾一定是句号。与中文空心圆圈不同，英文句号是一个实心的点，所以也叫句点。同一个点还用于缩略语之后（Mr. Rabbit、Dec.、8.30am，平时书写也可能省略），作小数点（0.01），并出现在网址中（www…com）。" },
+      "exampleRefs": ["e11"],
+      "sourceRef": "英文句号是一个实心的点，所以英文句号也叫句点"
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "Semicolon — joining two independent sentences", "zh": "分号 — 连接两个独立的句子" },
+      "body": { "en": "The English semicolon works much like the Chinese one: it signals related, parallel ideas and can join two independent sentences without a conjunction: 'The rabbit likes carrots; the wolf likes apples.'", "zh": "英文分号和中文分号差不多：表示并列、有关的意思，可在没有连词时连接两个独立的句子：The rabbit likes carrots; the wolf likes apples。" },
+      "exampleRefs": ["e12"],
+      "sourceRef": "也可以用于连接两个独立的句子"
+    },
+    {
+      "id": "c8",
+      "heading": { "en": "Colon — introducing, explaining, and separating titles", "zh": "冒号 — 引出、解释与分隔主副标题" },
+      "body": { "en": "A colon goes before listed items to introduce or explain what follows: 'We have two lunch options: carrots, apples.' It can also split a main title from a subtitle, with a sense of further explanation: 'carrots: rabbits' favorite food.' Note the difference from Chinese: to introduce a quotation, English uses a comma, not a colon (the rabbit said, 'I want...'). Colons also appear in clock times (8:30am, 16:30).", "zh": "冒号用在被列举的事物前，引出或解释后面的内容：We have two lunch options: carrots, apples。也能分开主标题与副标题，带进一步解释意味：carrots: rabbits' favorite food。注意与中文不同：引出引语时英文用逗号而非冒号（the rabbit said, 'I want...'）。时间格式里也有冒号（8:30am、16:30）。" },
+      "exampleRefs": ["e13", "e14"],
+      "sourceRef": "英语冒号用于被列举的事物前，用来介绍或者解释后面的内容"
+    },
+    {
+      "id": "c9",
+      "heading": { "en": "Quotation marks — speech, emphasis, and titles", "zh": "引号 — 引语、强调与书名" },
+      "body": { "en": "Double quotation marks enclose quoted speech; single quotes are used for a quote inside a quote. Quotation marks can also mark emphasis, and they can stand in for the names of books, newspapers, articles, and magazines: 'Have you read The Little Prince?' Note that Chinese title marks (《》) do not exist in English — italics are the other way to mark a title.", "zh": "双引号引用话语；双引号内再出现引用时用单引号。引号还能表强调，并可表示书籍、报纸、文章、杂志的名称：Have you read The Little Prince? 注意中文的书名号《》英文中没有——表示书名的另一种方式是斜体。" },
+      "exampleRefs": ["e15"],
+      "sourceRef": "另外，书籍、报纸、文章、杂志的名称可以用引号表示"
+    },
+    {
+      "id": "c10",
+      "heading": { "en": "Dash — explanation, parenthetical bounds, and abrupt breaks", "zh": "破折号 — 解释、界定插入语与突然中断" },
+      "body": { "en": "The English dash is a bit shorter than the Chinese one but used similarly. It introduces an explanation ('I've met my best friend — the wolf.'), marks off a parenthetical such as an appositive ('All the animals — the rabbit, the wolf, and their friends — will go to the party.'), and shows a sentence breaking off suddenly ('Hmm, I don't... Well, I guess I'll choose carrots.').", "zh": "英文破折号比中文短一点，但用法差不多。它引出解释（I've met my best friend — the wolf.）、界定插入语如同位语（All the animals — the rabbit, the wolf, and their friends — will go to the party.），并表示一句话突然中断（Hmm, I don't... Well, I guess I'll choose carrots.）。" },
+      "exampleRefs": ["e16"],
+      "sourceRef": "英文的破折号比中文破折号短一点，但使用和中文破折号差不多"
+    },
+    {
+      "id": "c11",
+      "heading": { "en": "Question mark and exclamation mark", "zh": "问号与叹号" },
+      "body": { "en": "As their names suggest, the question mark ends a question and the exclamation mark follows an exclamatory sentence or interjection: 'What on earth does the rabbit want?' / 'What a picky rabbit!'", "zh": "顾名思义，问号用于问句，叹号用于感叹句或感叹词之后：What on earth does the rabbit want? / What a picky rabbit!" },
+      "exampleRefs": ["e17", "e18"],
+      "sourceRef": "问号用于问句，叹号用于感叹句感叹词之后"
+    },
+    {
+      "id": "c12",
+      "heading": { "en": "Hyphen and apostrophe — marks Chinese lacks", "zh": "连字符与撇号 — 中文没有的标点" },
+      "body": { "en": "Two marks Chinese does not have. The hyphen mainly builds words, e.g. compound adjectives. The apostrophe mainly forms the possessive (a rabbit's carrot) and contractions (I'd better, from I had better).", "zh": "两个中文没有的标点。连字符主要用来构词，如复合形容词。撇号主要构成所有格（a rabbit's carrot）以及缩略（I'd better，由 I had better 而来）。" },
+      "exampleRefs": ["e19", "e20"],
+      "sourceRef": "连字符主要用来构词"
+    },
+    {
+      "id": "c13",
+      "heading": { "en": "Ellipsis — omission and hesitation", "zh": "省略号 — 省略与犹豫" },
+      "body": { "en": "Unlike the Chinese ellipsis (six centred dots), the English ellipsis is three dots on the baseline. It marks an omission ('to be continued...') and can also show hesitation ('could you give this video a thumbs up...?').", "zh": "与中文省略号（六个居中的点）不同，英文省略号是三个居下的点。它表示省略（to be continued...），也能表示犹豫（could you give this video a thumbs up...?）。" },
+      "exampleRefs": ["e21"],
+      "sourceRef": "英文的省略号和中文省略号不同，不是六个点居中，而是三个点居下"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "Let's eat rabbit.",
+      "annotations": [],
+      "note": { "en": "No comma: 'rabbit' is the food — let's eat rabbit meat.", "zh": "不加逗号：rabbit 是食物——吃兔肉。" }
+    },
+    {
+      "id": "e2",
+      "text": "Let's eat, rabbit.",
+      "annotations": [
+        { "quote": ",", "tag": "comma" }
+      ],
+      "note": { "en": "With a comma: 'rabbit' is whom we address — let's eat together, my friend rabbit.", "zh": "加逗号：rabbit 是称呼——一起吃饭吧，兔兄。" }
+    },
+    {
+      "id": "e3",
+      "text": "Let's eat carrots, red apples, and bananas.",
+      "annotations": [
+        { "quote": ",", "tag": "comma", "occurrence": 1 },
+        { "quote": ",", "tag": "comma", "occurrence": 2 }
+      ],
+      "note": { "en": "Commas keep the list items distinct, so 'red' modifies only 'apples', not the bananas too.", "zh": "逗号把列举项分开，使“red”只修饰 apples，不会连香蕉也变红。" }
+    },
+    {
+      "id": "e4",
+      "text": "I love my parents, the rabbit and the wolf.",
+      "annotations": [
+        { "quote": ",", "tag": "comma" }
+      ],
+      "note": { "en": "Ambiguous: it can read as if my parents ARE the rabbit and the wolf (an appositive).", "zh": "有歧义：可理解为我父母就是兔子和狼（同位语）。" }
+    },
+    {
+      "id": "e5",
+      "text": "I love my parents, the rabbit, and the wolf.",
+      "annotations": [
+        { "quote": ",", "tag": "comma", "occurrence": 2 }
+      ],
+      "note": { "en": "The serial (Oxford) comma before 'and' makes parents, the rabbit, and the wolf three separate parties.", "zh": "and 前的系列（牛津）逗号让父母、兔子、狼成为并列的三方。" }
+    },
+    {
+      "id": "e6",
+      "text": "\"Oh yes, let's eat, my dear wolf,\" said the rabbit.",
+      "annotations": [
+        { "quote": "my dear wolf,", "tag": "comma" },
+        { "quote": "said the rabbit", "tag": "comma" }
+      ],
+      "note": { "en": "Quote first: a comma closes the quotation before the speech tag 'said the rabbit'.", "zh": "引语在前：在说话人 said the rabbit 之前用逗号结束引语。" }
+    },
+    {
+      "id": "e7",
+      "text": "\"Oh yes,\" said the rabbit, \"let's eat, my dear wolf.\"",
+      "annotations": [
+        { "quote": "said the rabbit", "tag": "comma" }
+      ],
+      "note": { "en": "The quote is split in two around the inserted tag, joined by commas — a smoother rhythm.", "zh": "引语拆成两块、放在插入语两端、用逗号隔开——更流畅。" }
+    },
+    {
+      "id": "e8",
+      "text": "This carrot, I think, is very tasty.",
+      "annotations": [
+        { "quote": "I think", "tag": "comma" }
+      ],
+      "note": { "en": "'I think' is an inserted remark (not speech), fenced off by commas.", "zh": "I think 是插入的说明（非引语），用逗号隔开。" }
+    },
+    {
+      "id": "e9",
+      "text": "The rabbit ate some carrots, but he was still hungry.",
+      "annotations": [
+        { "quote": ",", "tag": "comma" },
+        { "quote": "but", "tag": "conjunction" }
+      ],
+      "note": { "en": "Compound sentence: a comma AND a coordinating conjunction ('but') join the two clauses.", "zh": "并列句：逗号加并列连词（but）连接两个分句。" }
+    },
+    {
+      "id": "e10",
+      "text": "The rabbit didn't eat more carrots because he was on a diet.",
+      "annotations": [
+        { "quote": "because", "tag": "conjunction" }
+      ],
+      "note": { "en": "Complex sentence: 'because' introduces a subordinate cause clause. (No comma needed when the clause follows the main clause.)", "zh": "复杂句：because 引导原因状语从句。（从句在主句后时不需逗号。）" }
+    },
+    {
+      "id": "e11",
+      "text": "Mr. Rabbit will call at 8.30am.",
+      "annotations": [
+        { "quote": ".", "tag": "period", "occurrence": 1 },
+        { "quote": ".", "tag": "period", "occurrence": 2 },
+        { "quote": ".", "tag": "period", "occurrence": 3 }
+      ],
+      "note": { "en": "The dot after 'Mr' is an abbreviation dot; the one in '8.30' is like a separator; the final dot ends the statement.", "zh": "Mr 后的点是缩略点；8.30 中的点作分隔；句末的点是句号。" }
+    },
+    {
+      "id": "e12",
+      "text": "The rabbit likes carrots; the wolf likes apples.",
+      "annotations": [
+        { "quote": ";", "tag": "semicolon" }
+      ],
+      "note": { "en": "The semicolon joins two independent sentences that are related, with no conjunction.", "zh": "分号在没有连词时连接两个相关的独立句子。" }
+    },
+    {
+      "id": "e13",
+      "text": "We have two lunch options: carrots, apples.",
+      "annotations": [
+        { "quote": ":", "tag": "colon" }
+      ],
+      "note": { "en": "The colon introduces the listed items that follow.", "zh": "冒号引出后面被列举的事物。" }
+    },
+    {
+      "id": "e14",
+      "text": "carrots: rabbits' favorite food",
+      "annotations": [
+        { "quote": ":", "tag": "colon" },
+        { "quote": "rabbits'", "tag": "apostrophe" }
+      ],
+      "note": { "en": "Here the colon splits a title from its explanatory subtitle. (The apostrophe in 'rabbits'' marks the plural possessive.)", "zh": "这里冒号分开标题与解释性副标题。（rabbits' 中的撇号表复数所有格。）" }
+    },
+    {
+      "id": "e15",
+      "text": "Have you read The Little Prince?",
+      "annotations": [
+        { "quote": "?", "tag": "question-mark" }
+      ],
+      "note": { "en": "A book title can be marked with quotation marks or italics — English has no Chinese-style 《》title marks.", "zh": "书名可用引号或斜体——英文没有中文的书名号《》。" }
+    },
+    {
+      "id": "e16",
+      "text": "All the animals — the rabbit, the wolf, and their friends — will go to the party.",
+      "annotations": [
+        { "quote": "—", "tag": "dash", "occurrence": 1 },
+        { "quote": "—", "tag": "dash", "occurrence": 2 },
+        { "quote": ",", "tag": "comma", "occurrence": 2 }
+      ],
+      "note": { "en": "A pair of dashes fences off the appositive 'the rabbit, the wolf, and their friends'.", "zh": "一对破折号界定同位语 the rabbit, the wolf, and their friends。" }
+    },
+    {
+      "id": "e17",
+      "text": "What on earth does the rabbit want?",
+      "annotations": [
+        { "quote": "?", "tag": "question-mark" }
+      ],
+      "note": { "en": "The question mark ends a question.", "zh": "问号用于问句结尾。" }
+    },
+    {
+      "id": "e18",
+      "text": "What a picky rabbit!",
+      "annotations": [
+        { "quote": "!", "tag": "exclamation-mark" }
+      ],
+      "note": { "en": "The exclamation mark follows an exclamatory sentence.", "zh": "叹号用于感叹句之后。" }
+    },
+    {
+      "id": "e19",
+      "text": "a rabbit's carrot",
+      "annotations": [
+        { "quote": "'s", "tag": "apostrophe" }
+      ],
+      "note": { "en": "The apostrophe + s forms the singular possessive: the carrot belonging to a rabbit.", "zh": "撇号加 s 构成单数所有格：属于一只兔子的胡萝卜。" }
+    },
+    {
+      "id": "e20",
+      "text": "I'd better choose a quick-grown carrot.",
+      "annotations": [
+        { "quote": "'d", "tag": "apostrophe" },
+        { "quote": "-", "tag": "hyphen" }
+      ],
+      "note": { "en": "The apostrophe contracts 'I had' to 'I'd'; the hyphen builds the compound adjective 'quick-grown'.", "zh": "撇号把 I had 缩成 I'd；连字符构成复合形容词 quick-grown。" }
+    },
+    {
+      "id": "e21",
+      "text": "To be continued...",
+      "annotations": [
+        { "quote": "...", "tag": "ellipsis" }
+      ],
+      "note": { "en": "Three dots on the baseline — the English ellipsis — mark an omission/continuation.", "zh": "三个居下的点——英文省略号——表示省略/未完待续。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Which sentence invites the rabbit to share a meal (rather than be the meal)?", "zh": "哪句是邀请兔子一起吃饭，而不是把它当饭吃？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Let's eat rabbit.", "zh": "Let's eat rabbit." } },
+        { "id": "b", "text": { "en": "Let's eat, rabbit.", "zh": "Let's eat, rabbit." } },
+        { "id": "c", "text": { "en": "Lets eat rabbit", "zh": "Lets eat rabbit" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "The comma after 'eat' turns 'rabbit' into the person addressed, not the food.", "zh": "eat 后的逗号让 rabbit 成为称呼对象，而不是食物。" },
+      "refs": ["c1", "e2"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "What is the comma before 'and' in 'I love my parents, the rabbit, and the wolf' called?", "zh": "在 'I love my parents, the rabbit, and the wolf' 中，and 前的逗号叫什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "The serial (Oxford) comma", "zh": "系列逗号（牛津逗号）" } },
+        { "id": "b", "text": { "en": "The comma splice", "zh": "逗号粘连" } },
+        { "id": "c", "text": { "en": "The appositive comma", "zh": "同位语逗号" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "It's the serial / Oxford / Harvard comma, used to prevent ambiguity at the end of a list.", "zh": "这是系列/牛津/哈佛逗号，用于在列举末尾防止歧义。" },
+      "refs": ["c3", "e5"]
+    },
+    {
+      "id": "q3",
+      "type": "error",
+      "sentence": "The rabbit was hungry, he ate some carrots.",
+      "fix": "The rabbit was hungry, so he ate some carrots.",
+      "explain": { "en": "A comma alone can't join two independent clauses (a comma splice). You need a coordinating conjunction such as 'so' (or use a semicolon / period).", "zh": "光用逗号不能连接两个独立分句（逗号粘连）。需要并列连词如 so（或改用分号/句号）。" },
+      "refs": ["c5", "e9"]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": { "en": "Which mark correctly joins two related independent sentences WITHOUT a conjunction?", "zh": "哪个标点能在不用连词时连接两个相关的独立句子？" },
+      "choices": [
+        { "id": "a", "text": { "en": "A semicolon: 'The rabbit likes carrots; the wolf likes apples.'", "zh": "分号：The rabbit likes carrots; the wolf likes apples." } },
+        { "id": "b", "text": { "en": "A comma: 'The rabbit likes carrots, the wolf likes apples.'", "zh": "逗号：The rabbit likes carrots, the wolf likes apples." } },
+        { "id": "c", "text": { "en": "A hyphen: 'The rabbit likes carrots-the wolf likes apples.'", "zh": "连字符：The rabbit likes carrots-the wolf likes apples." } }
+      ],
+      "answer": "a",
+      "explain": { "en": "The semicolon links two independent sentences directly; a bare comma would be a splice, and the hyphen only builds words.", "zh": "分号直接连接两个独立句子；光用逗号是粘连错误，连字符只用于构词。" },
+      "refs": ["c7", "e12"]
+    },
+    {
+      "id": "q5",
+      "type": "fill",
+      "prompt": { "en": "Fill in the mark: 'We have two lunch options___ carrots, apples.'", "zh": "填入标点：'We have two lunch options___ carrots, apples.'" },
+      "answers": [":", "colon", "a colon"],
+      "explain": { "en": "A colon introduces the items being listed/explained after it.", "zh": "冒号引出后面被列举/解释的事物。" },
+      "refs": ["c8", "e13"]
+    },
+    {
+      "id": "q6",
+      "type": "error",
+      "sentence": "The rabbit said: \"I want to eat carrots.\"",
+      "fix": "The rabbit said, \"I want to eat carrots.\"",
+      "explain": { "en": "Unlike Chinese, English introduces a quotation with a comma, not a colon, after the speech tag.", "zh": "与中文不同，英文在说话人之后用逗号而非冒号引出引语。" },
+      "refs": ["c8"]
+    },
+    {
+      "id": "q7",
+      "type": "fill",
+      "prompt": { "en": "Add the correct mark to make a contraction of 'I had': 'I___d better leave.'", "zh": "填入正确标点，把 'I had' 缩写：'I___d better leave.'" },
+      "answers": ["'", "apostrophe", "an apostrophe"],
+      "explain": { "en": "The apostrophe forms contractions — 'I had' becomes 'I'd'.", "zh": "撇号构成缩略——I had 缩成 I'd。" },
+      "refs": ["c12", "e20"]
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": { "en": "How is the English ellipsis written, and what can it show?", "zh": "英文省略号怎么写，能表示什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Three dots on the baseline, marking omission or hesitation", "zh": "三个居下的点，表示省略或犹豫" } },
+        { "id": "b", "text": { "en": "Six centred dots, marking a possessive", "zh": "六个居中的点，表示所有格" } },
+        { "id": "c", "text": { "en": "Two dashes, marking a question", "zh": "两个破折号，表示疑问" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "The English ellipsis is three baseline dots (not the Chinese six centred dots) and shows omission or hesitation.", "zh": "英文省略号是三个居下的点（不是中文六个居中点），表示省略或犹豫。" },
+      "refs": ["c13", "e21"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "Lunch plans, fully punctuated", "zh": "午餐计划，标点齐全" },
+    "targets": ["comma", "colon", "dash", "question-mark", "exclamation-mark", "ellipsis", "apostrophe"],
+    "lines": [
+      {
+        "speaker": "Wolf",
+        "text": "Let's eat, rabbit. What's on the menu?",
+        "annotations": [
+          { "quote": ",", "tag": "comma" },
+          { "quote": "What's", "tag": "apostrophe" },
+          { "quote": "?", "tag": "question-mark" }
+        ],
+        "note": { "en": "The comma makes 'rabbit' a form of address, not the meal; the apostrophe contracts 'What is'.", "zh": "逗号让 rabbit 成为称呼而非食物；撇号把 What is 缩为 What's。" }
+      },
+      {
+        "speaker": "Rabbit",
+        "text": "We have two options: carrots, red apples, and bananas.",
+        "annotations": [
+          { "quote": ":", "tag": "colon" },
+          { "quote": ",", "tag": "comma", "occurrence": 1 },
+          { "quote": ",", "tag": "comma", "occurrence": 2 }
+        ],
+        "note": { "en": "The colon introduces the list; the serial comma before 'and' keeps the three items distinct.", "zh": "冒号引出列举；and 前的系列逗号让三项分明。" }
+      },
+      {
+        "speaker": "Wolf",
+        "text": "Carrots or apples? Hmm, I don't... Well, I guess I'll choose carrots — they're crunchy!",
+        "annotations": [
+          { "quote": "?", "tag": "question-mark" },
+          { "quote": "...", "tag": "ellipsis" },
+          { "quote": "—", "tag": "dash" },
+          { "quote": "!", "tag": "exclamation-mark" }
+        ],
+        "note": { "en": "The ellipsis shows hesitation, the dash adds an explanation, and the exclamation mark shows excitement.", "zh": "省略号表犹豫，破折号补充说明，叹号表激动。" }
+      },
+      {
+        "speaker": "Rabbit",
+        "text": "Good choice, my dear wolf; carrots are a rabbit's favorite food.",
+        "annotations": [
+          { "quote": ",", "tag": "comma" },
+          { "quote": ";", "tag": "semicolon" },
+          { "quote": "rabbit's", "tag": "apostrophe" }
+        ],
+        "note": { "en": "A semicolon joins the two related sentences; the apostrophe marks the possessive 'rabbit's'.", "zh": "分号连接两个相关句子；撇号表所有格 rabbit's。" }
+      }
+    ]
+  }
+}

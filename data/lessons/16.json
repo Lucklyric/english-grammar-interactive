@@ -1,0 +1,174 @@
+{
+  "id": "16",
+  "slug": "adverbial-clauses-of-manner",
+  "category": "clauses",
+  "shape": "tiny",
+  "order": 23,
+  "title": { "en": "Adverbial Clauses of Manner", "zh": "方式状语（副词）从句" },
+  "summary": { "en": "A manner clause tells how the main action happens. With 'as if / as though' it sets up a contrary-to-fact comparison, yet the main clause stays a confirmed fact; with 'as' it states a real, actual manner. Both can often be rephrased with 'the way'.", "zh": "方式从句说明主句动作“怎样”发生。用 as if / as though 时它做一个与事实相反的比较，但主句本身仍是确认的事实；用 as 时它陈述一种真实的方式。两者常可改写成 the way。" },
+  "source": { "videoId": "FXMDibB9fIc", "youtube": "https://www.youtube.com/watch?v=FXMDibB9fIc", "duration": "3:10", "script": "scripts/16-adverbial-clauses-of-manner.md" },
+  "tags": [
+    { "id": "manner-clause", "label": { "en": "manner clause", "zh": "方式从句" }, "abbr": "Man", "color": "#c026d3", "underline": "dashed" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "What a manner clause does", "zh": "方式从句的作用" },
+      "body": { "en": "An adverbial clause of manner explains how the action of the main clause happens. The two most common kinds are introduced by 'as if / as though' (a hypothetical manner) and by 'as' (a real manner).", "zh": "方式副词从句解释主句的动作“怎样”发生。最常见的有两种：由 as if / as though 引导（假想的方式），以及由 as 引导（真实的方式）。" },
+      "exampleRefs": ["e1", "e4"]
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "'as if / as though' — a contrary-to-fact comparison", "zh": "as if / as though — 与事实相反的比较" },
+      "body": { "en": "With 'as if / as though' the clause makes a hypothesis that is contrary to reality — it sounds like the subjunctive. The crucial difference: the main clause first states something as a confirmed fact, then the clause compares it to an unreal situation. In 'I feel good as if I just ate a carrot', 'I feel good' is true; 'as if I just ate a carrot' is the unreal comparison.", "zh": "用 as if / as though 时，从句做一个与现实相反的假设——听上去很像虚拟语气。关键区别：主句先把某种情况交代为确认的事实，再用从句把它比作一个不真实的情况。在 “I feel good as if I just ate a carrot” 中，“I feel good” 是真的；“as if I just ate a carrot” 才是那个不真实的比较。" },
+      "exampleRefs": ["e1", "e3"],
+      "sourceRef": "这里的方式副词从句的主句直接就交代了某种情况，然后用从句交代一个与事实相反的假设"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Manner clause vs. subjunctive conditional", "zh": "方式从句 vs. 虚拟条件句" },
+      "body": { "en": "Compare the manner clause with a subjunctive conditional. 'If I had eaten a carrot, I would feel good' is contrary to past fact — it implies I did NOT eat a carrot, so 'I feel good' is NOT confirmed. In the manner version, 'I feel good' is already a fact; only the comparison is unreal.", "zh": "把方式从句和虚拟条件句对比。“If I had eaten a carrot, I would feel good” 与过去事实相反——它暗示我刚才没吃胡萝卜，所以 “I feel good” 并不是确认的情况。而在方式从句版本里，“I feel good” 本身已是事实，只有那个比较是不真实的。" },
+      "exampleRefs": ["e2"]
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "'as' — a real, actual manner", "zh": "as — 真实存在的方式" },
+      "body": { "en": "With 'as' there is no hypothesis at all — the clause states a real fact you can think of as a manner that is actually happening. 'Eat the carrot as I do' = eat it the same way I eat it; 'Leave the carrot as it is' = leave it the way it already is.", "zh": "用 as 时完全没有假设——从句陈述一个真实的事实，可以理解为正在发生的某种方式。“Eat the carrot as I do” = 像我吃的那样吃；“Leave the carrot as it is” = 让它保持原本的样子。" },
+      "exampleRefs": ["e4", "e5"],
+      "sourceRef": "并不是假设，而是某种事实的阐述。你可以把它理解为正在发生的某种方式"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "Rephrasing with 'the way'", "zh": "用 the way 改写" },
+      "body": { "en": "Many manner clauses can be re-expressed with a 'the way' clause, which contains the very word 'way'. 'Eat the carrot as I do' becomes 'Eat the carrot the way I eat it.' One meaning, different clause types — some just sound more natural and concise.", "zh": "很多方式从句可以用包含“way”一词的 the way 从句改写。“Eat the carrot as I do” 可以变成 “Eat the carrot the way I eat it.” 同一个意思，不同的从句类型——只是有些听上去更自然、更简洁。" },
+      "exampleRefs": ["e6", "e7"]
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "I feel good as if I just ate a carrot.",
+      "annotations": [
+        { "quote": "as if", "tag": "clause-marker" },
+        { "quote": "I just ate a carrot", "tag": "manner-clause" }
+      ],
+      "note": { "en": "'I feel good' is a confirmed fact; 'as if I just ate a carrot' is the contrary-to-fact comparison (I did not actually eat one).", "zh": "“I feel good”是确认的事实；“as if I just ate a carrot”是与事实相反的比较（我其实没吃）。" }
+    },
+    {
+      "id": "e2",
+      "text": "If I had eaten a carrot, I would feel good.",
+      "annotations": [
+        { "quote": "If", "tag": "clause-marker" }
+      ],
+      "note": { "en": "A subjunctive conditional, contrary to past fact: it implies I did NOT eat a carrot, so 'I feel good' is not confirmed. Contrast this with the manner clause in e1.", "zh": "虚拟条件句，与过去事实相反：暗示我没吃胡萝卜，所以“I feel good”并不确认。与 e1 的方式从句对比。" }
+    },
+    {
+      "id": "e3",
+      "text": "You spent so much money as if you were a millionaire.",
+      "annotations": [
+        { "quote": "as if", "tag": "clause-marker" },
+        { "quote": "you were a millionaire", "tag": "manner-clause" }
+      ],
+      "note": { "en": "'You spent so much money' is stated as fact; 'as if you were a millionaire' is the unreal comparison — but you are not one.", "zh": "“You spent so much money”被当作事实交代；“as if you were a millionaire”是不真实的比较——但你并不是百万富翁。" }
+    },
+    {
+      "id": "e4",
+      "text": "Eat the carrot as I do.",
+      "annotations": [
+        { "quote": "as", "tag": "clause-marker" },
+        { "quote": "I do", "tag": "manner-clause" }
+      ],
+      "note": { "en": "'As' here is a real manner, not a hypothesis: eat it the same way I actually eat it.", "zh": "这里的“as”是真实的方式，不是假设：像我实际吃的那样吃。" }
+    },
+    {
+      "id": "e5",
+      "text": "Leave the carrot as it is.",
+      "annotations": [
+        { "quote": "as", "tag": "clause-marker" },
+        { "quote": "it is", "tag": "manner-clause" }
+      ],
+      "note": { "en": "Leave it in the state it already is — a real, actual manner.", "zh": "让它保持原本的样子——真实存在的方式。" }
+    },
+    {
+      "id": "e6",
+      "text": "You spend money the way millionaires do.",
+      "annotations": [
+        { "quote": "the way", "tag": "clause-marker" },
+        { "quote": "millionaires do", "tag": "manner-clause" }
+      ],
+      "note": { "en": "A 'the way' clause rephrasing — the word 'way' itself carries the manner meaning.", "zh": "用 the way 从句改写——“way”一词本身就承载方式的含义。" }
+    },
+    {
+      "id": "e7",
+      "text": "Eat the carrot the way I eat it.",
+      "annotations": [
+        { "quote": "the way", "tag": "clause-marker" },
+        { "quote": "I eat it", "tag": "manner-clause" }
+      ],
+      "note": { "en": "Same meaning as 'Eat the carrot as I do', expressed with a 'the way' clause — often more natural.", "zh": "与“Eat the carrot as I do”同义，用 the way 从句表达——往往更自然。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "In 'I feel good as if I just ate a carrot', what is the status of 'I feel good'?", "zh": "在“I feel good as if I just ate a carrot”中，“I feel good”是什么状态？" },
+      "choices": [
+        { "id": "a", "text": { "en": "A confirmed fact", "zh": "一个确认的事实" } },
+        { "id": "b", "text": { "en": "An unreal, hypothetical situation", "zh": "一个不真实的假设" } },
+        { "id": "c", "text": { "en": "A question", "zh": "一个疑问" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "In a manner clause the main clause states a confirmed fact; only the 'as if' clause is the contrary-to-fact comparison.", "zh": "方式从句中主句交代的是确认的事实；只有 as if 从句才是与事实相反的比较。" },
+      "refs": ["c2", "e1"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "Which introduces a REAL manner (no hypothesis)?", "zh": "哪一句引导的是真实的方式（无假设）？" },
+      "choices": [
+        { "id": "a", "text": { "en": "You spent so much money as if you were a millionaire.", "zh": "You spent so much money as if you were a millionaire." } },
+        { "id": "b", "text": { "en": "Leave the carrot as it is.", "zh": "Leave the carrot as it is." } },
+        { "id": "c", "text": { "en": "I feel good as if I just ate a carrot.", "zh": "I feel good as if I just ate a carrot." } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'As it is' states a real, actual manner. The 'as if' clauses in the others are contrary-to-fact comparisons.", "zh": "“as it is”陈述真实存在的方式。其余的 as if 从句都是与事实相反的比较。" },
+      "refs": ["c4", "e5"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Rewrite as a manner clause using 'as if': She walked in ____ ____ she owned the place.", "zh": "用 as if 改写成方式从句：She walked in ____ ____ she owned the place." },
+      "answers": ["as if", "as though"],
+      "explain": { "en": "'As if' (or the equivalent 'as though') sets up the contrary-to-fact manner comparison — she does not actually own the place.", "zh": "“as if”（或同义的“as though”）引出与事实相反的方式比较——她其实并不拥有这地方。" },
+      "refs": ["c2"]
+    },
+    {
+      "id": "q4",
+      "type": "fill",
+      "prompt": { "en": "Rephrase 'Eat the carrot as I do' with a 'the way' clause: Eat the carrot ____ ____ I eat it.", "zh": "用 the way 从句改写“Eat the carrot as I do”：Eat the carrot ____ ____ I eat it." },
+      "answers": ["the way"],
+      "explain": { "en": "A 'the way' clause carries the manner meaning in the word 'way' and is often the more natural phrasing.", "zh": "the way 从句把方式含义放在“way”一词里，往往更自然。" },
+      "refs": ["c5", "e7"]
+    },
+    {
+      "id": "q5",
+      "type": "error",
+      "sentence": "You spent so much money as if you are a millionaire.",
+      "fix": "You spent so much money as if you were a millionaire.",
+      "explain": { "en": "After 'as if' a contrary-to-fact comparison takes the past-subjunctive 'were', signalling you are not actually a millionaire.", "zh": "“as if”后的与事实相反的比较用过去虚拟的“were”，表明你其实不是百万富翁。" },
+      "refs": ["c2", "e3"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "Carrots, the manner way", "zh": "用方式从句聊胡萝卜" },
+    "targets": ["manner-clause", "clause-marker"],
+    "lines": [
+      { "speaker": "Rabbit", "text": "I feel good as if I just ate a carrot.", "annotations": [ { "quote": "as if", "tag": "clause-marker" }, { "quote": "I just ate a carrot", "tag": "manner-clause" } ], "note": { "en": "Main clause is a fact; the clause is the unreal comparison.", "zh": "主句是事实；从句是不真实的比较。" } },
+      { "speaker": "Wolf", "text": "You spent so much money as if you were a millionaire.", "annotations": [ { "quote": "as if", "tag": "clause-marker" }, { "quote": "you were a millionaire", "tag": "manner-clause" } ], "note": { "en": "Counterfactual manner — you are not actually rich.", "zh": "与事实相反的方式——你其实并不富有。" } },
+      { "speaker": "Rabbit", "text": "Fine. Just eat the carrot as I do.", "annotations": [ { "quote": "as", "tag": "clause-marker" }, { "quote": "I do", "tag": "manner-clause" } ], "note": { "en": "'As' = a real, actual manner, no hypothesis.", "zh": "“as” = 真实的方式，没有假设。" } },
+      { "speaker": "Wolf", "text": "Or just leave the carrot as it is.", "annotations": [ { "quote": "as", "tag": "clause-marker" }, { "quote": "it is", "tag": "manner-clause" } ], "note": { "en": "Leave it the way it already is — real manner again.", "zh": "让它保持原样——同样是真实的方式。" } }
+    ]
+  }
+}

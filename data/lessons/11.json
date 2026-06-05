@@ -1,0 +1,306 @@
+{
+  "id": "11",
+  "slug": "adverbial-clauses-of-time",
+  "category": "clauses",
+  "shape": "standard",
+  "order": 18,
+  "title": { "en": "Adverbial Clauses of Time", "zh": "时间状语（副词）从句" },
+  "summary": { "en": "An adverbial clause acts as the adverbial of the sentence, adding info to the verb. A time clause pins the main action to a reference point — before, when/while/as, after, since, until, as soon as, the next time — and the marker you pick fixes that point.", "zh": "副词从句在句中充当状语，给动词补充信息。时间从句把主句动作钉在一个时间参照点上——before、when/while/as、after、since、until、as soon as、the next time——选哪个引导词，就定了哪个参照点。" },
+  "source": { "videoId": "bJKfKTFjk4A", "youtube": "https://www.youtube.com/watch?v=bJKfKTFjk4A", "duration": "5:55", "script": "scripts/11-adverbial-clauses-of-time.md" },
+  "tags": [
+    { "id": "time-clause", "label": { "en": "time clause", "zh": "时间从句" }, "abbr": "TmC", "color": "#0e7490", "underline": "dashed" },
+    { "id": "time-marker", "label": { "en": "time marker", "zh": "时间引导词" }, "abbr": "Tm", "color": "#65a30d", "underline": "dotted" },
+    { "id": "main-clause", "label": { "en": "main clause", "zh": "主句" }, "abbr": "MC", "color": "#475569", "underline": "solid" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "Adverbial clause = the adverbial of the sentence", "zh": "副词从句 = 句子的状语" },
+      "body": { "en": "An adverbial clause does an adverb's job: it adds information to a verb, adjective, or adverb. In terms of sentence components it fills the adverbial slot, which is why 'adverbial clause' and 'adverb clause' name the same thing. By use or meaning these clauses split into nine kinds — time, place, condition, concession, manner, comparison, reason, purpose, result.", "zh": "副词从句起副词的作用：补充说明动词、形容词、副词。从句子成分上说，它充当状语，所以“副词从句”和“状语从句”是一回事。按用途或意义可分九类——时间、地点、条件、让步、方式、比较、原因、目的、结果。" },
+      "sourceRef": "副词从句也叫状语从句，两者是一回事儿"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "before — the main action comes earlier", "zh": "before — 主句动作在前" },
+      "body": { "en": "'before + clause' marks a point that the main action precedes. When the time clause is moved to the front of the sentence, add a comma after it to break the line clearly.", "zh": "“before + 从句”标出一个时间点，主句动作在它之前发生。如果把时间从句提到主句之前，要在从句后加逗号便于断句。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "在某一时间点之前，从句引导词before"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "when / while / as — at the time", "zh": "when / while / as — 当时" },
+      "body": { "en": "All three mark 'at that time', but with different feel: 'when' usually points at a single moment and carries a sense of suddenness; 'while' stresses a stretch of time; 'as' stresses two actions happening together.", "zh": "三者都表示“当时”，但语感不同：when 一般强调某个时间点，并带有突然之意；while 一般强调一个时间段之内；as 一般强调两个动作同时进行。" },
+      "exampleRefs": ["e2", "e3", "e4", "e5"],
+      "sourceRef": "在某一时间点之中，也就是当时，从句引导词when, while, as"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "after — the main action comes later", "zh": "after — 主句动作在后" },
+      "body": { "en": "'after + clause' is the mirror of 'before': the marked point comes first and the main action follows it.", "zh": "“after + 从句”是 before 的镜像：所标的时间点在前，主句动作在它之后发生。" },
+      "exampleRefs": ["e6"],
+      "sourceRef": "在某一时间点之后，从句引导词after"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "since — counting from a past point (use perfect)", "zh": "since — 从过去某点算起（用完成态）" },
+      "body": { "en": "'since + clause' marks a span counted from a past point, usually implying an effect that reaches the present — so the main clause normally uses a perfect form. It works with negatives too.", "zh": "“since + 从句”标出从某一过去时间点算起的时间段，往往暗示对之后有影响——因此主句一般要用完成态。否定也可以。" },
+      "exampleRefs": ["e7", "e8"],
+      "sourceRef": "从之前某一时间点开始算，从句引导词since"
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "until — up to a later point", "zh": "until — 直到之后某点" },
+      "body": { "en": "'until + clause' is something like the opposite of 'since': it runs from now up to a later point. With a negative main verb it means the action does not happen until that point ('not... until' = only then).", "zh": "“until + 从句”有点像 since 的对立面：从此刻起，直到之后的某个时间点。主句动词为否定时表示“直到那时才……”（not... until = 到那时才）。" },
+      "exampleRefs": ["e9", "e10"],
+      "sourceRef": "直到之后某一时间点，从句引导词是 until"
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "as soon as — the moment one thing happens", "zh": "as soon as — 一……就……" },
+      "body": { "en": "'as soon as + clause' means one action follows immediately on the heels of another — 'the moment X happens, Y happens'.", "zh": "“as soon as + 从句”表示一个动作紧跟着另一个动作发生——“一……就……”。" },
+      "exampleRefs": ["e11"],
+      "sourceRef": "一什么什么，就什么什么。从句引导词是 as soon as"
+    },
+    {
+      "id": "c8",
+      "heading": { "en": "the next time — on the next occasion", "zh": "the next time — 下次……时" },
+      "body": { "en": "A noun phrase like 'the next time' can also introduce a time clause, meaning 'on the next occasion that...'.", "zh": "“the next time”这样的名词短语也能引导时间从句，意思是“下次……的时候”。" },
+      "exampleRefs": ["e12"],
+      "sourceRef": "the next time 引导的时间状语从句"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "The rabbit ate carrot at home before the wolf stopped by.",
+      "annotations": [
+        { "quote": "The rabbit ate carrot at home", "tag": "main-clause" },
+        { "quote": "before", "tag": "time-marker" },
+        { "quote": "the wolf stopped by", "tag": "time-clause" }
+      ],
+      "note": { "en": "The rabbit's eating happens before the wolf's visit. Move the clause forward and you get: 'Before the wolf stopped by, the rabbit ate carrot at home.'", "zh": "兔子吃胡萝卜在大灰狼串门之前。把从句提前则为：“Before the wolf stopped by, the rabbit ate carrot at home.”" }
+    },
+    {
+      "id": "e2",
+      "text": "The rabbit was eating a carrot when I reached home.",
+      "annotations": [
+        { "quote": "The rabbit was eating a carrot", "tag": "main-clause" },
+        { "quote": "when", "tag": "time-marker" },
+        { "quote": "I reached home", "tag": "time-clause" }
+      ],
+      "note": { "en": "'When' points at the single moment of reaching home.", "zh": "when 指向“到家”那一个时间点。" }
+    },
+    {
+      "id": "e3",
+      "text": "The rabbit was eating a carrot while I was making a video.",
+      "annotations": [
+        { "quote": "The rabbit was eating a carrot", "tag": "main-clause" },
+        { "quote": "while", "tag": "time-marker" },
+        { "quote": "I was making a video", "tag": "time-clause" }
+      ],
+      "note": { "en": "'While' stresses the whole stretch of making the video.", "zh": "while 强调“做视频”这一整段时间。" }
+    },
+    {
+      "id": "e4",
+      "text": "I ate a carrot as I made the video.",
+      "annotations": [
+        { "quote": "I ate a carrot", "tag": "main-clause" },
+        { "quote": "as", "tag": "time-marker" },
+        { "quote": "I made the video", "tag": "time-clause" }
+      ],
+      "note": { "en": "'As' stresses the two actions running together — eating and filming at once.", "zh": "as 强调两个动作同时进行——一边吃一边拍。" }
+    },
+    {
+      "id": "e5",
+      "text": "The rabbit was about to eat a carrot at home when the wolf stopped by.",
+      "annotations": [
+        { "quote": "The rabbit was about to eat a carrot at home", "tag": "main-clause" },
+        { "quote": "when", "tag": "time-marker" },
+        { "quote": "the wolf stopped by", "tag": "time-clause" }
+      ],
+      "note": { "en": "Here 'when' carries its sudden flavour: just as the rabbit was about to eat, the wolf turned up.", "zh": "这里 when 带突然之意：兔子刚要吃，大灰狼就突然来串门了。" }
+    },
+    {
+      "id": "e6",
+      "text": "The rabbit ate a carrot after the wolf stopped by.",
+      "annotations": [
+        { "quote": "The rabbit ate a carrot", "tag": "main-clause" },
+        { "quote": "after", "tag": "time-marker" },
+        { "quote": "the wolf stopped by", "tag": "time-clause" }
+      ],
+      "note": { "en": "Mirror of 'before': the visit comes first, the eating follows.", "zh": "before 的镜像：串门在前，吃胡萝卜在后。" }
+    },
+    {
+      "id": "e7",
+      "text": "The rabbit has shared three carrots since the wolf stopped by.",
+      "annotations": [
+        { "quote": "has shared", "tag": "auxiliary" },
+        { "quote": "since", "tag": "time-marker" },
+        { "quote": "the wolf stopped by", "tag": "time-clause" }
+      ],
+      "note": { "en": "'Since' counts from the visit to now, so the main clause uses the present perfect 'has shared'.", "zh": "since 从串门那点算到现在，所以主句用现在完成时 has shared。" }
+    },
+    {
+      "id": "e8",
+      "text": "The rabbit has not stopped sharing carrots since the wolf stopped by.",
+      "annotations": [
+        { "quote": "has not stopped", "tag": "auxiliary" },
+        { "quote": "since", "tag": "time-marker" },
+        { "quote": "the wolf stopped by", "tag": "time-clause" }
+      ],
+      "note": { "en": "Negative + perfect: ever since the visit, the sharing hasn't stopped.", "zh": "否定 + 完成态：自从串门以来，分享一直没停。" }
+    },
+    {
+      "id": "e9",
+      "text": "The rabbit waited until the wolf stopped by.",
+      "annotations": [
+        { "quote": "The rabbit waited", "tag": "main-clause" },
+        { "quote": "until", "tag": "time-marker" },
+        { "quote": "the wolf stopped by", "tag": "time-clause" }
+      ],
+      "note": { "en": "The waiting runs right up to the moment the wolf arrives.", "zh": "等待一直持续到大灰狼来串门那一刻。" }
+    },
+    {
+      "id": "e10",
+      "text": "The rabbit didn't eat any carrot until the wolf stopped by.",
+      "annotations": [
+        { "quote": "didn't eat", "tag": "auxiliary" },
+        { "quote": "until", "tag": "time-marker" },
+        { "quote": "the wolf stopped by", "tag": "time-clause" }
+      ],
+      "note": { "en": "'not... until' = only then: the rabbit ate no carrot before that — it ate only when the wolf came.", "zh": "not... until = 到那时才：之前一根都没吃，直到大灰狼来才吃。" }
+    },
+    {
+      "id": "e11",
+      "text": "The rabbit will eat a carrot as soon as the wolf leaves.",
+      "annotations": [
+        { "quote": "The rabbit will eat a carrot", "tag": "main-clause" },
+        { "quote": "as soon as", "tag": "time-marker" },
+        { "quote": "the wolf leaves", "tag": "time-clause" }
+      ],
+      "note": { "en": "The moment the wolf leaves, the rabbit eats — one action on the heels of the other.", "zh": "大灰狼一离开，兔子就吃——一个动作紧跟另一个。" }
+    },
+    {
+      "id": "e12",
+      "text": "The rabbit will share the biggest carrot the next time the wolf stops by.",
+      "annotations": [
+        { "quote": "The rabbit will share the biggest carrot", "tag": "main-clause" },
+        { "quote": "the next time", "tag": "time-marker" },
+        { "quote": "the wolf stops by", "tag": "time-clause" }
+      ],
+      "note": { "en": "'The next time' introduces the clause: on the next occasion the wolf visits.", "zh": "the next time 引导从句：下次大灰狼来串门时。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Which marker stresses that two actions happen together (e.g. eating and filming at once)?", "zh": "哪个引导词强调两个动作同时进行（如一边吃一边拍）？" },
+      "choices": [
+        { "id": "a", "text": { "en": "as", "zh": "as" } },
+        { "id": "b", "text": { "en": "before", "zh": "before" } },
+        { "id": "c", "text": { "en": "until", "zh": "until" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "'As' stresses two actions running at the same time; 'while' stresses a stretch and 'when' a single moment.", "zh": "as 强调两个动作同时进行；while 强调一个时间段，when 强调某个时间点。" },
+      "refs": ["c3", "e4"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "Why is 'has shared' used in 'The rabbit has shared three carrots since the wolf stopped by'?", "zh": "为什么“The rabbit has shared three carrots since the wolf stopped by”用 has shared？" },
+      "choices": [
+        { "id": "a", "text": { "en": "'Since' counts a span from a past point up to now, so a perfect form is used.", "zh": "since 表示从过去某点算到现在的时间段，所以用完成态。" } },
+        { "id": "b", "text": { "en": "'Since' always forces the future tense.", "zh": "since 总是要求用将来时。" } },
+        { "id": "c", "text": { "en": "The main clause must match the simple past of the time clause.", "zh": "主句必须与从句的一般过去时保持一致。" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "A 'since' span reaches the present and implies an ongoing effect, so the main clause normally takes the perfect.", "zh": "since 的时间段延续到现在并暗示影响，所以主句一般用完成态。" },
+      "refs": ["c5", "e7"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Fill the marker: 'The rabbit will eat a carrot ____ the wolf leaves.' (meaning the moment the wolf leaves)", "zh": "填引导词：“The rabbit will eat a carrot ____ the wolf leaves.”（意为大灰狼一离开就……）" },
+      "answers": ["as soon as"],
+      "explain": { "en": "'As soon as' means one action follows immediately on another — 'the moment X happens'.", "zh": "as soon as 表示一个动作紧跟另一个发生——“一……就……”。" },
+      "refs": ["c7", "e11"]
+    },
+    {
+      "id": "q4",
+      "type": "fill",
+      "prompt": { "en": "Fill the marker: 'The rabbit didn't eat any carrot ____ the wolf stopped by.' (only then did it eat)", "zh": "填引导词：“The rabbit didn't eat any carrot ____ the wolf stopped by.”（到那时才吃）" },
+      "answers": ["until", "till"],
+      "explain": { "en": "'Not... until' means the action happens only at that later point — the rabbit ate only when the wolf came.", "zh": "not... until 表示动作直到那个较晚的点才发生——大灰狼来兔子才吃。" },
+      "refs": ["c6", "e10"]
+    },
+    {
+      "id": "q5",
+      "type": "error",
+      "sentence": "Before the wolf stopped by the rabbit ate carrot at home.",
+      "fix": "Before the wolf stopped by, the rabbit ate carrot at home.",
+      "explain": { "en": "When the time clause is moved to the front, add a comma after it to break the line clearly.", "zh": "时间从句提到句首时，要在从句后加逗号便于断句。" },
+      "refs": ["c2", "e1"]
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": { "en": "In 'The rabbit ate a carrot after the wolf stopped by', when does the eating happen?", "zh": "在“The rabbit ate a carrot after the wolf stopped by”中，吃胡萝卜发生在何时？" },
+      "choices": [
+        { "id": "a", "text": { "en": "After the wolf's visit", "zh": "在大灰狼串门之后" } },
+        { "id": "b", "text": { "en": "Before the wolf's visit", "zh": "在大灰狼串门之前" } },
+        { "id": "c", "text": { "en": "At the same moment as the visit", "zh": "与串门同时" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "'After' is the mirror of 'before': the marked point (the visit) comes first, the main action (eating) follows.", "zh": "after 是 before 的镜像：所标的点（串门）在前，主句动作（吃）在后。" },
+      "refs": ["c4", "e6"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "The rabbit explains its carrot timing", "zh": "兔子解释自己的胡萝卜时间表" },
+    "targets": ["time-marker", "time-clause", "main-clause"],
+    "lines": [
+      {
+        "speaker": "Wolf",
+        "text": "I noticed the rabbit ate carrot at home before the wolf stopped by.",
+        "annotations": [
+          { "quote": "the rabbit ate carrot at home", "tag": "main-clause" },
+          { "quote": "before", "tag": "time-marker" },
+          { "quote": "the wolf stopped by", "tag": "time-clause" }
+        ],
+        "note": { "en": "'Before' marks the eating as earlier than the visit.", "zh": "before 把吃胡萝卜标在串门之前。" }
+      },
+      {
+        "speaker": "Rabbit",
+        "text": "True, and I was eating a carrot when you reached home.",
+        "annotations": [
+          { "quote": "I was eating a carrot", "tag": "main-clause" },
+          { "quote": "when", "tag": "time-marker" },
+          { "quote": "you reached home", "tag": "time-clause" }
+        ],
+        "note": { "en": "'When' points at the single moment of arriving.", "zh": "when 指向“到家”那一刻。" }
+      },
+      {
+        "speaker": "Wolf",
+        "text": "But the rabbit has shared three carrots since the wolf stopped by.",
+        "annotations": [
+          { "quote": "has shared", "tag": "auxiliary" },
+          { "quote": "since", "tag": "time-marker" },
+          { "quote": "the wolf stopped by", "tag": "time-clause" }
+        ],
+        "note": { "en": "'Since' + present perfect: a span from the visit to now.", "zh": "since + 现在完成时：从串门到现在的时间段。" }
+      },
+      {
+        "speaker": "Rabbit",
+        "text": "Fine — I will share the biggest carrot the next time the wolf stops by.",
+        "annotations": [
+          { "quote": "I will share the biggest carrot", "tag": "main-clause" },
+          { "quote": "the next time", "tag": "time-marker" },
+          { "quote": "the wolf stops by", "tag": "time-clause" }
+        ],
+        "note": { "en": "'The next time' introduces a time clause for the next occasion.", "zh": "the next time 引导一个表示下次的时间从句。" }
+      }
+    ]
+  }
+}

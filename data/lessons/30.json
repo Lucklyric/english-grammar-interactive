@@ -1,0 +1,556 @@
+{
+  "id": "30",
+  "slug": "english-grammar-numbers",
+  "category": "parts-of-speech",
+  "shape": "deep-dive",
+  "order": 34,
+  "title": { "en": "Numbers (Numerals)", "zh": "数词" },
+  "summary": { "en": "Numerals split into cardinals (how many) and ordinals (which place in order). One to twenty is irregular, after twenty it gets regular, and the same numbers drive fractions, decimals, percentages, multiples, arithmetic, dates, temperature and dimensions.", "zh": "数词分两大类：基数词（多少）和序数词（第几）。一到二十拼写不规则，二十之后变规则；同一套数字还用在分数、小数、百分数、倍数、四则运算、日期、温度和长宽高里。" },
+  "source": { "videoId": "HnwfvhkESYA", "youtube": "https://www.youtube.com/watch?v=HnwfvhkESYA", "duration": "16:02", "script": "scripts/30-english-grammar-numbers.md" },
+  "tags": [
+    { "id": "cardinal", "label": { "en": "cardinal number", "zh": "基数词" }, "abbr": "Card", "color": "#2563eb", "underline": "solid" },
+    { "id": "ordinal", "label": { "en": "ordinal number", "zh": "序数词" }, "abbr": "Ord", "color": "#c026d3", "underline": "solid" },
+    { "id": "unit-word", "label": { "en": "unit / scale word", "zh": "单位词" }, "abbr": "Unit", "color": "#0d9488", "underline": "dashed" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "Two kinds of numeral: cardinal vs. ordinal", "zh": "数词两大类：基数词与序数词" },
+      "body": { "en": "Numerals divide into cardinals and ordinals. A cardinal tells you the quantity — 'I want to eat three carrots' (three = how many). An ordinal tells you the position in a sequence — 'I want the third carrot' (third = which one).", "zh": "数词分两大类：基数词和序数词。基数词表示数量上的多少——“我要吃三根胡萝卜”（三 = 多少）。序数词表示顺序的先后——“我要吃第三根胡萝卜”（第三 = 具体哪一根）。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "数词分两大类：基数词和序数词。"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "Eleven to nineteen are irregular", "zh": "十一到十九不规则" },
+      "body": { "en": "One to ten must be memorised. Eleven is a brand-new word; twelve and thirteen only faintly resemble two and three. From fourteen on there is a pattern — a digit plus the suffix '-teen' (not 'ten'): fourteen, sixteen, seventeen, nineteen. But fifteen and eighteen change spelling: not 'fiveteen' but fifteen, not 'eightteen' but eighteen.", "zh": "一到十要靠记。eleven 是个全新的词；twelve、thirteen 只和 two、three 有点像。从 fourteen 开始有了规律——个位数加后缀 '-teen'（不是 'ten'）：fourteen, sixteen, seventeen, nineteen。但 fifteen 和 eighteen 拼写要改：不是 fiveteen 而是 fifteen，不是 eightteen 而是 eighteen。" },
+      "exampleRefs": ["e2"]
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "The tens: twenty, thirty… ninety", "zh": "整十位：twenty, thirty… ninety" },
+      "body": { "en": "The round tens take the suffix '-ty' and the stem relates to the digit, but several change spelling: twenty (not twoty), thirty (not threety), forty (not fourty), fifty (not fivety), eighty (not eightty). Only sixty, seventy and ninety stay regular.", "zh": "整十位用后缀 '-ty'，词干和个位数字有关，但有几个拼写要改：twenty（不是 twoty）、thirty（不是 threety）、forty（不是 fourty）、fifty（不是 fivety）、eighty（不是 eightty）。只有 sixty、seventy、ninety 比较规则。" },
+      "exampleRefs": ["e3"]
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Twenty-one to ninety-nine: tens-hyphen-ones", "zh": "几十几：整十 + 连字符 + 个位" },
+      "body": { "en": "For numbers like twenty-one, you say the tens first, then the ones, and in writing join them with a hyphen: twenty-one, sixty-six, ninety-seven.", "zh": "几十几就是先说几十再说几，书写时中间加连字符：twenty-one, sixty-six, ninety-seven。" },
+      "exampleRefs": ["e4"]
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "Hundreds: 'and' before the remainder, no plural 's'", "zh": "百位：余数前加 and，hundred 不加 s" },
+      "body": { "en": "Put a digit before 'hundred' (one hundred, two hundred … nine hundred). Hundred never adds a plural 's' here — it is part of the number, almost adjective-like, not a noun. Join the hundreds and the remainder with 'and': three hundred and sixty-five, one hundred and one.", "zh": "在几前面加 hundred：one hundred, two hundred … nine hundred。这里 hundred 不能像复数那样加 s——它是数字的一部分，有点像形容词，不是名词。百位和余数之间用 and 连接：three hundred and sixty-five, one hundred and one。" },
+      "exampleRefs": ["e5"]
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "Thousand, million, billion: split in threes", "zh": "千、百万、十亿：三位划分法" },
+      "body": { "en": "Put a number before 'thousand' (one thousand, two thousand). English groups large numbers in threes from the right, giving thousand / million / billion — unlike Chinese, which groups by ten-thousands. Read each three-digit segment plus its unit, left to right: e.g. 478,873,467,823 = four hundred and seventy-eight billion, eight hundred and seventy-three million, four hundred and sixty-seven thousand, eight hundred and twenty-three.", "zh": "在几前面加 thousand：one thousand, two thousand。英语从右往左每三位分一节，得到 thousand / million / billion——和中文按万划分不同。从左往右读出每段的三位数加它的单位即可，如 478,873,467,823 = four hundred and seventy-eight billion, eight hundred and seventy-three million, four hundred and sixty-seven thousand, eight hundred and twenty-three。" },
+      "exampleRefs": ["e6"]
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "Cardinals as sentence elements", "zh": "基数词充当句子成分" },
+      "body": { "en": "A cardinal can fill different roles in a sentence. In 'One and two is three', one/two are subjects and three is a complement after the verb. In 'It costs fifty', fifty is the object. In 'There are two hundred students', two hundred is an attributive modifying 'students'. In 'You two can go with me', 'two' restates the subject 'you' and so is an appositive.", "zh": "基数词在句中可充当不同成分。'One and two is three' 里 one/two 作主语，three 在 be 动词后作表语。'It costs fifty' 里 fifty 作宾语。'There are two hundred students' 里 two hundred 修饰 students 作定语。'You two can go with me' 里 two 重复说明主语 you，作同位语。" },
+      "exampleRefs": ["e7", "e8", "e9"]
+    },
+    {
+      "id": "c8",
+      "heading": { "en": "Inexact quantities: hundreds / thousands of", "zh": "不确切数量：hundreds / thousands of" },
+      "body": { "en": "Cardinals can also express vague quantities. Pluralise the scale word and add 'of': hundreds of, thousands of, millions of — as in 'thousands of carrots' (at least two thousand, but exactly how many is unknown). You can stack another vague layer in front: tens of thousands of carrots, hundreds of thousands of carrots.", "zh": "基数词也能表示不确切的数量：把计量单位变复数并加 of——hundreds of、thousands of、millions of，如 thousands of carrots（数以千计，至少两千，但具体多少不得而知）。还能再叠一层：tens of thousands of carrots（数以万计）、hundreds of thousands of carrots（几十万）。" },
+      "exampleRefs": ["e10"]
+    },
+    {
+      "id": "c9",
+      "heading": { "en": "Ordinals 1st–19th: mostly cardinal + '-th'", "zh": "序数词 1–19：多数为基数词 + th" },
+      "body": { "en": "Most ordinals from 1 to 19 are just the cardinal plus '-th' (seventh, thirteenth). The exceptions, often for ease of pronunciation, are: first, second, third, fifth, eighth, ninth, twelfth.", "zh": "1 到 19 的序数词，大多是相应基数词加 '-th'（seventh, thirteenth）。例外（多为发音需要）是：first, second, third, fifth, eighth, ninth, twelfth。" },
+      "exampleRefs": ["e11"]
+    },
+    {
+      "id": "c10",
+      "heading": { "en": "Ordinals for the tens: -y becomes -ieth", "zh": "整十序数词：y 变 ieth" },
+      "body": { "en": "For round tens, change the final '-y' of the cardinal to '-ieth': twentieth, thirtieth, fortieth, fiftieth, sixtieth, seventieth, eightieth, ninetieth.", "zh": "整十位的序数词，把基数词词尾的 '-y' 变成 '-ieth'：twentieth, thirtieth, fortieth, fiftieth, sixtieth, seventieth, eightieth, ninetieth。" },
+      "exampleRefs": ["e12"]
+    },
+    {
+      "id": "c11",
+      "heading": { "en": "Compound ordinals: only the last digit changes", "zh": "复合序数词：只有个位变序数" },
+      "body": { "en": "In a compound ordinal, the tens/hundreds part stays cardinal and only the final ones-digit becomes ordinal: twenty-second, fifty-sixth, one hundred and first. So once you know cardinals plus a handful of ordinals, the rest follow.", "zh": "复合序数词里，整十、整百部分仍是基数词，只有最后的个位变成序数词：twenty-second, fifty-sixth, one hundred and first。所以掌握了基数词，再记住几个序数词，其余就容易了。" },
+      "exampleRefs": ["e13"]
+    },
+    {
+      "id": "c12",
+      "heading": { "en": "Ordinals usually take 'the' — but not always", "zh": "序数词一般加 the，但并非总是" },
+      "body": { "en": "Because an ordinal already pins down which one, it is usually specific and takes 'the': 'She was the fifth to pay the bill.' But do not add 'the' when another determiner already limits the noun: 'This is my first book' — 'my' already specifies the book, so no 'the'.", "zh": "序数词既然点明了第几个，多半是特指，一般要加 the：'She was the fifth to pay the bill.' 但若名词前已有别的限定词，就不能再加 the：'This is my first book'——my 已经限定了 book，所以不加 the。" },
+      "exampleRefs": ["e14", "e15"]
+    },
+    {
+      "id": "c13",
+      "heading": { "en": "'the second lesson' vs. 'lesson two'", "zh": "the second lesson 与 lesson two" },
+      "body": { "en": "Some cardinal expressions look like ordinals: Room 315, page 200, Catch 22. 'The second lesson' and 'lesson two' both seem to mean 'lesson 2', but differ: 'the second lesson' = the second class period (the second one you sat through), while 'lesson two' = the second unit/chapter of a course.", "zh": "有些基数词表达和序数词相近：Room 315, page 200, Catch 22。'the second lesson' 和 'lesson two' 表面都是“第二课”，但有别：'the second lesson' 指第二节课（你上的第二节），'lesson two' 更倾向于一门课程的第二课时/第二单元。" },
+      "exampleRefs": ["e16"]
+    },
+    {
+      "id": "c14",
+      "heading": { "en": "Fractions: cardinal over ordinal", "zh": "分数：分子基数 + 分母序数" },
+      "body": { "en": "A fraction = cardinal numerator + ordinal denominator: one third, three fifths. If the numerator is greater than one, the ordinal denominator adds '-s': three fifths. Common ones have alternatives — one second = a half, one fourth = a quarter, three fourths = three quarters. A mixed number joins the whole and the fraction with 'and': two and one third.", "zh": "分数 = 分子用基数词 + 分母用序数词：one third, three fifths。分子大于一时，分母序数词加 '-s'：three fifths。常见的有别称——one second = a half，one fourth = a quarter，three fourths = three quarters。带分数用 and 连接整数与分数：two and one third。" },
+      "exampleRefs": ["e17"]
+    },
+    {
+      "id": "c15",
+      "heading": { "en": "Decimals and percentages", "zh": "小数与百分数" },
+      "body": { "en": "In a decimal the point is read 'point'. Read the left of the point as an ordinary cardinal, and read the digits to the right one by one: 12.896 = twelve point eight nine six. A percentage is just a cardinal followed by 'percent': 25% = twenty-five percent.", "zh": "小数点读作 'point'。小数点左边按基数词读，右边按顺序逐位读出：12.896 = twelve point eight nine six。百分数就是基数词加 'percent'：25% = twenty-five percent。" },
+      "exampleRefs": ["e18", "e19"]
+    },
+    {
+      "id": "c16",
+      "heading": { "en": "Multiples: half, twice, three times", "zh": "倍数：half, twice, three times" },
+      "body": { "en": "Multiples use words like half, twice, three times in fixed frames: multiple + 'the' + measure + of ('This carrot is twice the size of that one'); multiple + 'as … as' ('I have twice as many carrots as he has'); multiple + comparative + than ('I can eat three times faster than he can'); and 'by' + multiple ('I have increased my income by three times').", "zh": "倍数用 half、twice、three times 搭配固定句式：倍数 + the + 计量 + of（'This carrot is twice the size of that one'）；倍数 + as … as（'I have twice as many carrots as he has'）；倍数 + 比较级 + than（'I can eat three times faster than he can'）；by + 倍数（'I have increased my income by three times'）。" },
+      "exampleRefs": ["e20", "e21", "e22"]
+    },
+    {
+      "id": "c17",
+      "heading": { "en": "Arithmetic: plus, minus, times, divided by", "zh": "四则运算：加减乘除" },
+      "body": { "en": "Read operations as: '2 plus 2 is 4', '4 minus 2 is 2', '2 multiplied by (or times) 3 is 6', '8 divided by 4 is 2'. Powers: '2 squared is 4', '2 cubed is 8'. Comparisons: '4 is more than 3', '2 is less than 3'.", "zh": "运算读法：'2 plus 2 is 4'（加），'4 minus 2 is 2'（减），'2 multiplied by / times 3 is 6'（乘），'8 divided by 4 is 2'（除）。乘方：'2 squared is 4'（平方），'2 cubed is 8'（立方）。比较：'4 is more than 3'，'2 is less than 3'。" },
+      "exampleRefs": ["e23", "e24"]
+    },
+    {
+      "id": "c18",
+      "heading": { "en": "Time, dates and years", "zh": "时间、日期与年代" },
+      "body": { "en": "Time: before the half hour use 'past' (a quarter past seven), after it use 'to' (ten to eight); reading straight digits (seven fifteen, seven fifty) is also fine. Dates differ by region — British is day-month-year ('the 12th of December 2020'), American is month-day-year ('December 12th 2020'); the day is an ordinal and 'the' is read aloud. Years: 500 BC, 500 AD (or just 2020); decades: the 2020s / 2020's, the 1980s / 1980's.", "zh": "时间：半点前用 past（a quarter past seven），半点后用 to（ten to eight）；直接读数字（seven fifteen, seven fifty）也行。日期分英美——英式日月年（'the 12th of December 2020'），美式月日年（'December 12th 2020'）；日用序数词，且要读出 the。年代：500 BC、500 AD（或直接 2020）；年代段：2020s / 2020's、1980s / 1980's。" },
+      "exampleRefs": ["e25", "e26"]
+    },
+    {
+      "id": "c19",
+      "heading": { "en": "Dimensions and area", "zh": "长宽高与面积" },
+      "body": { "en": "Length/width/height use the adjectives long/wide/high or the nouns length/width/height. Two frames: number + unit + adjective ('This river is 1000 meters long') or number + unit + 'in' + noun ('The river is 1000 meters in length'). 'by' multiplies dimensions ('This room is 20 by 35 meters'; 'This box is 8 by 5 by 6 centimeters'); area uses square meters ('This room is 700 square meters').", "zh": "长宽高用形容词 long/wide/high 或名词 length/width/height。两种句式：数词 + 单位 + 形容词（'This river is 1000 meters long'）或 数词 + 单位 + in + 名词（'The river is 1000 meters in length'）。by 表示尺寸相乘（'This room is 20 by 35 meters'；'This box is 8 by 5 by 6 centimeters'）；面积用 square meters（'This room is 700 square meters'）。" },
+      "exampleRefs": ["e27", "e28"]
+    },
+    {
+      "id": "c20",
+      "heading": { "en": "Temperature", "zh": "温度" },
+      "body": { "en": "Temperature is 'degrees' plus the scale: 37 degrees centigrade (or Celsius), 37 degrees Fahrenheit; below freezing is 'below zero' (10 degrees below zero). When everyone already knows the scale is Celsius, you can drop 'centigrade / Celsius'.", "zh": "温度是 degrees 加单位：37 degrees centigrade（或 Celsius）、37 degrees Fahrenheit；零下用 below zero（10 degrees below zero）。在大家都默认是摄氏度时，可以省略 centigrade / Celsius。" },
+      "exampleRefs": ["e29", "e30"]
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "I want the third carrot.",
+      "annotations": [
+        { "quote": "third", "tag": "ordinal" },
+        { "quote": "carrot", "tag": "countable" }
+      ],
+      "note": { "en": "'Third' is an ordinal — it tells you which carrot, not how many.", "zh": "'third' 是序数词——它说明是哪一根胡萝卜，不是几根。" }
+    },
+    {
+      "id": "e2",
+      "text": "fourteen, fifteen, sixteen, seventeen, eighteen, nineteen",
+      "annotations": [
+        { "quote": "fourteen", "tag": "cardinal" },
+        { "quote": "fifteen", "tag": "cardinal" },
+        { "quote": "eighteen", "tag": "cardinal" }
+      ],
+      "note": { "en": "'-teen' (not 'ten') is the suffix. Watch the spelling changes: fifteen (not fiveteen) and eighteen (not eightteen).", "zh": "后缀是 '-teen'（不是 'ten'）。注意拼写变化：fifteen（不是 fiveteen）、eighteen（不是 eightteen）。" }
+    },
+    {
+      "id": "e3",
+      "text": "twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety",
+      "annotations": [
+        { "quote": "twenty", "tag": "cardinal" },
+        { "quote": "forty", "tag": "cardinal" },
+        { "quote": "fifty", "tag": "cardinal" }
+      ],
+      "note": { "en": "Suffix '-ty'. Irregular spellings: twenty, thirty, forty, fifty, eighty; regular: sixty, seventy, ninety.", "zh": "后缀 '-ty'。不规则拼写：twenty, thirty, forty, fifty, eighty；规则：sixty, seventy, ninety。" }
+    },
+    {
+      "id": "e4",
+      "text": "twenty-one, sixty-six, ninety-seven",
+      "annotations": [
+        { "quote": "twenty-one", "tag": "cardinal" },
+        { "quote": "sixty-six", "tag": "cardinal" },
+        { "quote": "ninety-seven", "tag": "cardinal" }
+      ],
+      "note": { "en": "Tens first, then ones, joined by a hyphen in writing.", "zh": "先整十再个位，书写时用连字符连接。" }
+    },
+    {
+      "id": "e5",
+      "text": "three hundred and sixty-five",
+      "annotations": [
+        { "quote": "three hundred", "tag": "cardinal" },
+        { "quote": "and", "tag": "conjunction" },
+        { "quote": "sixty-five", "tag": "cardinal" }
+      ],
+      "note": { "en": "'And' joins hundreds and remainder; 'hundred' takes no plural 's' here.", "zh": "'and' 连接百位和余数；这里 'hundred' 不加复数 s。" }
+    },
+    {
+      "id": "e6",
+      "text": "four hundred and seventy-eight billion, eight hundred and seventy-three million, four hundred and sixty-seven thousand, eight hundred and twenty-three",
+      "annotations": [
+        { "quote": "billion", "tag": "unit-word" },
+        { "quote": "million", "tag": "unit-word" },
+        { "quote": "thousand", "tag": "unit-word" }
+      ],
+      "note": { "en": "Each three-digit segment is read with its scale word, left to right: billion, million, thousand.", "zh": "每三位为一段，从左往右读出该段数字加单位：billion、million、thousand。" }
+    },
+    {
+      "id": "e7",
+      "text": "One and two is three.",
+      "annotations": [
+        { "quote": "One", "tag": "subject" },
+        { "quote": "two", "tag": "subject" },
+        { "quote": "three", "tag": "subject-complement" }
+      ],
+      "note": { "en": "Cardinals one/two as subjects; three after the verb as a complement.", "zh": "基数词 one/two 作主语；three 在动词后作表语。" }
+    },
+    {
+      "id": "e8",
+      "text": "It costs fifty.",
+      "annotations": [
+        { "quote": "It", "tag": "subject" },
+        { "quote": "costs", "tag": "verb-transitive" },
+        { "quote": "fifty", "tag": "object" }
+      ],
+      "note": { "en": "Here the cardinal 'fifty' is the object.", "zh": "这里基数词 'fifty' 作宾语。" }
+    },
+    {
+      "id": "e9",
+      "text": "There are two hundred students.",
+      "annotations": [
+        { "quote": "two hundred", "tag": "attributive" },
+        { "quote": "students", "tag": "object" }
+      ],
+      "note": { "en": "'Two hundred' modifies 'students', so it is an attributive.", "zh": "'two hundred' 修饰 'students'，作定语。" }
+    },
+    {
+      "id": "e10",
+      "text": "thousands of carrots",
+      "annotations": [
+        { "quote": "thousands", "tag": "unit-word" },
+        { "quote": "of", "tag": "preposition" },
+        { "quote": "carrots", "tag": "countable" }
+      ],
+      "note": { "en": "Plural scale word + 'of' = an inexact quantity (at least two thousand, exact count unknown).", "zh": "复数的计量单位 + 'of' = 不确切数量（至少两千，具体不详）。" }
+    },
+    {
+      "id": "e11",
+      "text": "first, second, third, fifth, eighth, ninth, twelfth",
+      "annotations": [
+        { "quote": "first", "tag": "ordinal" },
+        { "quote": "fifth", "tag": "ordinal" },
+        { "quote": "twelfth", "tag": "ordinal" }
+      ],
+      "note": { "en": "The irregular ordinals — not just cardinal + '-th'.", "zh": "不规则序数词——并非简单地基数词加 '-th'。" }
+    },
+    {
+      "id": "e12",
+      "text": "twentieth, thirtieth, fortieth, fiftieth, sixtieth, seventieth, eightieth, ninetieth",
+      "annotations": [
+        { "quote": "twentieth", "tag": "ordinal" },
+        { "quote": "fortieth", "tag": "ordinal" },
+        { "quote": "ninetieth", "tag": "ordinal" }
+      ],
+      "note": { "en": "Tens ordinals: change '-y' to '-ieth'.", "zh": "整十序数词：'-y' 变 '-ieth'。" }
+    },
+    {
+      "id": "e13",
+      "text": "twenty-second, fifty-sixth, one hundred and first",
+      "annotations": [
+        { "quote": "twenty", "tag": "cardinal" },
+        { "quote": "second", "tag": "ordinal" },
+        { "quote": "first", "tag": "ordinal" }
+      ],
+      "note": { "en": "Only the final digit becomes ordinal; the tens/hundreds stay cardinal.", "zh": "只有最后一位变序数词；整十、整百仍是基数词。" }
+    },
+    {
+      "id": "e14",
+      "text": "She was the fifth to pay the bill.",
+      "annotations": [
+        { "quote": "the", "tag": "article", "occurrence": 1 },
+        { "quote": "fifth", "tag": "ordinal" }
+      ],
+      "note": { "en": "An ordinal is specific, so it normally takes 'the'.", "zh": "序数词是特指，所以一般加 'the'。" }
+    },
+    {
+      "id": "e15",
+      "text": "This is my first book.",
+      "annotations": [
+        { "quote": "my", "tag": "determiner" },
+        { "quote": "first", "tag": "ordinal" }
+      ],
+      "note": { "en": "'My' already limits 'book', so do NOT add 'the' before 'first'.", "zh": "'my' 已经限定了 'book'，所以 'first' 前不能再加 'the'。" }
+    },
+    {
+      "id": "e16",
+      "text": "The second lesson is grammar, but lesson two of the course is harder.",
+      "annotations": [
+        { "quote": "second", "tag": "ordinal" },
+        { "quote": "two", "tag": "cardinal" }
+      ],
+      "note": { "en": "'The second lesson' = the second class period; 'lesson two' = the second unit of a course.", "zh": "'the second lesson' 指第二节课；'lesson two' 指课程的第二课时/单元。" }
+    },
+    {
+      "id": "e17",
+      "text": "two and one third",
+      "annotations": [
+        { "quote": "two", "tag": "cardinal" },
+        { "quote": "and", "tag": "conjunction" },
+        { "quote": "third", "tag": "ordinal" }
+      ],
+      "note": { "en": "A mixed number: whole part + 'and' + fraction. The fraction is cardinal 'one' over ordinal 'third'.", "zh": "带分数：整数部分 + 'and' + 分数。分数是基数 'one' 配序数 'third'。" }
+    },
+    {
+      "id": "e18",
+      "text": "twelve point eight nine six",
+      "annotations": [
+        { "quote": "twelve", "tag": "cardinal" },
+        { "quote": "eight nine six", "tag": "cardinal" }
+      ],
+      "note": { "en": "12.896 — left of the point is a normal cardinal; right of it, read digit by digit.", "zh": "12.896——小数点左边按基数词读，右边逐位读出。" }
+    },
+    {
+      "id": "e19",
+      "text": "twenty-five percent",
+      "annotations": [
+        { "quote": "twenty-five", "tag": "cardinal" },
+        { "quote": "percent", "tag": "unit-word" }
+      ],
+      "note": { "en": "25% = cardinal + 'percent'.", "zh": "25% = 基数词 + 'percent'。" }
+    },
+    {
+      "id": "e20",
+      "text": "This carrot is twice the size of that one.",
+      "annotations": [
+        { "quote": "twice", "tag": "cardinal" },
+        { "quote": "the size of", "tag": "unit-word" }
+      ],
+      "note": { "en": "Multiple frame: multiple + 'the' + measure + 'of'.", "zh": "倍数句式：倍数 + the + 计量 + of。" }
+    },
+    {
+      "id": "e21",
+      "text": "I have three times as many carrots as he has.",
+      "annotations": [
+        { "quote": "three times", "tag": "cardinal" },
+        { "quote": "as many", "tag": "unit-word", "occurrence": 1 }
+      ],
+      "note": { "en": "Multiple frame: multiple + 'as … as'.", "zh": "倍数句式：倍数 + as … as。" }
+    },
+    {
+      "id": "e22",
+      "text": "I can eat three times faster than he can.",
+      "annotations": [
+        { "quote": "three times", "tag": "cardinal" },
+        { "quote": "faster", "tag": "unit-word" },
+        { "quote": "than", "tag": "conjunction" }
+      ],
+      "note": { "en": "Multiple frame: multiple + comparative + 'than'.", "zh": "倍数句式：倍数 + 比较级 + than。" }
+    },
+    {
+      "id": "e23",
+      "text": "2 multiplied by 3 is 6.",
+      "annotations": [
+        { "quote": "multiplied by", "tag": "unit-word" }
+      ],
+      "note": { "en": "Multiplication: 'multiplied by' (or 'times'). Other operations: plus, minus, divided by.", "zh": "乘法：'multiplied by'（或 'times'）。其他运算：plus（加）、minus（减）、divided by（除）。" }
+    },
+    {
+      "id": "e24",
+      "text": "2 squared is 4.",
+      "annotations": [
+        { "quote": "squared", "tag": "unit-word" }
+      ],
+      "note": { "en": "'Squared' = to the power of two; '2 cubed is 8' = to the power of three.", "zh": "'squared' = 平方；'2 cubed is 8' = 立方。" }
+    },
+    {
+      "id": "e25",
+      "text": "the 12th of December 2020",
+      "annotations": [
+        { "quote": "the", "tag": "article" },
+        { "quote": "12th", "tag": "ordinal" }
+      ],
+      "note": { "en": "British order: day-month-year. The day is an ordinal and 'the' is read aloud.", "zh": "英式：日月年。日用序数词，且要读出 'the'。" }
+    },
+    {
+      "id": "e26",
+      "text": "December 12th 2020",
+      "annotations": [
+        { "quote": "12th", "tag": "ordinal" }
+      ],
+      "note": { "en": "American order: month-day-year. The day is still an ordinal (12th).", "zh": "美式：月日年。日仍用序数词（12th）。" }
+    },
+    {
+      "id": "e27",
+      "text": "This river is 1000 meters long.",
+      "annotations": [
+        { "quote": "1000", "tag": "cardinal" },
+        { "quote": "meters", "tag": "unit-word" },
+        { "quote": "long", "tag": "subject-complement" }
+      ],
+      "note": { "en": "Frame: number + unit + adjective. Also: 'The river is 1000 meters in length.'", "zh": "句式：数词 + 单位 + 形容词。也可：'The river is 1000 meters in length.'" }
+    },
+    {
+      "id": "e28",
+      "text": "This box is 8 by 5 by 6 centimeters.",
+      "annotations": [
+        { "quote": "8 by 5 by 6", "tag": "cardinal" },
+        { "quote": "centimeters", "tag": "unit-word" }
+      ],
+      "note": { "en": "'By' multiplies dimensions (length by width by height).", "zh": "'by' 表示尺寸相乘（长 by 宽 by 高）。" }
+    },
+    {
+      "id": "e29",
+      "text": "37 degrees centigrade",
+      "annotations": [
+        { "quote": "37", "tag": "cardinal" },
+        { "quote": "degrees centigrade", "tag": "unit-word" }
+      ],
+      "note": { "en": "'Degrees centigrade' (or Celsius). When the scale is understood, you can drop it.", "zh": "'degrees centigrade'（或 Celsius）。在默认单位时可省略。" }
+    },
+    {
+      "id": "e30",
+      "text": "10 degrees below zero",
+      "annotations": [
+        { "quote": "10", "tag": "cardinal" },
+        { "quote": "below zero", "tag": "unit-word" }
+      ],
+      "note": { "en": "Sub-freezing temperatures are read as 'below zero'.", "zh": "零下温度读作 'below zero'。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Which word is an ordinal numeral?", "zh": "下面哪个词是序数词？" },
+      "choices": [
+        { "id": "a", "text": { "en": "fifteen", "zh": "fifteen" } },
+        { "id": "b", "text": { "en": "fifth", "zh": "fifth" } },
+        { "id": "c", "text": { "en": "fifty", "zh": "fifty" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'Fifth' marks order (which one). 'Fifteen' and 'fifty' are cardinals (how many).", "zh": "'fifth' 表顺序（第几）；'fifteen' 和 'fifty' 是基数词（多少）。" },
+      "refs": ["c1", "c9"]
+    },
+    {
+      "id": "q2",
+      "type": "fill",
+      "prompt": { "en": "Write 365 in words (British style, with 'and').", "zh": "用英文写出 365（英式，带 and）。" },
+      "answers": ["three hundred and sixty-five", "three hundred and sixty five"],
+      "explain": { "en": "Hundreds + 'and' + remainder, with a hyphen in 'sixty-five'. 'Hundred' takes no '-s'.", "zh": "百位 + 'and' + 余数，'sixty-five' 用连字符。'hundred' 不加 '-s'。" },
+      "refs": ["c4", "c5"]
+    },
+    {
+      "id": "q3",
+      "type": "error",
+      "sentence": "There are two hundreds students in the hall.",
+      "fix": "There are two hundred students in the hall.",
+      "explain": { "en": "After a digit, 'hundred' is part of the number, not a noun, so it takes no plural 's'.", "zh": "前面有数字时，'hundred' 是数字的一部分而非名词，不加复数 's'。" },
+      "refs": ["c5"]
+    },
+    {
+      "id": "q4",
+      "type": "fill",
+      "prompt": { "en": "Write the ordinal for 30.", "zh": "写出 30 的序数词。" },
+      "answers": ["thirtieth"],
+      "explain": { "en": "For round tens, change '-y' to '-ieth': thirty → thirtieth.", "zh": "整十序数词把 '-y' 变 '-ieth'：thirty → thirtieth。" },
+      "refs": ["c10"]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": { "en": "Which is correct?", "zh": "下面哪个正确？" },
+      "choices": [
+        { "id": "a", "text": { "en": "This is my the first book.", "zh": "This is my the first book." } },
+        { "id": "b", "text": { "en": "This is my first book.", "zh": "This is my first book." } },
+        { "id": "c", "text": { "en": "This is the my first book.", "zh": "This is the my first book." } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'My' already limits the noun, so no 'the' before the ordinal 'first'.", "zh": "'my' 已限定名词，序数词 'first' 前不能再加 'the'。" },
+      "refs": ["c12"]
+    },
+    {
+      "id": "q6",
+      "type": "fill",
+      "prompt": { "en": "Read aloud: 1/3 (one fraction). Write it in words.", "zh": "读出 1/3，用英文写出。" },
+      "answers": ["one third", "a third"],
+      "explain": { "en": "A fraction is cardinal numerator over ordinal denominator: one third.", "zh": "分数是分子基数词 + 分母序数词：one third。" },
+      "refs": ["c14"]
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": { "en": "How do you read 3/5?", "zh": "3/5 怎么读？" },
+      "choices": [
+        { "id": "a", "text": { "en": "three fifth", "zh": "three fifth" } },
+        { "id": "b", "text": { "en": "three fifths", "zh": "three fifths" } },
+        { "id": "c", "text": { "en": "third five", "zh": "third five" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "Numerator > 1, so the ordinal denominator adds '-s': three fifths.", "zh": "分子大于一，分母序数词加 '-s'：three fifths。" },
+      "refs": ["c14"]
+    },
+    {
+      "id": "q8",
+      "type": "fill",
+      "prompt": { "en": "Read the decimal 12.896 in words.", "zh": "把小数 12.896 读成英文。" },
+      "answers": ["twelve point eight nine six"],
+      "explain": { "en": "Point = 'point'; left of it is a cardinal, right of it is read digit by digit.", "zh": "小数点读 'point'；左边按基数词，右边逐位读出。" },
+      "refs": ["c15"]
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": { "en": "Complete the multiple frame: 'I have twice ___ many carrots ___ he has.'", "zh": "补全倍数句式：'I have twice ___ many carrots ___ he has.'" },
+      "choices": [
+        { "id": "a", "text": { "en": "as … as", "zh": "as … as" } },
+        { "id": "b", "text": { "en": "as … than", "zh": "as … than" } },
+        { "id": "c", "text": { "en": "more … than", "zh": "more … than" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "The 'as … as' frame is multiple + 'as many … as'. 'Than' goes with comparatives instead.", "zh": "'as … as' 句式是 倍数 + 'as many … as'。'than' 用于比较级。" },
+      "refs": ["c16"]
+    },
+    {
+      "id": "q10",
+      "type": "error",
+      "sentence": "8 divided for 4 is 2.",
+      "fix": "8 divided by 4 is 2.",
+      "explain": { "en": "Division uses 'divided by', not 'divided for'.", "zh": "除法用 'divided by'，不是 'divided for'。" },
+      "refs": ["c17"]
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": { "en": "Which is the British (day-month-year) date format?", "zh": "哪个是英式（日月年）日期格式？" },
+      "choices": [
+        { "id": "a", "text": { "en": "December 12th 2020", "zh": "December 12th 2020" } },
+        { "id": "b", "text": { "en": "the 12th of December 2020", "zh": "the 12th of December 2020" } },
+        { "id": "c", "text": { "en": "2020 December 12", "zh": "2020 December 12" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "British is day-month-year, with the day as an ordinal and 'the' read aloud. The month-first form is American.", "zh": "英式是日月年，日用序数词并读出 'the'。月在前的是美式。" },
+      "refs": ["c18"]
+    },
+    {
+      "id": "q12",
+      "type": "fill",
+      "prompt": { "en": "Complete: 'This river is 1000 meters ___.' (adjective form).", "zh": "补全：'This river is 1000 meters ___.'（形容词形式）。" },
+      "answers": ["long"],
+      "explain": { "en": "Frame: number + unit + adjective ('long'). The noun version would be '… in length'.", "zh": "句式：数词 + 单位 + 形容词（'long'）。名词版是 '… in length'。" },
+      "refs": ["c19"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "Counting carrots at the market", "zh": "在市场上数胡萝卜" },
+    "targets": ["cardinal", "ordinal", "unit-word"],
+    "lines": [
+      { "speaker": "Wolf", "text": "How many carrots do you want?", "annotations": [ { "quote": "many", "tag": "unit-word" } ], "note": { "en": "Asking for a quantity (a cardinal answer).", "zh": "在问数量（要基数词回答）。" } },
+      { "speaker": "Rabbit", "text": "I want twenty-five carrots, please.", "annotations": [ { "quote": "twenty-five", "tag": "cardinal" }, { "quote": "carrots", "tag": "countable" } ], "note": { "en": "Cardinal 'twenty-five' — tens-hyphen-ones.", "zh": "基数词 'twenty-five'——整十加连字符加个位。" } },
+      { "speaker": "Wolf", "text": "Here. That box is 8 by 5 by 6 centimeters.", "annotations": [ { "quote": "8 by 5 by 6", "tag": "cardinal" }, { "quote": "centimeters", "tag": "unit-word" } ], "note": { "en": "'By' gives length by width by height.", "zh": "'by' 表示长乘宽乘高。" } },
+      { "speaker": "Rabbit", "text": "And this is the third box I have bought today.", "annotations": [ { "quote": "the", "tag": "article" }, { "quote": "third", "tag": "ordinal" } ], "note": { "en": "Ordinal 'the third' — which box in the sequence.", "zh": "序数词 'the third'——顺序里的第几个盒子。" } },
+      { "speaker": "Wolf", "text": "Then you have spent twice as much as last week!", "annotations": [ { "quote": "twice", "tag": "cardinal" }, { "quote": "as much as", "tag": "unit-word" } ], "note": { "en": "Multiple frame: 'twice as much as'.", "zh": "倍数句式：'twice as much as'。" } }
+    ]
+  }
+}

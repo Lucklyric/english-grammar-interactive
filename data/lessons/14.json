@@ -1,0 +1,595 @@
+{
+  "id": "14",
+  "slug": "conditional-adverbial-clauses-explained",
+  "category": "clauses",
+  "shape": "standard",
+  "order": 21,
+  "title": {
+    "en": "Conditional Adverbial Clauses Explained",
+    "zh": "条件状语（副词）从句详解"
+  },
+  "summary": {
+    "en": "Conditional clauses are ordinary 'if' sentences. The famous '主将从现' rule really means the condition uses a tenseless, default present simple while the main clause uses the future — because a condition you aren't sure of can't carry a definite future. As a rule, the condition is always one time-step behind the main clause.",
+    "zh": "条件副词从句就是我们常说的条件句。所谓“主将从现”，本质是：条件不确定能否成立，只能用去掉时间信息、表达一般默认状态的一般现在时；而条件成立后会明确发生的动作，主句才用一般将来时。规律上，条件句总比主句在时态上落后一个时间段。"
+  },
+  "source": {
+    "videoId": "jwN1TQvPI9s",
+    "youtube": "https://www.youtube.com/watch?v=jwN1TQvPI9s",
+    "duration": "6:53",
+    "script": "scripts/14-conditional-adverbial-clauses-explained.md"
+  },
+  "tags": [
+    {
+      "id": "main-clause",
+      "label": {
+        "en": "main clause",
+        "zh": "主句"
+      },
+      "abbr": "Main",
+      "color": "#be123c",
+      "underline": "solid"
+    },
+    {
+      "id": "present-simple",
+      "label": {
+        "en": "present simple",
+        "zh": "一般现在时"
+      },
+      "abbr": "PrsS",
+      "color": "#0891b2",
+      "underline": "dotted"
+    },
+    {
+      "id": "future-simple",
+      "label": {
+        "en": "future simple",
+        "zh": "一般将来时"
+      },
+      "abbr": "FutS",
+      "color": "#9333ea",
+      "underline": "dotted"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": {
+        "en": "Conditional clauses = the 'if' sentence",
+        "zh": "条件副词从句 = 条件句"
+      },
+      "body": {
+        "en": "A conditional adverbial clause is just what we usually call a conditional sentence. When the condition is a plain supposition, it is a real (true) conditional, e.g. 'If the rabbit sees a carrot, he will eat it.' Earlier, in the subjunctive lessons, we also met unreal conditionals — suppositions contrary to fact.",
+        "zh": "条件副词从句其实就是咱们通常说的条件句。当条件只是单纯的假设时，属于真实条件句，如 If the rabbit sees a carrot, he will eat it.；而之前讲虚拟语气时讲到的虚拟条件句，则是和事实相反的假设。"
+      },
+      "exampleRefs": [
+        "e1"
+      ],
+      "sourceRef": "条件副词从句其实就是咱们通常说的条件句"
+    },
+    {
+      "id": "c2",
+      "heading": {
+        "en": "'主将从现' restated",
+        "zh": "“主将从现”的真正含义"
+      },
+      "body": {
+        "en": "The slogan '主将从现' means: the main clause uses the future tense while the subordinate (if) clause uses the present tense. 'If the rabbit sees a carrot, he will eat it' equals 'The rabbit will eat the carrot if he sees it.' The 'if' clause is in the present simple; the main clause is in the future simple.",
+        "zh": "所谓“主将从现”，意思就是主句用将来时态、从句用现在时态。If the rabbit sees a carrot, he will eat it. 等于 The rabbit will eat the carrot if he sees it.：if 引导的从句用一般现在时态，主句用一般将来时态。"
+      },
+      "exampleRefs": [
+        "e1",
+        "e2"
+      ]
+    },
+    {
+      "id": "c3",
+      "heading": {
+        "en": "The 'present' here is the default state, not 'now'",
+        "zh": "这里的“现”是一般状态，不是“现在”"
+      },
+      "body": {
+        "en": "The present simple is misnamed: its focus is not the time 'now' but the 'general' state — the simple, default, ordinary state, used for habits and facts (e.g. 'Rabbits eat carrots', 'The sun rises in the east'). To say something is happening now, you must use the present continuous instead.",
+        "zh": "一般现在时其实名不副实：它的重点往往不是“现在”这个时间，而是“一般”这个状态——简单、默认、普通的状态，常用于习惯和客观事实（如 Rabbits eat carrots.、The sun rises in the east.）。要表达此刻正在进行的动作，必须改用现在进行时态。"
+      },
+      "exampleRefs": [
+        "e3",
+        "e4"
+      ]
+    },
+    {
+      "id": "c4",
+      "heading": {
+        "en": "Why the condition can't use the future",
+        "zh": "为什么条件不能用将来时"
+      },
+      "body": {
+        "en": "The future tense states what will definitely happen. But a condition is exactly what you are NOT sure will form — if you were sure, why say 'if'? So the condition strips out time information and uses the tenseless, default present simple ('If I see a carrot'), never the definite future ('If I will see a carrot'). Once the condition does hold, the main action is definite, so the main clause uses the future simple.",
+        "zh": "将来时态表示非常确定会发生的事。但条件恰恰是你不确定是否会成立的东西——若已确定，又何必用“如果”？所以条件句去掉时间信息，使用表达默认状态的一般现在时（If I see a carrot.），而不用明确的一般将来时（If I will see a carrot.）。一旦条件成立，主句动作就是确定的，因此主句用一般将来时。"
+      },
+      "exampleRefs": [
+        "e1",
+        "e5"
+      ]
+    },
+    {
+      "id": "c5",
+      "heading": {
+        "en": "The rule: the condition is one time-step behind",
+        "zh": "规律：条件句比主句落后一个时间段"
+      },
+      "body": {
+        "en": "Generalizing: the conditional clause is always one time-step behind the main clause in tense. This also covers the subjunctive: 'If I saw a carrot, I would eat it' and 'If I had seen a carrot, I would have eaten it' both keep the if-clause one step behind. In the subjunctive, the past form ('saw') marks contrary-to-fact, not actual past time.",
+        "zh": "从规律上说，条件句总是比主句在时态上落后一个时间段。这也适用于虚拟语气：If I saw a carrot, I would eat it. 与 If I had seen a carrot, I would have eaten it. 中，从句都比主句落后一个时间段。虚拟语气里的 saw 并非表达过去时间，而是表达与现实相反的条件。"
+      },
+      "exampleRefs": [
+        "e6",
+        "e7"
+      ]
+    },
+    {
+      "id": "c6",
+      "heading": {
+        "en": "Other markers: unless, as long as, and more",
+        "zh": "其他引导词：unless、as long as 等"
+      },
+      "body": {
+        "en": "Besides 'if', 'unless' introduces conditional clauses — it is simply 'if' said in reverse (≈ 'if … not'). 'If you like this video, you will like it' becomes 'Unless you like this video, you won't like it.' Other words and phrases (e.g. 'as long as') also form conditional clauses.",
+        "zh": "除了 if，unless 也能引导条件副词从句——它其实是把 if 反着说（≈“如果……不”）。“如果你喜欢这个视频，你会给它点赞”可改写为“除非你喜欢这个视频，你不会给它点赞”。此外，as long as（只要）等词组也能构成条件副词从句。"
+      },
+      "exampleRefs": [
+        "e8",
+        "e9"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "If the rabbit sees a carrot, he will eat it.",
+      "annotations": [
+        {
+          "quote": "If",
+          "tag": "clause-marker"
+        },
+        {
+          "quote": "sees",
+          "tag": "present-simple"
+        },
+        {
+          "quote": "will eat",
+          "tag": "future-simple"
+        }
+      ],
+      "note": {
+        "en": "Real conditional. The if-clause uses the present simple ('sees'); the main clause uses the future simple ('will eat').",
+        "zh": "真实条件句。从句用一般现在时（sees），主句用一般将来时（will eat）。"
+      }
+    },
+    {
+      "id": "e2",
+      "text": "The rabbit will eat the carrot if he sees it.",
+      "annotations": [
+        {
+          "quote": "will eat",
+          "tag": "future-simple"
+        },
+        {
+          "quote": "if",
+          "tag": "clause-marker"
+        },
+        {
+          "quote": "sees",
+          "tag": "present-simple"
+        }
+      ],
+      "note": {
+        "en": "Same meaning, condition placed last. Order is free; the tense pattern stays main=future, if-clause=present.",
+        "zh": "意思相同，把条件放在后面。语序自由，但时态格局不变：主句将来，从句现在。"
+      }
+    },
+    {
+      "id": "e3",
+      "text": "Rabbits eat carrots.",
+      "annotations": [
+        {
+          "quote": "eat",
+          "tag": "present-simple"
+        }
+      ],
+      "note": {
+        "en": "Present simple as a general fact/habit — not 'now'. This is the 'default state' meaning behind conditions.",
+        "zh": "一般现在时表客观事实/习惯——不是“现在”。这正是条件句背后的“一般状态”含义。"
+      }
+    },
+    {
+      "id": "e4",
+      "text": "The rabbit is eating a carrot.",
+      "annotations": [
+        {
+          "quote": "is eating",
+          "tag": "predicate"
+        }
+      ],
+      "note": {
+        "en": "To say something is happening now you need the present continuous, not the present simple.",
+        "zh": "要表达此刻正在进行，须用现在进行时，而非一般现在时。"
+      }
+    },
+    {
+      "id": "e5",
+      "text": "I will eat a carrot.",
+      "annotations": [
+        {
+          "quote": "will eat",
+          "tag": "future-simple"
+        }
+      ],
+      "note": {
+        "en": "The future tense marks what will definitely happen — which is why an uncertain condition can't use it.",
+        "zh": "将来时表示确定会发生的事——所以不确定的条件不能用它。"
+      }
+    },
+    {
+      "id": "e6",
+      "text": "If I saw a carrot, I would eat it.",
+      "annotations": [
+        {
+          "quote": "If",
+          "tag": "clause-marker"
+        },
+        {
+          "quote": "saw",
+          "tag": "verb-transitive"
+        },
+        {
+          "quote": "would eat",
+          "tag": "main-clause"
+        }
+      ],
+      "note": {
+        "en": "Subjunctive (present-unreal). The past form 'saw' marks contrary-to-fact, not past time; the if-clause stays one step behind 'would eat'.",
+        "zh": "虚拟语气（与现在相反）。过去式 saw 表示与现实相反，而非过去时间；从句仍比 would eat 落后一个时间段。"
+      }
+    },
+    {
+      "id": "e7",
+      "text": "If I had seen a carrot, I would have eaten it.",
+      "annotations": [
+        {
+          "quote": "If",
+          "tag": "clause-marker"
+        },
+        {
+          "quote": "had seen",
+          "tag": "verb-transitive"
+        },
+        {
+          "quote": "would have eaten",
+          "tag": "main-clause"
+        }
+      ],
+      "note": {
+        "en": "Subjunctive (past-unreal). Again the if-clause ('had seen') is one time-step behind the main clause ('would have eaten').",
+        "zh": "虚拟语气（与过去相反）。从句（had seen）依旧比主句（would have eaten）落后一个时间段。"
+      }
+    },
+    {
+      "id": "e8",
+      "text": "If you like this video, you will like it.",
+      "annotations": [
+        {
+          "quote": "If",
+          "tag": "clause-marker"
+        },
+        {
+          "quote": "like",
+          "tag": "present-simple",
+          "occurrence": 1
+        },
+        {
+          "quote": "will like",
+          "tag": "future-simple"
+        }
+      ],
+      "note": {
+        "en": "Standard 'if' conditional, present in the clause, future in the main clause.",
+        "zh": "标准 if 条件句：从句一般现在时，主句一般将来时。"
+      }
+    },
+    {
+      "id": "e9",
+      "text": "Unless you like this video, you won't like it.",
+      "annotations": [
+        {
+          "quote": "Unless",
+          "tag": "clause-marker"
+        },
+        {
+          "quote": "like",
+          "tag": "present-simple",
+          "occurrence": 1
+        },
+        {
+          "quote": "won't like",
+          "tag": "future-simple"
+        }
+      ],
+      "note": {
+        "en": "'Unless' = 'if … not'. It reverses the if-version while keeping the present/future tense pattern.",
+        "zh": "unless = “如果……不”。它把 if 句反过来说，时态格局（现在/将来）保持不变。"
+      }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": {
+        "en": "Why does the if-clause use the present simple instead of the future?",
+        "zh": "为什么 if 从句用一般现在时而不用将来时？"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Because the condition is uncertain, so it can't carry the definite future; it uses a tenseless default state.",
+            "zh": "因为条件不确定，无法承载“确定发生”的将来时，只能用去掉时间的一般状态。"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Because English never uses the future after 'if' for grammatical agreement of subjects.",
+            "zh": "因为英语为了主语一致，if 后面从不使用将来时。"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Because the present simple always describes actions happening right now.",
+            "zh": "因为一般现在时总是描述此刻正在发生的动作。"
+          }
+        }
+      ],
+      "answer": "a",
+      "explain": {
+        "en": "The future marks what will definitely happen; a condition is precisely what you're unsure of, so it strips time and uses the default present simple.",
+        "zh": "将来时表确定发生的事；而条件恰恰是不确定的，因此去掉时间信息，使用表默认状态的一般现在时。"
+      },
+      "refs": [
+        "c4"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "fill",
+      "prompt": {
+        "en": "Complete: If the rabbit ____ (see) a carrot, he will eat it.",
+        "zh": "填空：If the rabbit ____ (see) a carrot, he will eat it."
+      },
+      "answers": [
+        "sees"
+      ],
+      "explain": {
+        "en": "Real conditional: the if-clause takes the present simple, so 'see' → 'sees' (third person singular).",
+        "zh": "真实条件句：从句用一般现在时，see → sees（第三人称单数）。"
+      },
+      "refs": [
+        "c2",
+        "e1"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "error",
+      "sentence": "If I will see a carrot, I will eat it.",
+      "fix": "If I see a carrot, I will eat it.",
+      "explain": {
+        "en": "The condition is uncertain, so the if-clause can't use the future. Use the present simple 'see'; keep the future only in the main clause.",
+        "zh": "条件不确定，从句不能用将来时。从句用一般现在时 see，将来时只留在主句。"
+      },
+      "refs": [
+        "c4",
+        "e1"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": {
+        "en": "Which best rewrites 'If you don't like this video, you won't like it' using 'unless'?",
+        "zh": "用 unless 改写“If you don't like this video, you won't like it”，哪项最合适？"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "Unless you like this video, you won't like it.",
+            "zh": "Unless you like this video, you won't like it.（除非你喜欢这个视频，你不会给它点赞。）"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "Unless you don't like this video, you won't like it.",
+            "zh": "Unless you don't like this video, you won't like it."
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "Unless you will like this video, you won't like it.",
+            "zh": "Unless you will like this video, you won't like it."
+          }
+        }
+      ],
+      "answer": "a",
+      "explain": {
+        "en": "'Unless' already means 'if … not', so it takes the positive 'like' and the present simple — not a doubled negative or a future.",
+        "zh": "unless 本身就是“如果……不”，所以接肯定的 like 且用一般现在时——既不重复否定，也不用将来时。"
+      },
+      "refs": [
+        "c6",
+        "e9"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": {
+        "en": "In 'If I saw a carrot, I would eat it', what does the past form 'saw' express?",
+        "zh": "在“If I saw a carrot, I would eat it”中，过去式 saw 表达什么？"
+      },
+      "choices": [
+        {
+          "id": "a",
+          "text": {
+            "en": "A definite past event that really happened.",
+            "zh": "一个真实发生过的确定过去事件。"
+          }
+        },
+        {
+          "id": "b",
+          "text": {
+            "en": "A subjunctive, contrary-to-fact condition — not past time.",
+            "zh": "虚拟语气、与现实相反的条件——并非过去时间。"
+          }
+        },
+        {
+          "id": "c",
+          "text": {
+            "en": "A future plan stated politely.",
+            "zh": "一个礼貌表达的未来计划。"
+          }
+        }
+      ],
+      "answer": "b",
+      "explain": {
+        "en": "In the subjunctive the past form marks contrary-to-fact supposition; the if-clause still sits one time-step behind the main clause.",
+        "zh": "虚拟语气中过去式表与现实相反的假设；从句仍比主句落后一个时间段。"
+      },
+      "refs": [
+        "c5",
+        "e6"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "fill",
+      "prompt": {
+        "en": "Two-word phrase that introduces a condition meaning 'only on the condition that' (as in '____ I keep making good videos, you'll keep following).",
+        "zh": "填空：引导条件、意为“只要”的两词词组（如 ‘____ I keep making good videos, you'll keep following’）。"
+      },
+      "answers": [
+        "as long as"
+      ],
+      "explain": {
+        "en": "'As long as' is another conditional marker beyond 'if' and 'unless', meaning 'provided that / only if'.",
+        "zh": "as long as 是 if、unless 之外的又一条件引导词，意为“只要/前提是”。"
+      },
+      "refs": [
+        "c6"
+      ]
+    }
+  ],
+  "dialogue": {
+    "kind": "scenario",
+    "title": {
+      "en": "Real, unreal, and 'unless'",
+      "zh": "真实、虚拟与 unless"
+    },
+    "targets": [
+      "clause-marker",
+      "present-simple",
+      "future-simple",
+      "main-clause"
+    ],
+    "lines": [
+      {
+        "speaker": "Rabbit",
+        "text": "If the rabbit sees a carrot, he will eat it.",
+        "annotations": [
+          {
+            "quote": "If",
+            "tag": "clause-marker"
+          },
+          {
+            "quote": "sees",
+            "tag": "present-simple"
+          },
+          {
+            "quote": "will eat",
+            "tag": "future-simple"
+          }
+        ],
+        "note": {
+          "en": "Real conditional: present in the clause, future in the main clause.",
+          "zh": "真实条件句：从句现在时，主句将来时。"
+        }
+      },
+      {
+        "speaker": "Wolf",
+        "text": "So if I will see a carrot first, I get it?",
+        "annotations": [
+          {
+            "quote": "if",
+            "tag": "clause-marker"
+          },
+          {
+            "quote": "will see",
+            "tag": "future-simple"
+          }
+        ],
+        "note": {
+          "en": "Wrong: an uncertain condition can't use the future ('will see'). It should be 'if I see'.",
+          "zh": "错误：不确定的条件不能用将来时（will see），应为 if I see。"
+        }
+      },
+      {
+        "speaker": "Rabbit",
+        "text": "No — if I saw a carrot, I would eat it, but that's just a supposition.",
+        "annotations": [
+          {
+            "quote": "if",
+            "tag": "clause-marker"
+          },
+          {
+            "quote": "saw",
+            "tag": "verb-transitive"
+          },
+          {
+            "quote": "would eat",
+            "tag": "main-clause"
+          }
+        ],
+        "note": {
+          "en": "Subjunctive: 'saw' is contrary-to-fact, not past time.",
+          "zh": "虚拟语气：saw 表与现实相反，而非过去时间。"
+        }
+      },
+      {
+        "speaker": "Wolf",
+        "text": "Fine. Unless you like this video, you won't like it!",
+        "annotations": [
+          {
+            "quote": "Unless",
+            "tag": "clause-marker"
+          },
+          {
+            "quote": "like",
+            "tag": "present-simple",
+            "occurrence": 1
+          },
+          {
+            "quote": "won't like",
+            "tag": "future-simple"
+          }
+        ],
+        "note": {
+          "en": "'Unless' = 'if … not', keeping the present/future pattern.",
+          "zh": "unless = “如果……不”，仍保持现在/将来的时态格局。"
+        }
+      }
+    ]
+  }
+}

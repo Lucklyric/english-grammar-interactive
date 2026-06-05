@@ -1,0 +1,167 @@
+{
+  "id": "46",
+  "slug": "in-five-minutes-within-or-after",
+  "category": "punctuation-usage",
+  "shape": "tiny",
+  "order": 45,
+  "title": { "en": "In Five Minutes: Within or After?", "zh": "in 5 minutes 到底是“5分钟内”还是“5分钟后”？" },
+  "summary": { "en": "'In five minutes' is ambiguous: it can mean 'within a five-minute span' but most often means 'five minutes from now'. Use 'within' for a deadline, and 'in' (not 'after') for a future point.", "zh": "“in five minutes”有歧义：既可表示“在五分钟这段时间内”，但最常见的意思是“从现在算起五分钟后”。要表达“期限内”用“within”，要表达将来某时点用“in”而非“after”。" },
+  "source": { "videoId": "KQfjol7ltVE", "youtube": "https://www.youtube.com/watch?v=KQfjol7ltVE", "duration": "4:40", "script": "scripts/46-in-five-minutes-within-or-after.md" },
+  "tags": [
+    { "id": "time-after", "label": { "en": "after (a point past it)", "zh": "之后（过了这段才发生）" }, "abbr": "in/after", "color": "#dc2626", "underline": "solid" },
+    { "id": "time-within", "label": { "en": "within (a deadline)", "zh": "之内（期限）" }, "abbr": "within", "color": "#059669", "underline": "dashed" },
+    { "id": "time-by", "label": { "en": "by (before a time point)", "zh": "by（在某时点前）" }, "abbr": "by", "color": "#7c3aed", "underline": "dotted" },
+    { "id": "time-for", "label": { "en": "for (a duration)", "zh": "for（持续一段时间）" }, "abbr": "for", "color": "#ea580c", "underline": "dotted" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "'In five minutes' has two meanings", "zh": "“in five minutes”有两种意思" },
+      "body": { "en": "Because 'in' often means 'within', Chinese speakers instinctively read 'in five minutes' as 'within five minutes'. That reading is real but rare. Far more often, 'in five minutes' means 'five minutes from now' — after the five minutes have passed.", "zh": "因为“in”常表示“在……之内”，中国人本能地把“in five minutes”理解成“在五分钟内”。这种理解是存在的，但少见。它更常见的意思是“从现在算起五分钟后”——五分钟过去之后才发生。" },
+      "exampleRefs": ["e1", "e2"],
+      "sourceRef": "也就是说，\"in five minutes\"是有歧义的"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "Use 'within' for a deadline", "zh": "表示“期限内”用 within" },
+      "body": { "en": "To say something must happen inside a time limit — one, two, three, or four minutes is all fine, just not over five — use 'within'. 'Within' usually removes the ambiguity of 'in'.", "zh": "要表达某事必须在一个时限之内完成——一分钟、两分钟、三分钟、四分钟都行，只要不超过五分钟——就用“within”。用“within”往往能避免“in”的歧义。" },
+      "exampleRefs": ["e3", "e4"],
+      "sourceRef": "你应该意识到了，用\"within\"往往能避免歧义"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "For a future point, prefer 'in' over 'after'", "zh": "表示将来某时点，用 in 而非 after" },
+      "body": { "en": "In the past, English and Chinese line up: 'became hungry after five minutes'. But for a future stretch from now, native speakers say 'in five minutes', not 'after five minutes' — the latter is understood but sounds odd and may be marked wrong in exams.", "zh": "描述过去时，中英文高度对应：“became hungry after five minutes”。但表达从现在算起的将来一段时间后，母语者说“in five minutes”，而不是“after five minutes”——后者听得懂但听起来怪怪的，考试中可能算语法错误。" },
+      "exampleRefs": ["e5", "e6"],
+      "sourceRef": "所以表达从现在算起一段时间后，最好还是用\"in\""
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Also: 'by' and 'for'", "zh": "补充：by 和 for" },
+      "body": { "en": "'By' marks a point you must be done before ('by 4pm'), and 'for' marks a duration something lasts ('for lunch', 'for another two hours'). They are simpler and rarely cause confusion.", "zh": "“by”表示在某个时间点前（“by 4pm”），“for”表示持续一段时间（“for lunch”、“for another two hours”）。它们相对简单，很少引起混淆。" },
+      "exampleRefs": ["e7"]
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "I can eat ten carrots in five minutes.",
+      "annotations": [
+        { "quote": "in five minutes", "tag": "time-within" }
+      ],
+      "note": { "en": "Here 'in five minutes' = within a five-minute span: I won't go over time.", "zh": "这里“in five minutes”=在五分钟的限定时间段内：不会超时。" }
+    },
+    {
+      "id": "e2",
+      "text": "I will eat ten carrots in five minutes.",
+      "annotations": [
+        { "quote": "in five minutes", "tag": "time-after" }
+      ],
+      "note": { "en": "The common reading: five minutes from now. I hold out through minutes 1-4 and only start once five minutes have passed.", "zh": "常见的理解：从现在算起五分钟后。前一到四分钟我都忍着，直到五分钟过去才开始吃。" }
+    },
+    {
+      "id": "e3",
+      "text": "Please give me a carrot within five minutes.",
+      "annotations": [
+        { "quote": "within five minutes", "tag": "time-within" }
+      ],
+      "note": { "en": "A deadline: minute 1, 2, 3, or 4 is all acceptable — I just don't want to wait past five.", "zh": "一个期限：一、二、三、四分钟给我都行——我只是不想等超过五分钟。" }
+    },
+    {
+      "id": "e4",
+      "text": "I can eat ten carrots within five minutes.",
+      "annotations": [
+        { "quote": "within five minutes", "tag": "time-within" }
+      ],
+      "note": { "en": "'Within' makes the 'inside the span' meaning unambiguous.", "zh": "用“within”让“在这段时间内”的意思毫无歧义。" }
+    },
+    {
+      "id": "e5",
+      "text": "I ate a carrot this morning and became hungry after five minutes.",
+      "annotations": [
+        { "quote": "after five minutes", "tag": "time-after" }
+      ],
+      "note": { "en": "Past time: English and Chinese match — 'after five minutes' = 五分钟之后.", "zh": "描述过去：中英文对应——“after five minutes”=五分钟之后。" }
+    },
+    {
+      "id": "e6",
+      "text": "I will eat ten carrots after five minutes.",
+      "annotations": [
+        { "quote": "after five minutes", "tag": "time-after" }
+      ],
+      "note": { "en": "Understood, but unidiomatic for a future stretch from now — say 'in five minutes' instead. May count as an error in exams.", "zh": "听得懂，但用于从现在算起的将来一段时间不地道——应改用“in five minutes”。考试中可能算错。" }
+    },
+    {
+      "id": "e7",
+      "text": "By 4pm I was starving but I decided to wait for another two hours.",
+      "annotations": [
+        { "quote": "By 4pm", "tag": "time-by" },
+        { "quote": "for another two hours", "tag": "time-for" }
+      ],
+      "note": { "en": "'By 4pm' = before that point; 'for another two hours' = a lasting duration.", "zh": "“By 4pm”=在那个时间点前；“for another two hours”=持续的一段时间。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Most naturally, 'I will start eating in five minutes' means:", "zh": "最自然地，“I will start eating in five minutes”意思是：" },
+      "choices": [
+        { "id": "a", "text": { "en": "I'll start at some point inside the next five minutes.", "zh": "我会在接下来五分钟内的某个时刻开始。" } },
+        { "id": "b", "text": { "en": "I'll start five minutes from now, once they have passed.", "zh": "从现在算起五分钟后，五分钟过去了我才开始。" } },
+        { "id": "c", "text": { "en": "I started five minutes ago.", "zh": "我五分钟前就开始了。" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "For a future stretch, 'in five minutes' most commonly means 'five minutes from now' — after they pass.", "zh": "表达将来时，“in five minutes”最常见的意思是“从现在算起五分钟后”——过了之后。" },
+      "refs": ["c1", "e2"]
+    },
+    {
+      "id": "q2",
+      "type": "fill",
+      "prompt": { "en": "Deadline: 'I'm starving — please give me a carrot ____ five minutes.' (one preposition, unambiguous)", "zh": "期限：“我太饿了——请____五分钟内给我一根胡萝卜。”（一个介词，无歧义）" },
+      "answers": ["within"],
+      "explain": { "en": "'Within five minutes' clearly means inside the limit; 'in' would be ambiguous.", "zh": "“within five minutes”明确表示在期限内；用“in”会有歧义。" },
+      "refs": ["c2", "e3"]
+    },
+    {
+      "id": "q3",
+      "type": "error",
+      "sentence": "It's 5pm now, that means I'm going to start eating after an hour.",
+      "fix": "It's 5pm now, that means I'm going to start eating in an hour.",
+      "explain": { "en": "For a future point counted from now, use 'in an hour', not 'after an hour'.", "zh": "表达从现在算起将来的时点，用“in an hour”，而非“after an hour”。" },
+      "refs": ["c3", "e6"]
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": { "en": "Which sentence describes the past and is fully idiomatic?", "zh": "哪一句描述过去且完全地道？" },
+      "choices": [
+        { "id": "a", "text": { "en": "I ate a carrot and became hungry after five minutes.", "zh": "我吃了根胡萝卜，五分钟之后就饿了。" } },
+        { "id": "b", "text": { "en": "I will become hungry after five minutes.", "zh": "我五分钟后会饿。" } },
+        { "id": "c", "text": { "en": "I became hungry within five minutes from now.", "zh": "我从现在起五分钟内饿了。" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "For past time, 'after five minutes' matches the Chinese exactly and sounds natural.", "zh": "描述过去，“after five minutes”与中文完全对应，听起来自然。" },
+      "refs": ["c3", "e5"]
+    },
+    {
+      "id": "q5",
+      "type": "fill",
+      "prompt": { "en": "'____ 4pm I was starving.' Fill the preposition meaning 'before that point in time'.", "zh": "“____ 4pm 我已经饿坏了。”填入表示“在那个时间点前”的介词。" },
+      "answers": ["by", "By"],
+      "explain": { "en": "'By 4pm' means at or before 4pm — a point you reach a state before.", "zh": "“By 4pm”表示在下午四点或之前——在某状态达成的时间点之前。" },
+      "refs": ["c4", "e7"]
+    }
+  ],
+  "dialogue": {
+    "kind": "scenario",
+    "title": { "en": "One carrot day, four time prepositions", "zh": "一天胡萝卜，四个时间介词" },
+    "targets": ["time-after", "time-within", "time-by", "time-for"],
+    "lines": [
+      { "speaker": "Rabbit", "text": "I usually eat ten carrots for lunch and I can finish them within five minutes.", "annotations": [ { "quote": "for lunch", "tag": "time-for" }, { "quote": "within five minutes", "tag": "time-within" } ], "note": { "en": "'For lunch' = duration/occasion; 'within five minutes' = inside the limit.", "zh": "“for lunch”=持续/场合；“within five minutes”=在期限内。" } },
+      { "speaker": "Rabbit", "text": "Today I only ate five carrots for lunch and became hungry after three hours.", "annotations": [ { "quote": "after three hours", "tag": "time-after" } ], "note": { "en": "Past time: 'after three hours' = three hours later. Idiomatic.", "zh": "过去时：“after three hours”=三小时之后。地道。" } },
+      { "speaker": "Rabbit", "text": "By 4pm I was starving but I decided to wait for another two hours.", "annotations": [ { "quote": "By 4pm", "tag": "time-by" }, { "quote": "for another two hours", "tag": "time-for" } ], "note": { "en": "'By 4pm' = before that point; 'for another two hours' = a duration.", "zh": "“By 4pm”=在那个时点前；“for another two hours”=一段持续时间。" } },
+      { "speaker": "Rabbit", "text": "It's 5pm now, that means I'm going to start eating in an hour.", "annotations": [ { "quote": "in an hour", "tag": "time-after" } ], "note": { "en": "Future point from now: 'in an hour', not 'after an hour'.", "zh": "从现在算起的将来时点：用“in an hour”，而非“after an hour”。" } }
+    ]
+  }
+}

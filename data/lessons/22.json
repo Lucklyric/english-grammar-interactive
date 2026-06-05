@@ -1,0 +1,375 @@
+{
+  "id": "22",
+  "slug": "english-grammar-inversion-sentences",
+  "category": "sentence-structure",
+  "shape": "deep-dive",
+  "order": 27,
+  "title": { "en": "Inversion Sentences", "zh": "倒装句" },
+  "summary": { "en": "Inversion reorders the normal subject-before-verb word order to stress some information. English has three main kinds: full inversion (the whole predicate moves before the subject), partial inversion (only the auxiliary moves up), and formal inversion (just the stressed part is fronted, the verb stays put).", "zh": "倒装句就是为了强调某些信息而颠倒原有语序的句式。英语主要有三类：完全倒装（谓语部分整个放到主语前）、部分倒装（只把助动词提前）、以及形式倒装（只把强调的内容前置，谓语动词并不提前）。" },
+  "source": { "videoId": "dEIKsJTGby4", "youtube": "https://www.youtube.com/watch?v=dEIKsJTGby4", "duration": "10:01", "script": "scripts/22-english-grammar-inversion-sentences.md" },
+  "tags": [
+    { "id": "fronted", "label": { "en": "fronted element", "zh": "前置成分" }, "abbr": "Fr", "color": "#be123c", "underline": "solid" },
+    { "id": "negative-adverbial", "label": { "en": "negative adverbial", "zh": "否定意义词" }, "abbr": "Neg", "color": "#9f1239", "underline": "dashed" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "What inversion is and why it exists", "zh": "什么是倒装句，为何存在" },
+      "body": { "en": "An inversion sentence reverses the normal word order in order to stress some piece of information. In Chinese, inversion is mostly a spoken-language device; in English, it is more often a written-language one. Since English normally puts the subject before the predicate verb, inverting usually means moving the verb (or part of it) forward.", "zh": "倒装句就是为了强调某些信息而颠倒原有语序的句式。汉语的倒装句多用于口语表达，而英语则常见于书面用语。英语正常语序是主语在谓语动词前面，所以倒装通常就是把谓语动词（或其一部分）提前。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "所谓倒装句，说白了，就是为了强调某些信息而颠倒了原有语序的句式"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "The three main kinds", "zh": "三大类倒装" },
+      "body": { "en": "English inversion falls into three main types. (1) Full inversion: the whole predicate goes in front of the subject. (2) Partial inversion: only the auxiliary is split out and moved before the subject. (3) Formal inversion: only the stressed content is fronted while the predicate verb itself does not move forward.", "zh": "英语倒装句最主要有三大类。一、完全倒装：把谓语部分整个提到主语之前。二、部分倒装：把助动词分离出来提到主语之前。三、形式倒装：只把强调的内容提到句首，谓语动词并不提前。" },
+      "exampleRefs": ["e2", "e6", "e10"],
+      "sourceRef": "英语倒装句最主要有三大类。一、完全倒装。二、部分倒装。三、形式倒装"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Full inversion 1 — place adverbs (here, there)", "zh": "完全倒装一 — 地点副词（here, there）" },
+      "body": { "en": "When a place adverb such as 'here' or 'there' leads the sentence, the whole predicate goes before the subject. Normal order would be 'The last bus goes', but to stress the action we front 'there' and fully invert.", "zh": "当 here、there 这类地点副词放在句首时，整个谓语部分要放到主语之前。正常语序是 “The last bus goes”，但为了强调“开走了”，就把地点副词 there 提到句首并完全倒装。" },
+      "exampleRefs": ["e2"],
+      "sourceRef": "地点副词在句首的倒装，以here, there为代表"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Full inversion 2 — time adverbs (now, then)", "zh": "完全倒装二 — 时间副词（now, then）" },
+      "body": { "en": "A time adverb such as 'now' or 'then' at the front also triggers full inversion: the predicate verb comes before the subject.", "zh": "now、then 这类时间副词放在句首时，同样要完全倒装：谓语动词放在主语前面。" },
+      "exampleRefs": ["e3"],
+      "sourceRef": "时间副词在句首的倒装，以now, then为代表"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "Full inversion 3 — direction adverbs (in, out, up, down, away)", "zh": "完全倒装三 — 表运动方向的副词（in, out, up, down, away）" },
+      "body": { "en": "Adverbs of direction such as 'in, out, up, down, away' at the front of the sentence force full inversion. This makes the action vivid and gives the reader a sense of picture.", "zh": "in, out, up, down, away 等表示动作运动方向的副词出现在句首时，句子要用完全倒装。这能让动作更加生动，让读者有画面感。" },
+      "exampleRefs": ["e4"],
+      "sourceRef": "表运动方向的副词在句首的倒装"
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "Full inversion 4 — fronted prepositional phrase", "zh": "完全倒装四 — 介词短语在句首" },
+      "body": { "en": "A prepositional phrase placed at the front of the sentence also triggers full inversion, with the verb coming before the subject.", "zh": "介词短语放在句首时，也要完全倒装，谓语动词放在主语之前。" },
+      "exampleRefs": ["e5"],
+      "sourceRef": "介词短语在句首的倒装"
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "Full inversion 5 — fronted subject complement", "zh": "完全倒装五 — 表语（主语补语）前置" },
+      "body": { "en": "The subject complement (Chinese 表语) is what a linking verb adds about the subject — in 'A is B', A is the subject and B is the complement. To keep the sentence balanced or to stress the complement, a fronted adjective, participle, or prepositional phrase acting as the complement triggers full inversion.", "zh": "主语补语（表语）就是系动词对主语进行补充说明的成分——在 “A is B” 中，A 是主语，B 是表语。为了保持句子平衡或强调表语，将做表语的形容词、分词、介词短语置于句首时，需要完全倒装。" },
+      "exampleRefs": ["e6", "e7"],
+      "sourceRef": "将做表语的形容词、分词、介词短语such置于句首时，需要完全倒装"
+    },
+    {
+      "id": "c8",
+      "heading": { "en": "Partial inversion 1 — fronted negative word", "zh": "部分倒装一 — 句首否定意义的词" },
+      "body": { "en": "Partial inversion splits the auxiliary out and moves only it before the subject. When a negative-meaning word leads the sentence, use partial inversion. 'Never before have I eaten...' equals 'I have never eaten...'; only the auxiliary 'have' goes before the subject, while the main verb 'eaten' stays behind.", "zh": "部分倒装就是把助动词分离出来，只把它提到主语之前。句首有否定意义的词时，要用部分倒装。“Never before have I eaten...” 相当于 “I have never eaten...”；只有助动词 have 提到主语之前，实义动词 eaten 仍留在后面。" },
+      "exampleRefs": ["e8"],
+      "sourceRef": "句首有否定意义的词"
+    },
+    {
+      "id": "c9",
+      "heading": { "en": "Partial inversion 2 — fronted 'only'", "zh": "部分倒装二 — 句首有 only" },
+      "body": { "en": "When 'only' (plus its phrase) leads the sentence, use partial inversion: the modal or auxiliary moves before the subject. 'Only in this way can we...' fronts the modal 'can'; 'Only then did the rabbit...' fronts the auxiliary 'did'.", "zh": "句首有 only（及其短语）时，要用部分倒装：情态动词或助动词提到主语前面。“Only in this way can we...” 把情态动词 can 提前；“Only then did the rabbit...” 把助动词 did 提前。" },
+      "exampleRefs": ["e9", "e10"],
+      "sourceRef": "句首有 \"only\""
+    },
+    {
+      "id": "c10",
+      "heading": { "en": "Partial inversion 3 — subjunctive without 'if' (should)", "zh": "部分倒装三 — 省略 if 的虚拟语气（should）" },
+      "body": { "en": "In an 'if + should' subjunctive, dropping the 'if' forces partial inversion in the conditional clause. 'If I should win the lottery, I would...' becomes 'Should I win the lottery, I would...' — 'should' jumps before the subject.", "zh": "在 “if + should” 的虚拟语气中，去掉 if，条件句就要部分倒装。“If I should win the lottery, I would...” 变成 “Should I win the lottery, I would...”——should 提到主语前面。" },
+      "exampleRefs": ["e11"],
+      "sourceRef": "如果把 \"if\" 去掉，那条件句就要进行部分倒装"
+    },
+    {
+      "id": "c11",
+      "heading": { "en": "Partial inversion 4 — fixed 'so / neither / nor' patterns", "zh": "部分倒装四 — so / neither / nor 固定句型" },
+      "body": { "en": "Some fixed patterns also take partial inversion. 'so + auxiliary + subject' means 'X does too' after an affirmative clause; 'neither / nor + auxiliary + subject' means 'X doesn't either' after a negative clause.", "zh": "一些固定句型也用部分倒装。肯定句之后用 “so + 助动词 + 主语” 表示“某某也是”；否定句之后用 “neither / nor + 助动词 + 主语” 表示“某某也不”。" },
+      "exampleRefs": ["e12", "e13"],
+      "sourceRef": "Rabbits love eating carrots, so do wolves"
+    },
+    {
+      "id": "c12",
+      "heading": { "en": "Formal inversion — fronting without moving the verb", "zh": "形式倒装 — 前置但不提前动词" },
+      "body": { "en": "Formal inversion fronts only the stressed content; the predicate verb does not move forward. Main cases: exclamations ('What a... it is!'), the 'the more, the more' comparative pattern, and concessive clauses led by 'however / whatever' or by 'as / though'.", "zh": "形式倒装只把强调的内容前置，谓语动词并不提前。主要情况有：感叹句（“What a... it is!”）、“the more, the more” 比较级句型，以及由 however / whatever 或 as / though 引导的让步状语从句。" },
+      "exampleRefs": ["e14", "e15", "e16", "e17"],
+      "sourceRef": "形式倒装，谓语动词并不提前"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "Have you eaten carrots?",
+      "annotations": [
+        { "quote": "Have", "tag": "auxiliary" },
+        { "quote": "you", "tag": "subject" },
+        { "quote": "eaten", "tag": "verb-transitive" },
+        { "quote": "carrots", "tag": "object" }
+      ],
+      "note": { "en": "A plain question already inverts auxiliary and subject — the same reordering instinct that drives inversion for emphasis.", "zh": "一个普通疑问句本身就把助动词和主语颠倒了——这与倒装句为强调而调换语序是同一种本能。" }
+    },
+    {
+      "id": "e2",
+      "text": "There goes the last bus.",
+      "annotations": [
+        { "quote": "There", "tag": "adverbial" },
+        { "quote": "goes", "tag": "verb-intransitive" },
+        { "quote": "the last bus", "tag": "subject" }
+      ],
+      "note": { "en": "Full inversion: place adverb 'there' fronted, verb 'goes' before the subject. Normal order: 'The last bus goes.'", "zh": "完全倒装：地点副词 there 置于句首，谓语 goes 在主语之前。正常语序是 “The last bus goes.”。" }
+    },
+    {
+      "id": "e3",
+      "text": "Now comes the wolf's turn.",
+      "annotations": [
+        { "quote": "Now", "tag": "adverbial" },
+        { "quote": "comes", "tag": "verb-intransitive" },
+        { "quote": "the wolf's turn", "tag": "subject" }
+      ],
+      "note": { "en": "Full inversion triggered by the fronted time adverb 'now'.", "zh": "完全倒装，由句首的时间副词 now 触发。" }
+    },
+    {
+      "id": "e4",
+      "text": "Up went the carrots into the air.",
+      "annotations": [
+        { "quote": "Up", "tag": "adverbial" },
+        { "quote": "went", "tag": "verb-intransitive" },
+        { "quote": "the carrots", "tag": "subject" }
+      ],
+      "note": { "en": "Full inversion: the direction adverb 'up' at the front makes the action vivid — a sky full of carrots.", "zh": "完全倒装：句首的方向副词 up 让动作更生动——满天胡萝卜的画面。" }
+    },
+    {
+      "id": "e5",
+      "text": "At the table sat a rabbit.",
+      "annotations": [
+        { "quote": "At the table", "tag": "adverbial" },
+        { "quote": "sat", "tag": "verb-intransitive" },
+        { "quote": "a rabbit", "tag": "subject" }
+      ],
+      "note": { "en": "Full inversion: the fronted prepositional phrase 'at the table' puts the verb before the subject.", "zh": "完全倒装：句首的介词短语 at the table 使谓语放在主语之前。" }
+    },
+    {
+      "id": "e6",
+      "text": "Seated on the ground is a group of rabbits.",
+      "annotations": [
+        { "quote": "Seated on the ground", "tag": "subject-complement" },
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "a group of rabbits", "tag": "subject" }
+      ],
+      "note": { "en": "Full inversion: the participle complement 'seated on the ground' is fronted before the linking verb 'is' and the subject.", "zh": "完全倒装：作表语的分词 seated on the ground 提到系动词 is 和主语之前。" }
+    },
+    {
+      "id": "e7",
+      "text": "Such were the wolf's tricks.",
+      "annotations": [
+        { "quote": "Such", "tag": "subject-complement" },
+        { "quote": "were", "tag": "verb-linking" },
+        { "quote": "the wolf's tricks", "tag": "subject" }
+      ],
+      "note": { "en": "Full inversion: the complement 'such' is fronted before the linking verb 'were' and the subject.", "zh": "完全倒装：作表语的 such 提到系动词 were 和主语之前。" }
+    },
+    {
+      "id": "e8",
+      "text": "Never before have I eaten such a delicious carrot.",
+      "annotations": [
+        { "quote": "Never before", "tag": "negative-adverbial" },
+        { "quote": "have", "tag": "auxiliary" },
+        { "quote": "I", "tag": "subject" },
+        { "quote": "eaten", "tag": "verb-transitive" }
+      ],
+      "note": { "en": "Partial inversion: only the auxiliary 'have' moves before the subject; the main verb 'eaten' stays. Equals 'I have never eaten such a delicious carrot.'", "zh": "部分倒装：只有助动词 have 提到主语之前，实义动词 eaten 留在后面。相当于 “I have never eaten such a delicious carrot.”。" }
+    },
+    {
+      "id": "e9",
+      "text": "Only in this way can we grow delicious carrots.",
+      "annotations": [
+        { "quote": "Only in this way", "tag": "fronted" },
+        { "quote": "can", "tag": "auxiliary" },
+        { "quote": "we", "tag": "subject" },
+        { "quote": "grow", "tag": "verb-transitive" }
+      ],
+      "note": { "en": "Partial inversion triggered by fronted 'only': the modal 'can' moves before the subject 'we'.", "zh": "由句首 only 触发的部分倒装：情态动词 can 提到主语 we 之前。" }
+    },
+    {
+      "id": "e10",
+      "text": "Only then did the rabbit meet the wolf.",
+      "annotations": [
+        { "quote": "Only then", "tag": "fronted" },
+        { "quote": "did", "tag": "auxiliary" },
+        { "quote": "the rabbit", "tag": "subject" },
+        { "quote": "meet", "tag": "verb-transitive" }
+      ],
+      "note": { "en": "Partial inversion: the auxiliary 'did' moves before the subject; the main verb 'meet' stays.", "zh": "部分倒装：助动词 did 提到主语之前，实义动词 meet 留在后面。" }
+    },
+    {
+      "id": "e11",
+      "text": "Should I win the lottery, I would buy a huge pile of carrots.",
+      "annotations": [
+        { "quote": "Should", "tag": "auxiliary" },
+        { "quote": "I", "tag": "subject", "occurrence": 1 },
+        { "quote": "win", "tag": "verb-transitive" }
+      ],
+      "note": { "en": "Partial inversion of an 'if'-less subjunctive: dropping 'if' moves 'should' before the subject. From 'If I should win the lottery...'.", "zh": "省略 if 的虚拟语气的部分倒装：去掉 if 后 should 提到主语之前。原句为 “If I should win the lottery...”。" }
+    },
+    {
+      "id": "e12",
+      "text": "Rabbits love eating carrots, so do wolves.",
+      "annotations": [
+        { "quote": "so", "tag": "fronted" },
+        { "quote": "do", "tag": "auxiliary" },
+        { "quote": "wolves", "tag": "subject", "occurrence": 1 }
+      ],
+      "note": { "en": "Fixed pattern 'so + auxiliary + subject' after an affirmative clause: 'wolves do too'.", "zh": "肯定句之后的固定句型 “so + 助动词 + 主语”：表示“狼也是”。" }
+    },
+    {
+      "id": "e13",
+      "text": "The rabbit can't ride a bicycle, nor can the wolf.",
+      "annotations": [
+        { "quote": "nor", "tag": "fronted" },
+        { "quote": "can", "tag": "auxiliary", "occurrence": 2 },
+        { "quote": "the wolf", "tag": "subject" }
+      ],
+      "note": { "en": "Fixed pattern 'nor + auxiliary + subject' after a negative clause: 'the wolf can't either'. (Use 'neither' or 'nor', not both.)", "zh": "否定句之后的固定句型 “nor + 助动词 + 主语”：表示“狼也不会”。（用 neither 或 nor，不能两者并用。）" }
+    },
+    {
+      "id": "e14",
+      "text": "What a delicious carrot it is!",
+      "annotations": [
+        { "quote": "What a delicious carrot", "tag": "fronted" },
+        { "quote": "it", "tag": "subject" },
+        { "quote": "is", "tag": "verb-linking" }
+      ],
+      "note": { "en": "Formal inversion: the exclaimed phrase is fronted, but subject 'it' still comes before the verb 'is' — the verb does not move forward.", "zh": "形式倒装：感叹的内容前置，但主语 it 仍在动词 is 之前——谓语动词并不提前。" }
+    },
+    {
+      "id": "e15",
+      "text": "The more carrots you eat, the healthier you become.",
+      "annotations": [
+        { "quote": "The more carrots", "tag": "fronted" },
+        { "quote": "you", "tag": "subject", "occurrence": 1 },
+        { "quote": "eat", "tag": "verb-transitive" }
+      ],
+      "note": { "en": "Formal inversion: 'the more... the more' pattern. Equals 'If you eat more carrots, you will become healthier.' Subject still precedes the verb.", "zh": "形式倒装：“the more... the more” 句型。相当于 “If you eat more carrots, you will become healthier.”。主语仍在动词之前。" }
+    },
+    {
+      "id": "e16",
+      "text": "However long this video is, you should watch it till the end.",
+      "annotations": [
+        { "quote": "However long", "tag": "fronted" },
+        { "quote": "this video", "tag": "subject" },
+        { "quote": "is", "tag": "verb-linking", "occurrence": 2 }
+      ],
+      "note": { "en": "Formal inversion: 'however'-led concessive clause fronts 'however long', but the subject keeps its place before the verb.", "zh": "形式倒装：however 引导的让步状语从句把 however long 前置，但主语仍在动词之前。" }
+    },
+    {
+      "id": "e17",
+      "text": "Much as he likes the carrot, he doesn't want to eat it.",
+      "annotations": [
+        { "quote": "Much", "tag": "fronted" },
+        { "quote": "as", "tag": "conjunction" },
+        { "quote": "he", "tag": "subject", "occurrence": 1 },
+        { "quote": "likes", "tag": "verb-transitive" }
+      ],
+      "note": { "en": "Formal inversion: 'as'-led concessive clause fronts 'much', meaning 'although he likes the carrot a lot'. The verb does not move forward.", "zh": "形式倒装：as 引导的让步状语从句把 much 前置，意为“尽管他非常喜欢胡萝卜”。谓语动词并不提前。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Which kind of inversion is 'There goes the last bus'?", "zh": "“There goes the last bus” 属于哪种倒装？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Full inversion", "zh": "完全倒装" } },
+        { "id": "b", "text": { "en": "Partial inversion", "zh": "部分倒装" } },
+        { "id": "c", "text": { "en": "Formal inversion", "zh": "形式倒装" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "A fronted place adverb ('there') puts the whole predicate 'goes' before the subject 'the last bus' — full inversion.", "zh": "句首的地点副词 there 使整个谓语 goes 放到主语 the last bus 之前——完全倒装。" },
+      "refs": ["c3", "e2"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "In partial inversion, what moves before the subject?", "zh": "在部分倒装中，提到主语之前的是什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Only the auxiliary", "zh": "只有助动词" } },
+        { "id": "b", "text": { "en": "The whole predicate verb", "zh": "整个谓语动词" } },
+        { "id": "c", "text": { "en": "Nothing — only the stressed phrase is fronted", "zh": "什么都不动——只把强调的短语前置" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "Partial inversion splits out the auxiliary and moves only it before the subject; the main verb stays behind, as in 'Never before have I eaten...'.", "zh": "部分倒装把助动词分离出来，只把它提到主语之前，实义动词留在后面，如 “Never before have I eaten...”。" },
+      "refs": ["c8", "e8"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Drop 'if' and invert: 'If I should win the lottery, I would buy carrots.' → '____ I win the lottery, I would buy carrots.'", "zh": "去掉 if 并倒装：“If I should win the lottery, I would buy carrots.” → “____ I win the lottery, I would buy carrots.”" },
+      "answers": ["Should", "should"],
+      "explain": { "en": "Removing 'if' from an 'if + should' subjunctive forces partial inversion, putting 'should' before the subject.", "zh": "把 “if + should” 虚拟语气中的 if 去掉，要部分倒装，将 should 提到主语之前。" },
+      "refs": ["c10", "e11"]
+    },
+    {
+      "id": "q4",
+      "type": "fill",
+      "prompt": { "en": "Complete the 'so' pattern: 'Rabbits love eating carrots, so ____ wolves.'", "zh": "补全 so 句型：“Rabbits love eating carrots, so ____ wolves.”" },
+      "answers": ["do"],
+      "explain": { "en": "After an affirmative clause, 'so + auxiliary + subject' means 'wolves do too'; the auxiliary matching 'love' is 'do'.", "zh": "肯定句之后，“so + 助动词 + 主语” 表示“狼也是”；与 love 相配的助动词是 do。" },
+      "refs": ["c11", "e12"]
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": { "en": "Why is 'What a delicious carrot it is!' formal inversion, not full inversion?", "zh": "为什么 “What a delicious carrot it is!” 是形式倒装而非完全倒装？" },
+      "choices": [
+        { "id": "a", "text": { "en": "The stressed phrase is fronted but the subject 'it' still precedes the verb 'is'", "zh": "强调的短语前置了，但主语 it 仍在动词 is 之前" } },
+        { "id": "b", "text": { "en": "The verb 'is' moves in front of the subject", "zh": "动词 is 提到了主语之前" } },
+        { "id": "c", "text": { "en": "An auxiliary is split out and fronted", "zh": "助动词被分离并提前" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "In formal inversion only the stressed content is fronted; the predicate verb does not move forward, so 'it is' keeps normal order.", "zh": "形式倒装只把强调内容前置，谓语动词并不提前，所以 “it is” 保持正常语序。" },
+      "refs": ["c12", "e14"]
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": { "en": "Which sentence is correctly inverted?", "zh": "下面哪句倒装正确？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Only then the rabbit met the wolf.", "zh": "Only then the rabbit met the wolf." } },
+        { "id": "b", "text": { "en": "Only then did the rabbit meet the wolf.", "zh": "Only then did the rabbit meet the wolf." } },
+        { "id": "c", "text": { "en": "Only then met the rabbit the wolf.", "zh": "Only then met the rabbit the wolf." } }
+      ],
+      "answer": "b",
+      "explain": { "en": "Fronted 'only' needs partial inversion: auxiliary 'did' before the subject, main verb 'meet' after. Option a fails to invert; c wrongly moves the whole verb.", "zh": "句首 only 需要部分倒装：助动词 did 在主语前，实义动词 meet 在后。a 没有倒装；c 错误地把整个动词提前。" },
+      "refs": ["c9", "e10"]
+    },
+    {
+      "id": "q7",
+      "type": "error",
+      "sentence": "Never before I have eaten such a delicious carrot.",
+      "fix": "Never before have I eaten such a delicious carrot.",
+      "explain": { "en": "A fronted negative word ('never before') requires partial inversion: the auxiliary 'have' must come before the subject 'I'.", "zh": "句首的否定意义词 never before 要求部分倒装：助动词 have 必须放在主语 I 之前。" },
+      "refs": ["c8", "e8"]
+    },
+    {
+      "id": "q8",
+      "type": "error",
+      "sentence": "Up the carrots went into the air.",
+      "fix": "Up went the carrots into the air.",
+      "explain": { "en": "A fronted direction adverb ('up') requires full inversion: the verb 'went' must come before the subject 'the carrots'.", "zh": "句首的方向副词 up 要求完全倒装：动词 went 必须放在主语 the carrots 之前。" },
+      "refs": ["c5", "e4"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "Three inversions at the bus stop", "zh": "公交站前的三种倒装" },
+    "targets": ["fronted", "auxiliary", "negative-adverbial", "subject-complement"],
+    "lines": [
+      { "speaker": "Rabbit", "text": "There goes the last bus!", "annotations": [ { "quote": "There", "tag": "adverbial" }, { "quote": "goes", "tag": "verb-intransitive" }, { "quote": "the last bus", "tag": "subject" } ], "note": { "en": "Full inversion: fronted place adverb, verb before subject.", "zh": "完全倒装：地点副词前置，动词在主语前。" } },
+      { "speaker": "Wolf", "text": "Never before have I run so fast.", "annotations": [ { "quote": "Never before", "tag": "negative-adverbial" }, { "quote": "have", "tag": "auxiliary" }, { "quote": "I", "tag": "subject" } ], "note": { "en": "Partial inversion: fronted negative word, only the auxiliary moves up.", "zh": "部分倒装：否定词前置，只有助动词提前。" } },
+      { "speaker": "Rabbit", "text": "Only then did we see it leave.", "annotations": [ { "quote": "Only then", "tag": "fronted" }, { "quote": "did", "tag": "auxiliary" }, { "quote": "we", "tag": "subject" } ], "note": { "en": "Partial inversion triggered by fronted 'only'.", "zh": "由句首 only 触发的部分倒装。" } },
+      { "speaker": "Wolf", "text": "What a long wait it is!", "annotations": [ { "quote": "What a long wait", "tag": "fronted" }, { "quote": "it", "tag": "subject", "occurrence": 2 }, { "quote": "is", "tag": "verb-linking" } ], "note": { "en": "Formal inversion: phrase fronted, but 'it is' keeps normal order.", "zh": "形式倒装：短语前置，但 it is 保持正常语序。" } },
+      { "speaker": "Rabbit", "text": "Tired of waiting was the whole crowd.", "annotations": [ { "quote": "Tired of waiting", "tag": "subject-complement" }, { "quote": "was", "tag": "verb-linking" }, { "quote": "the whole crowd", "tag": "subject" } ], "note": { "en": "Full inversion: fronted complement before the linking verb and subject.", "zh": "完全倒装：作表语的成分提到系动词和主语之前。" } }
+    ]
+  }
+}

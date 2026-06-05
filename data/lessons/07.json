@@ -1,0 +1,286 @@
+{
+  "id": "07",
+  "slug": "object-clauses-in-english",
+  "category": "clauses",
+  "shape": "standard",
+  "order": 14,
+  "title": { "en": "Object Clauses in English", "zh": "宾语从句（名词从句 #2）" },
+  "summary": { "en": "An object clause is just a clause doing the job of an object inside a bigger sentence. Keep statement word order (no question inversion, no extra auxiliary), drop 'that' only when it's safe, and match the tenses of the main and subordinate clauses.", "zh": "宾语从句就是在复杂句里充当宾语的从句。从句要用陈述语序（不倒装、不乱加助动词），that 只在安全时省略，且主句与从句的时态通常保持一致。" },
+  "source": { "videoId": "5tgSswDN7tU", "youtube": "https://www.youtube.com/watch?v=5tgSswDN7tU", "duration": "8:41", "script": "scripts/07-object-clauses-in-english.md" },
+  "tags": [
+    { "id": "object-clause", "abbr": "OCl", "color": "#0f766e", "underline": "dashed", "label": { "en": "object clause", "zh": "宾语从句" } }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "What an object clause is", "zh": "什么是宾语从句" },
+      "body": { "en": "An object clause is simply a clause that acts as the object inside a larger complex sentence. The whole clause receives the action of the main verb. In 'I saw that the rabbit ate a carrot', the clause 'that the rabbit ate a carrot' is the direct object of 'saw'.", "zh": "宾语从句就是在复杂句中充当宾语的从句，整个从句承受主句动词的动作。在 I saw that the rabbit ate a carrot 中，that the rabbit ate a carrot 整体做动词 saw 的直接宾语。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "宾语从句其实就是从句在整个复杂句中做宾语而已"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "Definite vs. indefinite information", "zh": "确定信息与不确定信息" },
+      "body": { "en": "An object clause may carry definite information, introduced by 'that', or indefinite information, introduced by a question word like whether, who, what, where, when or how. Both kinds work the same way — the clause as a whole serves as the object.", "zh": "宾语从句既可以包含确定信息（由 that 引导），也可以包含不确定信息（由 whether、who、what、where、when、how 等疑问词引导）。两类用法相同——整个从句都做宾语。" },
+      "exampleRefs": ["e2"]
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Marker first, then statement word order", "zh": "引导词在前，其后用陈述语序" },
+      "body": { "en": "Except for some cases involving prepositions, the clause marker goes at the very start of the clause — that's why it's called a marker. Everything after it follows normal statement order, which mostly matches Chinese.", "zh": "除了某些介词参与的情况，引导词基本都在从句开头——否则怎么叫引导词呢？其余的词遵照正常的陈述语序，基本也和中文一致。" },
+      "exampleRefs": ["e3"],
+      "sourceRef": "从句的引导词基本都在从句的开头"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "No question word order, no extra auxiliary", "zh": "不要倒装，也不要乱加助动词" },
+      "body": { "en": "Don't let whether, when or how fool you into thinking it's a question. An object clause is never inverted and never takes an added auxiliary like 'does'. 'You told me where does the rabbit eat the carrot' is wrong; it must be 'You told me where the rabbit eats the carrot'.", "zh": "千万别看到 whether、when、how 就以为是疑问句，从而错误地加上助动词。宾语从句不倒装、不加 does 这类助动词。You told me where does the rabbit eat the carrot 是错的，应为 You told me where the rabbit eats the carrot。" },
+      "exampleRefs": ["e4"],
+      "sourceRef": "你千万不要看到 whether, when, how 这样的词就以为看到了包含疑问代词疑问副词的问句"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "When 'that' can — and cannot — be dropped", "zh": "that 何时可省、何时不可省" },
+      "body": { "en": "In speech and informal writing the marker 'that' is often dropped: 'I know the rabbit ate the carrot' = 'I know that the rabbit ate the carrot'. Only 'that' may be dropped — what, who, which, when, where, how cannot. And keep 'that' when dropping it would create ambiguity or a grammar error, e.g. with two object clauses joined by 'and', or around a parenthetical insert.", "zh": "在口语或非正式书面语中，引导词 that 常可省略：I know the rabbit ate the carrot = I know that the rabbit ate the carrot。但只有 that 可省，what、who、which、when、where、how 不可省。若省略会造成歧义或语法错误（如 and 连接两个宾语从句，或句中有插入语），则 that 必须保留。" },
+      "exampleRefs": ["e5", "e6"],
+      "sourceRef": "只有引导词 that 可以省略，而引导词 what, who, which, when, where, how 等则不可以省略"
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "Opinion verbs and negation transfer", "zh": "表达观点的动词与否定前移" },
+      "body": { "en": "We often use object clauses to give an opinion: think, believe, expect. When negating, English usually puts the 'not' before the main verb rather than inside the clause: 'I don't think that the rabbit is smart' is far more idiomatic than 'I think that the rabbit isn't smart'.", "zh": "我们常用宾语从句表达意见：think、believe、expect。否定时，英语习惯把否定加在主句谓语动词前，而不是放进从句：I don't think that the rabbit is smart 远比 I think that the rabbit isn't smart 地道。" },
+      "exampleRefs": ["e7"],
+      "sourceRef": "否定往往是加在谓语动词前，而不是在从句里"
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "Tense agreement between main and object clause", "zh": "主句与宾语从句的时态一致" },
+      "body": { "en": "In most cases the object clause's tense matches the main clause. If the main verb is past, the clause goes past too: not 'I didn't think that you are right' but 'I didn't think that you were right'. The exception is an unchanging fact: 'I knew that the sun rises in the east' keeps the present tense.", "zh": "大多数情况下，宾语从句的时态要和主句保持一致。主句用过去时，从句也用过去时：不能说 I didn't think that you are right，而要说 I didn't think that you were right。例外是不变的客观事实：I knew that the sun rises in the east 仍用一般现在时。" },
+      "exampleRefs": ["e8", "e9"],
+      "sourceRef": "宾语从句和主句中的时态要保持一致"
+    },
+    {
+      "id": "c8",
+      "heading": { "en": "The disputed 'be + adjective + that' pattern", "zh": "有争议的 be + 形容词 + that 句型" },
+      "body": { "en": "Sentences like 'I'm sure that there's a carrot on the table' are classified differently by different teachers — as object clauses, appositive clauses, or adverbial clauses. The lesson leans toward treating it as an object clause: the adjective expresses a view or judgement, and the 'that'-clause is the content of that judgement, much like an action followed by its receiver.", "zh": "像 I'm sure that there's a carrot on the table 这样的句子，不同老师归类不同——宾语从句、同位语从句或状语从句。本课倾向于按宾语从句处理：形容词表达某种看法或判断，that 从句正是这看法的内容，很像动作之后接承受者。" },
+      "exampleRefs": ["e10"],
+      "sourceRef": "be加形容词加that这种句型"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "I saw that the rabbit ate a carrot.",
+      "annotations": [
+        { "quote": "I", "tag": "subject" },
+        { "quote": "saw", "tag": "verb-transitive" },
+        { "quote": "that", "tag": "clause-marker" },
+        { "quote": "the rabbit ate a carrot", "tag": "object-clause" }
+      ],
+      "note": { "en": "'That the rabbit ate a carrot' is a clause doing the direct-object job of 'saw' — definite information.", "zh": "“that the rabbit ate a carrot”整体充当 saw 的直接宾语——确定信息。" }
+    },
+    {
+      "id": "e2",
+      "text": "I saw what the rabbit ate.",
+      "annotations": [
+        { "quote": "saw", "tag": "verb-transitive" },
+        { "quote": "what", "tag": "clause-marker" },
+        { "quote": "the rabbit ate", "tag": "object-clause" }
+      ],
+      "note": { "en": "Indefinite information: 'what' introduces the object clause. Compare whether / who / where / when / how.", "zh": "不确定信息：由 what 引导宾语从句。可对照 whether / who / where / when / how。" }
+    },
+    {
+      "id": "e3",
+      "text": "I saw whether the rabbit ate the carrot.",
+      "annotations": [
+        { "quote": "whether", "tag": "clause-marker" },
+        { "quote": "the rabbit ate the carrot", "tag": "object-clause" }
+      ],
+      "note": { "en": "The marker comes first, then ordinary statement order: subject 'the rabbit' + verb 'ate' + object.", "zh": "引导词在前，其后为正常陈述语序：主语 the rabbit + 动词 ate + 宾语。" }
+    },
+    {
+      "id": "e4",
+      "text": "You told me where the rabbit eats the carrot.",
+      "annotations": [
+        { "quote": "where", "tag": "clause-marker" },
+        { "quote": "the rabbit eats the carrot", "tag": "object-clause" }
+      ],
+      "note": { "en": "Correct: no inversion, no added 'does'. The wrong version is 'where does the rabbit eat the carrot'.", "zh": "正确：不倒装、不加 does。错误版本是 where does the rabbit eat the carrot。" }
+    },
+    {
+      "id": "e5",
+      "text": "I know the rabbit ate the carrot.",
+      "annotations": [
+        { "quote": "know", "tag": "verb-transitive" },
+        { "quote": "the rabbit ate the carrot", "tag": "object-clause" }
+      ],
+      "note": { "en": "'That' is dropped (informal). 'Know' is the main verb; 'ate' is the clause verb — two verbs, one object clause.", "zh": "省略了 that（非正式）。know 是主句动词，ate 是从句动词——两个动词，一个宾语从句。" }
+    },
+    {
+      "id": "e6",
+      "text": "I didn't know that the rabbit ate the carrot, and that you saw it.",
+      "annotations": [
+        { "quote": "that", "tag": "clause-marker", "occurrence": 1 },
+        { "quote": "the rabbit ate the carrot", "tag": "object-clause" },
+        { "quote": "that", "tag": "clause-marker", "occurrence": 2 },
+        { "quote": "you saw it", "tag": "object-clause" }
+      ],
+      "note": { "en": "Two object clauses joined by 'and'. Keep the second 'that' — dropping it would make 'you saw it' read as a flat statement.", "zh": "and 连接两个宾语从句。第二个 that 必须保留——去掉会让 you saw it 被读成一句确定的陈述。" }
+    },
+    {
+      "id": "e7",
+      "text": "I don't think that the rabbit is smart.",
+      "annotations": [
+        { "quote": "don't think", "tag": "verb-transitive" },
+        { "quote": "that", "tag": "clause-marker" },
+        { "quote": "the rabbit is smart", "tag": "object-clause" }
+      ],
+      "note": { "en": "Negation transfer: the 'not' sits before the main verb 'think', not inside the clause. More idiomatic than 'I think that the rabbit isn't smart'.", "zh": "否定前移：not 加在主句动词 think 前，而非从句里。比 I think that the rabbit isn't smart 更地道。" }
+    },
+    {
+      "id": "e8",
+      "text": "I didn't think that you were right.",
+      "annotations": [
+        { "quote": "didn't think", "tag": "verb-transitive" },
+        { "quote": "that", "tag": "clause-marker" },
+        { "quote": "you were right", "tag": "object-clause" }
+      ],
+      "note": { "en": "Tense agreement: past main verb 'didn't think' pulls the clause into the past — 'were', not 'are'.", "zh": "时态一致：主句过去式 didn't think 带动从句也用过去式——were，而非 are。" }
+    },
+    {
+      "id": "e9",
+      "text": "I knew that the sun rises in the east.",
+      "annotations": [
+        { "quote": "knew", "tag": "verb-transitive" },
+        { "quote": "that", "tag": "clause-marker" },
+        { "quote": "the sun rises in the east", "tag": "object-clause" }
+      ],
+      "note": { "en": "Exception: an unchanging fact stays in the present. Using 'rose' would oddly imply the sun no longer rises in the east.", "zh": "例外：不变的客观事实仍用现在时。用 rose 反而暗示太阳以后不一定从东边升起。" }
+    },
+    {
+      "id": "e10",
+      "text": "I'm sure that there's a carrot on the table.",
+      "annotations": [
+        { "quote": "sure", "tag": "subject-complement" },
+        { "quote": "that", "tag": "clause-marker" },
+        { "quote": "there's a carrot on the table", "tag": "object-clause" }
+      ],
+      "note": { "en": "The disputed pattern. The adjective 'sure' states a judgement; the 'that'-clause is its content — treated here as an object clause.", "zh": "有争议的句型。形容词 sure 表达判断，that 从句是其内容——本课按宾语从句处理。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "Which sentence uses correct object-clause word order?", "zh": "哪句宾语从句的语序正确？" },
+      "choices": [
+        { "id": "a", "text": { "en": "You told me when does the rabbit eat the carrot.", "zh": "You told me when does the rabbit eat the carrot." } },
+        { "id": "b", "text": { "en": "You told me when the rabbit eats the carrot.", "zh": "You told me when the rabbit eats the carrot." } },
+        { "id": "c", "text": { "en": "You told me when did the rabbit eat the carrot.", "zh": "You told me when did the rabbit eat the carrot." } }
+      ],
+      "answer": "b",
+      "explain": { "en": "An object clause keeps statement order — no inversion and no added auxiliary 'does/did'. The marker 'when' just sits in front.", "zh": "宾语从句用陈述语序——不倒装、不加 does/did 这类助动词，引导词 when 放在最前面即可。" },
+      "refs": ["c4", "e4"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "Which clause marker can be omitted in informal English?", "zh": "在非正式英语中，哪个引导词可以省略？" },
+      "choices": [
+        { "id": "a", "text": { "en": "what", "zh": "what" } },
+        { "id": "b", "text": { "en": "where", "zh": "where" } },
+        { "id": "c", "text": { "en": "that", "zh": "that" } }
+      ],
+      "answer": "c",
+      "explain": { "en": "Only 'that' may be dropped (e.g. 'I know the rabbit ate the carrot'). What, who, which, when, where and how cannot be omitted.", "zh": "只有 that 可以省略（如 I know the rabbit ate the carrot）。what、who、which、when、where、how 都不能省。" },
+      "refs": ["c5", "e5"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Tense agreement — fill the blank: 'I didn't think that you ____ right.'", "zh": "时态一致填空：'I didn't think that you ____ right.'" },
+      "answers": ["were"],
+      "explain": { "en": "The past main verb 'didn't think' pulls the object clause into the past, so it must be 'were', not 'are'.", "zh": "主句过去式 didn't think 带动从句变过去，因此用 were 而非 are。" },
+      "refs": ["c7", "e8"]
+    },
+    {
+      "id": "q4",
+      "type": "fill",
+      "prompt": { "en": "Negation transfer — give the more idiomatic English for '我认为这兔子不聪明' starting with 'I': 'I ____ think that the rabbit is smart.'", "zh": "否定前移——把“我认为这兔子不聪明”说得更地道，以 I 开头：'I ____ think that the rabbit is smart.'" },
+      "answers": ["don't", "do not"],
+      "explain": { "en": "English usually moves the negation in front of the opinion verb: 'I don't think that the rabbit is smart' is preferred over putting 'isn't' in the clause.", "zh": "英语习惯把否定移到观点动词前：I don't think that the rabbit is smart 比把 isn't 放进从句更常用。" },
+      "refs": ["c6", "e7"]
+    },
+    {
+      "id": "q5",
+      "type": "error",
+      "sentence": "You told me where does the rabbit eat the carrot.",
+      "fix": "You told me where the rabbit eats the carrot.",
+      "explain": { "en": "An object clause is not a question, so there's no inversion and no auxiliary 'does'. Use plain statement order after the marker 'where'.", "zh": "宾语从句不是疑问句，不倒装、不加助动词 does。引导词 where 之后用陈述语序即可。" },
+      "refs": ["c4", "e4"]
+    },
+    {
+      "id": "q6",
+      "type": "error",
+      "sentence": "I knew that the sun rose in the east.",
+      "fix": "I knew that the sun rises in the east.",
+      "explain": { "en": "An unchanging fact is the exception to tense agreement and stays in the present. 'Rose' oddly implies the sun no longer rises in the east.", "zh": "不变的客观事实是时态一致的例外，仍用现在时。用 rose 反而暗示太阳以后不再从东边升起。" },
+      "refs": ["c7", "e9"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "Did the rabbit eat the carrot?", "zh": "兔子到底吃没吃那根胡萝卜？" },
+    "targets": ["object-clause", "clause-marker"],
+    "lines": [
+      {
+        "speaker": "Wolf",
+        "text": "I saw that the rabbit ate a carrot.",
+        "annotations": [
+          { "quote": "saw", "tag": "verb-transitive" },
+          { "quote": "that", "tag": "clause-marker" },
+          { "quote": "the rabbit ate a carrot", "tag": "object-clause" }
+        ],
+        "note": { "en": "Definite information introduced by 'that'.", "zh": "由 that 引导的确定信息。" }
+      },
+      {
+        "speaker": "Rabbit",
+        "text": "Really? I don't think that you saw anything.",
+        "annotations": [
+          { "quote": "don't think", "tag": "verb-transitive" },
+          { "quote": "that", "tag": "clause-marker" },
+          { "quote": "you saw anything", "tag": "object-clause" }
+        ],
+        "note": { "en": "Negation transfer: 'not' sits before 'think', not inside the clause.", "zh": "否定前移：not 加在 think 前，而非从句里。" }
+      },
+      {
+        "speaker": "Wolf",
+        "text": "Then tell me where the rabbit eats the carrot.",
+        "annotations": [
+          { "quote": "where", "tag": "clause-marker" },
+          { "quote": "the rabbit eats the carrot", "tag": "object-clause" }
+        ],
+        "note": { "en": "Indefinite information, statement order — no 'does', no inversion.", "zh": "不确定信息，陈述语序——不加 does、不倒装。" }
+      },
+      {
+        "speaker": "Rabbit",
+        "text": "I know the rabbit ate it in the garden.",
+        "annotations": [
+          { "quote": "know", "tag": "verb-transitive" },
+          { "quote": "the rabbit ate it in the garden", "tag": "object-clause" }
+        ],
+        "note": { "en": "The marker 'that' is dropped — still an object clause with its own verb 'ate'.", "zh": "省略了引导词 that——仍是宾语从句，带有自己的动词 ate。" }
+      },
+      {
+        "speaker": "Wolf",
+        "text": "Fine. I'm sure that there's no carrot left now.",
+        "annotations": [
+          { "quote": "sure", "tag": "subject-complement" },
+          { "quote": "that", "tag": "clause-marker" },
+          { "quote": "there's no carrot left now", "tag": "object-clause" }
+        ],
+        "note": { "en": "The disputed 'be + adjective + that' pattern, treated here as an object clause.", "zh": "有争议的 be + 形容词 + that 句型，本课按宾语从句处理。" }
+      }
+    ]
+  }
+}

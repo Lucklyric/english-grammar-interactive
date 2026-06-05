@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Interactive English Grammar · 互动英语语法</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body class="home-page">
+  <header class="topbar">
+    <a class="brand" href="index.html">兔 Grammar</a>
+    <div class="topbar-actions">
+      <button id="reset" class="ghost-btn" type="button">Reset progress</button>
+      <button id="lang-toggle" class="lang-toggle" type="button" aria-label="Toggle language">EN</button>
+    </div>
+  </header>
+
+  <section class="hero">
+    <h1>Interactive English Grammar</h1>
+    <p id="tagline" class="tagline"></p>
+    <div class="progress-wrap" aria-label="progress">
+      <div class="progress-track"><div id="progress-bar" class="progress-fill"></div></div>
+      <span id="progress-strip" class="progress-text"></span>
+    </div>
+    <input id="search" class="search" type="search" autocomplete="off" />
+  </section>
+
+  <main class="container">
+    <div id="all" class="all-lessons"></div>
+    <div id="categories" class="categories"></div>
+  </main>
+
+  <footer class="sitefoot">
+    <p>Adapted from the 英语兔 (English Rabbit) grammar series · independent learning adaptation, not official material.</p>
+  </footer>
+  <script type="module" src="assets/js/app.js"></script>
+</body>
+</html>

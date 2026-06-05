@@ -1,0 +1,174 @@
+{
+  "id": "42",
+  "slug": "have-you-heard-about-english-determiners",
+  "category": "parts-of-speech",
+  "shape": "tiny",
+  "order": 41,
+  "title": { "en": "Have You Heard About English Determiners?", "zh": "你听说过英语的“限定词”吗？" },
+  "summary": { "en": "A determiner is any word that limits the noun after it — narrowing its reference, ownership, or quantity. It is not one of the traditional ten parts of speech but a cross-cutting role, and determiners line up in a fixed pre / central / post order.", "zh": "限定词是任何限定它后面名词的词——限定特指范围、所有权或数量。它不属于传统十大词类，而是一个横跨多类的角色，并且按前位、中位、后位的固定顺序排列。" },
+  "source": { "videoId": "LEzlH3NdoHs", "youtube": "https://www.youtube.com/watch?v=LEzlH3NdoHs", "duration": "3:11", "script": "scripts/42-have-you-heard-about-english-determiners.md" },
+  "tags": [
+    { "id": "det-predeterminer", "label": { "en": "predeterminer", "zh": "前位限定词" }, "abbr": "preD", "color": "#b45309", "underline": "dashed" },
+    { "id": "det-central", "label": { "en": "central determiner", "zh": "中位限定词" }, "abbr": "cenD", "color": "#854d0e", "underline": "dashed" },
+    { "id": "det-postdeterminer", "label": { "en": "postdeterminer", "zh": "后位限定词" }, "abbr": "postD", "color": "#92400e", "underline": "dashed" },
+    { "id": "head-noun", "label": { "en": "head noun", "zh": "中心名词" }, "abbr": "N", "color": "#059669", "underline": "solid" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "What a determiner is", "zh": "什么是限定词" },
+      "body": { "en": "As the name says, a determiner is a word that limits the scope of what you are talking about. In 'this carrot', 'my carrot', or 'every carrot', the word before 'carrot' pins down which carrots you mean. Any word that limits the noun after it can be called a determiner.", "zh": "顾名思义，限定词就是限定讨论描述范围的词。在“this carrot”“my carrot”“every carrot”里，“carrot”前面的词限定了你说的是哪些胡萝卜。只要是限定了它之后的名词的词，都可以被称作限定词。" },
+      "exampleRefs": ["e1"],
+      "sourceRef": "就是限定讨论描述范围的词"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "Three kinds of limiting: reference, ownership, quantity", "zh": "三种限定：特指、所有权、数量" },
+      "body": { "en": "Determiners limit in different ways: some fix a specific reference ('the rabbit', 'this'), some fix ownership ('my', 'the wolf's'), and some fix quantity ('many', 'two', 'a lot of'). They belong to different traditional word classes but share the same job, so grouping them as determiners helps you read the sense of a phrase.", "zh": "限定词以不同方式限定：有的限定特指的范围（“the rabbit”“this”），有的限定所有权（“my”“the wolf's”），有的限定数量（“many”“two”“a lot of”）。它们隶属于不同的传统词类，却有相同的性质，把它们都看作限定词，往往能更好地理解句意。" },
+      "exampleRefs": ["e2", "e3"],
+      "sourceRef": "有的是限定特指的范围，有的是限定所有权，有的是限定数量"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "Which word classes count as determiners", "zh": "哪些词类算作限定词" },
+      "body": { "en": "Determiners gather up many classes you already know: articles (a / the), the noun's possessive ('the wolf's'), possessive pronouns (my, your, his, her), demonstratives (this, that), interrogative/relative 'whose, which', indefinite pronouns (some, many, each, any), quantifiers (a lot of, plenty of), cardinal numbers (one, two, three), and ordinals (the first, the second).", "zh": "限定词囊括了许多你已学过的词类：冠词（a / the）、名词所有格（“the wolf's”）、物主代词（my, your, his, her）、指示代词（this, that）、疑问/关系代词“whose, which”、不定代词（some, many, each, any）、量词（a lot of, plenty of）、计数词（one, two, three）、序数词（the first, the second）。" },
+      "exampleRefs": ["e3"]
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Determiner order: pre / central / post", "zh": "限定词的顺序：前位 / 中位 / 后位" },
+      "body": { "en": "Determiners follow a fixed order. Predeterminers come first (all, both; multipliers like 'half'; fractions). Central determiners come next (articles, possessives, and some indefinites like 'some', 'every'). Postdeterminers come last (cardinals, ordinals, quantifiers). So you say 'half my carrots', 'her last carrot', 'all ten carrots' — never the reverse.", "zh": "限定词遵循固定顺序。前位限定词在最前（all, both；倍数词如“half”；分数词）。中位限定词其次（冠词、物主代词、某些不定代词如“some”“every”）。后位限定词在最后（计数词、序数词、量词）。所以要说“half my carrots”“her last carrot”“all ten carrots”，而不能反过来。" },
+      "exampleRefs": ["e4", "e5"],
+      "sourceRef": "前位限定词"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "You can't stack two central determiners", "zh": "两个中位限定词不能叠用" },
+      "body": { "en": "Articles, possessives, and demonstratives are all central determiners, so only one can sit in that slot. The Chinese '我的那根胡萝卜' tempts you into 'my that carrot', stacking a possessive and a demonstrative — both central, so it is wrong.", "zh": "冠词、物主代词、指示代词都是中位限定词，所以那个位置只能放一个。中文“我的那根胡萝卜”容易让人说成“my that carrot”，把物主代词和指示代词叠用——两个都是中位限定词，所以是错的。" },
+      "exampleRefs": ["e6"],
+      "sourceRef": "两个中位限定词叠用"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "this carrot",
+      "annotations": [
+        { "quote": "this", "tag": "determiner" },
+        { "quote": "carrot", "tag": "head-noun" }
+      ],
+      "note": { "en": "'This' limits which carrot you mean — a demonstrative determiner. (Contrast: 'that carrot'.)", "zh": "“this”限定你说的是哪根胡萝卜——指示限定词。（对比：“that carrot”。）" }
+    },
+    {
+      "id": "e2",
+      "text": "the wolf's carrot",
+      "annotations": [
+        { "quote": "the wolf's", "tag": "determiner" },
+        { "quote": "carrot", "tag": "head-noun" }
+      ],
+      "note": { "en": "The possessive 'the wolf's' limits ownership — whose carrot it is.", "zh": "所有格“the wolf's”限定所有权——这是谁的胡萝卜。" }
+    },
+    {
+      "id": "e3",
+      "text": "many carrots",
+      "annotations": [
+        { "quote": "many", "tag": "determiner" },
+        { "quote": "carrots", "tag": "head-noun" }
+      ],
+      "note": { "en": "'Many' limits quantity — an indefinite quantity determiner. (Contrast: 'few carrots'.)", "zh": "“many”限定数量——表数量的不定限定词。（对比：“few carrots”。）" }
+    },
+    {
+      "id": "e4",
+      "text": "half my carrots",
+      "annotations": [
+        { "quote": "half", "tag": "det-predeterminer" },
+        { "quote": "my", "tag": "det-central" },
+        { "quote": "carrots", "tag": "head-noun" }
+      ],
+      "note": { "en": "Predeterminer 'half' precedes the central determiner 'my'. You cannot say 'my half carrots'.", "zh": "前位限定词“half”在中位限定词“my”之前。不能说“my half carrots”。" }
+    },
+    {
+      "id": "e5",
+      "text": "all ten carrots",
+      "annotations": [
+        { "quote": "all", "tag": "det-predeterminer" },
+        { "quote": "ten", "tag": "det-postdeterminer" },
+        { "quote": "carrots", "tag": "head-noun" }
+      ],
+      "note": { "en": "Predeterminer 'all' then postdeterminer 'ten'. You cannot say 'ten all carrots'.", "zh": "前位限定词“all”，再接后位限定词“ten”。不能说“ten all carrots”。" }
+    },
+    {
+      "id": "e6",
+      "text": "her last carrot",
+      "annotations": [
+        { "quote": "her", "tag": "det-central" },
+        { "quote": "last", "tag": "det-postdeterminer" },
+        { "quote": "carrot", "tag": "head-noun" }
+      ],
+      "note": { "en": "Central determiner 'her' then postdeterminer 'last'. You cannot say 'last her carrot'.", "zh": "中位限定词“her”，再接后位限定词“last”。不能说“last her carrot”。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "What does a determiner do to the noun that follows it?", "zh": "限定词对它后面的名词起什么作用？" },
+      "choices": [
+        { "id": "a", "text": { "en": "It limits the noun's scope — its reference, ownership, or quantity.", "zh": "限定该名词的范围——特指、所有权或数量。" } },
+        { "id": "b", "text": { "en": "It turns the noun into a verb.", "zh": "把名词变成动词。" } },
+        { "id": "c", "text": { "en": "It always makes the noun plural.", "zh": "总是把名词变成复数。" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "By definition a determiner limits the noun after it — fixing its reference, ownership, or quantity.", "zh": "按定义，限定词限定它后面的名词——确定其特指、所有权或数量。" },
+      "refs": ["c1", "c2"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "Which of these is a possessive determiner (limiting ownership)?", "zh": "下面哪个是物主限定词（限定所有权）？" },
+      "choices": [
+        { "id": "a", "text": { "en": "many", "zh": "many" } },
+        { "id": "b", "text": { "en": "the wolf's", "zh": "the wolf's" } },
+        { "id": "c", "text": { "en": "two", "zh": "two" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "'The wolf's' is a possessive — it limits whose carrot it is. 'Many' and 'two' limit quantity.", "zh": "“the wolf's”是所有格——限定这是谁的胡萝卜。“many”和“two”限定数量。" },
+      "refs": ["c2", "c3"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Put the determiners in the right order: ___ my carrots (predeterminer 'half').", "zh": "按正确顺序填写：___ my carrots（前位限定词“half”）。" },
+      "answers": ["half", "Half"],
+      "explain": { "en": "The predeterminer 'half' must come before the central determiner 'my': 'half my carrots'.", "zh": "前位限定词“half”必须在中位限定词“my”之前：“half my carrots”。" },
+      "refs": ["c4", "e4"]
+    },
+    {
+      "id": "q4",
+      "type": "error",
+      "sentence": "I want my that carrot.",
+      "fix": "I want that carrot of mine.",
+      "explain": { "en": "'My' and 'that' are both central determiners, so they can't stack. Use 'that carrot of mine' (or just 'that carrot').", "zh": "“my”和“that”都是中位限定词，不能叠用。改用“that carrot of mine”（或就说“that carrot”）。" },
+      "refs": ["c5", "e6"]
+    },
+    {
+      "id": "q5",
+      "type": "error",
+      "sentence": "She picked ten all carrots.",
+      "fix": "She picked all ten carrots.",
+      "explain": { "en": "The predeterminer 'all' comes before the postdeterminer 'ten': 'all ten carrots'.", "zh": "前位限定词“all”在后位限定词“ten”之前：“all ten carrots”。" },
+      "refs": ["c4", "e5"]
+    }
+  ],
+  "dialogue": {
+    "kind": "scenario",
+    "title": { "en": "Lining up the carrots", "zh": "把胡萝卜排排站" },
+    "targets": ["determiner", "det-predeterminer", "det-central", "det-postdeterminer", "head-noun"],
+    "lines": [
+      { "speaker": "Rabbit", "text": "I mean this carrot, not that carrot.", "annotations": [ { "quote": "this", "tag": "determiner" }, { "quote": "carrot", "tag": "head-noun", "occurrence": 1 } ], "note": { "en": "Demonstratives limit which one — a determiner of reference.", "zh": "指示词限定是哪一个——表特指的限定词。" } },
+      { "speaker": "Wolf", "text": "Fine. Just give me half my carrots back.", "annotations": [ { "quote": "half", "tag": "det-predeterminer" }, { "quote": "my", "tag": "det-central" }, { "quote": "carrots", "tag": "head-noun" } ], "note": { "en": "Predeterminer before central determiner: 'half my'.", "zh": "前位在中位之前：“half my”。" } },
+      { "speaker": "Rabbit", "text": "No — these are all ten carrots from my own garden.", "annotations": [ { "quote": "all", "tag": "det-predeterminer" }, { "quote": "ten", "tag": "det-postdeterminer" }, { "quote": "carrots", "tag": "head-noun" } ], "note": { "en": "Predeterminer 'all' then postdeterminer 'ten' — never 'ten all'.", "zh": "前位“all”再接后位“ten”——绝不说“ten all”。" } },
+      { "speaker": "Wolf", "text": "Then at least her last carrot is mine?", "annotations": [ { "quote": "her", "tag": "det-central" }, { "quote": "last", "tag": "det-postdeterminer" }, { "quote": "carrot", "tag": "head-noun" } ], "note": { "en": "Central 'her' then postdeterminer 'last' — never 'last her'.", "zh": "中位“her”再接后位“last”——绝不说“last her”。" } }
+    ]
+  }
+}

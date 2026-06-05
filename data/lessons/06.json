@@ -1,0 +1,229 @@
+{
+  "id": "06",
+  "slug": "subject-clauses-in-english",
+  "category": "clauses",
+  "shape": "standard",
+  "order": 13,
+  "title": { "en": "Subject Clauses (Noun Clauses #1)", "zh": "主语从句（名词从句 #1）" },
+  "summary": { "en": "A subject clause is just a whole clause doing the job of the subject. Swap a noun subject for a clause led by 'that' or by a wh-/whether word; when the clause gets long and top-heavy, move it to the end and start with the formal subject 'it'.", "zh": "主语从句就是用一个完整的从句来充当句子的主语。把名词主语换成由 that 或 whether/wh- 引导的从句即可；当从句太长、头重脚轻时，就把它移到句末，用形式主语 it 开头。" },
+  "source": { "videoId": "bAknXFvVcbk", "youtube": "https://www.youtube.com/watch?v=bAknXFvVcbk", "duration": "8:02", "script": "scripts/06-subject-clauses-in-english.md" },
+  "tags": [
+    { "id": "subject-clause", "label": { "en": "subject clause", "zh": "主语从句" }, "abbr": "SCl", "color": "#1e40af", "underline": "solid" },
+    { "id": "formal-subject", "label": { "en": "formal subject", "zh": "形式主语" }, "abbr": "fS", "color": "#3730a3", "underline": "dashed" },
+    { "id": "real-subject", "label": { "en": "real subject", "zh": "真正主语" }, "abbr": "rS", "color": "#1e3a8a", "underline": "dashed" }
+  ],
+  "concepts": [
+    {
+      "id": "c1",
+      "heading": { "en": "From a noun subject to a subject clause", "zh": "从名词主语到主语从句" },
+      "body": { "en": "Noun clauses are the second big family of clauses, and the subject clause is the first member. Start from a simple sentence whose subject is a noun, e.g. 'The fact is obvious.' Replace that noun subject (and its article 'the') with a whole clause, and you get a clause acting as the subject — a subject clause. So a subject clause simply means: the subject slot is filled by a clause; everything else in the sentence stays as it was.", "zh": "名词从句是第二大类从句，主语从句是其中第一种。从一个主语为名词的简单句出发，例如 “The fact is obvious.”（这事实是明显的）。把这个名词主语连同冠词 the 一起换成一个完整的从句，就得到一个充当主语的从句——主语从句。所以主语从句说白了就是：主语这个位置由从句来填，句子其他成分该怎么来就怎么来。" },
+      "exampleRefs": ["e1", "e2"],
+      "sourceRef": "主语从句就是句子的主语由从句充当"
+    },
+    {
+      "id": "c2",
+      "heading": { "en": "'That' is the introducer and a subordinating conjunction", "zh": "that 是引导词，也是从属连词" },
+      "body": { "en": "In 'That the rabbit ate a carrot is obvious', the word 'that' signals 'a clause is starting here'. It is the introducer, more precisely a subordinating conjunction. Chinese has no such marker, so we often translate by tagging the idea as a 'thing/fact' ('兔子吃了根胡萝卜这件事') or by splitting it into two sentences. 'That' itself adds no meaning; it just flags that what follows is one part of the larger sentence.", "zh": "在 “That the rabbit ate a carrot is obvious” 中，that 这个词发出信号：“从句从这里开始了”。它是引导词，更准确地说是从属连词。中文没有这样的标志，所以我们常把这层意思译成“……这件事”（兔子吃了根胡萝卜这件事），或者拆成两句。that 本身没有实际意义，只是标明后面这部分是整个大句子的一个组成部分。" },
+      "exampleRefs": ["e2"],
+      "sourceRef": "这个引导词that在这里是个从属连词"
+    },
+    {
+      "id": "c3",
+      "heading": { "en": "The rest of the sentence stays free", "zh": "句子其余成分照旧自由搭配" },
+      "body": { "en": "Because only the subject slot is taken by the clause, what comes after it can be anything a normal predicate can be: a linking verb + complement ('is obvious', 'is a secret'), a passive verb ('was discussed'), or an intransitive verb ('happened'). The subject clause does not change those choices.", "zh": "因为被从句占据的只是主语这个位置，所以它后面可以是普通谓语能用的任何形式：系动词加补语（is obvious、is a secret）、被动语态（was discussed），或不及物动词（happened）。主语从句不会改变这些搭配。" },
+      "exampleRefs": ["e3"],
+      "sourceRef": "比如名词被动语态不及物动词"
+    },
+    {
+      "id": "c4",
+      "heading": { "en": "Certain vs. uncertain information → whether / wh-words", "zh": "确定信息 vs. 不确定信息 → whether / wh- 引导词" },
+      "body": { "en": "'That'-clauses carry a definite fact (the rabbit DID eat the carrot). But uncertain information can be a subject too. Turn the fact into a question — whether? where? when? how? who? what? — and that question can fill the subject slot. The introducers are pronouns/adverbs (what, where, when, who...) that act as connecting pronouns or connecting adverbs. After the introducer, the word order of the clause matches Chinese order — it is not inverted like a real question.", "zh": "that 从句承载确定的事实（兔子确实吃了胡萝卜）。但不确定的信息同样可以作主语。把事实变成提问——是否？哪里？什么时候？怎样？谁？吃了什么？——这个疑问就能填进主语位置。引导词是代词或副词（what、where、when、who……），在这里作连接代词或连接副词。引导词之后，从句的词序与中文基本一致，不像真正的问句那样倒装。" },
+      "exampleRefs": ["e4", "e5"],
+      "sourceRef": "这些引导词就是像what, where, when这样的代词或者副词"
+    },
+    {
+      "id": "c5",
+      "heading": { "en": "Top-heavy problem → formal subject 'it'", "zh": "头重脚轻问题 → 形式主语 it" },
+      "body": { "en": "When the subject clause grows long, the sentence becomes top-heavy: you wait a long time before the key point arrives. Native speakers avoid this by reshaping it: put 'it' at the front, say the rest of the sentence in normal order, then attach the clause at the end. This 'it' is not the ordinary pronoun meaning a thing — it has no real meaning and just stands in for the clause coming later. So the clause at the END is the real subject.", "zh": "当主语从句变长，句子就头重脚轻：要等很久关键信息才出现。母语者会换个形式来避免：把 it 放在句首，按正常语序把句子说完，再在末尾接上从句。这个 it 不是平时指代物体的“它”，它没有实际意义，只是替后面的从句占位。所以放在句末的从句才是真正的主语。" },
+      "exampleRefs": ["e6", "e7"],
+      "sourceRef": "本身没有实际意义，所以被称为形式主语"
+    },
+    {
+      "id": "c6",
+      "heading": { "en": "Don't translate 'it' as '它'", "zh": "别把 it 译成“它”" },
+      "body": { "en": "Because the formal subject 'it' carries no meaning, you must NOT translate 'It is obvious that...' as 'It is obvious...（它很明显……）'. Instead render the real subject directly: 'It is obvious that the rabbit ate carrot' → '很明显兔子吃了胡萝卜', or, if the clause is long, split it into two Chinese sentences.", "zh": "因为形式主语 it 没有意义，所以绝不能把 “It is obvious that...” 译成“它很明显……”。要直接把真正的主语译出来：“It is obvious that the rabbit ate carrot” → “很明显兔子吃了胡萝卜”；如果从句较长，就拆成两句中文。" },
+      "exampleRefs": ["e6"],
+      "sourceRef": "你千万别把这些句子翻译成“它很明显什么什么”这样的句子"
+    },
+    {
+      "id": "c7",
+      "heading": { "en": "The 'It is + adj/verb + that' pattern and the subjunctive", "zh": "“It is + 形容词/动词 + that” 结构与虚拟语气" },
+      "body": { "en": "The familiar 'It is ... that ...' shape also appears with the subjunctive. 'It is suggested that you should eat carrot' is itself a subject clause — equal to 'That you should eat carrot is suggested'. Once the main verb is suggest, demand, insist or order (or adjectives like important, essential, necessary), the verb inside the clause uses the subjunctive ('should' + base form). Whether or not the subjunctive is used, the clause is still a subject clause.", "zh": "我们熟悉的 “It is ... that ...” 结构也会与虚拟语气一起出现。“It is suggested that you should eat carrot” 本身就是个主语从句，等于 “That you should eat carrot is suggested”。一旦主句动词是 suggest、demand、insist、order（或 important、essential、necessary 这类形容词），从句里的动词就要用虚拟语气（should + 动词原形）。无论是否使用虚拟语气，这种句子包含的都仍是主语从句。" },
+      "exampleRefs": ["e8"],
+      "sourceRef": "这个带有动词虚拟语气的句子就是个主语从句"
+    }
+  ],
+  "examples": [
+    {
+      "id": "e1",
+      "text": "The fact is obvious.",
+      "annotations": [
+        { "quote": "The fact", "tag": "subject" },
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "obvious", "tag": "subject-complement" }
+      ],
+      "note": { "en": "Starting point: an ordinary simple sentence whose subject is the noun 'fact'. We will replace that subject with a clause.", "zh": "起点：一个普通简单句，主语是名词 fact。我们要把这个主语换成从句。" }
+    },
+    {
+      "id": "e2",
+      "text": "That the rabbit ate a carrot is obvious.",
+      "annotations": [
+        { "quote": "That", "tag": "clause-marker" },
+        { "quote": "the rabbit ate a carrot", "tag": "subject-clause" },
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "obvious", "tag": "subject-complement" }
+      ],
+      "note": { "en": "The noun subject is replaced by the clause 'that the rabbit ate a carrot'. 'That' is the introducer (a subordinating conjunction); the clause now fills the subject slot.", "zh": "名词主语被从句 “that the rabbit ate a carrot” 替换。that 是引导词（从属连词）；从句现在填满了主语位置。" }
+    },
+    {
+      "id": "e3",
+      "text": "That the rabbit ate a carrot was discussed.",
+      "annotations": [
+        { "quote": "That", "tag": "clause-marker" },
+        { "quote": "the rabbit ate a carrot", "tag": "subject-clause" },
+        { "quote": "was discussed", "tag": "predicate" }
+      ],
+      "note": { "en": "The subject clause stays the same; only the predicate changes — here a passive verb. Compare 'is a secret' or 'happened'.", "zh": "主语从句不变，只换谓语——这里是被动语态。对比 “is a secret” 或 “happened”。" }
+    },
+    {
+      "id": "e4",
+      "text": "Whether the rabbit ate the carrot is obvious.",
+      "annotations": [
+        { "quote": "Whether", "tag": "clause-marker" },
+        { "quote": "the rabbit ate the carrot", "tag": "subject-clause" },
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "obvious", "tag": "subject-complement" }
+      ],
+      "note": { "en": "Uncertain information as subject: 'whether the rabbit ate the carrot'. 'Whether' = '是否'. The clause word order is normal, not inverted.", "zh": "不确定信息作主语：“whether the rabbit ate the carrot”。whether = 是否。从句词序正常，不倒装。" }
+    },
+    {
+      "id": "e5",
+      "text": "What the rabbit ate is obvious.",
+      "annotations": [
+        { "quote": "What", "tag": "clause-marker" },
+        { "quote": "the rabbit ate", "tag": "subject-clause" },
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "obvious", "tag": "subject-complement" }
+      ],
+      "note": { "en": "'What' is a connecting pronoun introducing the clause and also the object inside it. Compare 'who ate the carrot', 'when the rabbit ate the carrot'.", "zh": "what 是连接代词，既引导从句，又是从句内部的宾语。对比 “who ate the carrot”、“when the rabbit ate the carrot”。" }
+    },
+    {
+      "id": "e6",
+      "text": "It is obvious that the rabbit ate carrot.",
+      "annotations": [
+        { "quote": "It", "tag": "formal-subject" },
+        { "quote": "is", "tag": "verb-linking" },
+        { "quote": "obvious", "tag": "subject-complement" },
+        { "quote": "that the rabbit ate carrot", "tag": "real-subject" }
+      ],
+      "note": { "en": "Formal subject 'it' opens the sentence; the real subject is the clause at the end. Translate as '很明显兔子吃了胡萝卜', never 'it is obvious...（它……）'.", "zh": "形式主语 it 开头；真正的主语是末尾的从句。译为“很明显兔子吃了胡萝卜”，绝不译成“它很明显……”。" }
+    },
+    {
+      "id": "e7",
+      "text": "It is obvious that the hungry rabbit had already eaten the carrot for dinner this evening.",
+      "annotations": [
+        { "quote": "It", "tag": "formal-subject" },
+        { "quote": "is", "tag": "verb-linking", "occurrence": 1 },
+        { "quote": "obvious", "tag": "subject-complement" },
+        { "quote": "that the hungry rabbit had already eaten the carrot for dinner this evening", "tag": "real-subject" }
+      ],
+      "note": { "en": "Exactly why 'it' exists: the real subject is long. Compare the top-heavy original 'That the hungry rabbit had already eaten the carrot for dinner this evening is obvious.'", "zh": "这正是 it 存在的理由：真正的主语很长。对比头重脚轻的原句 “That the hungry rabbit had already eaten the carrot for dinner this evening is obvious.”" }
+    },
+    {
+      "id": "e8",
+      "text": "It is suggested that you should eat carrot.",
+      "annotations": [
+        { "quote": "It", "tag": "formal-subject" },
+        { "quote": "is suggested", "tag": "predicate" },
+        { "quote": "that you should eat carrot", "tag": "real-subject" }
+      ],
+      "note": { "en": "Still a subject clause, equal to 'That you should eat carrot is suggested.' Because the verb is 'suggest', the clause uses the subjunctive 'should eat'.", "zh": "依然是主语从句，等于 “That you should eat carrot is suggested.” 因为动词是 suggest，从句用虚拟语气 should eat。" }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": { "en": "In 'That the rabbit ate a carrot is obvious', what role does the whole group 'That the rabbit ate a carrot' play?", "zh": "在 “That the rabbit ate a carrot is obvious” 中，“That the rabbit ate a carrot” 整体充当什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "The subject of the sentence (a subject clause)", "zh": "句子的主语（主语从句）" } },
+        { "id": "b", "text": { "en": "The object of the sentence", "zh": "句子的宾语" } },
+        { "id": "c", "text": { "en": "The subject complement", "zh": "主语补语（表语）" } }
+      ],
+      "answer": "a",
+      "explain": { "en": "The clause replaces the noun subject and fills the subject slot, so it is a subject clause.", "zh": "从句替换了名词主语，占据主语位置，所以它是主语从句。" },
+      "refs": ["c1", "e2"]
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": { "en": "What is 'it' in 'It is obvious that the rabbit ate carrot'?", "zh": "“It is obvious that the rabbit ate carrot” 中的 it 是什么？" },
+      "choices": [
+        { "id": "a", "text": { "en": "A pronoun meaning a specific thing ('它')", "zh": "指代某个具体事物的代词（“它”）" } },
+        { "id": "b", "text": { "en": "A formal subject standing in for the later clause", "zh": "替后面从句占位的形式主语" } },
+        { "id": "c", "text": { "en": "The object of 'is'", "zh": "is 的宾语" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "Formal 'it' has no real meaning; the real subject is the clause 'that the rabbit ate carrot' at the end.", "zh": "形式主语 it 没有实际意义；真正的主语是末尾的从句 “that the rabbit ate carrot”。" },
+      "refs": ["c5", "c6", "e6"]
+    },
+    {
+      "id": "q3",
+      "type": "fill",
+      "prompt": { "en": "Fill the introducer for uncertain info '是否': ____ the rabbit ate the carrot is obvious.", "zh": "填入表示“是否”的引导词：____ the rabbit ate the carrot is obvious." },
+      "answers": ["Whether", "whether"],
+      "explain": { "en": "'Whether' (是否) turns the certain fact into uncertain information that still works as the subject.", "zh": "whether（是否）把确定事实变成不确定信息，照样能作主语。" },
+      "refs": ["c4", "e4"]
+    },
+    {
+      "id": "q4",
+      "type": "fill",
+      "prompt": { "en": "Rewrite with a formal subject. Original: 'That the rabbit ate carrot is a secret.' → '____ is a secret that the rabbit ate carrot.'", "zh": "改写为形式主语句。原句：“That the rabbit ate carrot is a secret.” → “____ is a secret that the rabbit ate carrot.”" },
+      "answers": ["It", "it"],
+      "explain": { "en": "Start with 'It', say the rest in normal order, then attach the clause: 'It is a secret that the rabbit ate carrot.'", "zh": "用 It 开头，按正常语序说完，再接从句：“It is a secret that the rabbit ate carrot.”" },
+      "refs": ["c5", "e3", "e6"]
+    },
+    {
+      "id": "q5",
+      "type": "error",
+      "sentence": "It is obvious the rabbit ate the carrot.",
+      "fix": "It is obvious that the rabbit ate the carrot.",
+      "explain": { "en": "The real subject is a 'that'-clause; with the formal subject 'it', the introducer 'that' should be kept to flag the clause clearly.", "zh": "真正的主语是 that 从句；用形式主语 it 时，应保留引导词 that 来清楚地标明从句。" },
+      "refs": ["c2", "c5"]
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": { "en": "Why does 'eat' become 'should eat' in 'It is suggested that you should eat carrot'?", "zh": "为什么 “It is suggested that you should eat carrot” 里 eat 变成 should eat？" },
+      "choices": [
+        { "id": "a", "text": { "en": "Because the clause is no longer a subject clause", "zh": "因为这个从句不再是主语从句了" } },
+        { "id": "b", "text": { "en": "Because the main verb is 'suggest', triggering the subjunctive", "zh": "因为主句动词是 suggest，触发虚拟语气" } },
+        { "id": "c", "text": { "en": "Because 'it' requires a modal verb", "zh": "因为 it 要求用情态动词" } }
+      ],
+      "answer": "b",
+      "explain": { "en": "Verbs like suggest, demand, insist, order force the subjunctive ('should' + base form) inside the clause; the clause is still a subject clause.", "zh": "suggest、demand、insist、order 等动词使从句用虚拟语气（should + 原形）；这个从句仍是主语从句。" },
+      "refs": ["c7", "e8"]
+    }
+  ],
+  "dialogue": {
+    "kind": "dialogue",
+    "title": { "en": "Was it obvious?", "zh": "这事很明显吗？" },
+    "targets": ["subject-clause", "formal-subject", "real-subject", "clause-marker"],
+    "lines": [
+      { "speaker": "Wolf", "text": "That the rabbit ate a carrot is obvious.", "annotations": [ { "quote": "That", "tag": "clause-marker" }, { "quote": "the rabbit ate a carrot", "tag": "subject-clause" }, { "quote": "is", "tag": "verb-linking" }, { "quote": "obvious", "tag": "subject-complement" } ], "note": { "en": "A 'that'-clause filling the subject slot.", "zh": "that 从句填进主语位置。" } },
+      { "speaker": "Rabbit", "text": "That sounds top-heavy. Say it as: It is obvious that the rabbit ate a carrot.", "annotations": [ { "quote": "It", "tag": "formal-subject" }, { "quote": "is", "tag": "verb-linking" }, { "quote": "obvious", "tag": "subject-complement" }, { "quote": "that the rabbit ate a carrot", "tag": "real-subject" } ], "note": { "en": "Same meaning, reshaped with formal 'it'; the real subject moves to the end.", "zh": "意思相同，用形式主语 it 改写；真正的主语移到句末。" } },
+      { "speaker": "Wolf", "text": "But whether the rabbit ate it is the real question.", "annotations": [ { "quote": "whether", "tag": "clause-marker" }, { "quote": "the rabbit ate it", "tag": "subject-clause" } ], "note": { "en": "Uncertain information: a 'whether'-clause as subject.", "zh": "不确定信息：whether 从句作主语。" } },
+      { "speaker": "Rabbit", "text": "It is suggested that you should eat carrot anyway.", "annotations": [ { "quote": "It", "tag": "formal-subject" }, { "quote": "is suggested", "tag": "predicate" }, { "quote": "that you should eat carrot anyway", "tag": "real-subject" } ], "note": { "en": "With 'suggest', the clause takes the subjunctive 'should eat'.", "zh": "用 suggest 时，从句用虚拟语气 should eat。" } }
+    ]
+  }
+}
