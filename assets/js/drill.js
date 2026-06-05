@@ -4,6 +4,8 @@ import { wpm, gapFill, gradeTyped, scramble, pickDistractors } from './voclib.mj
 
 const $ = (s, r = document) => r.querySelector(s);
 const params = new URLSearchParams(location.search);
+const ORDER = params.get('order') || 'sequence';        // 'sequence' | 'shuffle'
+const FORCED = params.get('mode') || 'adaptive';          // 'adaptive' | mcq|clue|gap|build|dictation|reverse | 'match'
 
 const STR = {
   zh: { clue: '看释义，输入单词', gap: '填入空缺的单词', reverse: '回想词义，然后显示', mcq: '选择正确的词', build: '点字母拼出单词', dictation: '听发音，拼出单词', match: '把单词和释义配对',
@@ -25,14 +27,38 @@ function speak(text) {
 async function main() {
   initLang(); wireToggle();
   queue = await buildQueue();
+  if (ORDER === 'shuffle') shuffle(queue);
   renderTrick();
   if (!queue.length) { $('#drill').innerHTML = `<div class="card"><p>${s('empty')}</p><p><a href="vocab.html">${s('back')}</a></p></div>`; renderHud(); return; }
-  const matchN = queue.length >= 6 ? Math.min(8, queue.length) : 0;
-  indiv = queue.slice(matchN);
   document.addEventListener('langchange', () => { renderTrick(); renderHud(); });
   renderHud();
+  if (FORCED === 'match') { await runMatchSession(); return finish(); }
+  const adaptive = FORCED === 'adaptive';
+  // match warm-up only in adaptive mode
+  const matchN = adaptive && queue.length >= 6 ? Math.min(8, queue.length) : 0;
+  indiv = queue.slice(matchN);
   if (matchN >= 4) await matchRound(queue.slice(0, matchN));
   next();
+}
+
+async function runMatchSession() {
+  indiv = queue; // for HUD totals
+  for (let k = 0; k < queue.length; k += 8) {
+    const chunk = queue.slice(k, k + 8);
+    if (chunk.length < 2) { chunk.forEach((w) => { store.record(w.w, true); results.push(true); }); break; }
+    i = k; renderHud();
+    await matchRound(chunk);
+  }
+}
+
+function resolveForced(m, word) {
+  const canGap = !!(word.blank && word.example && word.example.includes(word.blank));
+  const canBuild = word.w.length >= 3 && word.w.length <= 14;
+  const canMcq = queue.length >= 4;
+  if (m === 'gap' && !canGap) return 'clue';
+  if (m === 'build' && !canBuild) return 'clue';
+  if (m === 'mcq' && !canMcq) return 'clue';
+  return m;
 }
 
 async function buildQueue() {
@@ -55,6 +81,7 @@ function renderHud() {
 
 /* ---------- Mode selection (SRS-box driven) ---------- */
 function modeFor(word) {
+  if (FORCED !== 'adaptive' && FORCED !== 'match') return resolveForced(FORCED, word);
   const box = store.get(word.w)?.box || 1;
   const canGap = !!(word.blank && word.example && word.example.includes(word.blank));
   const canMcq = queue.length >= 4;
@@ -191,7 +218,7 @@ function matchRound(words) {
     const tryMatch = () => {
       if (selWord == null || selMeta == null) return;
       const ok = selWord.dataset.idx === selMeta.dataset.idx;
-      if (ok) { selWord.classList.add('matched'); selMeta.classList.add('matched'); selWord.disabled = selMeta.disabled = true; store.record(words[+selWord.dataset.idx].w, true); xp += 8; store.addXp(8, combo); matched++; renderHud();
+      if (ok) { selWord.classList.add('matched'); selMeta.classList.add('matched'); selWord.disabled = selMeta.disabled = true; store.record(words[+selWord.dataset.idx].w, true); results.push(true); xp += 8; store.addXp(8, combo); matched++; renderHud();
         selWord = selMeta = null; if (matched === words.length) setTimeout(resolve, 350); }
       else { const a = selWord, b = selMeta; a.classList.add('miss'); b.classList.add('miss'); combo = 0; renderHud(); setTimeout(() => { a.classList.remove('miss', 'sel'); b.classList.remove('miss', 'sel'); }, 450); selWord = selMeta = null; }
     };
