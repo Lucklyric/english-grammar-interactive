@@ -11,7 +11,7 @@ const STR = {
 };
 const s = (k) => (STR[getLang()] || STR.en)[k] || k;
 
-let queue = [], i = 0, results = [], startTs = 0, sectionTrick = null;
+let queue = [], i = 0, results = [], startTs = 0, sectionTrick = null, curMode = 'clue';
 
 async function main() {
   initLang(); wireToggle();
@@ -44,22 +44,29 @@ async function buildQueue() {
   return [];
 }
 
-const MODES = ['clue', 'gap', 'reverse'];
-function modeFor(word, idx) {
-  // gap only if a blank exists; rotate deterministically by index
-  const m = MODES[idx % MODES.length];
-  if (m === 'gap' && !(word.blank && word.example.includes(word.blank))) return 'clue';
-  return m;
+// Mode escalates with mastery (Leitner box): recognition -> context -> production.
+// new/box1 -> clue, box2-3 -> gap-fill, box4-5 -> reverse, with a light random tiebreaker.
+function modeFor(word) {
+  const box = store.get(word.w)?.box || 1;
+  const canGap = !!(word.blank && word.example && word.example.includes(word.blank));
+  let mode = box <= 1 ? 'clue' : box <= 3 ? 'gap' : 'reverse';
+  if (Math.random() < 0.25) { // vary so repeat drills aren't identical
+    const pool = ['clue', canGap ? 'gap' : 'reverse', 'reverse'];
+    mode = pool[Math.floor(Math.random() * pool.length)];
+  }
+  if (mode === 'gap' && !canGap) mode = box >= 3 ? 'reverse' : 'clue';
+  return mode;
 }
 
 function next() {
   if (i >= queue.length) return finish();
+  curMode = modeFor(queue[i]); // compute once per card so re-renders (e.g. lang toggle) keep the same mode
   startTs = Date.now();
   renderCard();
 }
 
 function renderCard() {
-  const word = queue[i]; const mode = modeFor(word, i);
+  const word = queue[i]; const mode = curMode;
   const root = $('#drill'); root.innerHTML = '';
   const head = document.createElement('div'); head.className = 'drill-head';
   head.innerHTML = `<span class="drill-progress">${i + 1} / ${queue.length}</span><span class="drill-band">${word.cefr || ''}</span>`;
