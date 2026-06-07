@@ -1,0 +1,54 @@
+{
+  "uid": "s5-50",
+  "sid": "s5",
+  "u": "50",
+  "custom": false,
+  "title": {
+    "en": "Using an Answering Machine",
+    "zh": "使用电话答录机"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Tom recorded an outgoing message on his machine.",
+      "zh": "汤姆在答录机上录了一段问候语。"
+    },
+    {
+      "en": "When Jenny called, she heard the message.",
+      "zh": "珍妮打电话时，听到了那段问候语。"
+    },
+    {
+      "en": "And left her own message for him.",
+      "zh": "并给他留了自己的口信。"
+    },
+    {
+      "en": "When Tom got home, he saw a light showing that he had a message.",
+      "zh": "汤姆回到家，看到指示灯亮着，说明有一条留言。"
+    },
+    {
+      "en": "He pressed the button to play the message.",
+      "zh": "他按下按钮播放留言。"
+    },
+    {
+      "en": "As he listened to it, he took some notes.",
+      "zh": "他一边听，一边记了些笔记。"
+    },
+    {
+      "en": "Then, he erased the message.",
+      "zh": "然后，他删除了留言。"
+    },
+    {
+      "en": "We can't come to the phone right now. After the beep, please leave a message.",
+      "zh": "我们现在无法接听电话。请在嘟声后留言。"
+    },
+    {
+      "en": "Tom, this is Jenny. Please call me back at the office before six o'clock.",
+      "zh": "汤姆，我是珍妮。请六点之前给我办公室回电话。"
+    },
+    {
+      "en": "Don't need that anymore.",
+      "zh": "不再需要它了。"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "uid": "s3-33",
+  "sid": "s3",
+  "u": "33",
+  "custom": false,
+  "title": {
+    "en": "Going to Bed",
+    "zh": "上床睡觉"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "When it got late, Jenny yawned.",
+      "zh": "夜深了，珍妮打了个哈欠。"
+    },
+    {
+      "en": "She said goodnight to her parents.",
+      "zh": "她向父母道了晚安。"
+    },
+    {
+      "en": "She went upstairs to her room.",
+      "zh": "她上楼回到自己的房间。"
+    },
+    {
+      "en": "And changed into her nightgown.",
+      "zh": "并换上了睡裙。"
+    },
+    {
+      "en": "She hung some of her clothes up in the closet.",
+      "zh": "她把一些衣服挂进了衣柜。"
+    },
+    {
+      "en": "And put her dirty clothes in the laundry basket.",
+      "zh": "并把脏衣服放进了洗衣篮。"
+    },
+    {
+      "en": "She brushed her teeth.",
+      "zh": "她刷了牙。"
+    },
+    {
+      "en": "Washed her face.",
+      "zh": "洗了脸。"
+    },
+    {
+      "en": "And used the toilet.",
+      "zh": "并上了厕所。"
+    },
+    {
+      "en": "After turning on her bedside lamp, she turned off the room light.",
+      "zh": "打开床头灯后，她关掉了房间的大灯。"
+    },
+    {
+      "en": "She pulled back the covers.",
+      "zh": "她掀开了被子。"
+    },
+    {
+      "en": "And got into bed.",
+      "zh": "并上了床。"
+    },
+    {
+      "en": "She set her alarm clock.",
+      "zh": "她定好了闹钟。"
+    },
+    {
+      "en": "And put it on her nightstand.",
+      "zh": "并把它放在床头柜上。"
+    },
+    {
+      "en": "She read in bed for a while.",
+      "zh": "她在床上看了一会儿书。"
+    },
+    {
+      "en": "Finally, she turned off the lamp.",
+      "zh": "最后，她关掉了台灯。"
+    },
+    {
+      "en": "Lay down.",
+      "zh": "躺了下来。"
+    },
+    {
+      "en": "And fell asleep.",
+      "zh": "然后睡着了。"
+    }
+  ]
+}

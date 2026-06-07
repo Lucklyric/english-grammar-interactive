@@ -1,0 +1,54 @@
+{
+  "uid": "s3-24",
+  "sid": "s3",
+  "u": "24",
+  "custom": false,
+  "title": {
+    "en": "Cooking Rice",
+    "zh": "煮米饭"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Paul measured out one cup of rice.",
+      "zh": "保罗量出了一杯米。"
+    },
+    {
+      "en": "And poured it into the pot of a rice cooker.",
+      "zh": "并把它倒进电饭煲的内锅里。"
+    },
+    {
+      "en": "To rinse the rice, he put some water in the pot.",
+      "zh": "为了淘米，他往锅里加了一些水。"
+    },
+    {
+      "en": "He poured off the water to get rid of the dirt and husks.",
+      "zh": "他把水倒掉，去除杂质和米糠。"
+    },
+    {
+      "en": "Then, he measured out two cups of clean water and poured it into the pot.",
+      "zh": "然后，他量出两杯清水倒进锅里。"
+    },
+    {
+      "en": "He put the pot into the rice cooker and put a lid on the cooker.",
+      "zh": "他把内锅放进电饭煲，并盖上了盖子。"
+    },
+    {
+      "en": "He turned it on by pressing the switch.",
+      "zh": "他按下开关把它打开。"
+    },
+    {
+      "en": "The rice boiled in the cooker.",
+      "zh": "米饭在电饭煲里煮熟了。"
+    },
+    {
+      "en": "When the rice was done, the cooker turned off automatically.",
+      "zh": "米饭煮好后，电饭煲自动关闭了。"
+    },
+    {
+      "en": "Paul spooned some of the cooked rice onto his plate.",
+      "zh": "保罗用勺子舀了一些煮好的米饭到盘子里。"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid": "s3-32",
+  "sid": "s3",
+  "u": "32",
+  "custom": false,
+  "title": {
+    "en": "Watching a DVD",
+    "zh": "看DVD"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Jenny rented a DVD from a video store.",
+      "zh": "珍妮从音像店租了一张DVD。"
+    },
+    {
+      "en": "At home, she took the DVD out of the case.",
+      "zh": "回到家，她把DVD从盒子里取出来。"
+    },
+    {
+      "en": "With the remote, she switched her TV to the DVD setting.",
+      "zh": "她用遥控器把电视切换到DVD模式。"
+    },
+    {
+      "en": "And turned the DVD player on.",
+      "zh": "并打开了DVD播放机。"
+    },
+    {
+      "en": "She loaded the disc into the tray.",
+      "zh": "她把碟片放进托盘里。"
+    },
+    {
+      "en": "When the menu came up, she selected \"Play movie.\"",
+      "zh": "菜单出现后，她选择了“播放影片”。"
+    },
+    {
+      "en": "She and Tom watched the movie.",
+      "zh": "她和汤姆一起看了电影。"
+    },
+    {
+      "en": "To see something again, they rewound.",
+      "zh": "想重看某个片段时，他们就倒带。"
+    },
+    {
+      "en": "Jenny paused it when Tom left for a minute.",
+      "zh": "汤姆离开一会儿时，珍妮把它暂停了。"
+    },
+    {
+      "en": "At the end of the movie, Jenny pressed the \"Stop\" button.",
+      "zh": "电影结束时，珍妮按下了“停止”键。"
+    },
+    {
+      "en": "She ejected the disc and put it back in the case.",
+      "zh": "她取出碟片，放回了盒子里。"
+    },
+    {
+      "en": "Later, she returned it to the store.",
+      "zh": "后来，她把它还回了店里。"
+    }
+  ]
+}

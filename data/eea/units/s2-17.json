@@ -1,0 +1,82 @@
+{
+  "uid": "s2-17",
+  "sid": "s2",
+  "u": "17",
+  "custom": false,
+  "title": {
+    "en": "Taking a Taxi",
+    "zh": "坐出租车"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Pam hailed a taxi.",
+      "zh": "帕姆招了一辆出租车。"
+    },
+    {
+      "en": "She got into the back seat.",
+      "zh": "她坐进了后座。"
+    },
+    {
+      "en": "She told the driver where she wanted to go.",
+      "zh": "她告诉司机她想去哪里。"
+    },
+    {
+      "en": "I need to go to Riverside Square.",
+      "zh": "我要去河滨广场。"
+    },
+    {
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "en": "He started the meter.",
+      "zh": "他打开了计价器。"
+    },
+    {
+      "en": "She checked the meter a few times.",
+      "zh": "她查看了几次计价器。"
+    },
+    {
+      "en": "Hmm. $4.50. That's about right.",
+      "zh": "嗯，4.5美元，差不多。"
+    },
+    {
+      "en": "During the ride, she gave the driver directions.",
+      "zh": "路上，她给司机指路。"
+    },
+    {
+      "en": "Turn left at the next traffic light.",
+      "zh": "在下一个红绿灯左转。"
+    },
+    {
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "en": "She told him where to stop.",
+      "zh": "她告诉他在哪里停车。"
+    },
+    {
+      "en": "Pull over by that red car.",
+      "zh": "在那辆红车旁边靠边停。"
+    },
+    {
+      "en": "Yes, ma'am.",
+      "zh": "好的，女士。"
+    },
+    {
+      "en": "She paid the fare and gave him a tip.",
+      "zh": "她付了车费，还给了他小费。"
+    },
+    {
+      "en": "Here's $6.20, plus a little extra for you.",
+      "zh": "这是6.2美元，另外多给你一点。"
+    },
+    {
+      "en": "Thank you.",
+      "zh": "谢谢。"
+    }
+  ]
+}

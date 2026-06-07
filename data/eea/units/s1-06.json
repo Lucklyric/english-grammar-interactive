@@ -1,0 +1,62 @@
+{
+  "uid": "s1-06",
+  "sid": "s1",
+  "u": "06",
+  "custom": false,
+  "title": {
+    "en": "Making a Bed",
+    "zh": "铺床"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "I put a bottom sheet on the mattress.",
+      "zh": "我把一张床单铺在床垫上。"
+    },
+    {
+      "en": "If I have a fitted sheet, I slip it over the mattress.",
+      "zh": "如果是床笠，我就把它套在床垫上。"
+    },
+    {
+      "en": "If I have a flat sheet, I tuck it under the mattress.",
+      "zh": "如果是平板床单，我就把它掖到床垫下面。"
+    },
+    {
+      "en": "Then, I tuck the top sheet under the mattress at the foot of the bed.",
+      "zh": "然后，我把盖被单掖到床尾的床垫下面。"
+    },
+    {
+      "en": "I pull the top sheet tight.",
+      "zh": "我把盖被单拉紧。"
+    },
+    {
+      "en": "And spread a blanket over the bed.",
+      "zh": "再把一条毯子铺在床上。"
+    },
+    {
+      "en": "And smooth it out.",
+      "zh": "再把它抚平。"
+    },
+    {
+      "en": "I spread a bedspread over the bed.",
+      "zh": "我把一条床罩铺在床上。"
+    },
+    {
+      "en": "I fluff up the pillows.",
+      "zh": "我把枕头拍松。"
+    },
+    {
+      "en": "And lay them at the head of the bed.",
+      "zh": "再把它们放在床头。"
+    },
+    {
+      "en": "I pull the bedspread over the pillows.",
+      "zh": "我把床罩盖到枕头上。"
+    },
+    {
+      "en": "And smooth it out.",
+      "zh": "再把它抚平。"
+    }
+  ]
+}

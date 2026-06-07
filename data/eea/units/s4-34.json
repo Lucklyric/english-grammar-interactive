@@ -1,0 +1,94 @@
+{
+  "uid": "s4-34",
+  "sid": "s4",
+  "u": "34",
+  "custom": false,
+  "title": {
+    "en": "Doing Laundry",
+    "zh": "洗衣服"
+  },
+  "tense": "Simple Future",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Later today, I'm going to do my laundry.",
+      "zh": "今天晚些时候，我要洗衣服。"
+    },
+    {
+      "en": "I'll carry the laundry basket to the laundry room.",
+      "zh": "我会把洗衣篮搬到洗衣房。"
+    },
+    {
+      "en": "I'll take the laundry out of the basket.",
+      "zh": "我会把衣服从篮子里拿出来。"
+    },
+    {
+      "en": "And then I'll sort it by separating dark colors from light.",
+      "zh": "然后我会把深色和浅色分开来整理。"
+    },
+    {
+      "en": "I'll check the pockets of the pants and shirts.",
+      "zh": "我会检查裤子和衬衫的口袋。"
+    },
+    {
+      "en": "And take out anything I find in them.",
+      "zh": "把里面找到的东西都拿出来。"
+    },
+    {
+      "en": "Then, I'll put a load of laundry into the washing machine.",
+      "zh": "然后，我会把一批衣服放进洗衣机。"
+    },
+    {
+      "en": "I'll adjust the settings on the machine.",
+      "zh": "我会调整洗衣机的设置。"
+    },
+    {
+      "en": "Then, I'll put in some detergent.",
+      "zh": "然后，我会放一些洗衣液。"
+    },
+    {
+      "en": "And turn the machine on.",
+      "zh": "再把洗衣机打开。"
+    },
+    {
+      "en": "The machine will wash, rinse, and spin the laundry.",
+      "zh": "洗衣机会洗涤、漂洗，然后甩干衣服。"
+    },
+    {
+      "en": "I'll take the wet clothes out of the machine.",
+      "zh": "我会把湿衣服从洗衣机里拿出来。"
+    },
+    {
+      "en": "I'll hang some of the laundry out to dry.",
+      "zh": "我会把一些衣服挂出去晾干。"
+    },
+    {
+      "en": "I'll put some other laundry into the dryer.",
+      "zh": "我会把另一些衣服放进烘干机。"
+    },
+    {
+      "en": "The dryer will dry it by heating and tumbling it.",
+      "zh": "烘干机会通过加热和翻滚把衣服烘干。"
+    },
+    {
+      "en": "Then, I'll take it out of the machine.",
+      "zh": "然后，我会把它从机器里拿出来。"
+    },
+    {
+      "en": "I'll fold some of the dry laundry.",
+      "zh": "我会把一些干衣服叠好。"
+    },
+    {
+      "en": "And put it into drawers.",
+      "zh": "再放进抽屉里。"
+    },
+    {
+      "en": "I'll iron other things.",
+      "zh": "我会熨其他衣物。"
+    },
+    {
+      "en": "And hang them up in the closet.",
+      "zh": "再把它们挂进衣柜里。"
+    }
+  ]
+}

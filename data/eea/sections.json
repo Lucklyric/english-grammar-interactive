@@ -1,0 +1,8 @@
+[
+  { "id": "s1", "order": 1, "title": { "en": "Starting the Day", "zh": "开始新的一天" } },
+  { "id": "s2", "order": 2, "title": { "en": "Getting Around", "zh": "出行" } },
+  { "id": "s3", "order": 3, "title": { "en": "At Home in the Evening", "zh": "傍晚在家" } },
+  { "id": "s4", "order": 4, "title": { "en": "Managing a Household", "zh": "打理家务" } },
+  { "id": "s5", "order": 5, "title": { "en": "Keeping in Touch", "zh": "保持联系" } },
+  { "id": "s6", "order": 6, "title": { "en": "Having Fun with Friends", "zh": "与朋友共度时光" } }
+]

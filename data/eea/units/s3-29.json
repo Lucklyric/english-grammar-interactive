@@ -1,0 +1,62 @@
+{
+  "uid": "s3-29",
+  "sid": "s3",
+  "u": "29",
+  "custom": false,
+  "title": {
+    "en": "Using a Portable Media Player",
+    "zh": "使用便携式媒体播放器"
+  },
+  "tense": "Simple Past",
+  "level": 3,
+  "phrases": [
+    {
+      "en": "I plugged some earphones into the jack.",
+      "zh": "我把耳机插进了插孔。"
+    },
+    {
+      "en": "And put them on.",
+      "zh": "并戴上了它们。"
+    },
+    {
+      "en": "I pressed the on/off button to turn the player on.",
+      "zh": "我按下开关键打开了播放器。"
+    },
+    {
+      "en": "I selected the music icon and touched the name of a playlist.",
+      "zh": "我选中音乐图标，点了一个播放列表的名字。"
+    },
+    {
+      "en": "I pressed a bar on the side to adjust the volume, turned it up to make the music louder.",
+      "zh": "我按侧面的滑条来调节音量，把它调高让音乐变大声。"
+    },
+    {
+      "en": "And turned it down to make the music softer.",
+      "zh": "又把它调低让音乐变小声。"
+    },
+    {
+      "en": "I searched for my favorite song.",
+      "zh": "我搜索了我最喜欢的歌。"
+    },
+    {
+      "en": "And I tapped the screen to play it.",
+      "zh": "并点了一下屏幕来播放它。"
+    },
+    {
+      "en": "To get back to the main menu, I hit the control button.",
+      "zh": "为了回到主菜单，我按了一下控制键。"
+    },
+    {
+      "en": "There were icons for many apps on the main screen.",
+      "zh": "主屏幕上有许多应用的图标。"
+    },
+    {
+      "en": "I touched the icon for the calculator app so I could add some numbers.",
+      "zh": "我点了计算器应用的图标，这样我就能算一些数字。"
+    },
+    {
+      "en": "To turn the player off, I held the on/off button down for five seconds.",
+      "zh": "为了关闭播放器，我按住开关键五秒钟。"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "uid": "s2-16",
+  "sid": "s2",
+  "u": "16",
+  "custom": false,
+  "title": {
+    "en": "Taking a Train",
+    "zh": "坐火车"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Tom bought a ticket from the ticket machine.",
+      "zh": "汤姆从售票机买了一张票。"
+    },
+    {
+      "en": "Other passengers bought tickets at the ticket window.",
+      "zh": "其他乘客在售票窗口买票。"
+    },
+    {
+      "en": "Tom inserted his ticket into the slot in the turnstile.",
+      "zh": "汤姆把票插进闸机的投票口。"
+    },
+    {
+      "en": "The gate opened and Tom walked through.",
+      "zh": "闸门打开了，汤姆走了过去。"
+    },
+    {
+      "en": "He followed the signs to his gate.",
+      "zh": "他按照指示牌走向自己的检票口。"
+    },
+    {
+      "en": "He waited on the platform next to the track.",
+      "zh": "他在站台上紧挨着轨道等车。"
+    },
+    {
+      "en": "After his train arrived, he got on.",
+      "zh": "他的火车到了之后，他上了车。"
+    },
+    {
+      "en": "The train was crowded, so he had to stand.",
+      "zh": "车上很挤，所以他只好站着。"
+    },
+    {
+      "en": "His station was announced.",
+      "zh": "广播报到了他要下的站。"
+    },
+    {
+      "en": "He got off the train.",
+      "zh": "他下了火车。"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid": "s2-19",
+  "sid": "s2",
+  "u": "19",
+  "custom": false,
+  "title": {
+    "en": "Riding a Bicycle",
+    "zh": "骑自行车"
+  },
+  "tense": "Simple Past",
+  "level": 1,
+  "phrases": [
+    {
+      "en": "I put on my helmet.",
+      "zh": "我戴上了头盔。"
+    },
+    {
+      "en": "I held the handlebars.",
+      "zh": "我握住了车把。"
+    },
+    {
+      "en": "I swung my leg over the bike.",
+      "zh": "我把腿跨过自行车。"
+    },
+    {
+      "en": "I started pedaling and the bike moved.",
+      "zh": "我开始蹬脚踏板，自行车动了起来。"
+    },
+    {
+      "en": "To go uphill, I shifted into a lower gear.",
+      "zh": "为了上坡，我换到了更低的挡。"
+    },
+    {
+      "en": "To slow down, I squeezed the brakes.",
+      "zh": "为了减速，我捏紧了刹车。"
+    },
+    {
+      "en": "Finally, I got off my bike.",
+      "zh": "最后，我下了车。"
+    },
+    {
+      "en": "I locked it up in a bike rack.",
+      "zh": "我把它锁在了停车架上。"
+    }
+  ]
+}

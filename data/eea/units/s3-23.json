@@ -1,0 +1,70 @@
+{
+  "uid": "s3-23",
+  "sid": "s3",
+  "u": "23",
+  "custom": false,
+  "title": {
+    "en": "Making Spaghetti",
+    "zh": "做意大利面"
+  },
+  "tense": "Simple Past",
+  "level": 3,
+  "phrases": [
+    {
+      "en": "Kate diced an onion.",
+      "zh": "凯特把一个洋葱切成丁。"
+    },
+    {
+      "en": "And fried it with some ground beef in a frying pan.",
+      "zh": "并在煎锅里把它和一些牛肉末一起煎。"
+    },
+    {
+      "en": "As the beef-and-onion mixture fried, she stirred it.",
+      "zh": "牛肉和洋葱在煎的时候，她不停地搅拌。"
+    },
+    {
+      "en": "When the meat was brown, she turned off the burner.",
+      "zh": "肉变成褐色后，她关掉了炉火。"
+    },
+    {
+      "en": "She poured the fat off into a can.",
+      "zh": "她把油脂倒进一个罐子里。"
+    },
+    {
+      "en": "She heated two cans of tomato sauce in a saucepan.",
+      "zh": "她在锅里加热了两罐番茄酱。"
+    },
+    {
+      "en": "She added the mixture of beef and onions.",
+      "zh": "她加入了牛肉和洋葱的混合物。"
+    },
+    {
+      "en": "And stirred it into the sauce with some spices.",
+      "zh": "并加入一些香料，把它拌进酱里。"
+    },
+    {
+      "en": "When it started to boil, she turned down the heat and let the sauce simmer.",
+      "zh": "酱开始沸腾时，她把火调小，让酱慢慢炖。"
+    },
+    {
+      "en": "In another pan, she boiled some water.",
+      "zh": "她在另一个锅里烧开了一些水。"
+    },
+    {
+      "en": "She put some spaghetti into the boiling water.",
+      "zh": "她把一些意大利面放进开水里。"
+    },
+    {
+      "en": "And boiled it until it was tender.",
+      "zh": "煮到面变软为止。"
+    },
+    {
+      "en": "In a colander, she drained the spaghetti.",
+      "zh": "她用滤盆把意大利面沥干。"
+    },
+    {
+      "en": "After putting the spaghetti on a plate, she ladled some sauce over it.",
+      "zh": "把意大利面盛到盘子里后，她舀了一些酱浇在上面。"
+    }
+  ]
+}

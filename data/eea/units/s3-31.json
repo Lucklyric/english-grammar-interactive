@@ -1,0 +1,54 @@
+{
+  "uid": "s3-31",
+  "sid": "s3",
+  "u": "31",
+  "custom": false,
+  "title": {
+    "en": "Watching Television",
+    "zh": "看电视"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Tom picked up the remote for the TV.",
+      "zh": "汤姆拿起了电视遥控器。"
+    },
+    {
+      "en": "And turned the TV on.",
+      "zh": "并打开了电视。"
+    },
+    {
+      "en": "A game show was on.",
+      "zh": "正在播一个游戏节目。"
+    },
+    {
+      "en": "Tom didn't want to watch it.",
+      "zh": "汤姆不想看它。"
+    },
+    {
+      "en": "So he used the remote.",
+      "zh": "于是他用了遥控器。"
+    },
+    {
+      "en": "To change channels.",
+      "zh": "来换台。"
+    },
+    {
+      "en": "He turned up the volume, so he could hear better.",
+      "zh": "他把音量调大，这样能听得更清楚。"
+    },
+    {
+      "en": "During a commercial, he went to the kitchen for a snack.",
+      "zh": "广告时间，他去厨房拿了点零食。"
+    },
+    {
+      "en": "He watched the news.",
+      "zh": "他看了新闻。"
+    },
+    {
+      "en": "And when it ended, he turned the TV off.",
+      "zh": "新闻结束后，他关掉了电视。"
+    }
+  ]
+}

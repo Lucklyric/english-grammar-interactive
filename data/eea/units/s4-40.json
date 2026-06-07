@@ -1,0 +1,102 @@
+{
+  "uid": "s4-40",
+  "sid": "s4",
+  "u": "40",
+  "custom": false,
+  "title": {
+    "en": "Shopping for Groceries",
+    "zh": "买日用杂货"
+  },
+  "tense": "Simple Present",
+  "level": 3,
+  "phrases": [
+    {
+      "en": "Tom gets a shopping cart.",
+      "zh": "汤姆拿了一辆购物车。"
+    },
+    {
+      "en": "Some people use a basket instead of a cart.",
+      "zh": "有些人用篮子，而不是购物车。"
+    },
+    {
+      "en": "He checks his shopping list to see what he should buy.",
+      "zh": "他看购物清单，确认该买什么。"
+    },
+    {
+      "en": "In the fresh produce section, he checks the fruit and vegetables by feeling and smelling them.",
+      "zh": "在新鲜果蔬区，他用手摸、用鼻子闻，来挑选水果和蔬菜。"
+    },
+    {
+      "en": "He puts some fruit in a plastic bag.",
+      "zh": "他把一些水果放进塑料袋。"
+    },
+    {
+      "en": "And weighs the fruit on a scale.",
+      "zh": "再用秤给水果称重。"
+    },
+    {
+      "en": "Next, he picks up some fresh meat at the meat counter.",
+      "zh": "接着，他在肉类柜台拿了一些鲜肉。"
+    },
+    {
+      "en": "I'll have four chicken breasts, please.",
+      "zh": "请给我四块鸡胸肉。"
+    },
+    {
+      "en": "Then, at the deli, he gets some cold cuts.",
+      "zh": "然后，他在熟食区买了一些冷切肉。"
+    },
+    {
+      "en": "Some beef pastrami, please. Six slices.",
+      "zh": "请给我一些五香熏牛肉。六片。"
+    },
+    {
+      "en": "And cheese.",
+      "zh": "还有奶酪。"
+    },
+    {
+      "en": "And a half pound of cheddar.",
+      "zh": "再来半磅切达奶酪。"
+    },
+    {
+      "en": "He goes through the canned goods aisle.",
+      "zh": "他走过罐头食品的货道。"
+    },
+    {
+      "en": "He checks the prices on two brands of canned peas.",
+      "zh": "他比较两个牌子的罐头豌豆的价格。"
+    },
+    {
+      "en": "And chooses the cheaper one.",
+      "zh": "选了便宜的那个。"
+    },
+    {
+      "en": "As he shops, he looks for specials.",
+      "zh": "购物时，他留意特价商品。"
+    },
+    {
+      "en": "He picks up some toilet paper in the household goods section.",
+      "zh": "他在家居用品区拿了一些卫生纸。"
+    },
+    {
+      "en": "And gets some milk in the dairy section.",
+      "zh": "在乳制品区买了一些牛奶。"
+    },
+    {
+      "en": "Try some, sir? It's on special!",
+      "zh": "先生，要尝尝吗？这是特价的！"
+    },
+    {
+      "en": "He tries a free sample of some pizza.",
+      "zh": "他试吃了一份免费的披萨样品。"
+    },
+    {
+      "en": "And takes some frozen pizza from the frozen-food case.",
+      "zh": "从冷冻食品柜里拿了一些冷冻披萨。"
+    },
+    {
+      "en": "Finally, he goes to the checkout counter.",
+      "zh": "最后，他来到收银台。"
+    }
+  ]
+}

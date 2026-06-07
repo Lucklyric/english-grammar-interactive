@@ -1,0 +1,74 @@
+{
+  "uid": "s5-47",
+  "sid": "s5",
+  "u": "47",
+  "custom": false,
+  "title": {
+    "en": "Answering a Telephone",
+    "zh": "接电话"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Kate heard the phone ringing.",
+      "zh": "凯特听到电话在响。"
+    },
+    {
+      "en": "And picked up the receiver.",
+      "zh": "然后拿起了听筒。"
+    },
+    {
+      "en": "She answered the phone by saying hello.",
+      "zh": "她说“你好”接了电话。"
+    },
+    {
+      "en": "And then let the caller speak.",
+      "zh": "然后让来电的人说话。"
+    },
+    {
+      "en": "They talked for a while.",
+      "zh": "他们聊了一会儿。"
+    },
+    {
+      "en": "And then she hung up.",
+      "zh": "然后她挂断了电话。"
+    },
+    {
+      "en": "Hi, Kate. This is Jenny.",
+      "zh": "嗨，凯特。我是珍妮。"
+    },
+    {
+      "en": "Whether you'd like to go swimming.",
+      "zh": "你想不想去游泳。"
+    },
+    {
+      "en": "I'd love to, Jenny. When?",
+      "zh": "我很乐意，珍妮。什么时候？"
+    },
+    {
+      "en": "Kate didn't know the person the caller asked for.",
+      "zh": "凯特不认识来电者要找的人。"
+    },
+    {
+      "en": "She told him that he had a wrong number.",
+      "zh": "她告诉他打错电话了。"
+    },
+    {
+      "en": "He apologized and hung up.",
+      "zh": "他道歉后挂断了电话。"
+    },
+    {
+      "en": "Could I speak with Mike?",
+      "zh": "我能和迈克通话吗？"
+    },
+    {
+      "en": "I'm sorry. There's no one here by that name. You have the wrong number.",
+      "zh": "抱歉，这里没有叫这个名字的人。你打错号码了。"
+    },
+    {
+      "en": "Ooops! Sorry!",
+      "zh": "哎呀！对不起！"
+    }
+  ]
+}

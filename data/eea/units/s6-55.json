@@ -1,0 +1,46 @@
+{
+  "uid": "s6-55",
+  "sid": "s6",
+  "u": "55",
+  "custom": false,
+  "title": {
+    "en": "Going to a Movie",
+    "zh": "去看电影"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "We found out where and when the movie was showing.",
+      "zh": "我们查到了电影在哪里、什么时候放映。"
+    },
+    {
+      "en": "We bought tickets at the box office.",
+      "zh": "我们在售票处买了票。"
+    },
+    {
+      "en": "And some popcorn at the snack counter.",
+      "zh": "还在小吃柜台买了爆米花。"
+    },
+    {
+      "en": "The ticket-taker tore our tickets and gave us back the stubs.",
+      "zh": "检票员撕了我们的票，把票根还给了我们。"
+    },
+    {
+      "en": "We went to our seats.",
+      "zh": "我们走到自己的座位。"
+    },
+    {
+      "en": "We watched previews of coming attractions.",
+      "zh": "我们观看了即将上映影片的预告。"
+    },
+    {
+      "en": "Then, we saw the main feature.",
+      "zh": "然后，我们看了正片。"
+    },
+    {
+      "en": "At the end, we watched the credits.",
+      "zh": "结束时，我们看了片尾字幕。"
+    }
+  ]
+}

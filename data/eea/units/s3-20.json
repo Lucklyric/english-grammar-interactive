@@ -1,0 +1,106 @@
+{
+  "uid": "s3-20",
+  "sid": "s3",
+  "u": "20",
+  "custom": false,
+  "title": {
+    "en": "Returning Home",
+    "zh": "回到家"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Dan got back to his building.",
+      "zh": "丹回到了他住的楼。"
+    },
+    {
+      "en": "He checked his mailbox and took out his mail.",
+      "zh": "他查看了邮箱，把信件取了出来。"
+    },
+    {
+      "en": "Then, he took an elevator up to his floor.",
+      "zh": "然后，他坐电梯上到了他那一层。"
+    },
+    {
+      "en": "He walked down the hall to his apartment.",
+      "zh": "他沿着走廊走到自己的公寓。"
+    },
+    {
+      "en": "He opened his door and went inside.",
+      "zh": "他打开门，走了进去。"
+    },
+    {
+      "en": "Pressing the \"up\" button",
+      "zh": "按下“上行”按钮"
+    },
+    {
+      "en": "Waiting for the elevator",
+      "zh": "等电梯"
+    },
+    {
+      "en": "Getting on the elevator",
+      "zh": "进电梯"
+    },
+    {
+      "en": "Choosing a floor",
+      "zh": "选择楼层"
+    },
+    {
+      "en": "Getting off the elevator",
+      "zh": "出电梯"
+    },
+    {
+      "en": "I got back to my house.",
+      "zh": "我回到了家。"
+    },
+    {
+      "en": "I walked up the steps to my front door.",
+      "zh": "我走上台阶来到前门。"
+    },
+    {
+      "en": "I unlocked it with my house key.",
+      "zh": "我用家里的钥匙把门打开。"
+    },
+    {
+      "en": "And then opened the door by turning the doorknob.",
+      "zh": "然后转动门把手把门打开。"
+    },
+    {
+      "en": "I set my bag down.",
+      "zh": "我把包放了下来。"
+    },
+    {
+      "en": "I hung my coat up in the front closet.",
+      "zh": "我把外套挂在门口的衣柜里。"
+    },
+    {
+      "en": "And took off my shoes.",
+      "zh": "并脱掉了鞋。"
+    },
+    {
+      "en": "I picked up my mail.",
+      "zh": "我拿起了我的信件。"
+    },
+    {
+      "en": "Then, I went into the living room.",
+      "zh": "然后，我走进了客厅。"
+    },
+    {
+      "en": "And checked for messages on the answering machine.",
+      "zh": "并查看了答录机上的留言。"
+    },
+    {
+      "en": "Then, I changed clothes.",
+      "zh": "然后，我换了衣服。"
+    },
+    {
+      "en": "I took off my work clothes.",
+      "zh": "我脱掉了工作时穿的衣服。"
+    },
+    {
+      "en": "And changed into some casual clothes.",
+      "zh": "换上了一些休闲的衣服。"
+    }
+  ]
+}

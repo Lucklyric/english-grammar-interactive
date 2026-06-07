@@ -1,0 +1,86 @@
+{
+  "uid": "s2-12",
+  "sid": "s2",
+  "u": "12",
+  "custom": false,
+  "title": {
+    "en": "Taking a Bus",
+    "zh": "坐公交车"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Jenny checked her bus schedule.",
+      "zh": "珍妮查看了公交车时刻表。"
+    },
+    {
+      "en": "Her bus—a Number 77—was due at 8:20.",
+      "zh": "她的车——77路——预计8点20分到。"
+    },
+    {
+      "en": "She walked to the bus stop.",
+      "zh": "她走到了公交车站。"
+    },
+    {
+      "en": "She sat on a bench to wait for the bus.",
+      "zh": "她坐在长椅上等公交车。"
+    },
+    {
+      "en": "The bus arrived on time (at 8:20).",
+      "zh": "公交车准时到了（8点20分）。"
+    },
+    {
+      "en": "The driver opened the door.",
+      "zh": "司机打开了车门。"
+    },
+    {
+      "en": "Jenny got on the bus.",
+      "zh": "珍妮上了车。"
+    },
+    {
+      "en": "She showed the driver her bus pass.",
+      "zh": "她给司机出示了公交卡。"
+    },
+    {
+      "en": "Other passengers paid their fare.",
+      "zh": "其他乘客付了车费。"
+    },
+    {
+      "en": "People pay bus fare in cash, by paying a driver, or by putting a fare card into a fare machine.",
+      "zh": "人们用现金、付钱给司机，或把车票卡插进刷卡机来支付车费。"
+    },
+    {
+      "en": "Sometimes, the driver, conductor, or machine gives a receipt.",
+      "zh": "有时司机、售票员或机器会给一张收据。"
+    },
+    {
+      "en": "All the seats were full, so Jenny stood in the aisle.",
+      "zh": "座位都满了，所以珍妮站在过道里。"
+    },
+    {
+      "en": "She held on to a strap on the overhead bars.",
+      "zh": "她抓着头顶横杆上的吊环。"
+    },
+    {
+      "en": "Soon, someone got off the bus, so a seat was empty.",
+      "zh": "不久有人下了车，于是空出一个座位。"
+    },
+    {
+      "en": "Jenny sat down and read a book while she rode the bus.",
+      "zh": "珍妮坐下来，一边坐车一边看书。"
+    },
+    {
+      "en": "Near her stop, she pressed the button to ring the \"stop\" signal.",
+      "zh": "快到站时，她按下按钮，按响了下车铃。"
+    },
+    {
+      "en": "She walked to the exit.",
+      "zh": "她走到出口。"
+    },
+    {
+      "en": "She got off at her stop.",
+      "zh": "她在自己的站下了车。"
+    }
+  ]
+}

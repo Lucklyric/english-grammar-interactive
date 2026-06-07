@@ -1,0 +1,62 @@
+{
+  "uid": "s1-11",
+  "sid": "s1",
+  "u": "11",
+  "custom": false,
+  "title": {
+    "en": "Leaving the House",
+    "zh": "出门"
+  },
+  "tense": "Simple Present",
+  "level": 1,
+  "phrases": [
+    {
+      "en": "Tom puts on a jacket.",
+      "zh": "汤姆穿上一件夹克。"
+    },
+    {
+      "en": "And zips it up.",
+      "zh": "再拉上拉链。"
+    },
+    {
+      "en": "He puts on his shoes and ties them.",
+      "zh": "他穿上鞋并系好鞋带。"
+    },
+    {
+      "en": "He picks up his keys and wallet.",
+      "zh": "他拿起钥匙和钱包。"
+    },
+    {
+      "en": "And puts them in his pockets.",
+      "zh": "再把它们放进口袋里。"
+    },
+    {
+      "en": "He picks up his backpack.",
+      "zh": "他拿起背包。"
+    },
+    {
+      "en": "Then, he says goodbye to Jenny.",
+      "zh": "然后，他和珍妮道别。"
+    },
+    {
+      "en": "Bye, Tom.",
+      "zh": "再见，汤姆。"
+    },
+    {
+      "en": "See you later, Jen.",
+      "zh": "回头见，珍。"
+    },
+    {
+      "en": "He opens the door.",
+      "zh": "他打开门。"
+    },
+    {
+      "en": "Steps outside.",
+      "zh": "走到外面。"
+    },
+    {
+      "en": "And shuts the door.",
+      "zh": "再把门关上。"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid": "s6-53",
+  "sid": "s6",
+  "u": "53",
+  "custom": false,
+  "title": {
+    "en": "Going to a Birthday Party",
+    "zh": "参加生日派对"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Before the party, I wrap a present for my friend.",
+      "zh": "派对之前，我给朋友包一份礼物。"
+    },
+    {
+      "en": "And I sign a card for him.",
+      "zh": "我还在卡片上给他签名。"
+    },
+    {
+      "en": "At the party, I give him the present and the card.",
+      "zh": "在派对上，我把礼物和卡片送给他。"
+    },
+    {
+      "en": "Someone lights the candles on the birthday cake.",
+      "zh": "有人点燃生日蛋糕上的蜡烛。"
+    },
+    {
+      "en": "We all sing \"Happy Birthday.\"",
+      "zh": "我们一起唱《生日快乐》。"
+    },
+    {
+      "en": "And Leo blows out the candles.",
+      "zh": "然后利奥吹灭蜡烛。"
+    },
+    {
+      "en": "He opens his birthday presents.",
+      "zh": "他打开自己的生日礼物。"
+    },
+    {
+      "en": "And then everyone eats cake and ice cream.",
+      "zh": "接着大家一起吃蛋糕和冰淇淋。"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid": "s3-26",
+  "sid": "s3",
+  "u": "26",
+  "custom": false,
+  "title": {
+    "en": "Clearing the Table",
+    "zh": "收拾餐桌"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "After everyone was done, Paul and Kate offered to clear the table.",
+      "zh": "大家吃完后，保罗和凯特主动提出收拾餐桌。"
+    },
+    {
+      "en": "They stacked up the dirty dishes.",
+      "zh": "他们把脏盘子摞了起来。"
+    },
+    {
+      "en": "And carried them to the kitchen.",
+      "zh": "并把它们端到厨房。"
+    },
+    {
+      "en": "They took the serving dishes off the table.",
+      "zh": "他们把上菜的盘子从桌上拿走。"
+    },
+    {
+      "en": "And put the leftovers into containers.",
+      "zh": "并把剩菜装进保鲜盒。"
+    },
+    {
+      "en": "Which they put into the refrigerator.",
+      "zh": "然后把它们放进了冰箱。"
+    },
+    {
+      "en": "They scraped the scraps from the plates into the garbage.",
+      "zh": "他们把盘子里的残渣刮进垃圾桶。"
+    },
+    {
+      "en": "Then, they wiped the table off.",
+      "zh": "然后，他们把桌子擦干净。"
+    },
+    {
+      "en": "And threw the scraps and crumbs from the table into the garbage.",
+      "zh": "并把桌上的残渣和碎屑扔进垃圾桶。"
+    }
+  ]
+}

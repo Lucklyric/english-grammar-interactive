@@ -1,0 +1,58 @@
+{
+  "uid": "s1-03",
+  "sid": "s1",
+  "u": "03",
+  "custom": false,
+  "title": {
+    "en": "Taking a Shower",
+    "zh": "洗澡"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Dan pulls the shower curtain shut.",
+      "zh": "丹把浴帘拉上。"
+    },
+    {
+      "en": "By turning the knob, he turns the water on.",
+      "zh": "他拧开旋钮，把水打开。"
+    },
+    {
+      "en": "He washes his hair with shampoo.",
+      "zh": "他用洗发水洗头发。"
+    },
+    {
+      "en": "And the rest of his body with soap.",
+      "zh": "再用肥皂洗身体的其余部位。"
+    },
+    {
+      "en": "Then, he rinses off with water.",
+      "zh": "然后，他用水把身体冲干净。"
+    },
+    {
+      "en": "After turning the water off, he steps out of the shower.",
+      "zh": "关掉水后，他走出淋浴间。"
+    },
+    {
+      "en": "He takes a towel from the towel rack.",
+      "zh": "他从毛巾架上拿一条毛巾。"
+    },
+    {
+      "en": "Then, he dries himself off.",
+      "zh": "然后，他把身体擦干。"
+    },
+    {
+      "en": "He wraps a towel around himself.",
+      "zh": "他用毛巾裹住身体。"
+    },
+    {
+      "en": "And he dries his hair.",
+      "zh": "然后他吹干头发。"
+    },
+    {
+      "en": "He puts some deodorant under his arms.",
+      "zh": "他在腋下涂一些除臭剂。"
+    }
+  ]
+}

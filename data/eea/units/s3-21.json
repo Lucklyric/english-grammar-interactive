@@ -1,0 +1,46 @@
+{
+  "uid": "s3-21",
+  "sid": "s3",
+  "u": "21",
+  "custom": false,
+  "title": {
+    "en": "Making a Salad",
+    "zh": "做沙拉"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Paul rinsed some lettuce by running water over it.",
+      "zh": "保罗用水冲洗了一些生菜。"
+    },
+    {
+      "en": "And drained it in a colander.",
+      "zh": "然后把它放在滤盆里沥干。"
+    },
+    {
+      "en": "He also rinsed some tomatoes and cucumbers.",
+      "zh": "他还冲洗了一些西红柿和黄瓜。"
+    },
+    {
+      "en": "And sliced them with a knife on a cutting board.",
+      "zh": "并在砧板上用刀把它们切成片。"
+    },
+    {
+      "en": "He mixed the lettuce and the cucumber in a salad bowl.",
+      "zh": "他把生菜和黄瓜在沙拉碗里拌在一起。"
+    },
+    {
+      "en": "And laid the tomato slices on top.",
+      "zh": "再把西红柿片铺在上面。"
+    },
+    {
+      "en": "Then, he sprinkled some grated cheese on the salad.",
+      "zh": "然后，他在沙拉上撒了一些擦碎的奶酪。"
+    },
+    {
+      "en": "He poured some dressing on his salad.",
+      "zh": "他往沙拉上浇了一些沙拉酱。"
+    }
+  ]
+}

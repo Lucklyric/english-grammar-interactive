@@ -1,0 +1,62 @@
+{
+  "uid": "s3-27",
+  "sid": "s3",
+  "u": "27",
+  "custom": false,
+  "title": {
+    "en": "Doing Dishes",
+    "zh": "洗碗"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Paul put the plug into the drain in the sink.",
+      "zh": "保罗把塞子塞进水槽的排水口。"
+    },
+    {
+      "en": "Then, he filled the sink with water.",
+      "zh": "然后，他把水槽接满水。"
+    },
+    {
+      "en": "He put some dish soap into the water.",
+      "zh": "他往水里加了一些洗洁精。"
+    },
+    {
+      "en": "He washed the dirty dishes.",
+      "zh": "他洗了脏盘子。"
+    },
+    {
+      "en": "He scrubbed some very dirty dishes.",
+      "zh": "他用力擦洗了一些很脏的盘子。"
+    },
+    {
+      "en": "Then, he rinsed the dishes.",
+      "zh": "然后，他冲洗了盘子。"
+    },
+    {
+      "en": "He put the wet dishes in the dish rack.",
+      "zh": "他把湿盘子放进碗架里。"
+    },
+    {
+      "en": "Where the water dripped off them.",
+      "zh": "盘子上的水从那里滴下来。"
+    },
+    {
+      "en": "Then, he pulled the plug from the sink.",
+      "zh": "然后，他拔掉了水槽的塞子。"
+    },
+    {
+      "en": "And the dirty water went down the drain.",
+      "zh": "脏水顺着排水口流走了。"
+    },
+    {
+      "en": "He dried the dishes with a towel.",
+      "zh": "他用毛巾把盘子擦干。"
+    },
+    {
+      "en": "And then put the dishes away.",
+      "zh": "然后把盘子收好。"
+    }
+  ]
+}

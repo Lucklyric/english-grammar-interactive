@@ -1,0 +1,66 @@
+{
+  "uid": "s5-c02",
+  "sid": "s5",
+  "u": "c02",
+  "custom": true,
+  "title": {
+    "en": "Making a Video Call",
+    "zh": "打视频电话"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Leo wants to talk to his sister far away.",
+      "zh": "利奥想和远方的姐姐聊天。"
+    },
+    {
+      "en": "He opens the video call app.",
+      "zh": "他打开视频通话应用。"
+    },
+    {
+      "en": "He finds her name in his contacts.",
+      "zh": "他在联系人里找到她的名字。"
+    },
+    {
+      "en": "He taps the video call button.",
+      "zh": "他点按视频通话按钮。"
+    },
+    {
+      "en": "The phone rings while it waits for her.",
+      "zh": "电话响着，等她接听。"
+    },
+    {
+      "en": "She answers the call.",
+      "zh": "她接了电话。"
+    },
+    {
+      "en": "Now they can see each other on the screen.",
+      "zh": "现在他们能在屏幕上看到彼此。"
+    },
+    {
+      "en": "He turns on his camera so she can see his face.",
+      "zh": "他打开摄像头，好让她看到他的脸。"
+    },
+    {
+      "en": "He cannot hear her well, so he turns up the volume.",
+      "zh": "他听不太清她说话，于是把音量调大。"
+    },
+    {
+      "en": "They talk and laugh together.",
+      "zh": "他们一起聊天，一起欢笑。"
+    },
+    {
+      "en": "He shows her his new apartment with the camera.",
+      "zh": "他用摄像头给她看他的新公寓。"
+    },
+    {
+      "en": "When they are done, he says goodbye.",
+      "zh": "聊完后，他说再见。"
+    },
+    {
+      "en": "Then, he hangs up the call.",
+      "zh": "然后，他挂断了电话。"
+    }
+  ]
+}

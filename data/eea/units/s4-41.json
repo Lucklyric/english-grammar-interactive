@@ -1,0 +1,122 @@
+{
+  "uid": "s4-41",
+  "sid": "s4",
+  "u": "41",
+  "custom": false,
+  "title": {
+    "en": "Paying for Things",
+    "zh": "付款"
+  },
+  "tense": "Simple Present",
+  "level": 3,
+  "phrases": [
+    {
+      "en": "The cashier rings up Tom's purchases.",
+      "zh": "收银员给汤姆买的东西结账。"
+    },
+    {
+      "en": "By scanning bar codes.",
+      "zh": "扫描条形码。"
+    },
+    {
+      "en": "And pressing keys on the cash register.",
+      "zh": "并按收银机上的按键。"
+    },
+    {
+      "en": "She tells him the total to pay.",
+      "zh": "她告诉他应付的总额。"
+    },
+    {
+      "en": "That'll be $23.50.",
+      "zh": "一共23.50美元。"
+    },
+    {
+      "en": "He takes some money out of his wallet.",
+      "zh": "他从钱包里拿出一些钱。"
+    },
+    {
+      "en": "And gives it to her.",
+      "zh": "把钱给她。"
+    },
+    {
+      "en": "Here's $30.",
+      "zh": "这是30美元。"
+    },
+    {
+      "en": "She puts it into the register.",
+      "zh": "她把钱放进收银机。"
+    },
+    {
+      "en": "And takes out his change.",
+      "zh": "再取出找给他的零钱。"
+    },
+    {
+      "en": "She counts it out to him.",
+      "zh": "她数着零钱给他。"
+    },
+    {
+      "en": "$23.50, 24, 25 and 5 makes $30.",
+      "zh": "23.50，24，25，再加5就是30美元。"
+    },
+    {
+      "en": "And gives it to him with his receipt.",
+      "zh": "把零钱和收据一起给他。"
+    },
+    {
+      "en": "He writes out a check.",
+      "zh": "他开了一张支票。"
+    },
+    {
+      "en": "After he signs the check, the cashier checks his driver's license as identification.",
+      "zh": "他签好支票后，收银员查看他的驾照作为身份证明。"
+    },
+    {
+      "en": "Can I see some ID, please?",
+      "zh": "请出示一下证件好吗？"
+    },
+    {
+      "en": "Sure. Here's my driver's license.",
+      "zh": "当然。这是我的驾照。"
+    },
+    {
+      "en": "He records the check in his checkbook.",
+      "zh": "他把这张支票记在支票簿上。"
+    },
+    {
+      "en": "She returns his license and gives him a receipt.",
+      "zh": "她把驾照还给他，并给他一张收据。"
+    },
+    {
+      "en": "Thank you.",
+      "zh": "谢谢。"
+    },
+    {
+      "en": "Thanks. Bye.",
+      "zh": "谢谢。再见。"
+    },
+    {
+      "en": "He gives his card to the cashier.",
+      "zh": "他把卡给收银员。"
+    },
+    {
+      "en": "She swipes the card through the reader.",
+      "zh": "她把卡在读卡器上刷一下。"
+    },
+    {
+      "en": "When the approval code comes, the payment slip is printed.",
+      "zh": "授权码出来后，付款单就打印出来了。"
+    },
+    {
+      "en": "He signs the payment slip.",
+      "zh": "他在付款单上签字。"
+    },
+    {
+      "en": "Then, she gives him a copy of the slip.",
+      "zh": "然后，她给他一份付款单的副本。"
+    },
+    {
+      "en": "The receipt, and his card back.",
+      "zh": "还有收据，以及退还他的卡。"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid": "s6-c03",
+  "sid": "s6",
+  "u": "c03",
+  "custom": true,
+  "title": {
+    "en": "Ordering Food Delivery",
+    "zh": "点外卖"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Sara and her friends are hungry.",
+      "zh": "萨拉和她的朋友们饿了。"
+    },
+    {
+      "en": "They open the food delivery app.",
+      "zh": "他们打开外卖应用。"
+    },
+    {
+      "en": "They look through the list of restaurants.",
+      "zh": "他们浏览餐厅列表。"
+    },
+    {
+      "en": "They pick a pizza place they like.",
+      "zh": "他们选了一家喜欢的披萨店。"
+    },
+    {
+      "en": "Everyone chooses what they want from the menu.",
+      "zh": "每个人从菜单上选自己想要的。"
+    },
+    {
+      "en": "Sara adds the food to the cart.",
+      "zh": "萨拉把食物加进购物车。"
+    },
+    {
+      "en": "She types in her address.",
+      "zh": "她输入自己的地址。"
+    },
+    {
+      "en": "She pays for the order with her phone.",
+      "zh": "她用手机为订单付了款。"
+    },
+    {
+      "en": "The app shows that the restaurant is making the food.",
+      "zh": "应用显示餐厅正在做餐。"
+    },
+    {
+      "en": "A driver picks up the order and drives over.",
+      "zh": "一名骑手取了餐，开车送来。"
+    },
+    {
+      "en": "They watch the driver get closer on the map.",
+      "zh": "他们在地图上看着骑手越来越近。"
+    },
+    {
+      "en": "The doorbell rings when the food arrives.",
+      "zh": "外卖到时门铃响了。"
+    },
+    {
+      "en": "Sara brings the bags inside.",
+      "zh": "萨拉把袋子拿进屋里。"
+    },
+    {
+      "en": "Then, everyone sits down and eats together.",
+      "zh": "然后，大家坐下来一起吃。"
+    }
+  ]
+}

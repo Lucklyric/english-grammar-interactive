@@ -1,0 +1,58 @@
+{
+  "uid": "s4-38",
+  "sid": "s4",
+  "u": "38",
+  "custom": false,
+  "title": {
+    "en": "Cleaning a Car",
+    "zh": "洗车"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "I wash the windows inside.",
+      "zh": "我擦里面的车窗。"
+    },
+    {
+      "en": "Wipe off the dashboard.",
+      "zh": "擦掉仪表盘上的灰。"
+    },
+    {
+      "en": "And vacuum the floor.",
+      "zh": "再用吸尘器吸地板。"
+    },
+    {
+      "en": "I dip a sponge into soapy water.",
+      "zh": "我把海绵浸入肥皂水里。"
+    },
+    {
+      "en": "And wash the car with it.",
+      "zh": "用它来洗车。"
+    },
+    {
+      "en": "To rinse the car, I spray it with water.",
+      "zh": "为了冲洗汽车，我用水喷它。"
+    },
+    {
+      "en": "I dry it with some rags.",
+      "zh": "我用抹布把它擦干。"
+    },
+    {
+      "en": "Then, I spread some wax on the car.",
+      "zh": "然后，我在车上涂一些蜡。"
+    },
+    {
+      "en": "After it has dried, I wipe the wax off.",
+      "zh": "等蜡干了以后，我把蜡擦掉。"
+    },
+    {
+      "en": "And buff the car with a soft cloth.",
+      "zh": "再用软布把车擦亮。"
+    },
+    {
+      "en": "Finally, I wash the windows outside.",
+      "zh": "最后，我擦外面的车窗。"
+    }
+  ]
+}

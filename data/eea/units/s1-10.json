@@ -1,0 +1,62 @@
+{
+  "uid": "s1-10",
+  "sid": "s1",
+  "u": "10",
+  "custom": false,
+  "title": {
+    "en": "Eating Breakfast",
+    "zh": "吃早餐"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Pam and Dan sit down at the table.",
+      "zh": "帕姆和丹在桌旁坐下。"
+    },
+    {
+      "en": "Pam drinks some coffee from her mug.",
+      "zh": "帕姆用她的马克杯喝一些咖啡。"
+    },
+    {
+      "en": "And eats some cereal.",
+      "zh": "再吃一些麦片。"
+    },
+    {
+      "en": "Dan drinks some tea.",
+      "zh": "丹喝一些茶。"
+    },
+    {
+      "en": "And has an egg with bacon and toast.",
+      "zh": "再吃一个鸡蛋，配培根和吐司。"
+    },
+    {
+      "en": "Sometimes, he dips his toast into the yolk of his egg.",
+      "zh": "有时候，他把吐司蘸进蛋黄里。"
+    },
+    {
+      "en": "As they eat, they read the paper.",
+      "zh": "他们边吃边看报纸。"
+    },
+    {
+      "en": "And talk a little bit.",
+      "zh": "再聊一会儿。"
+    },
+    {
+      "en": "It says here that taxes are going up.",
+      "zh": "这上面说税要涨了。"
+    },
+    {
+      "en": "As usual.",
+      "zh": "和往常一样。"
+    },
+    {
+      "en": "After eating, they wipe their lips with their napkins.",
+      "zh": "吃完后，他们用餐巾擦嘴。"
+    },
+    {
+      "en": "And leave the table.",
+      "zh": "再离开餐桌。"
+    }
+  ]
+}

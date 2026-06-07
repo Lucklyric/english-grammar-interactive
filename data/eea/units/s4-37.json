@@ -1,0 +1,54 @@
+{
+  "uid": "s4-37",
+  "sid": "s4",
+  "u": "37",
+  "custom": false,
+  "title": {
+    "en": "Taking Care of a Dog",
+    "zh": "照顾狗狗"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "I called my dog.",
+      "zh": "我叫我的狗。"
+    },
+    {
+      "en": "After he came, I petted him.",
+      "zh": "它过来后，我抚摸它。"
+    },
+    {
+      "en": "He wagged his tail.",
+      "zh": "它摇着尾巴。"
+    },
+    {
+      "en": "And barked.",
+      "zh": "还叫了起来。"
+    },
+    {
+      "en": "I put some dog food in his dish.",
+      "zh": "我在它的碗里放了一些狗粮。"
+    },
+    {
+      "en": "And filled his water dish.",
+      "zh": "再把它的水碗装满。"
+    },
+    {
+      "en": "Later, I clipped a leash to his collar.",
+      "zh": "后来，我把牵引绳扣在它的项圈上。"
+    },
+    {
+      "en": "And took him out for a walk.",
+      "zh": "带它出去散步。"
+    },
+    {
+      "en": "After his walk, I threw a stick for him.",
+      "zh": "散步之后，我给它扔了一根木棍。"
+    },
+    {
+      "en": "And he fetched it.",
+      "zh": "它把木棍叼了回来。"
+    }
+  ]
+}

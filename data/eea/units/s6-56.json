@@ -1,0 +1,46 @@
+{
+  "uid": "s6-56",
+  "sid": "s6",
+  "u": "56",
+  "custom": false,
+  "title": {
+    "en": "Eating at a Fast Food Restaurant",
+    "zh": "在快餐店吃饭"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Jenny stood in line.",
+      "zh": "珍妮排队等候。"
+    },
+    {
+      "en": "And read the menu.",
+      "zh": "她看了看菜单。"
+    },
+    {
+      "en": "At the counter, she ordered her food and a drink.",
+      "zh": "在柜台前，她点了食物和一杯饮料。"
+    },
+    {
+      "en": "The clerk put the food on Jenny's tray, and Jenny paid her.",
+      "zh": "店员把食物放到珍妮的托盘上，珍妮付了钱。"
+    },
+    {
+      "en": "Jenny took some paper napkins and a straw from the dispensers.",
+      "zh": "珍妮从分发器里取了几张纸巾和一根吸管。"
+    },
+    {
+      "en": "She ate her lunch at her table.",
+      "zh": "她在自己的桌前吃午餐。"
+    },
+    {
+      "en": "Other people got their food to go.",
+      "zh": "其他人则把食物打包带走。"
+    },
+    {
+      "en": "When she finished eating, she threw the empty wrappers in the trash.",
+      "zh": "吃完后，她把空的包装纸扔进了垃圾桶。"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "uid": "s5-45",
+  "sid": "s5",
+  "u": "45",
+  "custom": false,
+  "title": {
+    "en": "Using a Cell Phone / Texting",
+    "zh": "使用手机／发短信"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Dan turned his cell phone on.",
+      "zh": "丹打开了手机。"
+    },
+    {
+      "en": "He dialed a number on the keypad.",
+      "zh": "他在键盘上拨了一个号码。"
+    },
+    {
+      "en": "And pressed the \"Send\" button to make the call.",
+      "zh": "然后按下“发送”键拨打电话。"
+    },
+    {
+      "en": "The person did not pick up.",
+      "zh": "对方没有接。"
+    },
+    {
+      "en": "So he ended the call.",
+      "zh": "于是他挂断了电话。"
+    },
+    {
+      "en": "He went to the Menu.",
+      "zh": "他打开了菜单。"
+    },
+    {
+      "en": "He selected his contacts.",
+      "zh": "他选择了联系人。"
+    },
+    {
+      "en": "And found a listing for his friend Jim.",
+      "zh": "并找到了他朋友吉姆的条目。"
+    },
+    {
+      "en": "Jim heard his ringtone and answered Dan's call.",
+      "zh": "吉姆听到铃声，接了丹的电话。"
+    },
+    {
+      "en": "Pam selected \"Text\" from her phone menu.",
+      "zh": "帕姆在手机菜单里选择了“短信”。"
+    },
+    {
+      "en": "She used her thumbs to press keys on the keypad.",
+      "zh": "她用拇指按键盘上的按键。"
+    },
+    {
+      "en": "And write a text message.",
+      "zh": "并写了一条短信。"
+    },
+    {
+      "en": "Many words in her message were abbreviations and symbols.",
+      "zh": "她短信里的许多词都是缩写和符号。"
+    },
+    {
+      "en": "To send the message, she typed in her friend's number.",
+      "zh": "为了发送短信，她输入了朋友的号码。"
+    },
+    {
+      "en": "And hit \"Send.\"",
+      "zh": "然后按下“发送”。"
+    },
+    {
+      "en": "Take pictures.",
+      "zh": "拍照。"
+    },
+    {
+      "en": "Set an alarm.",
+      "zh": "设置闹钟。"
+    },
+    {
+      "en": "Shine a light.",
+      "zh": "照明。"
+    }
+  ]
+}

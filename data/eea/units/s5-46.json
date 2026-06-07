@@ -1,0 +1,50 @@
+{
+  "uid": "s5-46",
+  "sid": "s5",
+  "u": "46",
+  "custom": false,
+  "title": {
+    "en": "Making a Phone Call",
+    "zh": "打电话"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Jenny looked up Kate's phone number in the phone book.",
+      "zh": "珍妮在电话簿里查了凯特的电话号码。"
+    },
+    {
+      "en": "She picked up the receiver.",
+      "zh": "她拿起了听筒。"
+    },
+    {
+      "en": "And heard a dial tone.",
+      "zh": "听到了拨号音。"
+    },
+    {
+      "en": "Then, she dialed the number.",
+      "zh": "然后，她拨了号码。"
+    },
+    {
+      "en": "She heard Kate's phone ringing.",
+      "zh": "她听到凯特的电话在响。"
+    },
+    {
+      "en": "When Kate answered, Jenny said hello and identified herself.",
+      "zh": "凯特接了之后，珍妮打了招呼并报上了自己的名字。"
+    },
+    {
+      "en": "Then, she said why she called.",
+      "zh": "然后，她说明了打电话的原因。"
+    },
+    {
+      "en": "Hi, Kate. This is Jenny.",
+      "zh": "嗨，凯特。我是珍妮。"
+    },
+    {
+      "en": "I'm calling to see whether you'd like to go swimming.",
+      "zh": "我打电话是想问问你想不想去游泳。"
+    }
+  ]
+}

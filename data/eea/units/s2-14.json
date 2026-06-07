@@ -1,0 +1,66 @@
+{
+  "uid": "s2-14",
+  "sid": "s2",
+  "u": "14",
+  "custom": false,
+  "title": {
+    "en": "Driving a Car 2: Operating a Car",
+    "zh": "开车（二）：操作汽车"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Kate stepped on the clutch pedal.",
+      "zh": "凯特踩下了离合器踏板。"
+    },
+    {
+      "en": "She shifted into gear.",
+      "zh": "她挂上了挡。"
+    },
+    {
+      "en": "She took her foot off the clutch.",
+      "zh": "她把脚从离合器上松开。"
+    },
+    {
+      "en": "To go faster, Kate pressed the accelerator.",
+      "zh": "为了开快一点，凯特踩下了油门。"
+    },
+    {
+      "en": "As the car speeded up, she shifted into a higher gear.",
+      "zh": "随着车速加快，她换上了更高的挡。"
+    },
+    {
+      "en": "To slow down, Kate let up on the accelerator.",
+      "zh": "为了减速，凯特松开了油门。"
+    },
+    {
+      "en": "She shifted into a lower gear.",
+      "zh": "她换上了更低的挡。"
+    },
+    {
+      "en": "The car slowed down.",
+      "zh": "汽车慢了下来。"
+    },
+    {
+      "en": "Kate stepped on the brake.",
+      "zh": "凯特踩下了刹车。"
+    },
+    {
+      "en": "Kate put her turn signal on.",
+      "zh": "凯特打开了转向灯。"
+    },
+    {
+      "en": "She turned the steering wheel.",
+      "zh": "她转动了方向盘。"
+    },
+    {
+      "en": "When it got dark, she turned on the lights.",
+      "zh": "天黑了，她打开了车灯。"
+    },
+    {
+      "en": "When it rained, she turned on the windshield wipers.",
+      "zh": "下雨了，她打开了雨刷。"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid": "s1-01",
+  "sid": "s1",
+  "u": "01",
+  "custom": false,
+  "title": {
+    "en": "First Thing in the Morning",
+    "zh": "早晨第一件事"
+  },
+  "tense": "Simple Present",
+  "level": 1,
+  "phrases": [
+    {
+      "en": "Dan's alarm clock rings.",
+      "zh": "丹的闹钟响了。"
+    },
+    {
+      "en": "He wakes up.",
+      "zh": "他醒了。"
+    },
+    {
+      "en": "He gets out of bed.",
+      "zh": "他起床了。"
+    },
+    {
+      "en": "He goes into the bathroom.",
+      "zh": "他走进卫生间。"
+    },
+    {
+      "en": "After using the toilet and flushing it, he washes his hands.",
+      "zh": "上完厕所并冲水后，他洗手。"
+    },
+    {
+      "en": "He brushes his teeth.",
+      "zh": "他刷牙。"
+    },
+    {
+      "en": "He shaves.",
+      "zh": "他刮胡子。"
+    },
+    {
+      "en": "He takes a shower.",
+      "zh": "他洗澡。"
+    },
+    {
+      "en": "He dries himself off with a towel.",
+      "zh": "他用毛巾把身体擦干。"
+    },
+    {
+      "en": "Then, he brushes his hair.",
+      "zh": "然后，他梳头发。"
+    },
+    {
+      "en": "He gets dressed.",
+      "zh": "他穿好衣服。"
+    },
+    {
+      "en": "He makes breakfast.",
+      "zh": "他做早餐。"
+    },
+    {
+      "en": "And eats it.",
+      "zh": "然后把它吃掉。"
+    },
+    {
+      "en": "Then, he leaves the apartment.",
+      "zh": "然后，他离开公寓。"
+    }
+  ]
+}

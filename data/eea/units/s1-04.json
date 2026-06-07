@@ -1,0 +1,90 @@
+{
+  "uid": "s1-04",
+  "sid": "s1",
+  "u": "04",
+  "custom": false,
+  "title": {
+    "en": "Getting Dressed—A Man",
+    "zh": "穿衣服——男士"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Tom puts on some underwear.",
+      "zh": "汤姆穿上内裤。"
+    },
+    {
+      "en": "A T-shirt.",
+      "zh": "穿上一件T恤。"
+    },
+    {
+      "en": "Some socks.",
+      "zh": "穿上袜子。"
+    },
+    {
+      "en": "Some pants.",
+      "zh": "穿上裤子。"
+    },
+    {
+      "en": "And a shirt.",
+      "zh": "再穿上一件衬衫。"
+    },
+    {
+      "en": "Tom puts on his underwear.",
+      "zh": "汤姆穿上他的内裤。"
+    },
+    {
+      "en": "Tom chooses some socks and puts them on.",
+      "zh": "汤姆挑了几双袜子并穿上。"
+    },
+    {
+      "en": "Tom picks up his shirt and puts it on.",
+      "zh": "汤姆拿起他的衬衫并穿上。"
+    },
+    {
+      "en": "Tom steps into his pants.",
+      "zh": "汤姆把腿伸进裤子里。"
+    },
+    {
+      "en": "Then he pulls them up.",
+      "zh": "然后他把裤子提上来。"
+    },
+    {
+      "en": "He fastens the waistband.",
+      "zh": "他扣好腰头。"
+    },
+    {
+      "en": "And zips up the fly.",
+      "zh": "再拉上裤子拉链。"
+    },
+    {
+      "en": "He slips a belt through the belt loops.",
+      "zh": "他把皮带穿过裤袢。"
+    },
+    {
+      "en": "And buckles it.",
+      "zh": "再扣上皮带扣。"
+    },
+    {
+      "en": "Tom slips an arm into each sleeve.",
+      "zh": "汤姆把双臂分别伸进两只袖子。"
+    },
+    {
+      "en": "He buttons the shirt.",
+      "zh": "他扣好衬衫的扣子。"
+    },
+    {
+      "en": "And the cuffs.",
+      "zh": "再扣好袖口。"
+    },
+    {
+      "en": "He straightens his collar.",
+      "zh": "他把衣领整理平整。"
+    },
+    {
+      "en": "He tucks his shirt into his pants.",
+      "zh": "他把衬衫塞进裤子里。"
+    }
+  ]
+}

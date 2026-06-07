@@ -1,0 +1,46 @@
+{
+  "uid": "s6-54",
+  "sid": "s6",
+  "u": "54",
+  "custom": false,
+  "title": {
+    "en": "Going to a Dinner Party",
+    "zh": "参加晚宴"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Dan (the host) greets Tom and Jenny (the guests) at the door.",
+      "zh": "主人丹在门口迎接客人汤姆和珍妮。"
+    },
+    {
+      "en": "They give him a bottle of wine they brought.",
+      "zh": "他们把带来的一瓶葡萄酒送给他。"
+    },
+    {
+      "en": "Inside, they say hello to some people they know.",
+      "zh": "进屋后，他们跟一些认识的人打招呼。"
+    },
+    {
+      "en": "Dan introduces them to some people.",
+      "zh": "丹把他们介绍给一些人。"
+    },
+    {
+      "en": "They shake hands.",
+      "zh": "他们握手。"
+    },
+    {
+      "en": "And make some small talk.",
+      "zh": "然后聊几句闲话。"
+    },
+    {
+      "en": "They have their dinner.",
+      "zh": "他们一起吃晚饭。"
+    },
+    {
+      "en": "At the end of the evening, the guests say goodnight and thank Dan.",
+      "zh": "夜晚结束时，客人们道晚安并感谢丹。"
+    }
+  ]
+}

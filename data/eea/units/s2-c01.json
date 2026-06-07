@@ -1,0 +1,66 @@
+{
+  "uid": "s2-c01",
+  "sid": "s2",
+  "u": "c01",
+  "custom": true,
+  "title": {
+    "en": "Taking a Ride-share",
+    "zh": "打网约车"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Mia opens the ride-share app on her phone.",
+      "zh": "米娅打开手机上的网约车应用。"
+    },
+    {
+      "en": "She types in where she wants to go.",
+      "zh": "她输入想去的地方。"
+    },
+    {
+      "en": "The app shows her the price for the ride.",
+      "zh": "应用显示出这趟车的价格。"
+    },
+    {
+      "en": "She taps the button to request a car.",
+      "zh": "她点按按钮叫车。"
+    },
+    {
+      "en": "A nearby driver accepts her request.",
+      "zh": "附近的一位司机接了她的单。"
+    },
+    {
+      "en": "She watches the car move toward her on the map.",
+      "zh": "她看着车在地图上朝她驶来。"
+    },
+    {
+      "en": "The driver pulls up to the curb.",
+      "zh": "司机把车停到路边。"
+    },
+    {
+      "en": "She checks the license plate to make sure it is the right car.",
+      "zh": "她核对车牌，确认是这辆车。"
+    },
+    {
+      "en": "She gets in the back seat and buckles her seat belt.",
+      "zh": "她坐进后座，系好安全带。"
+    },
+    {
+      "en": "The driver takes her to her address.",
+      "zh": "司机把她送到她的地址。"
+    },
+    {
+      "en": "She gets out of the car.",
+      "zh": "她下了车。"
+    },
+    {
+      "en": "The app charges her card automatically.",
+      "zh": "应用自动从她的卡里扣款。"
+    },
+    {
+      "en": "Then, she gives the driver five stars.",
+      "zh": "然后，她给司机打了五星。"
+    }
+  ]
+}

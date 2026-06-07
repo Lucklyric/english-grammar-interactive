@@ -1,0 +1,46 @@
+{
+  "uid": "s2-18",
+  "sid": "s2",
+  "u": "18",
+  "custom": false,
+  "title": {
+    "en": "Walking Somewhere",
+    "zh": "步行去某处"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Dan walked on the sidewalk.",
+      "zh": "丹在人行道上走着。"
+    },
+    {
+      "en": "Sometimes, he stepped over dirt or puddles.",
+      "zh": "有时，他跨过泥土或水坑。"
+    },
+    {
+      "en": "Once, he tripped on a crack in the sidewalk.",
+      "zh": "有一次，他被人行道上的裂缝绊了一下。"
+    },
+    {
+      "en": "At a corner, he stopped at the curb and waited for traffic to pass.",
+      "zh": "在拐角处，他在路边停下，等车辆开过去。"
+    },
+    {
+      "en": "Then, he crossed the street by walking in the crosswalk.",
+      "zh": "然后，他走人行横道过了马路。"
+    },
+    {
+      "en": "Once, he took a shortcut across a parking lot.",
+      "zh": "有一次，他抄近路穿过了一个停车场。"
+    },
+    {
+      "en": "When he could, he ran because he was late.",
+      "zh": "能跑的时候他就跑，因为他迟到了。"
+    },
+    {
+      "en": "He crossed a busy street by using a pedestrian overpass.",
+      "zh": "他走人行天桥过了一条繁忙的街道。"
+    }
+  ]
+}

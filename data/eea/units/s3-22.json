@@ -1,0 +1,54 @@
+{
+  "uid": "s3-22",
+  "sid": "s3",
+  "u": "22",
+  "custom": false,
+  "title": {
+    "en": "Preparing Vegetables",
+    "zh": "准备蔬菜"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Kate peeled some carrots.",
+      "zh": "凯特削了一些胡萝卜。"
+    },
+    {
+      "en": "And sliced them.",
+      "zh": "并把它们切成片。"
+    },
+    {
+      "en": "She also chopped up some broccoli.",
+      "zh": "她还把一些西兰花切碎。"
+    },
+    {
+      "en": "She threw the stalks away.",
+      "zh": "她把菜梗扔掉了。"
+    },
+    {
+      "en": "And rinsed the broccoli.",
+      "zh": "并冲洗了西兰花。"
+    },
+    {
+      "en": "She put some water in a saucepan.",
+      "zh": "她往锅里倒了一些水。"
+    },
+    {
+      "en": "And put a steamer basket inside.",
+      "zh": "并把蒸笼放进锅里。"
+    },
+    {
+      "en": "Then, she put the vegetables in the basket.",
+      "zh": "然后，她把蔬菜放进蒸笼里。"
+    },
+    {
+      "en": "She put a lid on the saucepan and lit the burner under it.",
+      "zh": "她给锅盖上盖子，并点燃了下面的炉火。"
+    },
+    {
+      "en": "The water boiled and steamed the vegetables.",
+      "zh": "水开了，把蔬菜蒸熟了。"
+    }
+  ]
+}

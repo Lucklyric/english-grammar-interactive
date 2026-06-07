@@ -245,3 +245,26 @@ a:hover { text-decoration: underline; }
 .opt-actions { display: flex; justify-content: flex-end; gap: 10px; margin-top: 20px; }
 .opt-start { background: var(--accent); color: #fff; border: 0; border-radius: 999px; padding: 9px 24px; font-weight: 700; cursor: pointer; }
 .opt-start:hover { filter: brightness(1.07); }
+
+/* ===== Everyday English (EEA) module ===== */
+.vcard.is-practised { border-color: var(--good); }
+.vcard.is-practised .vc-badge { color: var(--good); }
+
+.drill-prompt .g-en.big { font-size: 1.7rem; line-height: 1.5; }
+.drill-prompt .g-zh.big { display: block; font-size: 1.7rem; line-height: 1.6; color: var(--ink); font-weight: 650; }
+.drill-prompt .revealed { display: block; margin-top: 4px; }
+.drill-prompt .g-zh.revealed { font-size: 1.25rem; color: var(--ink-soft); }
+.drill-prompt .g-en.revealed { font-size: 1.4rem; color: var(--ink); font-weight: 650; }
+.eea-reveal { margin-top: 6px; min-height: 1.4em; }
+.eea-reveal .revealed { font-size: 1.3rem; }
+/* MonkeyType-style single line: target stays hidden. Correct keystrokes show green with a
+   live caret; a wrong char flashes red and clears (strict restart). */
+.eea-typestage { margin: 10px 0 2px; }
+.drill-input.eea-type { text-align: left; font-size: 1.35rem; letter-spacing: .02em; font-weight: 650; color: var(--good); caret-color: var(--accent); }
+.drill-input.eea-type:focus { border-color: var(--accent); }
+.drill-input.eea-type.input-bad { color: var(--bad); border-color: var(--bad); background: #fef2f2; animation: eea-shake .2s; }
+.drill-input.eea-type.input-ok { color: var(--good); border-color: var(--good); background: #f0fdf4; }
+@keyframes eea-shake { 0%, 100% { transform: translateX(0); } 25% { transform: translateX(-5px); } 75% { transform: translateX(5px); } }
+.eea-peek { max-height: 0; overflow: hidden; opacity: 0; margin: 0; font-size: 1.2rem; font-weight: 650; color: var(--accent); transition: opacity .1s ease; }
+.eea-peek.show { max-height: none; opacity: 1; margin: 8px 0; }
+.eea-hint { font-size: .8rem; color: var(--ink-soft); margin: 6px 0 0; }

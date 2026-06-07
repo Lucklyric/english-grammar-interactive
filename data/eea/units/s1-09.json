@@ -1,0 +1,58 @@
+{
+  "uid": "s1-09",
+  "sid": "s1",
+  "u": "09",
+  "custom": false,
+  "title": {
+    "en": "Frying an Egg",
+    "zh": "煎鸡蛋"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "There are four burners on Dan's stove.",
+      "zh": "丹的炉子上有四个炉头。"
+    },
+    {
+      "en": "He turns on the gas.",
+      "zh": "他打开煤气。"
+    },
+    {
+      "en": "And one of the burners lights.",
+      "zh": "其中一个炉头点着了。"
+    },
+    {
+      "en": "He puts a frying pan on the burner.",
+      "zh": "他把一个煎锅放在炉头上。"
+    },
+    {
+      "en": "And melts some butter in the pan.",
+      "zh": "再在锅里融化一些黄油。"
+    },
+    {
+      "en": "He cracks an egg into the pan.",
+      "zh": "他把一个鸡蛋打进锅里。"
+    },
+    {
+      "en": "And throws the shell into the garbage.",
+      "zh": "再把蛋壳扔进垃圾桶。"
+    },
+    {
+      "en": "The egg fries.",
+      "zh": "鸡蛋煎着。"
+    },
+    {
+      "en": "Dan flips it over once with a spatula.",
+      "zh": "丹用锅铲把它翻一次面。"
+    },
+    {
+      "en": "And then takes it out of the pan.",
+      "zh": "然后把它从锅里盛出来。"
+    },
+    {
+      "en": "He puts the egg on a plate.",
+      "zh": "他把鸡蛋放在盘子上。"
+    }
+  ]
+}

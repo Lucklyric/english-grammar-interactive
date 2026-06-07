@@ -3,41 +3,39 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Interactive English Grammar · 互动英语语法</title>
-  <link rel="stylesheet" href="assets/css/styles.css" />
+  <title>Everyday English · 日常英语</title>
+  <link rel="stylesheet" href="assets/css/styles.css?v=4" />
 </head>
 <body class="home-page">
   <header class="topbar">
     <a class="brand" href="index.html">兔 Grammar</a>
     <nav class="track-switch">
-      <a href="index.html" class="active">Grammar</a>
+      <a href="index.html">Grammar</a>
       <a href="vocab.html">Vocabulary</a>
-      <a href="eea.html">Everyday</a>
+      <a href="eea.html" class="active">Everyday</a>
     </nav>
     <div class="topbar-actions">
-      <button id="reset" class="ghost-btn" type="button">Reset progress</button>
+      <button id="reset" class="ghost-btn" type="button">Reset</button>
       <button id="lang-toggle" class="lang-toggle" type="button" aria-label="Toggle language">EN</button>
     </div>
   </header>
 
   <section class="hero">
-    <h1>Interactive English Grammar</h1>
-    <p id="tagline" class="tagline"></p>
+    <h1 id="etitle">Everyday English</h1>
+    <p id="etagline" class="tagline"></p>
     <div class="progress-wrap" aria-label="progress">
       <div class="progress-track"><div id="progress-bar" class="progress-fill"></div></div>
       <span id="progress-strip" class="progress-text"></span>
     </div>
-    <input id="search" class="search" type="search" autocomplete="off" />
   </section>
 
   <main class="container">
-    <div id="all" class="all-lessons"></div>
-    <div id="categories" class="categories"></div>
+    <div id="sections"></div>
   </main>
 
   <footer class="sitefoot">
-    <p>Adapted from the 英语兔 (English Rabbit) grammar series · independent learning adaptation, not official material.</p>
+    <p>Phrase bank adapted from <em>English For Everyday Activities</em> (L. J. Zwier) · independent bilingual learning tool, not official material.</p>
   </footer>
-  <script type="module" src="assets/js/app.js"></script>
+  <script type="module" src="assets/js/eea.js?v=4"></script>
 </body>
 </html>

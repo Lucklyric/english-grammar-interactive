@@ -1,0 +1,110 @@
+{
+  "uid": "s2-15",
+  "sid": "s2",
+  "u": "15",
+  "custom": false,
+  "title": {
+    "en": "Driving a Car 3: Driving Along",
+    "zh": "开车（三）：行驶途中"
+  },
+  "tense": "Simple Past",
+  "level": 3,
+  "phrases": [
+    {
+      "en": "At an intersection, Kate stopped for a red light.",
+      "zh": "在十字路口，凯特看到红灯停了下来。"
+    },
+    {
+      "en": "When the light turned green, she went ahead.",
+      "zh": "灯变绿后，她继续往前开。"
+    },
+    {
+      "en": "Once, she went over the speed limit.",
+      "zh": "有一次，她超速了。"
+    },
+    {
+      "en": "A police officer stopped her and gave her a ticket.",
+      "zh": "一名警察拦下她，开了一张罚单。"
+    },
+    {
+      "en": "At the end of her trip, she parked.",
+      "zh": "行程结束时，她把车停好。"
+    },
+    {
+      "en": "She turned the car off.",
+      "zh": "她熄了火。"
+    },
+    {
+      "en": "Kate and her friends got out of the car.",
+      "zh": "凯特和朋友们下了车。"
+    },
+    {
+      "en": "Kate locked it.",
+      "zh": "凯特把车锁上了。"
+    },
+    {
+      "en": "Changing lanes",
+      "zh": "变换车道"
+    },
+    {
+      "en": "Turning left",
+      "zh": "左转"
+    },
+    {
+      "en": "Turning right",
+      "zh": "右转"
+    },
+    {
+      "en": "Going straight",
+      "zh": "直行"
+    },
+    {
+      "en": "Getting on (entering) a freeway",
+      "zh": "驶入（进入）高速公路"
+    },
+    {
+      "en": "Getting off (exiting) a freeway",
+      "zh": "驶出（离开）高速公路"
+    },
+    {
+      "en": "This car yields to this car.",
+      "zh": "这辆车给那辆车让行。"
+    },
+    {
+      "en": "Yielding right of way",
+      "zh": "让出路权"
+    },
+    {
+      "en": "Passing someone",
+      "zh": "超车"
+    },
+    {
+      "en": "Pulling over to the side of the road",
+      "zh": "把车停到路边"
+    },
+    {
+      "en": "Kate pulled into a gas station.",
+      "zh": "凯特把车开进了加油站。"
+    },
+    {
+      "en": "She pulled up to a pump.",
+      "zh": "她把车停到加油机旁。"
+    },
+    {
+      "en": "After putting the nozzle into her gas tank, she chose a kind of gas.",
+      "zh": "把油枪插进油箱后，她选了一种汽油。"
+    },
+    {
+      "en": "She filled up.",
+      "zh": "她把油加满了。"
+    },
+    {
+      "en": "She put the gas cap back on.",
+      "zh": "她把油箱盖盖了回去。"
+    },
+    {
+      "en": "She paid for her gas inside at the counter.",
+      "zh": "她在里面的柜台付了油钱。"
+    }
+  ]
+}

@@ -11,7 +11,17 @@ Static site — no build step. For local development, serve over HTTP (not file:
     python3 -m http.server 8000   # then open http://localhost:8000/
 
 Validate content: `node tools/validate.mjs`
-Run unit tests: `node --test tests/`
+Run unit tests: `node --test tests/*.test.mjs`
+
+## Tracks
+
+- **Grammar** (`index.html`) — bilingual grammar lessons.
+- **Vocabulary** (`vocab.html`) — Basic English 850 → CEFR C2 typing drills with spaced review.
+- **Everyday** (`eea.html`) — everyday-activity phrase bank adapted from *English For Everyday
+  Activities*, organized by section → unit with composite `SId-Uid` ids (e.g. `s1-01`, `s2-c01`).
+  Three study modes: English flashcard, 中文 flashcard, and Chinese-only typing (MonkeyType-style
+  single line). Fully data-driven — add a unit JSON to `data/eea/units/` (with a `section` field)
+  or a section to `data/eea/sections.json`, then rebuild: `node tools/eea-build-index.mjs`.
 
 ## Attribution
 

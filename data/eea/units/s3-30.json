@@ -1,0 +1,54 @@
+{
+  "uid": "s3-30",
+  "sid": "s3",
+  "u": "30",
+  "custom": false,
+  "title": {
+    "en": "Reading",
+    "zh": "阅读"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Pam opened the book to her bookmark.",
+      "zh": "帕姆翻到书签那一页打开了书。"
+    },
+    {
+      "en": "She turned the pages as she read.",
+      "zh": "她一边读一边翻页。"
+    },
+    {
+      "en": "When she saw a word she didn't know, she looked it up in a dictionary.",
+      "zh": "看到不认识的词时，她就查字典。"
+    },
+    {
+      "en": "When she finished reading, she closed the book.",
+      "zh": "读完后，她合上了书。"
+    },
+    {
+      "en": "Pam picked up the latest issue of Everyone magazine.",
+      "zh": "帕姆拿起了最新一期的《Everyone》杂志。"
+    },
+    {
+      "en": "She looked at some of the ads.",
+      "zh": "她看了一些广告。"
+    },
+    {
+      "en": "Then, she flipped through the magazine.",
+      "zh": "然后，她快速翻阅了杂志。"
+    },
+    {
+      "en": "Until she found an interesting article.",
+      "zh": "直到找到一篇有趣的文章。"
+    },
+    {
+      "en": "She read the article.",
+      "zh": "她读了那篇文章。"
+    },
+    {
+      "en": "And looked at the pictures.",
+      "zh": "并看了里面的图片。"
+    }
+  ]
+}

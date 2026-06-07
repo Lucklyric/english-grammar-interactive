@@ -1,0 +1,50 @@
+{
+  "uid": "s4-42",
+  "sid": "s4",
+  "u": "42",
+  "custom": false,
+  "title": {
+    "en": "Going to a Bank",
+    "zh": "去银行"
+  },
+  "tense": "Simple Past",
+  "level": 3,
+  "phrases": [
+    {
+      "en": "Paul went to the bank.",
+      "zh": "保罗去了银行。"
+    },
+    {
+      "en": "At a counter, he filled out a deposit slip.",
+      "zh": "在柜台前，他填了一张存款单。"
+    },
+    {
+      "en": "He filled it out by writing his account number, the amounts of his cash and checks, and the total.",
+      "zh": "他填写时写上了账号、现金和支票的金额，以及总额。"
+    },
+    {
+      "en": "At the teller window, he endorsed the checks by signing them on the back.",
+      "zh": "在柜员窗口，他在支票背面签字背书。"
+    },
+    {
+      "en": "Then, he gave the teller his deposit.",
+      "zh": "然后，他把要存的款交给柜员。"
+    },
+    {
+      "en": "Thanks. Have a nice day!",
+      "zh": "谢谢。祝你愉快！"
+    },
+    {
+      "en": "She checked the amounts on the slip.",
+      "zh": "她核对了单子上的金额。"
+    },
+    {
+      "en": "And printed the amount of deposit in his passbook.",
+      "zh": "并把存款金额打印在他的存折上。"
+    },
+    {
+      "en": "And gave him back his passbook.",
+      "zh": "再把存折还给他。"
+    }
+  ]
+}

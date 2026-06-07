@@ -1,0 +1,58 @@
+{
+  "uid": "s4-43",
+  "sid": "s4",
+  "u": "43",
+  "custom": false,
+  "title": {
+    "en": "Using an ATM",
+    "zh": "使用自动取款机"
+  },
+  "tense": "Simple Past",
+  "level": 3,
+  "phrases": [
+    {
+      "en": "Oops. I'd better find a cash machine.",
+      "zh": "哎呀。我最好找一台取款机。"
+    },
+    {
+      "en": "Kate needed money.",
+      "zh": "凯特需要钱。"
+    },
+    {
+      "en": "So she went to an ATM in the store.",
+      "zh": "于是她去了店里的一台自动取款机。"
+    },
+    {
+      "en": "She took her cash card out of her purse.",
+      "zh": "她从钱包里拿出银行卡。"
+    },
+    {
+      "en": "She lined up the magnetic strip properly.",
+      "zh": "她把磁条对准放好。"
+    },
+    {
+      "en": "And inserted the card into the slot on the ATM.",
+      "zh": "把卡插进取款机的卡槽里。"
+    },
+    {
+      "en": "A message on the screen asked for her PIN.",
+      "zh": "屏幕上出现一条信息，要求输入她的密码。"
+    },
+    {
+      "en": "So she entered her PIN by pressing keys on the keypad.",
+      "zh": "于是她按键盘上的按键输入了密码。"
+    },
+    {
+      "en": "Then, she entered the amount of money she needed.",
+      "zh": "然后，她输入了所需的金额。"
+    },
+    {
+      "en": "The machine returned her card.",
+      "zh": "机器退出了她的卡。"
+    },
+    {
+      "en": "And gave her her money.",
+      "zh": "并把钱给了她。"
+    }
+  ]
+}

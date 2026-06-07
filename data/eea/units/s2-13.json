@@ -1,0 +1,46 @@
+{
+  "uid": "s2-13",
+  "sid": "s2",
+  "u": "13",
+  "custom": false,
+  "title": {
+    "en": "Driving a Car 1: Starting Out",
+    "zh": "开车（一）：启动出发"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Kate sat in the driver's seat, and her friends sat in the passenger seats.",
+      "zh": "凯特坐在驾驶座上，她的朋友们坐在乘客座上。"
+    },
+    {
+      "en": "Kate adjusted her seat and the rear-view mirror.",
+      "zh": "凯特调整了座椅和后视镜。"
+    },
+    {
+      "en": "She buckled her seat belt.",
+      "zh": "她系好了安全带。"
+    },
+    {
+      "en": "She put the key into the ignition.",
+      "zh": "她把钥匙插进点火开关。"
+    },
+    {
+      "en": "She turned the key.",
+      "zh": "她拧动了钥匙。"
+    },
+    {
+      "en": "She started the car.",
+      "zh": "她发动了汽车。"
+    },
+    {
+      "en": "She looked over her shoulder.",
+      "zh": "她回头看了看。"
+    },
+    {
+      "en": "She backed out of the driveway.",
+      "zh": "她把车倒出了车道。"
+    }
+  ]
+}

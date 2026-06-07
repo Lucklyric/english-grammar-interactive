@@ -1,0 +1,66 @@
+{
+  "uid": "s5-49",
+  "sid": "s5",
+  "u": "49",
+  "custom": false,
+  "title": {
+    "en": "Taking a Message",
+    "zh": "记口信"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Pam answered the phone.",
+      "zh": "帕姆接了电话。"
+    },
+    {
+      "en": "And the caller asked for Dan.",
+      "zh": "来电的人要找丹。"
+    },
+    {
+      "en": "She said he wasn't available and offered to take a message.",
+      "zh": "她说他不在，并主动提出记个口信。"
+    },
+    {
+      "en": "The caller left a message for Dan.",
+      "zh": "来电者给丹留了口信。"
+    },
+    {
+      "en": "Pam wrote the message on some notepaper.",
+      "zh": "帕姆把口信写在便条纸上。"
+    },
+    {
+      "en": "And put it next to the phone.",
+      "zh": "然后把它放在电话旁边。"
+    },
+    {
+      "en": "Later, Dan got the message.",
+      "zh": "后来，丹收到了口信。"
+    },
+    {
+      "en": "And returned Lester's call.",
+      "zh": "并给莱斯特回了电话。"
+    },
+    {
+      "en": "Hello?",
+      "zh": "你好？"
+    },
+    {
+      "en": "Is Dan there, please?",
+      "zh": "请问丹在吗？"
+    },
+    {
+      "en": "Sorry. He can't come to the phone right now. Can I take a message?",
+      "zh": "抱歉，他现在不方便接电话。需要我帮你记个口信吗？"
+    },
+    {
+      "en": "Yes, please tell him that Lester called.",
+      "zh": "好的，请告诉他莱斯特来过电话。"
+    },
+    {
+      "en": "Hi, Lester. This is Dan. You called?",
+      "zh": "嗨，莱斯特，我是丹。你刚才找我？"
+    }
+  ]
+}

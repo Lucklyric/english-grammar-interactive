@@ -1,0 +1,50 @@
+{
+  "uid": "s5-51",
+  "sid": "s5",
+  "u": "51",
+  "custom": false,
+  "title": {
+    "en": "Writing a Personal Letter",
+    "zh": "写一封私人信件"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "I took out some paper to write to my friend.",
+      "zh": "我拿出一些纸给朋友写信。"
+    },
+    {
+      "en": "I wrote the date and a greeting at the top.",
+      "zh": "我在顶部写了日期和称呼。"
+    },
+    {
+      "en": "I apologized for not writing sooner.",
+      "zh": "我为没有早点写信道歉。"
+    },
+    {
+      "en": "And I wrote about what I'd been doing.",
+      "zh": "我还写了我最近在做什么。"
+    },
+    {
+      "en": "As I wrote, I re-read her last letter to me.",
+      "zh": "写信时，我重读了她上次给我的信。"
+    },
+    {
+      "en": "I answered questions she had asked.",
+      "zh": "我回答了她问过的问题。"
+    },
+    {
+      "en": "And I asked her about herself.",
+      "zh": "我也问了问她的近况。"
+    },
+    {
+      "en": "Then, I wrote a closing.",
+      "zh": "然后，我写了结束语。"
+    },
+    {
+      "en": "And signed the letter.",
+      "zh": "并在信上签了名。"
+    }
+  ]
+}

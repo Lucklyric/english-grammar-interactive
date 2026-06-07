@@ -1,0 +1,62 @@
+{
+  "uid": "s1-07",
+  "sid": "s1",
+  "u": "07",
+  "custom": false,
+  "title": {
+    "en": "Making Coffee / Making Tea",
+    "zh": "煮咖啡／泡茶"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Pam scoops some ground coffee into the filter.",
+      "zh": "帕姆把一些咖啡粉舀进滤纸里。"
+    },
+    {
+      "en": "Then, she pours some water into the coffee maker.",
+      "zh": "然后，她往咖啡机里倒一些水。"
+    },
+    {
+      "en": "She turns the coffee maker on by pressing the switch.",
+      "zh": "她按下开关，打开咖啡机。"
+    },
+    {
+      "en": "The water heats up.",
+      "zh": "水加热了。"
+    },
+    {
+      "en": "And drips through the ground coffee.",
+      "zh": "再滴过咖啡粉。"
+    },
+    {
+      "en": "And into the coffeepot.",
+      "zh": "再流进咖啡壶里。"
+    },
+    {
+      "en": "Dan boils water in a teakettle.",
+      "zh": "丹用水壶烧水。"
+    },
+    {
+      "en": "He pours the hot water into a teapot.",
+      "zh": "他把热水倒进茶壶里。"
+    },
+    {
+      "en": "And adds some tea leaves.",
+      "zh": "再加一些茶叶。"
+    },
+    {
+      "en": "As the tea leaves soak in the water, the water becomes tea.",
+      "zh": "茶叶在水里浸泡，水就变成了茶。"
+    },
+    {
+      "en": "Dan strains the tea.",
+      "zh": "丹把茶水滤出来。"
+    },
+    {
+      "en": "Then, he adds sugar and milk, and stirs his tea.",
+      "zh": "然后，他加糖和牛奶，并搅拌他的茶。"
+    }
+  ]
+}

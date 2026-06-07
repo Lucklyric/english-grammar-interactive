@@ -1,0 +1,46 @@
+{
+  "uid": "s3-28",
+  "sid": "s3",
+  "u": "28",
+  "custom": false,
+  "title": {
+    "en": "Using the Internet",
+    "zh": "上网"
+  },
+  "tense": "Simple Past",
+  "level": 3,
+  "phrases": [
+    {
+      "en": "I turned my laptop on.",
+      "zh": "我打开了笔记本电脑。"
+    },
+    {
+      "en": "I entered my username and password to log on.",
+      "zh": "我输入用户名和密码来登录。"
+    },
+    {
+      "en": "To go to the Internet, I clicked on my browser.",
+      "zh": "为了上网，我点击了浏览器。"
+    },
+    {
+      "en": "I typed in the address for a social networking site.",
+      "zh": "我输入了一个社交网站的网址。"
+    },
+    {
+      "en": "And went to my friend's page.",
+      "zh": "并进入了我朋友的主页。"
+    },
+    {
+      "en": "Then, I read some posts.",
+      "zh": "然后，我看了一些帖子。"
+    },
+    {
+      "en": "I added a comment.",
+      "zh": "我加了一条评论。"
+    },
+    {
+      "en": "Then, at a video site, I watched a music video.",
+      "zh": "然后，在一个视频网站上，我看了一个音乐视频。"
+    }
+  ]
+}

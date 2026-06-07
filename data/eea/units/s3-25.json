@@ -1,0 +1,46 @@
+{
+  "uid": "s3-25",
+  "sid": "s3",
+  "u": "25",
+  "custom": false,
+  "title": {
+    "en": "Eating Dinner",
+    "zh": "吃晚饭"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Everyone sat down at the table.",
+      "zh": "大家都在餐桌旁坐了下来。"
+    },
+    {
+      "en": "They put their napkins on their laps.",
+      "zh": "他们把餐巾放在膝盖上。"
+    },
+    {
+      "en": "Paul helped himself to some salad.",
+      "zh": "保罗给自己盛了一些沙拉。"
+    },
+    {
+      "en": "And passed the serving dish to Kate.",
+      "zh": "并把上菜的盘子递给了凯特。"
+    },
+    {
+      "en": "Then, they helped themselves to the food.",
+      "zh": "然后，他们各自取用食物。"
+    },
+    {
+      "en": "As they ate, they talked.",
+      "zh": "他们一边吃，一边聊天。"
+    },
+    {
+      "en": "Paul had a second helping of spaghetti.",
+      "zh": "保罗又添了一份意大利面。"
+    },
+    {
+      "en": "After the main course, they had some dessert.",
+      "zh": "主菜之后，他们吃了一些甜点。"
+    }
+  ]
+}

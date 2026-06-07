@@ -1,0 +1,58 @@
+{
+  "uid": "s1-08",
+  "sid": "s1",
+  "u": "08",
+  "custom": false,
+  "title": {
+    "en": "Preparing Cold Cereal / Making Toast",
+    "zh": "准备冷麦片／烤吐司"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Pam pours some cereal from the box into her bowl.",
+      "zh": "帕姆从盒子里倒一些麦片到碗里。"
+    },
+    {
+      "en": "She pours in some milk.",
+      "zh": "她倒入一些牛奶。"
+    },
+    {
+      "en": "And sprinkles some sugar on her cereal.",
+      "zh": "再在麦片上撒一些糖。"
+    },
+    {
+      "en": "Then, she peels a banana.",
+      "zh": "然后，她剥一根香蕉。"
+    },
+    {
+      "en": "Slices it.",
+      "zh": "把它切成片。"
+    },
+    {
+      "en": "And puts the slices on her cereal.",
+      "zh": "再把香蕉片放到麦片上。"
+    },
+    {
+      "en": "Dan puts two slices of bread into the toaster.",
+      "zh": "丹把两片面包放进烤面包机里。"
+    },
+    {
+      "en": "By pressing the starter, he lowers the bread into the toaster.",
+      "zh": "他按下启动键，把面包降进烤面包机里。"
+    },
+    {
+      "en": "Hot wires inside the toaster toast the bread.",
+      "zh": "烤面包机里的热丝把面包烤好。"
+    },
+    {
+      "en": "The toast pops up when it's done.",
+      "zh": "烤好后，吐司会弹起来。"
+    },
+    {
+      "en": "Dan spreads some butter and jam on his toast.",
+      "zh": "丹在吐司上抹一些黄油和果酱。"
+    }
+  ]
+}

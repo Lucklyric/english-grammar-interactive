@@ -1,0 +1,54 @@
+{
+  "uid": "s5-52",
+  "sid": "s5",
+  "u": "52",
+  "custom": false,
+  "title": {
+    "en": "Mailing a Letter",
+    "zh": "寄信"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "I enclose some pictures.",
+      "zh": "我附上一些照片。"
+    },
+    {
+      "en": "I fold up my letter.",
+      "zh": "我把信折起来。"
+    },
+    {
+      "en": "And put it in the envelope with the pictures.",
+      "zh": "然后把它和照片一起放进信封。"
+    },
+    {
+      "en": "I write my friend's address in the middle of the envelope and my return address at the upper left.",
+      "zh": "我把朋友的地址写在信封中间，把我的回信地址写在左上角。"
+    },
+    {
+      "en": "I seal the envelope.",
+      "zh": "我把信封封好。"
+    },
+    {
+      "en": "I don't know how much postage I need.",
+      "zh": "我不知道需要贴多少邮资。"
+    },
+    {
+      "en": "So, I take the letter to the post office.",
+      "zh": "于是，我把信拿到邮局。"
+    },
+    {
+      "en": "I stand in line.",
+      "zh": "我排队等候。"
+    },
+    {
+      "en": "When it's my turn, I go to the window.",
+      "zh": "轮到我时，我走到窗口。"
+    },
+    {
+      "en": "I hope she likes the pictures.",
+      "zh": "我希望她喜欢这些照片。"
+    }
+  ]
+}

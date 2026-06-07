@@ -1,0 +1,62 @@
+{
+  "uid": "s1-02",
+  "sid": "s1",
+  "u": "02",
+  "custom": false,
+  "title": {
+    "en": "Brushing Your Teeth / Flossing",
+    "zh": "刷牙／用牙线"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Jenny runs some water over her toothbrush.",
+      "zh": "珍妮在牙刷上冲一些水。"
+    },
+    {
+      "en": "She squeezes toothpaste onto her toothbrush.",
+      "zh": "她把牙膏挤到牙刷上。"
+    },
+    {
+      "en": "She moves her toothbrush up and down.",
+      "zh": "她上下移动牙刷。"
+    },
+    {
+      "en": "And back and forth.",
+      "zh": "再来回移动。"
+    },
+    {
+      "en": "To rinse her mouth, she takes some water.",
+      "zh": "为了漱口，她含一些水。"
+    },
+    {
+      "en": "She swishes it back and forth in her mouth.",
+      "zh": "她在嘴里来回漱动。"
+    },
+    {
+      "en": "And spits it into the sink.",
+      "zh": "然后把水吐进水池里。"
+    },
+    {
+      "en": "She rinses off her toothbrush.",
+      "zh": "她把牙刷冲干净。"
+    },
+    {
+      "en": "Then, she puts it back in the toothbrush rack.",
+      "zh": "然后，她把牙刷放回牙刷架上。"
+    },
+    {
+      "en": "She flosses her teeth by pulling out a long piece of floss.",
+      "zh": "她用牙线洁牙，先拉出一长段牙线。"
+    },
+    {
+      "en": "Slipping it between her teeth.",
+      "zh": "把它滑进牙缝之间。"
+    },
+    {
+      "en": "And moving it back and forth and up and down.",
+      "zh": "再来回、上下移动它。"
+    }
+  ]
+}

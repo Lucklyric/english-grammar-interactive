@@ -1,0 +1,82 @@
+{
+  "uid": "s5-48",
+  "sid": "s5",
+  "u": "48",
+  "custom": false,
+  "title": {
+    "en": "Leaving a Message",
+    "zh": "留言"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "I asked to speak to Dan.",
+      "zh": "我要求和丹通话。"
+    },
+    {
+      "en": "But he wasn't available.",
+      "zh": "但他不在。"
+    },
+    {
+      "en": "I identified myself and asked her to take a message.",
+      "zh": "我报上自己的名字，请她帮忙记个口信。"
+    },
+    {
+      "en": "She agreed and asked me to repeat my name.",
+      "zh": "她答应了，并请我把名字再说一遍。"
+    },
+    {
+      "en": "I repeated it.",
+      "zh": "我重复了一遍。"
+    },
+    {
+      "en": "And spelled my last name.",
+      "zh": "并拼出了我的姓。"
+    },
+    {
+      "en": "I also left my number.",
+      "zh": "我还留了我的电话号码。"
+    },
+    {
+      "en": "And asked that he call me back.",
+      "zh": "并请他给我回电话。"
+    },
+    {
+      "en": "Can I speak to Dan, please?",
+      "zh": "请问我能和丹通话吗？"
+    },
+    {
+      "en": "I'm sorry, but he's not here right now.",
+      "zh": "抱歉，他现在不在。"
+    },
+    {
+      "en": "This is Alex. I work with Dan. Could you please take a message for him?",
+      "zh": "我是亚历克斯，和丹是同事。能请你帮他记个口信吗？"
+    },
+    {
+      "en": "Sure. I'm sorry, I didn't catch your name.",
+      "zh": "当然可以。抱歉，我没听清你的名字。"
+    },
+    {
+      "en": "It's Alex, Alex Rivera.",
+      "zh": "我叫亚历克斯，亚历克斯·里维拉。"
+    },
+    {
+      "en": "Could you spell that out, please?",
+      "zh": "你能拼一下吗？"
+    },
+    {
+      "en": "Sure. That's R-I-V-E-R-A.",
+      "zh": "好的，是 R-I-V-E-R-A。"
+    },
+    {
+      "en": "And my number is 555-5959.",
+      "zh": "我的号码是 555-5959。"
+    },
+    {
+      "en": "Could you ask him to give me a call, please? Thanks.",
+      "zh": "能请他给我回个电话吗？谢谢。"
+    }
+  ]
+}

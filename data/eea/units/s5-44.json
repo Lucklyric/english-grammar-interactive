@@ -1,0 +1,54 @@
+{
+  "uid": "s5-44",
+  "sid": "s5",
+  "u": "44",
+  "custom": false,
+  "title": {
+    "en": "Getting and Sending Emails",
+    "zh": "收发电子邮件"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "I clicked on my browser icon to go online.",
+      "zh": "我点击浏览器图标上网。"
+    },
+    {
+      "en": "I typed the URL for my email into the box.",
+      "zh": "我在框里输入了我邮箱的网址。"
+    },
+    {
+      "en": "I logged in with my username and password.",
+      "zh": "我用用户名和密码登录了。"
+    },
+    {
+      "en": "I had nine new messages in my mailbox.",
+      "zh": "我的邮箱里有九封新邮件。"
+    },
+    {
+      "en": "I opened one and read it.",
+      "zh": "我打开了一封读了起来。"
+    },
+    {
+      "en": "I opened the attachment.",
+      "zh": "我打开了附件。"
+    },
+    {
+      "en": "I replied to the message.",
+      "zh": "我回复了这封邮件。"
+    },
+    {
+      "en": "I replied to all, not just Tom.",
+      "zh": "我回复了所有人，不只是汤姆。"
+    },
+    {
+      "en": "Then, I printed out the attachment.",
+      "zh": "然后，我把附件打印了出来。"
+    },
+    {
+      "en": "And deleted the email from my mailbox.",
+      "zh": "并把这封邮件从邮箱里删除了。"
+    }
+  ]
+}

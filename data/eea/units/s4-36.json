@@ -1,0 +1,46 @@
+{
+  "uid": "s4-36",
+  "sid": "s4",
+  "u": "36",
+  "custom": false,
+  "title": {
+    "en": "Taking Care of a Cat",
+    "zh": "照顾猫咪"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "To feed his cat, Tom opened a can of cat food.",
+      "zh": "为了喂猫，汤姆打开了一罐猫粮。"
+    },
+    {
+      "en": "And put it in the cat's dish.",
+      "zh": "把它放进猫碗里。"
+    },
+    {
+      "en": "He put some fresh water in the water dish.",
+      "zh": "他在水碗里倒了一些清水。"
+    },
+    {
+      "en": "He also cleaned the litter box.",
+      "zh": "他还清理了猫砂盆。"
+    },
+    {
+      "en": "He petted the cat.",
+      "zh": "他抚摸猫咪。"
+    },
+    {
+      "en": "And she purred and rubbed against his leg.",
+      "zh": "猫咪发出呼噜声，蹭着他的腿。"
+    },
+    {
+      "en": "He played with the cat by moving a piece of string.",
+      "zh": "他晃动一根绳子，跟猫咪玩。"
+    },
+    {
+      "en": "Which the cat pounced on.",
+      "zh": "猫咪扑了上去。"
+    }
+  ]
+}

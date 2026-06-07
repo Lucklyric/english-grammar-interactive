@@ -1,0 +1,70 @@
+{
+  "uid": "s4-39",
+  "sid": "s4",
+  "u": "39",
+  "custom": false,
+  "title": {
+    "en": "Taking a Car to a Garage for Repairs",
+    "zh": "把车送到修车厂修理"
+  },
+  "tense": "Simple Past",
+  "level": 3,
+  "phrases": [
+    {
+      "en": "My car is making a strange noise. When can you look at it?",
+      "zh": "我的车发出奇怪的声音。你什么时候能看一下？"
+    },
+    {
+      "en": "I called for an appointment to get my car fixed.",
+      "zh": "我打电话预约修车。"
+    },
+    {
+      "en": "I took my car in to the garage.",
+      "zh": "我把车开到了修车厂。"
+    },
+    {
+      "en": "And the mechanic diagnosed the problem.",
+      "zh": "技工诊断出了问题。"
+    },
+    {
+      "en": "Yep. Sounds like a valve problem.",
+      "zh": "对。听起来像是气门的问题。"
+    },
+    {
+      "en": "How much will it cost to fix?",
+      "zh": "修好要多少钱？"
+    },
+    {
+      "en": "Probably about $250.",
+      "zh": "大概250美元左右。"
+    },
+    {
+      "en": "I asked him for an estimate of the cost.",
+      "zh": "我向他询问了费用的估价。"
+    },
+    {
+      "en": "He worked on the engine.",
+      "zh": "他修理发动机。"
+    },
+    {
+      "en": "When I came back later to pick up the car.",
+      "zh": "后来我回来取车的时候。"
+    },
+    {
+      "en": "Is it ready yet?",
+      "zh": "修好了吗？"
+    },
+    {
+      "en": "It's ready.",
+      "zh": "修好了。"
+    },
+    {
+      "en": "That'll be $294 for parts and labor.",
+      "zh": "零件和工费一共294美元。"
+    },
+    {
+      "en": "He gave me the bill for the repair.",
+      "zh": "他给了我维修的账单。"
+    }
+  ]
+}
