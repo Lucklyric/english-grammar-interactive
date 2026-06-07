@@ -268,3 +268,8 @@ a:hover { text-decoration: underline; }
 .eea-peek { max-height: 0; overflow: hidden; opacity: 0; margin: 0; font-size: 1.2rem; font-weight: 650; color: var(--accent); transition: opacity .1s ease; }
 .eea-peek.show { max-height: none; opacity: 1; margin: 8px 0; }
 .eea-hint { font-size: .8rem; color: var(--ink-soft); margin: 6px 0 0; }
+/* Sound toggles (typing click + read-aloud) in the practice topbar */
+.snd-toggle { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 5px 10px; font-size: 1rem; line-height: 1; cursor: pointer; }
+.snd-toggle:hover { border-color: var(--accent); }
+.snd-toggle.off { opacity: .4; filter: grayscale(1); position: relative; }
+.snd-toggle.off::after { content: ""; position: absolute; left: 14%; right: 14%; top: 50%; height: 2px; background: var(--bad); transform: rotate(-20deg); border-radius: 2px; }

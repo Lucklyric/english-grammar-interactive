@@ -4,6 +4,14 @@ const KEY = 'egi:v1:eea';
 function read() { try { return JSON.parse(localStorage.getItem(KEY)) || { schemaVersion: 1, units: {} }; } catch { return { schemaVersion: 1, units: {} }; } }
 function write(s) { localStorage.setItem(KEY, JSON.stringify(s)); }
 
+// User sound preferences (typing clicks + TTS reading), persisted under the shared namespace.
+const PKEY = 'egi:v1:eea:prefs';
+const DEFAULTS = { typeSound: true, reading: true };
+export const prefs = {
+  get() { try { return Object.assign({}, DEFAULTS, JSON.parse(localStorage.getItem(PKEY) || '{}')); } catch { return { ...DEFAULTS }; } },
+  set(key, val) { const p = this.get(); p[key] = val; localStorage.setItem(PKEY, JSON.stringify(p)); return p; },
+};
+
 export const estore = {
   get(id) { return read().units[id] || {}; },
   practicedCount() { return Object.values(read().units).filter((u) => u.practiced).length; },

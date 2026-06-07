@@ -1,6 +1,7 @@
 import { initLang, getLang, toggleLang, otherLang, pick } from './i18n.js';
 import { wpm } from './voclib.mjs';
-import { estore } from './eea-store.js';
+import { estore, prefs } from './eea-store.js';
+import { sound } from './sound.js';
 
 const $ = (s, r = document) => r.querySelector(s);
 const params = new URLSearchParams(location.search);
@@ -19,8 +20,10 @@ const STR = {
 const s = (k) => (STR[getLang()] || STR.en)[k] || k;
 
 let unit = null, list = [], i = 0, results = [], wpms = [], startTs = 0;
+let PREF = prefs.get();   // { typeSound, reading } — updated live by the topbar toggles
 
 function speak(text) {
+  if (!PREF.reading) return;
   try { if ('speechSynthesis' in window) { const u = new SpeechSynthesisUtterance(text); u.lang = 'en-US'; u.rate = 0.9; speechSynthesis.cancel(); speechSynthesis.speak(u); } } catch {}
 }
 function escapeHtml(x) { return String(x).replace(/[&<>]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c])); }
@@ -78,7 +81,7 @@ function renderCard() {
     const peek = document.createElement('div'); peek.className = 'eea-peek'; peek.textContent = p.en;
     const hint = document.createElement('p'); hint.className = 'eea-hint'; hint.textContent = s('hintTab');
 
-    let firstTs = 0, restarts = 0, done = false, peeking = false;
+    let firstTs = 0, restarts = 0, done = false, peeking = false, prevLen = 0;
     const finishOk = () => {
       done = true; inp.disabled = true; inp.classList.add('input-ok');
       const speed = Math.min(200, wpm(target.length, Date.now() - (firstTs || startTs)));   // cap guards paste/near-zero elapsed
@@ -89,16 +92,18 @@ function renderCard() {
     };
     inp.addEventListener('input', () => {
       if (done) return;
+      const grew = inp.value.length > prevLen; prevLen = inp.value.length;
       const typed = inp.value.toLowerCase();
       if (!typed) { inp.classList.remove('input-bad'); feedback.textContent = ''; return; }
       if (!firstTs) firstTs = Date.now();
-      if (typed === target) return finishOk();
-      if (typed === target.slice(0, typed.length)) { inp.classList.remove('input-bad'); feedback.textContent = ''; return; }
-      // A wrong character: flash, then clear to restart the whole phrase.
+      if (typed === target) { if (PREF.typeSound) sound.success(); return finishOk(); }
+      if (typed === target.slice(0, typed.length)) { if (grew && PREF.typeSound) sound.key(); inp.classList.remove('input-bad'); feedback.textContent = ''; return; }
+      // A wrong character: buzz, flash, then clear to restart the whole phrase.
       restarts++;
+      if (PREF.typeSound) sound.error();
       inp.classList.add('input-bad');
       feedback.innerHTML = `✗ ${s('retry')}`; feedback.dataset.correct = 'false';
-      setTimeout(() => { if (done || !inp.isConnected) return; inp.value = ''; inp.classList.remove('input-bad'); inp.focus(); }, 200);
+      setTimeout(() => { if (done || !inp.isConnected) return; inp.value = ''; prevLen = 0; inp.classList.remove('input-bad'); inp.focus(); }, 200);
     });
     // Hold Tab to peek the answer; release to hide it.
     inp.addEventListener('keydown', (e) => { if (e.key === 'Tab') { e.preventDefault(); if (!peeking) { peeking = true; peek.classList.add('show'); } } });
@@ -160,7 +165,16 @@ function finish() {
   const hud = $('#hud'); if (hud) hud.remove();
 }
 
-function wireToggle() { const b = $('#lang-toggle'); if (b) { b.addEventListener('click', () => toggleLang()); sync(); } document.addEventListener('langchange', sync); }
+function wireToggle() {
+  const b = $('#lang-toggle'); if (b) { b.addEventListener('click', () => toggleLang()); sync(); } document.addEventListener('langchange', sync);
+  wireSnd('#snd-key', 'typeSound'); wireSnd('#snd-read', 'reading');
+}
+function wireSnd(sel, key) {
+  const btn = $(sel); if (!btn) return;
+  const paint = () => { btn.classList.toggle('off', !PREF[key]); btn.setAttribute('aria-pressed', String(!!PREF[key])); };
+  paint();
+  btn.addEventListener('click', () => { PREF = prefs.set(key, !PREF[key]); paint(); if (key === 'typeSound' && PREF.typeSound) sound.key(); });
+}
 function sync() { const b = $('#lang-toggle'); if (b) b.textContent = otherLang() === 'zh' ? '中文' : 'EN'; }
 
 main();
