@@ -107,7 +107,7 @@ function renderCard() {
     inp.addEventListener('input', () => {
       if (done) return;
       const grew = inp.value.length > prevLen; prevLen = inp.value.length;
-      const typed = inp.value.toLowerCase();
+      const typed = typingTarget(inp.value);   // normalize same as target → punctuation (",", ".", etc.) is optional, never an error
       if (!typed) { inp.classList.remove('input-bad'); feedback.textContent = ''; return; }
       if (!firstTs) firstTs = Date.now();
       if (typed === target) { if (PREF.typeSound) sound.success(); return finishOk(); }
