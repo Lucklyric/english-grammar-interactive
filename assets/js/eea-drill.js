@@ -12,10 +12,10 @@ const ORDER = params.get('order') || 'sequence';      // 'sequence' | 'shuffle'
 const STR = {
   zh: { en: '看英文，回想中文', zh: '看中文，回想英文', type: '看中文，输入英文', reveal: '显示', play: '🔊 播放', next: '下一句', back: '返回',
     correct: '正确', answer: '答案：', done: '完成', acc: '正确率', reviewed: '已浏览', avgwpm: '平均速度', empty: '没有可练习的句子',
-    retry: '重来', skip: '跳过', hintTab: '按住 Tab 偷看答案' },
+    retry: '重来', skip: '跳过', peek: '偷看', hintPeek: '按住“偷看”查看答案（电脑可用 Tab）' },
   en: { en: 'Read EN, recall the meaning', zh: 'Read 中文, recall the English', type: 'Read 中文, type the English', reveal: 'Reveal', play: '🔊 Play', next: 'Next', back: 'Back',
     correct: 'Correct', answer: 'Answer:', done: 'Done', acc: 'Accuracy', reviewed: 'reviewed', avgwpm: 'avg wpm', empty: 'Nothing to practise',
-    retry: 'restart', skip: 'Skip', hintTab: 'Hold Tab to peek the answer' },
+    retry: 'restart', skip: 'Skip', peek: 'Peek', hintPeek: 'Hold “Peek” to see the answer (or Tab on desktop)' },
 };
 const s = (k) => (STR[getLang()] || STR.en)[k] || k;
 
@@ -34,6 +34,18 @@ function shuffle(a) { for (let k = a.length - 1; k > 0; k--) { const j = Math.fl
 // spaces only — no punctuation or capitalization needed.
 function typingTarget(x) {
   return String(x).toLowerCase().replace(/[’']/g, "'").replace(/[^a-z0-9' ]+/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
+// Focus the typing input. iOS blocks the soft keyboard on programmatic focus outside a
+// user gesture, so we also raise it on the first tap anywhere on the page.
+let raiseKbd = null;
+function focusType(inp) {
+  try { inp.focus({ preventScroll: true }); } catch { try { inp.focus(); } catch {} }
+  setTimeout(() => { try { inp.focus({ preventScroll: true }); } catch {} }, 60);
+  if (raiseKbd) { document.removeEventListener('pointerdown', raiseKbd); document.removeEventListener('touchend', raiseKbd); }
+  raiseKbd = () => { if (inp.isConnected && !inp.disabled) { try { inp.focus(); } catch {} } };
+  document.addEventListener('pointerdown', raiseKbd, { once: true });
+  document.addEventListener('touchend', raiseKbd, { once: true });
 }
 
 async function main() {
@@ -79,7 +91,9 @@ function renderCard() {
 
     // Hold-Tab peek overlay + hint line.
     const peek = document.createElement('div'); peek.className = 'eea-peek'; peek.textContent = p.en;
-    const hint = document.createElement('p'); hint.className = 'eea-hint'; hint.textContent = s('hintTab');
+    const hint = document.createElement('p'); hint.className = 'eea-hint'; hint.textContent = s('hintPeek');
+    const showPeek = () => peek.classList.add('show');
+    const hidePeek = () => peek.classList.remove('show');
 
     let firstTs = 0, restarts = 0, done = false, peeking = false, prevLen = 0;
     const finishOk = () => {
@@ -105,10 +119,18 @@ function renderCard() {
       feedback.innerHTML = `✗ ${s('retry')}`; feedback.dataset.correct = 'false';
       setTimeout(() => { if (done || !inp.isConnected) return; inp.value = ''; prevLen = 0; inp.classList.remove('input-bad'); inp.focus(); }, 200);
     });
-    // Hold Tab to peek the answer; release to hide it.
-    inp.addEventListener('keydown', (e) => { if (e.key === 'Tab') { e.preventDefault(); if (!peeking) { peeking = true; peek.classList.add('show'); } } });
-    inp.addEventListener('keyup', (e) => { if (e.key === 'Tab') { peeking = false; peek.classList.remove('show'); } });
-    inp.addEventListener('blur', () => { peeking = false; peek.classList.remove('show'); });
+    // Peek: hold Tab (desktop) or hold the 👁 button (touch). preventDefault on
+    // pointerdown keeps focus on the input so the mobile keyboard doesn't drop.
+    inp.addEventListener('keydown', (e) => { if (e.key === 'Tab') { e.preventDefault(); if (!peeking) { peeking = true; showPeek(); } } });
+    inp.addEventListener('keyup', (e) => { if (e.key === 'Tab') { peeking = false; hidePeek(); } });
+    inp.addEventListener('blur', () => { peeking = false; hidePeek(); });
+
+    const peekBtn = document.createElement('button'); peekBtn.className = 'drill-btn ghost eea-peekbtn'; peekBtn.type = 'button'; peekBtn.textContent = `👁 ${s('peek')}`;
+    peekBtn.addEventListener('pointerdown', showPeek);
+    peekBtn.addEventListener('mousedown', (e) => e.preventDefault());                                  // keep input focus (desktop)
+    peekBtn.addEventListener('touchstart', (e) => { e.preventDefault(); showPeek(); }, { passive: false }); // keep focus + no scroll (mobile)
+    ['pointerup', 'pointerleave', 'pointercancel', 'touchend', 'touchcancel'].forEach((ev) => peekBtn.addEventListener(ev, hidePeek));
+    peekBtn.addEventListener('contextmenu', (e) => e.preventDefault());
 
     const skip = document.createElement('button'); skip.className = 'drill-btn ghost'; skip.type = 'button'; skip.textContent = s('skip');
     skip.addEventListener('click', () => {
@@ -117,8 +139,12 @@ function renderCard() {
       speak(p.en); showNext();
     });
 
-    card.append(stage, peek, hint, skip, feedback); root.append(card);
-    setTimeout(() => inp.focus(), 20); return;
+    const controls = document.createElement('div'); controls.className = 'eea-controls';
+    controls.append(peekBtn, skip);
+    // peek sits BELOW the controls so revealing it never reflows the buttons (which would
+    // slide them out from under a held finger/cursor and cancel the press).
+    card.append(stage, hint, controls, peek, feedback); root.append(card);
+    focusType(inp); return;
   }
 
   // Flashcard modes: 'en' (English lead) / 'zh' (Chinese lead)
