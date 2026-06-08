@@ -1,0 +1,66 @@
+{
+  "uid": "s1-e03",
+  "sid": "s1",
+  "u": "e03",
+  "custom": true,
+  "title": {
+    "en": "Shaving—A Man",
+    "zh": "刮胡子——男士"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Dan splashes warm water onto his face.",
+      "zh": "丹往脸上泼一些温水。"
+    },
+    {
+      "en": "He wets his stubble thoroughly.",
+      "zh": "他把胡茬彻底打湿。"
+    },
+    {
+      "en": "He squeezes a little shaving cream into his palm.",
+      "zh": "他往手心挤一点剃须膏。"
+    },
+    {
+      "en": "He spreads the foam evenly over his cheeks, jaw, and chin.",
+      "zh": "他把泡沫均匀地涂在脸颊、下巴和下颌上。"
+    },
+    {
+      "en": "He picks up his razor.",
+      "zh": "他拿起剃须刀。"
+    },
+    {
+      "en": "He drags the razor slowly down his right cheek.",
+      "zh": "他用剃须刀沿着右脸颊慢慢往下刮。"
+    },
+    {
+      "en": "Then he shaves his left cheek the same way.",
+      "zh": "然后他用同样的方法刮左脸颊。"
+    },
+    {
+      "en": "He carefully shaves his chin and upper lip.",
+      "zh": "他小心地刮下巴和上唇。"
+    },
+    {
+      "en": "He rinses the sharp blade under the running tap.",
+      "zh": "他在流动的水龙头下冲洗锋利的刀片。"
+    },
+    {
+      "en": "He checks his smooth skin in the mirror.",
+      "zh": "他对着镜子检查光滑的皮肤。"
+    },
+    {
+      "en": "He rinses the leftover cream off his face.",
+      "zh": "他把脸上残留的剃须膏冲洗干净。"
+    },
+    {
+      "en": "He pats his face dry with a soft towel.",
+      "zh": "他用柔软的毛巾把脸轻轻拍干。"
+    },
+    {
+      "en": "Finally, he splashes some aftershave on his cheeks.",
+      "zh": "最后，他往脸颊上拍一些须后水。"
+    }
+  ]
+}

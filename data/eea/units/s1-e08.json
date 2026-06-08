@@ -1,0 +1,66 @@
+{
+  "uid": "s1-e08",
+  "sid": "s1",
+  "u": "e08",
+  "custom": true,
+  "title": {
+    "en": "Making a Smoothie",
+    "zh": "做奶昔（果昔）"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Kate sets a clean blender on the counter.",
+      "zh": "凯特把一个干净的搅拌机放在台面上。"
+    },
+    {
+      "en": "She drops some fresh fruit into the blender.",
+      "zh": "她把一些新鲜水果放进搅拌机里。"
+    },
+    {
+      "en": "She scoops in a spoonful of cold yogurt.",
+      "zh": "她舀入一勺凉酸奶。"
+    },
+    {
+      "en": "Then, she adds a splash of milk.",
+      "zh": "然后，她加一点牛奶。"
+    },
+    {
+      "en": "She puts the lid on the blender tightly.",
+      "zh": "她把盖子紧紧地盖在搅拌机上。"
+    },
+    {
+      "en": "She presses the button to start it.",
+      "zh": "她按下按钮，启动搅拌机。"
+    },
+    {
+      "en": "The sharp blades chop the fruit quickly.",
+      "zh": "锋利的刀片快速地切碎水果。"
+    },
+    {
+      "en": "She blends everything until it is smooth.",
+      "zh": "她把所有东西搅拌到顺滑为止。"
+    },
+    {
+      "en": "Then, she turns the blender off.",
+      "zh": "然后，她关掉搅拌机。"
+    },
+    {
+      "en": "She lifts the lid carefully.",
+      "zh": "她小心地揭开盖子。"
+    },
+    {
+      "en": "She pours the thick smoothie into a tall glass.",
+      "zh": "她把浓稠的果昔倒进一个高玻璃杯里。"
+    },
+    {
+      "en": "She takes a sip and smiles.",
+      "zh": "她喝了一口，笑了。"
+    },
+    {
+      "en": "Finally, she rinses the empty blender in the sink.",
+      "zh": "最后，她在水槽里把空搅拌机冲洗干净。"
+    }
+  ]
+}

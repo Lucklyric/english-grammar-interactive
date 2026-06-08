@@ -1,0 +1,70 @@
+{
+  "uid": "s3-e12",
+  "sid": "s3",
+  "u": "e12",
+  "custom": true,
+  "title": {
+    "en": "Calling a Friend",
+    "zh": "给朋友打电话"
+  },
+  "tense": "Simple Past",
+  "level": 1,
+  "phrases": [
+    {
+      "en": "Dan sat down comfortably on the couch after dinner.",
+      "zh": "晚饭后，丹舒服地坐在沙发上。"
+    },
+    {
+      "en": "He decided to call his old friend Tom.",
+      "zh": "他决定给老朋友汤姆打个电话。"
+    },
+    {
+      "en": "He picked up his phone from the side table.",
+      "zh": "他从边桌上拿起手机。"
+    },
+    {
+      "en": "He unlocked the screen and opened his contacts.",
+      "zh": "他解锁屏幕，打开了联系人。"
+    },
+    {
+      "en": "He scrolled down and found Tom's number.",
+      "zh": "他向下滑动，找到了汤姆的号码。"
+    },
+    {
+      "en": "He tapped the green button and dialed slowly.",
+      "zh": "他点了绿色按钮，慢慢地拨了出去。"
+    },
+    {
+      "en": "The phone rang a few times before Tom answered.",
+      "zh": "电话响了几声，汤姆才接了起来。"
+    },
+    {
+      "en": "Dan smiled warmly and said hello.",
+      "zh": "丹热情地笑了笑，打了个招呼。"
+    },
+    {
+      "en": "They chatted happily about their busy day.",
+      "zh": "他们愉快地聊起了忙碌的一天。"
+    },
+    {
+      "en": "Dan told a funny story, and Tom laughed loudly.",
+      "zh": "丹讲了一个有趣的故事，汤姆大声笑了起来。"
+    },
+    {
+      "en": "They made a plan to meet for coffee on the weekend.",
+      "zh": "他们约好周末一起去喝咖啡。"
+    },
+    {
+      "en": "Dan thanked his friend for the nice talk.",
+      "zh": "丹感谢朋友这次愉快的交谈。"
+    },
+    {
+      "en": "He said goodbye and hung up the phone gently.",
+      "zh": "他道了别，轻轻地挂上了电话。"
+    },
+    {
+      "en": "He set the phone down and felt cheerful and relaxed.",
+      "zh": "他放下手机，感到开心又放松。"
+    }
+  ]
+}

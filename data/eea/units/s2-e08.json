@@ -1,0 +1,66 @@
+{
+  "uid": "s2-e08",
+  "sid": "s2",
+  "u": "e08",
+  "custom": true,
+  "title": {
+    "en": "Asking for Directions",
+    "zh": "问路"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Dan got lost on a busy street downtown.",
+      "zh": "丹在市中心一条繁忙的街道上迷路了。"
+    },
+    {
+      "en": "He looked around for a friendly face.",
+      "zh": "他四处张望，想找一张友善的面孔。"
+    },
+    {
+      "en": "He walked up to a passerby politely.",
+      "zh": "他礼貌地走向一位路人。"
+    },
+    {
+      "en": "He said, \"Excuse me, can you help me?\"",
+      "zh": "他说：“打扰一下，您能帮我吗？”"
+    },
+    {
+      "en": "He asked the way to the train station.",
+      "zh": "他询问去火车站的路。"
+    },
+    {
+      "en": "The kind stranger pointed down the road.",
+      "zh": "那位热心的陌生人指向那条路的远处。"
+    },
+    {
+      "en": "He told Dan to turn left at the corner.",
+      "zh": "他告诉丹在拐角处向左拐。"
+    },
+    {
+      "en": "Then he said to go straight for two blocks.",
+      "zh": "然后他说要直走两个街区。"
+    },
+    {
+      "en": "Dan listened to the directions carefully.",
+      "zh": "丹仔细地听着这些方向指引。"
+    },
+    {
+      "en": "He repeated them back to confirm the route.",
+      "zh": "他把这些话复述了一遍，以确认路线。"
+    },
+    {
+      "en": "The stranger nodded and smiled warmly.",
+      "zh": "陌生人点了点头，温暖地笑了。"
+    },
+    {
+      "en": "Dan said a sincere thank you.",
+      "zh": "丹真诚地道了谢。"
+    },
+    {
+      "en": "Then he headed off in the right direction.",
+      "zh": "然后他朝着正确的方向出发了。"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid": "s3-e13",
+  "sid": "s3",
+  "u": "e13",
+  "custom": true,
+  "title": {
+    "en": "Writing in a Journal",
+    "zh": "写日记"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Pam climbed into bed and settled against the pillows.",
+      "zh": "帕姆爬上床，靠在枕头上坐稳了。"
+    },
+    {
+      "en": "She reached for the leather journal on the nightstand.",
+      "zh": "她伸手去拿床头柜上的皮面日记本。"
+    },
+    {
+      "en": "She picked up a black pen and clicked it open.",
+      "zh": "她拿起一支黑色的笔，按开了笔尖。"
+    },
+    {
+      "en": "She opened the notebook to a fresh, blank page.",
+      "zh": "她把笔记本翻到崭新的空白页。"
+    },
+    {
+      "en": "She wrote today's date neatly at the top.",
+      "zh": "她在页面顶端工整地写下了今天的日期。"
+    },
+    {
+      "en": "She paused for a moment and thought about her day.",
+      "zh": "她停顿了一会儿，回想起这一天。"
+    },
+    {
+      "en": "She wrote slowly about the busy morning at work.",
+      "zh": "她慢慢地写下了忙碌的上午工作。"
+    },
+    {
+      "en": "She described a funny lunch with an old friend.",
+      "zh": "她描述了和一位老朋友吃午饭时的趣事。"
+    },
+    {
+      "en": "She added a few honest thoughts about how she felt.",
+      "zh": "她又添上了几句关于自己感受的真心话。"
+    },
+    {
+      "en": "She read the whole entry over once more.",
+      "zh": "她又把整篇日记从头读了一遍。"
+    },
+    {
+      "en": "She fixed a small spelling mistake near the end.",
+      "zh": "她改正了结尾处一个小小的拼写错误。"
+    },
+    {
+      "en": "She closed the journal and capped the pen.",
+      "zh": "她合上日记本，盖好了笔帽。"
+    },
+    {
+      "en": "She placed it gently on the nightstand and turned off the lamp.",
+      "zh": "她把它轻轻放在床头柜上，关掉了台灯。"
+    }
+  ]
+}

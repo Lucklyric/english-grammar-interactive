@@ -1,0 +1,62 @@
+{
+  "uid": "s4-e07",
+  "sid": "s4",
+  "u": "e07",
+  "custom": true,
+  "title": {
+    "en": "Sewing On a Button",
+    "zh": "缝纽扣"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Pam notices that a button has fallen off her shirt.",
+      "zh": "帕姆发现衬衫上掉了一颗纽扣。"
+    },
+    {
+      "en": "She picks a matching button from her small sewing box.",
+      "zh": "她从小针线盒里挑出一颗相配的纽扣。"
+    },
+    {
+      "en": "She cuts a long piece of thread with sharp scissors.",
+      "zh": "她用锋利的剪刀剪下一长段线。"
+    },
+    {
+      "en": "She licks the frayed end to make it smooth and stiff.",
+      "zh": "她舔一下散开的线头，让它变得平滑挺直。"
+    },
+    {
+      "en": "She threads the thin needle slowly and carefully.",
+      "zh": "她慢慢地、仔细地把细针穿好线。"
+    },
+    {
+      "en": "She ties a firm knot at the bottom of the thread.",
+      "zh": "她在线的末端打一个结实的结。"
+    },
+    {
+      "en": "She lays the button flat against the marked fabric.",
+      "zh": "她把纽扣平放在做好记号的布料上。"
+    },
+    {
+      "en": "She pushes the needle up through the first hole.",
+      "zh": "她把针从第一个扣眼里向上穿过去。"
+    },
+    {
+      "en": "She loops the thread down through the second hole.",
+      "zh": "她把线绕着穿过第二个扣眼向下拉。"
+    },
+    {
+      "en": "She pulls each stitch tight against the cloth.",
+      "zh": "她把每一针都紧紧地拉贴在布上。"
+    },
+    {
+      "en": "She knots the thread neatly behind the button.",
+      "zh": "她在纽扣背面把线整齐地打结固定。"
+    },
+    {
+      "en": "She snips off the extra thread close to the knot.",
+      "zh": "她贴着线结把多余的线剪掉。"
+    }
+  ]
+}

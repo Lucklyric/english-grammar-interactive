@@ -1,0 +1,62 @@
+{
+  "uid": "s3-e03",
+  "sid": "s3",
+  "u": "e03",
+  "custom": true,
+  "title": {
+    "en": "Doing a Crossword Puzzle",
+    "zh": "做填字游戏"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Pam settled into her favorite armchair after dinner.",
+      "zh": "晚饭后，帕姆窝进了她最喜欢的扶手椅里。"
+    },
+    {
+      "en": "She unfolded the evening newspaper to the puzzle page.",
+      "zh": "她把晚报翻开到了字谜版面。"
+    },
+    {
+      "en": "She picked up a sharp pencil and a soft eraser.",
+      "zh": "她拿起一支削尖的铅笔和一块软橡皮。"
+    },
+    {
+      "en": "She read the first clue across very carefully.",
+      "zh": "她非常仔细地读了横向的第一条线索。"
+    },
+    {
+      "en": "She counted the empty squares in that row.",
+      "zh": "她数了数那一行里空着的格子。"
+    },
+    {
+      "en": "Then, she wrote the answer neatly into the grid.",
+      "zh": "然后，她把答案工整地填进了方格里。"
+    },
+    {
+      "en": "She moved on to the clues going down.",
+      "zh": "她接着看了纵向的线索。"
+    },
+    {
+      "en": "She paused and tapped the pencil against her chin.",
+      "zh": "她停了下来，用铅笔轻轻敲着下巴。"
+    },
+    {
+      "en": "She erased one wrong word and brushed away the crumbs.",
+      "zh": "她擦掉了一个写错的词，并拂去了橡皮屑。"
+    },
+    {
+      "en": "She filled in the last tricky square at last.",
+      "zh": "她终于填上了最后一个棘手的格子。"
+    },
+    {
+      "en": "She checked every letter against the clues again.",
+      "zh": "她对照线索又核对了每一个字母。"
+    },
+    {
+      "en": "Finally, she smiled and set the finished puzzle aside.",
+      "zh": "最后，她微笑着把做完的字谜放到了一边。"
+    }
+  ]
+}

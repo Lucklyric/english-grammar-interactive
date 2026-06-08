@@ -1,0 +1,70 @@
+{
+  "uid": "s4-e10",
+  "sid": "s4",
+  "u": "e10",
+  "custom": true,
+  "title": {
+    "en": "Filling the Car with Gas",
+    "zh": "给汽车加油"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "When the gauge is low, Dan drives to the gas station.",
+      "zh": "当油表显示油量很低时，丹开车去加油站。"
+    },
+    {
+      "en": "He pulls up slowly next to an empty pump.",
+      "zh": "他缓缓地把车停在一个空着的油泵旁。"
+    },
+    {
+      "en": "He turns off the engine and sets the parking brake.",
+      "zh": "他熄掉发动机，拉起手刹。"
+    },
+    {
+      "en": "He walks into the kiosk and pays the friendly cashier first.",
+      "zh": "他走进收银亭，先付钱给和气的收银员。"
+    },
+    {
+      "en": "He tells her the pump number and his fuel choice.",
+      "zh": "他告诉她油泵号码和他选的油品。"
+    },
+    {
+      "en": "Back at the car, he opens the little fuel door.",
+      "zh": "回到车旁，他打开小小的油箱盖门。"
+    },
+    {
+      "en": "He twists off the round gas cap and hangs it on the hook.",
+      "zh": "他拧开圆圆的油箱盖，把它挂在挂钩上。"
+    },
+    {
+      "en": "He lifts the heavy nozzle from the pump.",
+      "zh": "他从油泵上提起沉重的加油枪。"
+    },
+    {
+      "en": "He pushes the nozzle firmly into the tank.",
+      "zh": "他把加油枪稳稳地插进油箱口。"
+    },
+    {
+      "en": "He squeezes the trigger and the fuel flows in quietly.",
+      "zh": "他扣动扳机，燃油静静地流进去。"
+    },
+    {
+      "en": "When the tank is full, the nozzle clicks off automatically.",
+      "zh": "油箱加满时，加油枪会自动咔哒一声跳停。"
+    },
+    {
+      "en": "He pulls the nozzle out carefully and hangs it back up.",
+      "zh": "他小心地拔出加油枪，把它挂回原处。"
+    },
+    {
+      "en": "He screws the cap on tightly and shuts the fuel door.",
+      "zh": "他把油箱盖拧紧，关上油箱盖门。"
+    },
+    {
+      "en": "Finally, he starts the engine and drives away happily.",
+      "zh": "最后，他发动汽车，开心地开走了。"
+    }
+  ]
+}

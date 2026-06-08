@@ -1,0 +1,70 @@
+{
+  "uid": "s3-e14",
+  "sid": "s3",
+  "u": "e14",
+  "custom": true,
+  "title": {
+    "en": "Setting an Alarm for the Morning",
+    "zh": "设置早晨的闹钟"
+  },
+  "tense": "Simple Future",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Dan will yawn and decide it is finally time for bed.",
+      "zh": "丹会打个哈欠，决定终于该睡觉了。"
+    },
+    {
+      "en": "He will think about his early meeting tomorrow.",
+      "zh": "他会想起明天一大早的会议。"
+    },
+    {
+      "en": "He will pick a sensible wake-up time of six thirty.",
+      "zh": "他会选一个合理的起床时间——六点半。"
+    },
+    {
+      "en": "He will pick up his phone from the desk.",
+      "zh": "他会从书桌上拿起手机。"
+    },
+    {
+      "en": "He will unlock the screen and open the clock app.",
+      "zh": "他会解锁屏幕，打开时钟应用。"
+    },
+    {
+      "en": "He will tap the small plus button to add a new alarm.",
+      "zh": "他会点一下小小的加号按钮，添加一个新闹钟。"
+    },
+    {
+      "en": "He will scroll the dial carefully to six thirty.",
+      "zh": "他会仔细地把表盘滚动到六点半。"
+    },
+    {
+      "en": "He will choose a gentle ringtone instead of a loud one.",
+      "zh": "他会选一个轻柔的铃声，而不是刺耳的那种。"
+    },
+    {
+      "en": "He will turn on the daily repeat so it rings every weekday.",
+      "zh": "他会打开每日重复，这样它每个工作日都会响。"
+    },
+    {
+      "en": "He will save the alarm and check that it is switched on.",
+      "zh": "他会保存闹钟，并确认它已经开启。"
+    },
+    {
+      "en": "He will plug the charging cable into the bottom of the phone.",
+      "zh": "他会把充电线插到手机底部。"
+    },
+    {
+      "en": "He will set the phone face down on the nightstand by the bed.",
+      "zh": "他会把手机正面朝下放在床边的床头柜上。"
+    },
+    {
+      "en": "He will lie down quietly and pull up the warm blanket.",
+      "zh": "他会安静地躺下，拉上温暖的被子。"
+    },
+    {
+      "en": "He will close his eyes, knowing the alarm will wake him on time.",
+      "zh": "他会闭上眼睛，知道闹钟会准时叫醒他。"
+    }
+  ]
+}

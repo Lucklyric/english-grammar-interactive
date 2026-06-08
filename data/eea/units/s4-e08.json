@@ -1,0 +1,70 @@
+{
+  "uid": "s4-e08",
+  "sid": "s4",
+  "u": "e08",
+  "custom": true,
+  "title": {
+    "en": "Paying the Bills",
+    "zh": "支付账单"
+  },
+  "tense": "Simple Present",
+  "level": 3,
+  "phrases": [
+    {
+      "en": "On the first Saturday of each month, Dan pays the bills.",
+      "zh": "每个月的第一个星期六，丹支付账单。"
+    },
+    {
+      "en": "He collects the envelopes from the mailbox by the front door.",
+      "zh": "他从前门旁的邮箱里取出信封。"
+    },
+    {
+      "en": "He sits down at the kitchen table with a sharp letter opener.",
+      "zh": "他拿着一把锋利的拆信刀，在厨房桌旁坐下。"
+    },
+    {
+      "en": "He slits open each envelope and pulls out the folded bill.",
+      "zh": "他划开每个信封，抽出折叠好的账单。"
+    },
+    {
+      "en": "He reads the electric bill and the water bill carefully.",
+      "zh": "他仔细阅读电费单和水费单。"
+    },
+    {
+      "en": "He checks each amount to make sure the total is correct.",
+      "zh": "他核对每一笔金额，确认总数无误。"
+    },
+    {
+      "en": "He circles the due date on every statement with a red pen.",
+      "zh": "他用红笔把每张账单上的到期日圈出来。"
+    },
+    {
+      "en": "He sorts the bills into a neat pile by date.",
+      "zh": "他按日期把账单整齐地分成一摞。"
+    },
+    {
+      "en": "He opens his laptop and logs in to the bank's website.",
+      "zh": "他打开笔记本电脑，登录银行网站。"
+    },
+    {
+      "en": "He types in the account number and the exact amount.",
+      "zh": "他输入账号和准确的金额。"
+    },
+    {
+      "en": "He clicks the button and pays each bill online.",
+      "zh": "他点击按钮，在线支付每一笔账单。"
+    },
+    {
+      "en": "He prints out a receipt for every payment.",
+      "zh": "他为每一笔付款打印一张收据。"
+    },
+    {
+      "en": "He files the paid receipts neatly in a labeled folder.",
+      "zh": "他把已付的收据整齐地归入贴好标签的文件夹里。"
+    },
+    {
+      "en": "Finally, he tosses the empty envelopes into the recycling bin.",
+      "zh": "最后，他把空信封扔进回收箱。"
+    }
+  ]
+}

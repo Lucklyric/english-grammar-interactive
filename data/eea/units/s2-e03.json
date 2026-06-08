@@ -1,0 +1,66 @@
+{
+  "uid": "s2-e03",
+  "sid": "s2",
+  "u": "e03",
+  "custom": true,
+  "title": {
+    "en": "Crossing the Street",
+    "zh": "过马路"
+  },
+  "tense": "Simple Past",
+  "level": 1,
+  "phrases": [
+    {
+      "en": "Dan walked to the corner of the busy street.",
+      "zh": "丹走到这条繁忙街道的拐角处。"
+    },
+    {
+      "en": "He stopped at the curb near the crosswalk.",
+      "zh": "他在人行横道旁的路边停了下来。"
+    },
+    {
+      "en": "He pressed the crosswalk button on the pole.",
+      "zh": "他按下了柱子上的过街按钮。"
+    },
+    {
+      "en": "The light still showed a red hand.",
+      "zh": "信号灯还亮着红色的手势。"
+    },
+    {
+      "en": "He waited patiently for the walk signal.",
+      "zh": "他耐心地等待人行信号。"
+    },
+    {
+      "en": "Soon the signal changed to a green walking person.",
+      "zh": "不久信号变成了绿色的行人图案。"
+    },
+    {
+      "en": "Dan looked carefully to his left.",
+      "zh": "丹仔细地朝左边看。"
+    },
+    {
+      "en": "Then he looked to his right.",
+      "zh": "然后他又朝右边看。"
+    },
+    {
+      "en": "He checked for cars that were turning at the corner.",
+      "zh": "他留意在拐角处转弯的车辆。"
+    },
+    {
+      "en": "A driver kindly waved him across.",
+      "zh": "一位司机友好地挥手让他先过。"
+    },
+    {
+      "en": "Dan stepped off the curb and crossed within the white lines.",
+      "zh": "丹迈下路边，沿着白线之间过了马路。"
+    },
+    {
+      "en": "He walked quickly but stayed calm.",
+      "zh": "他走得很快，但保持镇定。"
+    },
+    {
+      "en": "Finally, he reached the other side safely.",
+      "zh": "最后，他安全地到达了马路对面。"
+    }
+  ]
+}

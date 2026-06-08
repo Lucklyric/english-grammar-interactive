@@ -1,0 +1,62 @@
+{
+  "uid": "s3-e01",
+  "sid": "s3",
+  "u": "e01",
+  "custom": true,
+  "title": {
+    "en": "Changing into Comfortable Clothes",
+    "zh": "换上舒适的家居服"
+  },
+  "tense": "Simple Past",
+  "level": 1,
+  "phrases": [
+    {
+      "en": "Dan got home tired after a long day at work.",
+      "zh": "上了一整天班，丹拖着疲惫的身子回到了家。"
+    },
+    {
+      "en": "He went straight into his bedroom.",
+      "zh": "他径直走进了卧室。"
+    },
+    {
+      "en": "He loosened his tie and pulled it off.",
+      "zh": "他松开领带，把它摘了下来。"
+    },
+    {
+      "en": "Then, he unbuttoned his stiff dress shirt.",
+      "zh": "然后，他解开了那件硬挺的衬衫。"
+    },
+    {
+      "en": "He took off his work clothes carefully.",
+      "zh": "他小心地脱下了工作时穿的衣服。"
+    },
+    {
+      "en": "He pulled on a soft pair of loungewear.",
+      "zh": "他套上了一套柔软的家居服。"
+    },
+    {
+      "en": "The cotton fabric felt warm and cozy.",
+      "zh": "棉质的布料摸起来又暖和又舒服。"
+    },
+    {
+      "en": "He smoothed the wrinkles out of his shirt.",
+      "zh": "他把衬衫上的褶皱抚平。"
+    },
+    {
+      "en": "He hung the outfit up neatly in the closet.",
+      "zh": "他把那身衣服整齐地挂进了衣柜。"
+    },
+    {
+      "en": "He dropped his dirty socks into the laundry basket.",
+      "zh": "他把脏袜子扔进了洗衣篮。"
+    },
+    {
+      "en": "Then, he slid his bare feet into warm slippers.",
+      "zh": "然后，他把光脚伸进了温暖的拖鞋里。"
+    },
+    {
+      "en": "Finally, he felt relaxed and ready to unwind.",
+      "zh": "终于，他感到放松，准备好好歇一歇了。"
+    }
+  ]
+}

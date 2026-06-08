@@ -1,0 +1,70 @@
+{
+  "uid": "s2-e07",
+  "sid": "s2",
+  "u": "e07",
+  "custom": true,
+  "title": {
+    "en": "Buying a Ticket from a Machine",
+    "zh": "用售票机买票"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Dan walked up to the ticket machine at the station.",
+      "zh": "丹走到车站的售票机前。"
+    },
+    {
+      "en": "He looked at the bright touch screen.",
+      "zh": "他看着明亮的触摸屏。"
+    },
+    {
+      "en": "He tapped the flag to choose English.",
+      "zh": "他点了国旗图标，选择了英语。"
+    },
+    {
+      "en": "The instructions appeared clearly on the screen.",
+      "zh": "操作说明清楚地显示在屏幕上。"
+    },
+    {
+      "en": "He selected his destination from the list of stations.",
+      "zh": "他从车站列表里选择了目的地。"
+    },
+    {
+      "en": "He pressed the button for a single ticket.",
+      "zh": "他按下了单程票的按钮。"
+    },
+    {
+      "en": "He picked the number of tickets he needed.",
+      "zh": "他选择了所需的车票数量。"
+    },
+    {
+      "en": "The machine showed the total fare.",
+      "zh": "机器显示了总票价。"
+    },
+    {
+      "en": "He dropped a few coins into the slot.",
+      "zh": "他往投币口投了几枚硬币。"
+    },
+    {
+      "en": "Then he tapped his card on the reader to pay the rest.",
+      "zh": "然后他把卡片轻触读卡器，付清了余款。"
+    },
+    {
+      "en": "The machine printed his ticket with a soft hum.",
+      "zh": "机器轻轻嗡嗡作响，打印出了他的车票。"
+    },
+    {
+      "en": "He carefully collected the ticket and his change.",
+      "zh": "他小心地取走了车票和找零。"
+    },
+    {
+      "en": "He put the ticket safely in his pocket.",
+      "zh": "他把车票稳妥地放进口袋。"
+    },
+    {
+      "en": "Finally, he walked toward the platform.",
+      "zh": "最后，他朝站台走去。"
+    }
+  ]
+}

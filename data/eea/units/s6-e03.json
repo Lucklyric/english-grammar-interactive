@@ -1,0 +1,70 @@
+{
+  "uid": "s6-e03",
+  "sid": "s6",
+  "u": "e03",
+  "custom": true,
+  "title": {
+    "en": "Going Bowling",
+    "zh": "去打保龄球"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Dan and his friends drive to the bowling alley.",
+      "zh": "丹和他的朋友们开车去保龄球馆。"
+    },
+    {
+      "en": "They pay for one lane at the front desk.",
+      "zh": "他们在前台付钱租了一条球道。"
+    },
+    {
+      "en": "Dan rents a pair of smooth bowling shoes.",
+      "zh": "丹租了一双光滑的保龄球鞋。"
+    },
+    {
+      "en": "He puts on the shoes and ties them tightly.",
+      "zh": "他穿上鞋子，把鞋带系紧。"
+    },
+    {
+      "en": "Each friend picks a heavy ball from the rack.",
+      "zh": "每个朋友从球架上挑了一个沉重的球。"
+    },
+    {
+      "en": "Dan slides his fingers into the three holes.",
+      "zh": "丹把手指插进球上的三个孔里。"
+    },
+    {
+      "en": "They type their names into the score screen.",
+      "zh": "他们把名字输进计分屏幕里。"
+    },
+    {
+      "en": "Dan takes the first turn and steps up to the line.",
+      "zh": "丹第一个上场，走到犯规线前。"
+    },
+    {
+      "en": "He swings his arm back and rolls the ball quickly.",
+      "zh": "他向后摆臂，迅速把球滚了出去。"
+    },
+    {
+      "en": "The ball rolls down the lane and knocks down the pins.",
+      "zh": "球沿着球道滚下去，把球瓶撞倒了。"
+    },
+    {
+      "en": "They take turns and cheer for every good throw.",
+      "zh": "他们轮流上场，为每次漂亮的投球欢呼。"
+    },
+    {
+      "en": "They watch their points go up on the score screen.",
+      "zh": "他们看着自己的分数在计分屏幕上往上涨。"
+    },
+    {
+      "en": "Dan gets a strike and high-fives his friends.",
+      "zh": "丹打出了全中，和朋友们击掌庆祝。"
+    },
+    {
+      "en": "At the end, they return the shoes and go home happy.",
+      "zh": "最后，他们归还了鞋子，开心地回家了。"
+    }
+  ]
+}

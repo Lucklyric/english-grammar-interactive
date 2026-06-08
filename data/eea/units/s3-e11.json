@@ -1,0 +1,70 @@
+{
+  "uid": "s3-e11",
+  "sid": "s3",
+  "u": "e11",
+  "custom": true,
+  "title": {
+    "en": "Playing a Board Game with Family",
+    "zh": "和家人玩桌游"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "After dinner, Kate took the board game down from the shelf.",
+      "zh": "晚饭后，凯特从架子上取下了那盒桌游。"
+    },
+    {
+      "en": "She lifted the lid and unfolded the game board on the table.",
+      "zh": "她打开盒盖，把游戏棋盘在桌上摊开。"
+    },
+    {
+      "en": "Her family gathered around the table and pulled up their chairs.",
+      "zh": "她的家人围到桌边，把椅子拉了过来。"
+    },
+    {
+      "en": "Kate sorted the colorful pieces into small piles.",
+      "zh": "凯特把五颜六色的棋子分成了几小堆。"
+    },
+    {
+      "en": "She dealt the play money evenly to each player.",
+      "zh": "她把游戏纸币平均发给了每位玩家。"
+    },
+    {
+      "en": "Everyone chose a token and placed it on the starting square.",
+      "zh": "每个人都挑了一个棋子，放在了起点格上。"
+    },
+    {
+      "en": "Dad read the rules aloud so nobody felt confused.",
+      "zh": "爸爸大声念了规则，这样大家就不会一头雾水了。"
+    },
+    {
+      "en": "The youngest player rolled the dice first.",
+      "zh": "年纪最小的玩家先掷了骰子。"
+    },
+    {
+      "en": "They took turns rolling and moving around the board.",
+      "zh": "他们轮流掷骰子，沿着棋盘往前走。"
+    },
+    {
+      "en": "Kate drew a card and followed the instructions on it.",
+      "zh": "凯特抽了一张卡，按照上面的指示做了。"
+    },
+    {
+      "en": "Everyone laughed loudly when Dad landed on a penalty square.",
+      "zh": "当爸爸走到惩罚格上时，大家都哈哈大笑。"
+    },
+    {
+      "en": "At the end, they tallied the scores carefully.",
+      "zh": "游戏结束时，他们仔细地统计了分数。"
+    },
+    {
+      "en": "Kate won the game with the highest score.",
+      "zh": "凯特以最高分赢得了这局游戏。"
+    },
+    {
+      "en": "Together they packed the pieces away and put the box back.",
+      "zh": "他们一起把棋子收好，把盒子放了回去。"
+    }
+  ]
+}

@@ -162,6 +162,160 @@
           "tense": "Simple Present",
           "level": 1,
           "size": 12
+        },
+        {
+          "uid": "s1-e01",
+          "sid": "s1",
+          "u": "e01",
+          "order": 1001,
+          "custom": true,
+          "title": {
+            "en": "Hitting the Snooze Button",
+            "zh": "按下贪睡按钮"
+          },
+          "tense": "Simple Present",
+          "level": 1,
+          "size": 13
+        },
+        {
+          "uid": "s1-e02",
+          "sid": "s1",
+          "u": "e02",
+          "order": 1002,
+          "custom": true,
+          "title": {
+            "en": "Washing Your Face",
+            "zh": "洗脸"
+          },
+          "tense": "Simple Present",
+          "level": 1,
+          "size": 13
+        },
+        {
+          "uid": "s1-e03",
+          "sid": "s1",
+          "u": "e03",
+          "order": 1003,
+          "custom": true,
+          "title": {
+            "en": "Shaving—A Man",
+            "zh": "刮胡子——男士"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 13
+        },
+        {
+          "uid": "s1-e04",
+          "sid": "s1",
+          "u": "e04",
+          "order": 1004,
+          "custom": true,
+          "title": {
+            "en": "Putting on Makeup",
+            "zh": "化妆"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 12
+        },
+        {
+          "uid": "s1-e05",
+          "sid": "s1",
+          "u": "e05",
+          "order": 1005,
+          "custom": true,
+          "title": {
+            "en": "Drying and Styling Your Hair",
+            "zh": "吹干并打理头发"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 13
+        },
+        {
+          "uid": "s1-e06",
+          "sid": "s1",
+          "u": "e06",
+          "order": 1006,
+          "custom": true,
+          "title": {
+            "en": "Taking Your Morning Vitamins",
+            "zh": "服用早晨的维生素"
+          },
+          "tense": "Simple Present",
+          "level": 1,
+          "size": 13
+        },
+        {
+          "uid": "s1-e07",
+          "sid": "s1",
+          "u": "e07",
+          "order": 1007,
+          "custom": true,
+          "title": {
+            "en": "Checking Your Phone in the Morning",
+            "zh": "早晨查看手机"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 13
+        },
+        {
+          "uid": "s1-e08",
+          "sid": "s1",
+          "u": "e08",
+          "order": 1008,
+          "custom": true,
+          "title": {
+            "en": "Making a Smoothie",
+            "zh": "做奶昔（果昔）"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 13
+        },
+        {
+          "uid": "s1-e09",
+          "sid": "s1",
+          "u": "e09",
+          "order": 1009,
+          "custom": true,
+          "title": {
+            "en": "Feeding the Pet in the Morning",
+            "zh": "早晨喂宠物"
+          },
+          "tense": "Simple Present",
+          "level": 1,
+          "size": 14
+        },
+        {
+          "uid": "s1-e10",
+          "sid": "s1",
+          "u": "e10",
+          "order": 1010,
+          "custom": true,
+          "title": {
+            "en": "Packing Your Bag for the Day",
+            "zh": "整理一天要带的包"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 13
+        },
+        {
+          "uid": "s1-e11",
+          "sid": "s1",
+          "u": "e11",
+          "order": 1011,
+          "custom": true,
+          "title": {
+            "en": "Checking the Weather Before You Go",
+            "zh": "出门前查看天气"
+          },
+          "tense": "Simple Future",
+          "level": 2,
+          "size": 14
         }
       ]
     },
@@ -296,6 +450,118 @@
             "zh": "打网约车"
           },
           "tense": "Simple Present",
+          "level": 2,
+          "size": 13
+        },
+        {
+          "uid": "s2-e01",
+          "sid": "s2",
+          "u": "e01",
+          "order": 1001,
+          "custom": true,
+          "title": {
+            "en": "Riding the Subway",
+            "zh": "坐地铁"
+          },
+          "tense": "Simple Past",
+          "level": 2,
+          "size": 14
+        },
+        {
+          "uid": "s2-e02",
+          "sid": "s2",
+          "u": "e02",
+          "order": 1002,
+          "custom": true,
+          "title": {
+            "en": "Boarding an Airplane",
+            "zh": "登机"
+          },
+          "tense": "Simple Past",
+          "level": 3,
+          "size": 14
+        },
+        {
+          "uid": "s2-e03",
+          "sid": "s2",
+          "u": "e03",
+          "order": 1003,
+          "custom": true,
+          "title": {
+            "en": "Crossing the Street",
+            "zh": "过马路"
+          },
+          "tense": "Simple Past",
+          "level": 1,
+          "size": 13
+        },
+        {
+          "uid": "s2-e04",
+          "sid": "s2",
+          "u": "e04",
+          "order": 1004,
+          "custom": true,
+          "title": {
+            "en": "Filling Up at a Gas Station",
+            "zh": "在加油站加油"
+          },
+          "tense": "Simple Past",
+          "level": 2,
+          "size": 13
+        },
+        {
+          "uid": "s2-e05",
+          "sid": "s2",
+          "u": "e05",
+          "order": 1005,
+          "custom": true,
+          "title": {
+            "en": "Parking the Car",
+            "zh": "停车"
+          },
+          "tense": "Simple Past",
+          "level": 2,
+          "size": 13
+        },
+        {
+          "uid": "s2-e06",
+          "sid": "s2",
+          "u": "e06",
+          "order": 1006,
+          "custom": true,
+          "title": {
+            "en": "Taking a Ferry",
+            "zh": "坐渡轮"
+          },
+          "tense": "Simple Past",
+          "level": 2,
+          "size": 13
+        },
+        {
+          "uid": "s2-e07",
+          "sid": "s2",
+          "u": "e07",
+          "order": 1007,
+          "custom": true,
+          "title": {
+            "en": "Buying a Ticket from a Machine",
+            "zh": "用售票机买票"
+          },
+          "tense": "Simple Past",
+          "level": 2,
+          "size": 14
+        },
+        {
+          "uid": "s2-e08",
+          "sid": "s2",
+          "u": "e08",
+          "order": 1008,
+          "custom": true,
+          "title": {
+            "en": "Asking for Directions",
+            "zh": "问路"
+          },
+          "tense": "Simple Past",
           "level": 2,
           "size": 13
         }
@@ -504,6 +770,202 @@
           "tense": "Simple Past",
           "level": 2,
           "size": 18
+        },
+        {
+          "uid": "s3-e01",
+          "sid": "s3",
+          "u": "e01",
+          "order": 1001,
+          "custom": true,
+          "title": {
+            "en": "Changing into Comfortable Clothes",
+            "zh": "换上舒适的家居服"
+          },
+          "tense": "Simple Past",
+          "level": 1,
+          "size": 12
+        },
+        {
+          "uid": "s3-e02",
+          "sid": "s3",
+          "u": "e02",
+          "order": 1002,
+          "custom": true,
+          "title": {
+            "en": "Making Popcorn",
+            "zh": "做爆米花"
+          },
+          "tense": "Simple Past",
+          "level": 2,
+          "size": 12
+        },
+        {
+          "uid": "s3-e03",
+          "sid": "s3",
+          "u": "e03",
+          "order": 1003,
+          "custom": true,
+          "title": {
+            "en": "Doing a Crossword Puzzle",
+            "zh": "做填字游戏"
+          },
+          "tense": "Simple Past",
+          "level": 2,
+          "size": 12
+        },
+        {
+          "uid": "s3-e04",
+          "sid": "s3",
+          "u": "e04",
+          "order": 1004,
+          "custom": true,
+          "title": {
+            "en": "Baking Cookies",
+            "zh": "烤饼干"
+          },
+          "tense": "Simple Past",
+          "level": 2,
+          "size": 14
+        },
+        {
+          "uid": "s3-e05",
+          "sid": "s3",
+          "u": "e05",
+          "order": 1005,
+          "custom": true,
+          "title": {
+            "en": "Doing Evening Stretches",
+            "zh": "做晚间拉伸"
+          },
+          "tense": "Simple Past",
+          "level": 2,
+          "size": 12
+        },
+        {
+          "uid": "s3-e06",
+          "sid": "s3",
+          "u": "e06",
+          "order": 1006,
+          "custom": true,
+          "title": {
+            "en": "Taking a Relaxing Bath",
+            "zh": "泡个轻松的澡"
+          },
+          "tense": "Simple Past",
+          "level": 2,
+          "size": 12
+        },
+        {
+          "uid": "s3-e07",
+          "sid": "s3",
+          "u": "e07",
+          "order": 1007,
+          "custom": true,
+          "title": {
+            "en": "Playing a Video Game",
+            "zh": "玩电子游戏"
+          },
+          "tense": "Simple Past",
+          "level": 2,
+          "size": 12
+        },
+        {
+          "uid": "s3-e08",
+          "sid": "s3",
+          "u": "e08",
+          "order": 1008,
+          "custom": true,
+          "title": {
+            "en": "Doing a Jigsaw Puzzle",
+            "zh": "拼拼图"
+          },
+          "tense": "Simple Past",
+          "level": 2,
+          "size": 12
+        },
+        {
+          "uid": "s3-e09",
+          "sid": "s3",
+          "u": "e09",
+          "order": 1009,
+          "custom": true,
+          "title": {
+            "en": "Practicing the Guitar",
+            "zh": "练习吉他"
+          },
+          "tense": "Simple Past",
+          "level": 2,
+          "size": 12
+        },
+        {
+          "uid": "s3-e10",
+          "sid": "s3",
+          "u": "e10",
+          "order": 1010,
+          "custom": true,
+          "title": {
+            "en": "Lighting a Candle and Relaxing",
+            "zh": "点蜡烛放松"
+          },
+          "tense": "Simple Past",
+          "level": 2,
+          "size": 13
+        },
+        {
+          "uid": "s3-e11",
+          "sid": "s3",
+          "u": "e11",
+          "order": 1011,
+          "custom": true,
+          "title": {
+            "en": "Playing a Board Game with Family",
+            "zh": "和家人玩桌游"
+          },
+          "tense": "Simple Past",
+          "level": 2,
+          "size": 14
+        },
+        {
+          "uid": "s3-e12",
+          "sid": "s3",
+          "u": "e12",
+          "order": 1012,
+          "custom": true,
+          "title": {
+            "en": "Calling a Friend",
+            "zh": "给朋友打电话"
+          },
+          "tense": "Simple Past",
+          "level": 1,
+          "size": 14
+        },
+        {
+          "uid": "s3-e13",
+          "sid": "s3",
+          "u": "e13",
+          "order": 1013,
+          "custom": true,
+          "title": {
+            "en": "Writing in a Journal",
+            "zh": "写日记"
+          },
+          "tense": "Simple Past",
+          "level": 2,
+          "size": 13
+        },
+        {
+          "uid": "s3-e14",
+          "sid": "s3",
+          "u": "e14",
+          "order": 1014,
+          "custom": true,
+          "title": {
+            "en": "Setting an Alarm for the Morning",
+            "zh": "设置早晨的闹钟"
+          },
+          "tense": "Simple Future",
+          "level": 2,
+          "size": 14
         }
       ]
     },
@@ -654,6 +1116,146 @@
           "tense": "Simple Past",
           "level": 3,
           "size": 11
+        },
+        {
+          "uid": "s4-e01",
+          "sid": "s4",
+          "u": "e01",
+          "order": 1001,
+          "custom": true,
+          "title": {
+            "en": "Loading the Dishwasher",
+            "zh": "使用洗碗机"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 12
+        },
+        {
+          "uid": "s4-e02",
+          "sid": "s4",
+          "u": "e02",
+          "order": 1002,
+          "custom": true,
+          "title": {
+            "en": "Taking Out the Trash and Recycling",
+            "zh": "倒垃圾和回收"
+          },
+          "tense": "Simple Present",
+          "level": 1,
+          "size": 14
+        },
+        {
+          "uid": "s4-e03",
+          "sid": "s4",
+          "u": "e03",
+          "order": 1003,
+          "custom": true,
+          "title": {
+            "en": "Changing a Light Bulb",
+            "zh": "更换灯泡"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 12
+        },
+        {
+          "uid": "s4-e04",
+          "sid": "s4",
+          "u": "e04",
+          "order": 1004,
+          "custom": true,
+          "title": {
+            "en": "Ironing a Shirt",
+            "zh": "熨衬衫"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 13
+        },
+        {
+          "uid": "s4-e05",
+          "sid": "s4",
+          "u": "e05",
+          "order": 1005,
+          "custom": true,
+          "title": {
+            "en": "Watering the Houseplants",
+            "zh": "给室内植物浇水"
+          },
+          "tense": "Simple Present",
+          "level": 1,
+          "size": 12
+        },
+        {
+          "uid": "s4-e06",
+          "sid": "s4",
+          "u": "e06",
+          "order": 1006,
+          "custom": true,
+          "title": {
+            "en": "Mowing the Lawn",
+            "zh": "修剪草坪"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 14
+        },
+        {
+          "uid": "s4-e07",
+          "sid": "s4",
+          "u": "e07",
+          "order": 1007,
+          "custom": true,
+          "title": {
+            "en": "Sewing On a Button",
+            "zh": "缝纽扣"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 12
+        },
+        {
+          "uid": "s4-e08",
+          "sid": "s4",
+          "u": "e08",
+          "order": 1008,
+          "custom": true,
+          "title": {
+            "en": "Paying the Bills",
+            "zh": "支付账单"
+          },
+          "tense": "Simple Present",
+          "level": 3,
+          "size": 14
+        },
+        {
+          "uid": "s4-e09",
+          "sid": "s4",
+          "u": "e09",
+          "order": 1009,
+          "custom": true,
+          "title": {
+            "en": "Hanging a Picture on the Wall",
+            "zh": "在墙上挂画"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 12
+        },
+        {
+          "uid": "s4-e10",
+          "sid": "s4",
+          "u": "e10",
+          "order": 1010,
+          "custom": true,
+          "title": {
+            "en": "Filling the Car with Gas",
+            "zh": "给汽车加油"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 14
         }
       ]
     },
@@ -792,6 +1394,20 @@
           "size": 10
         },
         {
+          "uid": "s5-e01",
+          "sid": "s5",
+          "u": "e01",
+          "order": 1001,
+          "custom": true,
+          "title": {
+            "en": "Replying to an Email",
+            "zh": "回复电子邮件"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 13
+        },
+        {
           "uid": "s5-c02",
           "sid": "s5",
           "u": "c02",
@@ -804,6 +1420,118 @@
           "tense": "Simple Present",
           "level": 2,
           "size": 13
+        },
+        {
+          "uid": "s5-e02",
+          "sid": "s5",
+          "u": "e02",
+          "order": 1002,
+          "custom": true,
+          "title": {
+            "en": "Forwarding an Email",
+            "zh": "转发电子邮件"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 12
+        },
+        {
+          "uid": "s5-e03",
+          "sid": "s5",
+          "u": "e03",
+          "order": 1003,
+          "custom": true,
+          "title": {
+            "en": "Sending a Voice Message",
+            "zh": "发送语音消息"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 14
+        },
+        {
+          "uid": "s5-e04",
+          "sid": "s5",
+          "u": "e04",
+          "order": 1004,
+          "custom": true,
+          "title": {
+            "en": "Chatting in a Group Chat",
+            "zh": "在群聊中聊天"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 13
+        },
+        {
+          "uid": "s5-e05",
+          "sid": "s5",
+          "u": "e05",
+          "order": 1005,
+          "custom": true,
+          "title": {
+            "en": "Posting on Social Media",
+            "zh": "发布社交媒体动态"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 13
+        },
+        {
+          "uid": "s5-e06",
+          "sid": "s5",
+          "u": "e06",
+          "order": 1006,
+          "custom": true,
+          "title": {
+            "en": "Calling to Make an Appointment",
+            "zh": "打电话预约"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 12
+        },
+        {
+          "uid": "s5-e07",
+          "sid": "s5",
+          "u": "e07",
+          "order": 1007,
+          "custom": true,
+          "title": {
+            "en": "Sending a Greeting Card",
+            "zh": "寄贺卡"
+          },
+          "tense": "Simple Past",
+          "level": 2,
+          "size": 13
+        },
+        {
+          "uid": "s5-e08",
+          "sid": "s5",
+          "u": "e08",
+          "order": 1008,
+          "custom": true,
+          "title": {
+            "en": "Sending a Package",
+            "zh": "寄包裹"
+          },
+          "tense": "Simple Past",
+          "level": 3,
+          "size": 14
+        },
+        {
+          "uid": "s5-e09",
+          "sid": "s5",
+          "u": "e09",
+          "order": 1009,
+          "custom": true,
+          "title": {
+            "en": "Faxing a Document",
+            "zh": "传真文件"
+          },
+          "tense": "Simple Present",
+          "level": 3,
+          "size": 14
         }
       ]
     },
@@ -886,6 +1614,34 @@
           "size": 16
         },
         {
+          "uid": "s6-e01",
+          "sid": "s6",
+          "u": "e01",
+          "order": 1001,
+          "custom": true,
+          "title": {
+            "en": "Going to a Concert",
+            "zh": "去看演唱会"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 14
+        },
+        {
+          "uid": "s6-e02",
+          "sid": "s6",
+          "u": "e02",
+          "order": 1002,
+          "custom": true,
+          "title": {
+            "en": "Hosting a Game Night",
+            "zh": "举办游戏之夜"
+          },
+          "tense": "Simple Present",
+          "level": 1,
+          "size": 14
+        },
+        {
           "uid": "s6-c03",
           "sid": "s6",
           "u": "c03",
@@ -894,6 +1650,48 @@
           "title": {
             "en": "Ordering Food Delivery",
             "zh": "点外卖"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 14
+        },
+        {
+          "uid": "s6-e03",
+          "sid": "s6",
+          "u": "e03",
+          "order": 1003,
+          "custom": true,
+          "title": {
+            "en": "Going Bowling",
+            "zh": "去打保龄球"
+          },
+          "tense": "Simple Present",
+          "level": 2,
+          "size": 14
+        },
+        {
+          "uid": "s6-e04",
+          "sid": "s6",
+          "u": "e04",
+          "order": 1004,
+          "custom": true,
+          "title": {
+            "en": "Having a Picnic in the Park",
+            "zh": "在公园野餐"
+          },
+          "tense": "Simple Present",
+          "level": 1,
+          "size": 14
+        },
+        {
+          "uid": "s6-e05",
+          "sid": "s6",
+          "u": "e05",
+          "order": 1005,
+          "custom": true,
+          "title": {
+            "en": "Singing at Karaoke Night",
+            "zh": "去唱卡拉OK"
           },
           "tense": "Simple Present",
           "level": 2,

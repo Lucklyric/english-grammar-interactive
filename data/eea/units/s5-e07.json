@@ -1,0 +1,66 @@
+{
+  "uid": "s5-e07",
+  "sid": "s5",
+  "u": "e07",
+  "custom": true,
+  "title": {
+    "en": "Sending a Greeting Card",
+    "zh": "寄贺卡"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Kate walked into the card shop after lunch.",
+      "zh": "凯特午饭后走进了贺卡店。"
+    },
+    {
+      "en": "She browsed the colorful cards on the shelf.",
+      "zh": "她浏览着货架上五颜六色的贺卡。"
+    },
+    {
+      "en": "She picked out a pretty birthday card for her friend.",
+      "zh": "她为朋友挑选了一张漂亮的生日贺卡。"
+    },
+    {
+      "en": "She paid for it at the counter and took it home.",
+      "zh": "她在柜台付了钱，然后把它带回了家。"
+    },
+    {
+      "en": "At her desk, she opened the card carefully.",
+      "zh": "在书桌前，她小心地翻开了贺卡。"
+    },
+    {
+      "en": "She wrote a warm message inside with a blue pen.",
+      "zh": "她用一支蓝色的笔在里面写了一段温馨的祝福。"
+    },
+    {
+      "en": "She signed her name neatly at the bottom.",
+      "zh": "她在底部工整地签上了自己的名字。"
+    },
+    {
+      "en": "She slipped the card gently into the envelope.",
+      "zh": "她把贺卡轻轻地放进了信封。"
+    },
+    {
+      "en": "She licked the flap and sealed the envelope tightly.",
+      "zh": "她舔了舔封口，把信封封得严严实实。"
+    },
+    {
+      "en": "She wrote her friend's address on the front.",
+      "zh": "她在信封正面写上了朋友的地址。"
+    },
+    {
+      "en": "She stuck a colorful stamp in the top corner.",
+      "zh": "她在右上角贴上了一张彩色的邮票。"
+    },
+    {
+      "en": "She walked to the nearest mailbox down the street.",
+      "zh": "她走到街那头最近的邮筒旁。"
+    },
+    {
+      "en": "Finally, she dropped the card into the slot.",
+      "zh": "最后，她把贺卡投进了投递口。"
+    }
+  ]
+}

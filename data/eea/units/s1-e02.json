@@ -1,0 +1,66 @@
+{
+  "uid": "s1-e02",
+  "sid": "s1",
+  "u": "e02",
+  "custom": true,
+  "title": {
+    "en": "Washing Your Face",
+    "zh": "洗脸"
+  },
+  "tense": "Simple Present",
+  "level": 1,
+  "phrases": [
+    {
+      "en": "Kate stands in front of the bathroom sink.",
+      "zh": "凯特站在卫生间的洗手池前。"
+    },
+    {
+      "en": "She turns on the tap.",
+      "zh": "她打开水龙头。"
+    },
+    {
+      "en": "She waits until the water feels warm.",
+      "zh": "她等到水变得温热。"
+    },
+    {
+      "en": "She ties her hair back so it stays dry.",
+      "zh": "她把头发扎到后面，让它保持干燥。"
+    },
+    {
+      "en": "She cups her hands and splashes water on her face.",
+      "zh": "她把手掌弯成杯状，往脸上撩水。"
+    },
+    {
+      "en": "She squeezes a little cleanser onto her fingertips.",
+      "zh": "她挤一点洁面乳到指尖上。"
+    },
+    {
+      "en": "She gently works the cleanser into her skin.",
+      "zh": "她轻轻地把洁面乳揉进皮肤里。"
+    },
+    {
+      "en": "She rubs it in small circles around her cheeks and nose.",
+      "zh": "她在脸颊和鼻子周围打小圈揉搓。"
+    },
+    {
+      "en": "She rinses the soap off with clean water.",
+      "zh": "她用清水把肥皂冲掉。"
+    },
+    {
+      "en": "She turns off the tap.",
+      "zh": "她关掉水龙头。"
+    },
+    {
+      "en": "She grabs a soft towel from the rack.",
+      "zh": "她从架子上拿起一条柔软的毛巾。"
+    },
+    {
+      "en": "She gently pats her face dry.",
+      "zh": "她轻轻地把脸拍干。"
+    },
+    {
+      "en": "Now her face feels fresh and clean.",
+      "zh": "现在她的脸感觉清爽又干净。"
+    }
+  ]
+}

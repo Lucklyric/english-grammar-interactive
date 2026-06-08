@@ -1,0 +1,66 @@
+{
+  "uid": "s5-e01",
+  "sid": "s5",
+  "u": "e01",
+  "custom": true,
+  "title": {
+    "en": "Replying to an Email",
+    "zh": "回复电子邮件"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Dan opens his inbox on the computer.",
+      "zh": "丹在电脑上打开他的收件箱。"
+    },
+    {
+      "en": "He sees a new message from his colleague.",
+      "zh": "他看到一封来自同事的新邮件。"
+    },
+    {
+      "en": "He clicks on the email to open it.",
+      "zh": "他点击这封邮件把它打开。"
+    },
+    {
+      "en": "He reads the message carefully from top to bottom.",
+      "zh": "他从头到尾仔细地读这封邮件。"
+    },
+    {
+      "en": "He notices a polite question about the meeting.",
+      "zh": "他注意到一个关于会议的礼貌提问。"
+    },
+    {
+      "en": "He clicks the Reply button at the bottom.",
+      "zh": "他点击底部的回复按钮。"
+    },
+    {
+      "en": "A blank reply box appears on the screen.",
+      "zh": "屏幕上出现一个空白的回复框。"
+    },
+    {
+      "en": "He types a short and friendly answer.",
+      "zh": "他输入一个简短而友好的答复。"
+    },
+    {
+      "en": "He attaches a helpful file to the email.",
+      "zh": "他给邮件添加了一个有用的附件。"
+    },
+    {
+      "en": "He checks his spelling and grammar quickly.",
+      "zh": "他快速检查拼写和语法。"
+    },
+    {
+      "en": "He adds a polite greeting and signs his name.",
+      "zh": "他加上礼貌的问候，并署上自己的名字。"
+    },
+    {
+      "en": "Finally, he clicks the Send button.",
+      "zh": "最后，他点击发送按钮。"
+    },
+    {
+      "en": "The email goes straight to his colleague.",
+      "zh": "这封邮件直接发送到了他同事那里。"
+    }
+  ]
+}

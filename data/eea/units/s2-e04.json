@@ -1,0 +1,66 @@
+{
+  "uid": "s2-e04",
+  "sid": "s2",
+  "u": "e04",
+  "custom": true,
+  "title": {
+    "en": "Filling Up at a Gas Station",
+    "zh": "在加油站加油"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Dan drove into the gas station and pulled up next to the pump.",
+      "zh": "丹开进加油站，把车停在油泵旁边。"
+    },
+    {
+      "en": "He turned off the engine and pulled out his keys.",
+      "zh": "他熄了火，拔出了钥匙。"
+    },
+    {
+      "en": "He climbed out of the car and stretched his legs.",
+      "zh": "他从车里出来，舒展了一下双腿。"
+    },
+    {
+      "en": "He twisted off the fuel cap and set it aside.",
+      "zh": "他拧开油箱盖，把它放在一边。"
+    },
+    {
+      "en": "He slid his bank card into the machine on the pump.",
+      "zh": "他把银行卡插进油泵上的机器里。"
+    },
+    {
+      "en": "He typed in his PIN and waited for the screen to approve it.",
+      "zh": "他输入密码，等着屏幕确认通过。"
+    },
+    {
+      "en": "He pressed the button for regular fuel.",
+      "zh": "他按下了普通汽油的按钮。"
+    },
+    {
+      "en": "He lifted the nozzle and pushed it into the tank.",
+      "zh": "他拿起油枪，把它插进油箱。"
+    },
+    {
+      "en": "He squeezed the trigger and filled the tank slowly.",
+      "zh": "他捏住油枪手柄，慢慢地把油箱加满。"
+    },
+    {
+      "en": "The pump clicked off when the tank was full.",
+      "zh": "油箱加满时，油泵自动停了下来。"
+    },
+    {
+      "en": "He hung the nozzle back on the pump.",
+      "zh": "他把油枪挂回了油泵上。"
+    },
+    {
+      "en": "He screwed the fuel cap on tightly again.",
+      "zh": "他又把油箱盖紧紧地拧上。"
+    },
+    {
+      "en": "Finally, he took the printed receipt and got back in the car.",
+      "zh": "最后，他拿走打印好的收据，回到了车上。"
+    }
+  ]
+}

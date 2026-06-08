@@ -1,0 +1,62 @@
+{
+  "uid": "s3-e02",
+  "sid": "s3",
+  "u": "e02",
+  "custom": true,
+  "title": {
+    "en": "Making Popcorn",
+    "zh": "做爆米花"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Dan grabbed a heavy pot from the cabinet.",
+      "zh": "丹从柜子里拿出一口厚重的锅。"
+    },
+    {
+      "en": "He poured a little oil into the bottom.",
+      "zh": "他往锅底倒了一点油。"
+    },
+    {
+      "en": "He measured out a half cup of dry kernels.",
+      "zh": "他量出了半杯干玉米粒。"
+    },
+    {
+      "en": "He tipped the kernels into the warm oil.",
+      "zh": "他把玉米粒倒进了温热的油里。"
+    },
+    {
+      "en": "He clamped the lid on tightly.",
+      "zh": "他把锅盖紧紧地扣上了。"
+    },
+    {
+      "en": "He turned the burner up to medium heat.",
+      "zh": "他把炉火调到了中火。"
+    },
+    {
+      "en": "He shook the pot gently back and forth.",
+      "zh": "他轻轻地来回晃动着锅。"
+    },
+    {
+      "en": "The kernels popped loudly inside.",
+      "zh": "玉米粒在锅里噼里啪啦地爆开了。"
+    },
+    {
+      "en": "He waited until the popping slowed down.",
+      "zh": "他一直等到爆裂声慢慢停下来。"
+    },
+    {
+      "en": "He dumped the fluffy popcorn into a big bowl.",
+      "zh": "他把蓬松的爆米花倒进了一个大碗里。"
+    },
+    {
+      "en": "He drizzled melted butter over the top.",
+      "zh": "他在上面淋了一些融化的黄油。"
+    },
+    {
+      "en": "He sprinkled a pinch of salt and stirred it well.",
+      "zh": "他撒了一小撮盐，然后把它拌匀了。"
+    }
+  ]
+}

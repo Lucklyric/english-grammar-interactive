@@ -1,0 +1,66 @@
+{
+  "uid": "s5-e04",
+  "sid": "s5",
+  "u": "e04",
+  "custom": true,
+  "title": {
+    "en": "Chatting in a Group Chat",
+    "zh": "在群聊中聊天"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Pam wants to chat with her old college friends.",
+      "zh": "帕姆想和她的老同学们聊天。"
+    },
+    {
+      "en": "She unlocks her phone and opens the chat app.",
+      "zh": "她解锁手机，打开聊天应用。"
+    },
+    {
+      "en": "She taps on the group chat at the top of the list.",
+      "zh": "她点按列表顶部的群聊。"
+    },
+    {
+      "en": "A small red badge shows five new messages.",
+      "zh": "一个红色小标记显示有五条新消息。"
+    },
+    {
+      "en": "She scrolls up slowly and reads them carefully.",
+      "zh": "她慢慢往上滑，仔细地读这些消息。"
+    },
+    {
+      "en": "Her friend Kate asks about the weekend trip.",
+      "zh": "她的朋友凯特在问周末出游的事。"
+    },
+    {
+      "en": "Pam taps the text box at the bottom of the screen.",
+      "zh": "帕姆点按屏幕底部的文本框。"
+    },
+    {
+      "en": "She types a short and friendly reply.",
+      "zh": "她打了一条简短又友好的回复。"
+    },
+    {
+      "en": "She wants to sound happy, so she adds a smiling emoji.",
+      "zh": "她想让语气显得开心，于是加了一个微笑表情。"
+    },
+    {
+      "en": "She reads her message again to check the spelling.",
+      "zh": "她又把消息读了一遍，检查拼写。"
+    },
+    {
+      "en": "Then, she taps the send button.",
+      "zh": "然后，她点按发送按钮。"
+    },
+    {
+      "en": "Her reply appears in the chat right away.",
+      "zh": "她的回复立刻出现在群聊里。"
+    },
+    {
+      "en": "Her friends quickly answer with a thumbs-up.",
+      "zh": "朋友们很快回了一个大拇指。"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid": "s3-e06",
+  "sid": "s3",
+  "u": "e06",
+  "custom": true,
+  "title": {
+    "en": "Taking a Relaxing Bath",
+    "zh": "泡个轻松的澡"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "After a long day, Pam decided to soak in the tub.",
+      "zh": "忙碌了一整天后，帕姆决定泡个澡放松一下。"
+    },
+    {
+      "en": "She turned on the faucet and let the warm water run.",
+      "zh": "她拧开水龙头，让温水缓缓流进浴缸。"
+    },
+    {
+      "en": "She pushed the rubber plug firmly into the drain.",
+      "zh": "她把橡胶塞牢牢地按进了排水口。"
+    },
+    {
+      "en": "She poured a capful of bubble bath under the running tap.",
+      "zh": "她在流动的水龙头下倒了一盖泡泡浴液。"
+    },
+    {
+      "en": "She swirled the water gently until soft bubbles formed.",
+      "zh": "她轻轻搅动水面，直到泛起绵密的泡沫。"
+    },
+    {
+      "en": "She lit a scented candle on the edge of the bathtub.",
+      "zh": "她在浴缸边点上了一支香薰蜡烛。"
+    },
+    {
+      "en": "She dimmed the lights to make the room feel soothing.",
+      "zh": "她把灯光调暗，让浴室显得格外舒缓。"
+    },
+    {
+      "en": "She tested the temperature carefully with her fingertips.",
+      "zh": "她用指尖小心地试了试水温。"
+    },
+    {
+      "en": "She slowly lowered herself into the warm, foamy water.",
+      "zh": "她慢慢地把自己浸入温热的泡沫水中。"
+    },
+    {
+      "en": "She leaned back and closed her eyes for a while.",
+      "zh": "她向后靠着，闭上眼睛休息了一会儿。"
+    },
+    {
+      "en": "She finally pulled the plug and let the water drain away.",
+      "zh": "她终于拔起塞子，让水缓缓流走。"
+    },
+    {
+      "en": "She wrapped herself snugly in a soft, dry towel.",
+      "zh": "她用一条柔软的干毛巾把自己舒舒服服地裹了起来。"
+    }
+  ]
+}

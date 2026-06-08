@@ -1,0 +1,70 @@
+{
+  "uid": "s6-e01",
+  "sid": "s6",
+  "u": "e01",
+  "custom": true,
+  "title": {
+    "en": "Going to a Concert",
+    "zh": "去看演唱会"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Kate buys two tickets online for the rock concert.",
+      "zh": "凯特在网上为这场摇滚演唱会买了两张票。"
+    },
+    {
+      "en": "She saves the digital tickets carefully on her phone.",
+      "zh": "她把电子票小心地存在手机里。"
+    },
+    {
+      "en": "On Friday night, she takes a bus to the busy arena.",
+      "zh": "周五晚上，她坐公交车前往热闹的体育馆。"
+    },
+    {
+      "en": "She meets her friends near the bright main entrance.",
+      "zh": "她在灯火通明的正门附近和朋友们碰面。"
+    },
+    {
+      "en": "A guard scans her ticket and checks her small bag.",
+      "zh": "保安扫描她的票，并检查她的小包。"
+    },
+    {
+      "en": "They walk slowly through the crowded lobby together.",
+      "zh": "他们一起慢慢穿过拥挤的大厅。"
+    },
+    {
+      "en": "Kate finds their seats in the lower section.",
+      "zh": "凯特在低层区找到了他们的座位。"
+    },
+    {
+      "en": "The lights go down, and the loud music starts.",
+      "zh": "灯光暗下来，响亮的音乐随即响起。"
+    },
+    {
+      "en": "The band walks onto the stage and waves to the fans.",
+      "zh": "乐队走上舞台，向歌迷们挥手。"
+    },
+    {
+      "en": "Kate cheers loudly and claps for her favorite singer.",
+      "zh": "凯特大声欢呼，为她最喜欢的歌手鼓掌。"
+    },
+    {
+      "en": "She sings along happily with every popular song.",
+      "zh": "她开心地跟着每一首流行歌曲一起唱。"
+    },
+    {
+      "en": "Colorful lights flash above the excited audience.",
+      "zh": "五彩的灯光在兴奋的观众头顶闪烁。"
+    },
+    {
+      "en": "After the last song, the friends clap for an encore.",
+      "zh": "最后一首歌结束后，朋友们鼓掌要求返场。"
+    },
+    {
+      "en": "When the show ends, they walk home through the cool night.",
+      "zh": "演出结束后，他们在凉爽的夜色里步行回家。"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid": "s4-e09",
+  "sid": "s4",
+  "u": "e09",
+  "custom": true,
+  "title": {
+    "en": "Hanging a Picture on the Wall",
+    "zh": "在墙上挂画"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "I pick a bare spot on the wall for the picture.",
+      "zh": "我在墙上挑一处空白的地方来挂画。"
+    },
+    {
+      "en": "I hold the frame up and look at it carefully.",
+      "zh": "我把画框举起来，仔细地端详它。"
+    },
+    {
+      "en": "I measure the height with a tape measure.",
+      "zh": "我用卷尺量好高度。"
+    },
+    {
+      "en": "I mark the right spot lightly with a pencil.",
+      "zh": "我用铅笔轻轻地在合适的位置做个记号。"
+    },
+    {
+      "en": "I press the hook against the pencil mark.",
+      "zh": "我把挂钩抵在铅笔记号上。"
+    },
+    {
+      "en": "I tap the nail in gently with a hammer.",
+      "zh": "我用锤子轻轻地把钉子敲进去。"
+    },
+    {
+      "en": "I hammer the nail until it feels firm.",
+      "zh": "我把钉子钉牢，直到它感觉很稳固。"
+    },
+    {
+      "en": "I hang the picture on the hook.",
+      "zh": "我把画挂在挂钩上。"
+    },
+    {
+      "en": "I place a small level on top of the frame.",
+      "zh": "我把一个小水平仪放在画框的顶部。"
+    },
+    {
+      "en": "I slide one side up a little until it looks straight.",
+      "zh": "我把一边稍微往上移，直到它看起来很平直。"
+    },
+    {
+      "en": "I step back and check that the picture is not crooked.",
+      "zh": "我退后一步，检查这幅画是不是歪了。"
+    },
+    {
+      "en": "I wipe the pencil mark off the wall with my finger.",
+      "zh": "我用手指把墙上的铅笔记号擦掉。"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid": "s1-e05",
+  "sid": "s1",
+  "u": "e05",
+  "custom": true,
+  "title": {
+    "en": "Drying and Styling Your Hair",
+    "zh": "吹干并打理头发"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Kate's hair is wet after her shower.",
+      "zh": "凯特洗完澡后头发是湿的。"
+    },
+    {
+      "en": "She wraps a soft towel around her head.",
+      "zh": "她用一条柔软的毛巾把头发包起来。"
+    },
+    {
+      "en": "She gently squeezes the water out of her hair.",
+      "zh": "她轻轻地把头发里的水挤出来。"
+    },
+    {
+      "en": "She rubs it with the towel to soak up the moisture.",
+      "zh": "她用毛巾揉搓头发，把水分吸干。"
+    },
+    {
+      "en": "Then she plugs the blow-dryer into the outlet.",
+      "zh": "然后她把吹风机插进插座。"
+    },
+    {
+      "en": "She switches it on.",
+      "zh": "她打开吹风机。"
+    },
+    {
+      "en": "She moves the warm air slowly over her damp hair.",
+      "zh": "她让暖风缓缓地吹过潮湿的头发。"
+    },
+    {
+      "en": "She dries it completely.",
+      "zh": "她把头发彻底吹干。"
+    },
+    {
+      "en": "She combs it through to remove the tangles.",
+      "zh": "她把头发梳理通顺，解开打结的地方。"
+    },
+    {
+      "en": "She rubs a little product between her palms.",
+      "zh": "她在手掌间抹上一点造型产品。"
+    },
+    {
+      "en": "She works it evenly through her hair.",
+      "zh": "她把它均匀地涂抹在头发上。"
+    },
+    {
+      "en": "She styles her hair neatly into place.",
+      "zh": "她把头发整齐地打理到位。"
+    },
+    {
+      "en": "Finally, she checks her smooth, shiny hair in the mirror.",
+      "zh": "最后，她对着镜子检查她那柔顺亮泽的头发。"
+    }
+  ]
+}

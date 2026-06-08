@@ -1,0 +1,70 @@
+{
+  "uid": "s1-e11",
+  "sid": "s1",
+  "u": "e11",
+  "custom": true,
+  "title": {
+    "en": "Checking the Weather Before You Go",
+    "zh": "出门前查看天气"
+  },
+  "tense": "Simple Future",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Dan will pick up his phone and open the weather app.",
+      "zh": "丹会拿起手机，打开天气应用。"
+    },
+    {
+      "en": "He will tap on today's hourly forecast.",
+      "zh": "他会点开今天的每小时预报。"
+    },
+    {
+      "en": "He will read that the morning will be cold and cloudy.",
+      "zh": "他会看到早上会又冷又阴。"
+    },
+    {
+      "en": "He will see that heavy rain will start around noon.",
+      "zh": "他会看到中午前后会开始下大雨。"
+    },
+    {
+      "en": "He will check the high and low temperatures carefully.",
+      "zh": "他会仔细查看最高温和最低温。"
+    },
+    {
+      "en": "He will decide that the day will feel chilly and wet.",
+      "zh": "他会判断今天会又冷又潮湿。"
+    },
+    {
+      "en": "He will walk over to his closet and look inside.",
+      "zh": "他会走到衣柜前往里看。"
+    },
+    {
+      "en": "He will choose a warm waterproof jacket to wear.",
+      "zh": "他会挑一件保暖防水的外套穿。"
+    },
+    {
+      "en": "He will grab a sturdy umbrella from the stand by the door.",
+      "zh": "他会从门边的伞架上拿一把结实的雨伞。"
+    },
+    {
+      "en": "He will put on thick socks and his rain boots.",
+      "zh": "他会穿上厚袜子和雨靴。"
+    },
+    {
+      "en": "He will wrap a soft scarf snugly around his neck.",
+      "zh": "他会把一条柔软的围巾舒服地绕在脖子上。"
+    },
+    {
+      "en": "He will slip the umbrella into the side of his bag.",
+      "zh": "他会把雨伞插进包的侧袋里。"
+    },
+    {
+      "en": "He will glance outside one more time to be sure.",
+      "zh": "他会再往外看一眼，以防万一。"
+    },
+    {
+      "en": "Then he will step out the door, ready for the rain.",
+      "zh": "然后他会走出家门，做好淋雨的准备。"
+    }
+  ]
+}

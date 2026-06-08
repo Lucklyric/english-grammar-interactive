@@ -1,0 +1,62 @@
+{
+  "uid": "s3-e09",
+  "sid": "s3",
+  "u": "e09",
+  "custom": true,
+  "title": {
+    "en": "Practicing the Guitar",
+    "zh": "练习吉他"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "After dinner, Dan took his guitar out of its case.",
+      "zh": "晚饭后，丹把他的吉他从琴盒里取了出来。"
+    },
+    {
+      "en": "He sat down comfortably on a stool by the window.",
+      "zh": "他舒服地坐在窗边的一张凳子上。"
+    },
+    {
+      "en": "He propped up his music book on the wobbly stand.",
+      "zh": "他把乐谱书架在那个摇摇晃晃的谱架上。"
+    },
+    {
+      "en": "He clipped a small electronic tuner onto the headstock.",
+      "zh": "他把一个小小的电子调音器夹在了琴头上。"
+    },
+    {
+      "en": "He plucked each string slowly and tuned it carefully.",
+      "zh": "他慢慢地拨动每一根琴弦，仔细地为它调音。"
+    },
+    {
+      "en": "He picked up a thin plastic pick from the table.",
+      "zh": "他从桌上拿起一片薄薄的塑料拨片。"
+    },
+    {
+      "en": "He warmed up his fingers with a few simple scales.",
+      "zh": "他用几组简单的音阶活动了一下手指。"
+    },
+    {
+      "en": "He practiced the tricky chords over and over again.",
+      "zh": "他一遍又一遍地练习那些棘手的和弦。"
+    },
+    {
+      "en": "He strummed the strings gently and hummed along quietly.",
+      "zh": "他轻轻地扫着琴弦，安静地跟着哼唱。"
+    },
+    {
+      "en": "At first, he played the new song badly and stumbled.",
+      "zh": "起初，他这首新歌弹得很糟糕，还磕磕绊绊的。"
+    },
+    {
+      "en": "Gradually, his fingers moved smoothly across the frets.",
+      "zh": "渐渐地，他的手指在品丝上灵活地移动起来。"
+    },
+    {
+      "en": "Finally, he wiped down the guitar and put it away.",
+      "zh": "最后，他擦干净吉他，把它收了起来。"
+    }
+  ]
+}

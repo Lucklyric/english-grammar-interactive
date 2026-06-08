@@ -1,0 +1,66 @@
+{
+  "uid": "s4-e04",
+  "sid": "s4",
+  "u": "e04",
+  "custom": true,
+  "title": {
+    "en": "Ironing a Shirt",
+    "zh": "熨衬衫"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Dan unfolds the ironing board in the laundry room.",
+      "zh": "丹在洗衣房里展开熨衣板。"
+    },
+    {
+      "en": "He locks the legs firmly so the board stays steady.",
+      "zh": "他把支脚牢牢锁紧，让熨衣板保持稳固。"
+    },
+    {
+      "en": "He plugs the iron into the wall socket.",
+      "zh": "他把熨斗插进墙上的插座。"
+    },
+    {
+      "en": "He fills the iron's small tank with clean water.",
+      "zh": "他往熨斗的小水箱里加满干净的水。"
+    },
+    {
+      "en": "He sets the dial to the right temperature for cotton.",
+      "zh": "他把旋钮调到适合棉布的温度。"
+    },
+    {
+      "en": "He waits patiently while the metal plate heats up.",
+      "zh": "他耐心地等待金属底板加热。"
+    },
+    {
+      "en": "He lays the wrinkled shirt flat on the board.",
+      "zh": "他把皱巴巴的衬衫平铺在熨衣板上。"
+    },
+    {
+      "en": "He sprays a little water on the stiff collar.",
+      "zh": "他往硬挺的衣领上喷一点水。"
+    },
+    {
+      "en": "He presses the hot iron slowly across the collar.",
+      "zh": "他用热熨斗缓缓地熨过衣领。"
+    },
+    {
+      "en": "Next, he smooths out each long sleeve carefully.",
+      "zh": "接着，他仔细地把每只长袖抚平。"
+    },
+    {
+      "en": "He irons the front and the back until they look crisp.",
+      "zh": "他熨好前襟和后背，直到它们看起来平整挺括。"
+    },
+    {
+      "en": "He unplugs the iron and lets it cool down.",
+      "zh": "他拔下熨斗的插头，让它冷却下来。"
+    },
+    {
+      "en": "Finally, he hangs the neat shirt on a wooden hanger.",
+      "zh": "最后，他把整洁的衬衫挂在木衣架上。"
+    }
+  ]
+}

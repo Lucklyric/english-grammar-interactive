@@ -1,0 +1,62 @@
+{
+  "uid": "s4-e03",
+  "sid": "s4",
+  "u": "e03",
+  "custom": true,
+  "title": {
+    "en": "Changing a Light Bulb",
+    "zh": "更换灯泡"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Pam notices that the bulb in the ceiling lamp is burnt out.",
+      "zh": "帕姆发现吸顶灯里的灯泡烧坏了。"
+    },
+    {
+      "en": "She turns off the wall switch so the power is cut.",
+      "zh": "她关掉墙上的开关，切断电源。"
+    },
+    {
+      "en": "She fetches a new bulb and a clean cloth from the cupboard.",
+      "zh": "她从柜子里拿来一个新灯泡和一块干净的抹布。"
+    },
+    {
+      "en": "She sets up a sturdy stepladder under the lamp.",
+      "zh": "她在灯下架好一个结实的折叠梯。"
+    },
+    {
+      "en": "She climbs up the stepladder carefully.",
+      "zh": "她小心地爬上折叠梯。"
+    },
+    {
+      "en": "She lets the old bulb cool down for a minute.",
+      "zh": "她让旧灯泡先冷却一分钟。"
+    },
+    {
+      "en": "She unscrews the burnt-out bulb counterclockwise.",
+      "zh": "她逆时针把烧坏的灯泡拧下来。"
+    },
+    {
+      "en": "She wipes the dust out of the empty socket.",
+      "zh": "她把空灯座里的灰尘擦干净。"
+    },
+    {
+      "en": "She screws the new bulb in clockwise until it feels tight.",
+      "zh": "她顺时针把新灯泡拧进去，直到拧紧为止。"
+    },
+    {
+      "en": "She steps down off the stepladder slowly.",
+      "zh": "她慢慢地从折叠梯上走下来。"
+    },
+    {
+      "en": "She flips the switch back on to test the bulb.",
+      "zh": "她把开关重新打开来测试灯泡。"
+    },
+    {
+      "en": "She folds up the stepladder and puts it away.",
+      "zh": "她把折叠梯收起来，放回原处。"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid": "s5-e06",
+  "sid": "s5",
+  "u": "e06",
+  "custom": true,
+  "title": {
+    "en": "Calling to Make an Appointment",
+    "zh": "打电话预约"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Pam looks up the clinic's phone number online.",
+      "zh": "帕姆在网上查到诊所的电话号码。"
+    },
+    {
+      "en": "She picks up her phone and dials the number carefully.",
+      "zh": "她拿起手机，小心地拨打这个号码。"
+    },
+    {
+      "en": "A friendly receptionist answers and greets her warmly.",
+      "zh": "一位友善的前台接听了电话，热情地跟她打招呼。"
+    },
+    {
+      "en": "Pam explains that she wants to make an appointment with the dentist.",
+      "zh": "帕姆说明她想和牙医预约一次看诊。"
+    },
+    {
+      "en": "She gives her full name and spells her last name slowly.",
+      "zh": "她报上自己的全名，并慢慢地拼出姓氏。"
+    },
+    {
+      "en": "She asks the receptionist about the available times next week.",
+      "zh": "她向前台询问下周有哪些空闲的时间。"
+    },
+    {
+      "en": "The receptionist offers an early slot on Tuesday morning.",
+      "zh": "前台给她安排了周二上午的一个早场时间。"
+    },
+    {
+      "en": "Pam happily chooses the nine o'clock slot.",
+      "zh": "帕姆高兴地选了九点的那个时间。"
+    },
+    {
+      "en": "She repeats the date and time to confirm the appointment.",
+      "zh": "她重复一遍日期和时间，以确认这次预约。"
+    },
+    {
+      "en": "She leaves her phone number for a friendly reminder.",
+      "zh": "她留下自己的电话号码，以便收到贴心的提醒。"
+    },
+    {
+      "en": "Pam thanks the receptionist politely and hangs up.",
+      "zh": "帕姆礼貌地向前台道谢，然后挂断电话。"
+    },
+    {
+      "en": "Finally, she writes down the appointment in her calendar.",
+      "zh": "最后，她把这次预约记在自己的日历上。"
+    }
+  ]
+}

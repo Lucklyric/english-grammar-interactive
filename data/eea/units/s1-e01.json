@@ -1,0 +1,66 @@
+{
+  "uid": "s1-e01",
+  "sid": "s1",
+  "u": "e01",
+  "custom": true,
+  "title": {
+    "en": "Hitting the Snooze Button",
+    "zh": "按下贪睡按钮"
+  },
+  "tense": "Simple Present",
+  "level": 1,
+  "phrases": [
+    {
+      "en": "Kate's alarm goes off early in the morning.",
+      "zh": "凯特的闹钟一大早就响了。"
+    },
+    {
+      "en": "The loud beeping wakes her up.",
+      "zh": "刺耳的哔哔声把她吵醒了。"
+    },
+    {
+      "en": "She feels sleepy and does not want to get up yet.",
+      "zh": "她觉得困，还不想起床。"
+    },
+    {
+      "en": "She reaches over to her nightstand.",
+      "zh": "她伸手够向床头柜。"
+    },
+    {
+      "en": "She taps the snooze button on her phone.",
+      "zh": "她按下手机上的贪睡按钮。"
+    },
+    {
+      "en": "The alarm stops for a few minutes.",
+      "zh": "闹钟安静了几分钟。"
+    },
+    {
+      "en": "She pulls the warm blanket over her shoulders.",
+      "zh": "她把温暖的毯子拉到肩膀上。"
+    },
+    {
+      "en": "She slowly dozes off again.",
+      "zh": "她慢慢又睡着了。"
+    },
+    {
+      "en": "Soon, the alarm rings loudly a second time.",
+      "zh": "很快，闹钟第二次大声响起。"
+    },
+    {
+      "en": "She groans and rubs her tired eyes.",
+      "zh": "她哼了一声，揉了揉疲惫的眼睛。"
+    },
+    {
+      "en": "Finally, she turns off the alarm for good.",
+      "zh": "最后，她彻底关掉了闹钟。"
+    },
+    {
+      "en": "She yawns and stretches her arms.",
+      "zh": "她打了个哈欠，伸展双臂。"
+    },
+    {
+      "en": "Then, she drags herself out of bed.",
+      "zh": "然后，她吃力地爬下床。"
+    }
+  ]
+}

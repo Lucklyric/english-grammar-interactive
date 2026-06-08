@@ -1,0 +1,66 @@
+{
+  "uid": "s1-e07",
+  "sid": "s1",
+  "u": "e07",
+  "custom": true,
+  "title": {
+    "en": "Checking Your Phone in the Morning",
+    "zh": "早晨查看手机"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Kate reaches for her phone on the nightstand.",
+      "zh": "凯特伸手去拿床头柜上的手机。"
+    },
+    {
+      "en": "She picks it up.",
+      "zh": "她把它拿起来。"
+    },
+    {
+      "en": "She presses the side button to wake the screen.",
+      "zh": "她按下侧边按钮，唤醒屏幕。"
+    },
+    {
+      "en": "She unlocks the phone with her face.",
+      "zh": "她用面容解锁手机。"
+    },
+    {
+      "en": "She quickly glances at the new notifications.",
+      "zh": "她快速扫了一眼新的通知。"
+    },
+    {
+      "en": "She swipes down to open her messages.",
+      "zh": "她向下滑动，打开她的短信。"
+    },
+    {
+      "en": "She reads a short text from a friend.",
+      "zh": "她读了一条朋友发来的简短短信。"
+    },
+    {
+      "en": "She taps the weather app.",
+      "zh": "她点开天气应用。"
+    },
+    {
+      "en": "She checks today's forecast carefully.",
+      "zh": "她仔细查看今天的天气预报。"
+    },
+    {
+      "en": "It is cold and rainy outside.",
+      "zh": "外面又冷又下雨。"
+    },
+    {
+      "en": "She locks the screen again.",
+      "zh": "她再次锁上屏幕。"
+    },
+    {
+      "en": "She sets the phone down on the bed.",
+      "zh": "她把手机放到床上。"
+    },
+    {
+      "en": "Then, she gets up to get ready for the day.",
+      "zh": "然后，她起身准备开始新的一天。"
+    }
+  ]
+}

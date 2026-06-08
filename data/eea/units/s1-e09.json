@@ -1,0 +1,70 @@
+{
+  "uid": "s1-e09",
+  "sid": "s1",
+  "u": "e09",
+  "custom": true,
+  "title": {
+    "en": "Feeding the Pet in the Morning",
+    "zh": "早晨喂宠物"
+  },
+  "tense": "Simple Present",
+  "level": 1,
+  "phrases": [
+    {
+      "en": "Kate walks into the kitchen.",
+      "zh": "凯特走进厨房。"
+    },
+    {
+      "en": "Her hungry cat waits patiently by the empty bowl.",
+      "zh": "她饥饿的猫耐心地在空碗旁等着。"
+    },
+    {
+      "en": "It meows softly and rubs against her leg.",
+      "zh": "它轻轻地喵喵叫，蹭着她的腿。"
+    },
+    {
+      "en": "Kate opens the cupboard.",
+      "zh": "凯特打开橱柜。"
+    },
+    {
+      "en": "She takes out the bag of dry food.",
+      "zh": "她拿出那袋干粮。"
+    },
+    {
+      "en": "She scoops a small cup of food.",
+      "zh": "她舀出一小杯食物。"
+    },
+    {
+      "en": "She pours it carefully into the clean bowl.",
+      "zh": "她小心地把它倒进干净的碗里。"
+    },
+    {
+      "en": "Then she picks up the water dish.",
+      "zh": "然后她拿起水盆。"
+    },
+    {
+      "en": "She empties the old water into the sink.",
+      "zh": "她把旧水倒进水槽里。"
+    },
+    {
+      "en": "She refills it with fresh, cool water.",
+      "zh": "她重新倒满新鲜、清凉的水。"
+    },
+    {
+      "en": "She sets both bowls down gently on the floor.",
+      "zh": "她把两个碗轻轻地放在地板上。"
+    },
+    {
+      "en": "The cat eats its breakfast quickly.",
+      "zh": "猫很快地吃完它的早餐。"
+    },
+    {
+      "en": "Kate watches it happily.",
+      "zh": "凯特开心地看着它。"
+    },
+    {
+      "en": "Finally, she wipes up the spilled crumbs.",
+      "zh": "最后，她擦掉洒落的食物碎屑。"
+    }
+  ]
+}

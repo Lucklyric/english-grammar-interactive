@@ -1,0 +1,70 @@
+{
+  "uid": "s5-e09",
+  "sid": "s5",
+  "u": "e09",
+  "custom": true,
+  "title": {
+    "en": "Faxing a Document",
+    "zh": "传真文件"
+  },
+  "tense": "Simple Present",
+  "level": 3,
+  "phrases": [
+    {
+      "en": "Dan needs to send an important contract to the office.",
+      "zh": "丹需要把一份重要的合同发到办公室。"
+    },
+    {
+      "en": "He walks over to the old fax machine in the corner.",
+      "zh": "他走向角落里那台旧传真机。"
+    },
+    {
+      "en": "He gathers the printed pages neatly in his hands.",
+      "zh": "他把打印好的纸页整齐地拿在手里。"
+    },
+    {
+      "en": "He places the document face down in the paper tray.",
+      "zh": "他把文件正面朝下放进进纸盘。"
+    },
+    {
+      "en": "He gently slides the pages until the machine grips them.",
+      "zh": "他轻轻地推送纸页，直到机器夹住它们。"
+    },
+    {
+      "en": "He picks up the small handset and listens for a tone.",
+      "zh": "他拿起小听筒，听是否有拨号音。"
+    },
+    {
+      "en": "He carefully dials the long fax number on the keypad.",
+      "zh": "他在按键上小心地拨那个很长的传真号码。"
+    },
+    {
+      "en": "He waits for a high beep from the other machine.",
+      "zh": "他等待对方机器发出尖锐的提示音。"
+    },
+    {
+      "en": "He firmly presses the green send button.",
+      "zh": "他用力按下绿色的发送按钮。"
+    },
+    {
+      "en": "The machine slowly pulls each page through the slot.",
+      "zh": "机器慢慢地把每一页从槽口里送过去。"
+    },
+    {
+      "en": "He patiently watches the small screen count the pages.",
+      "zh": "他耐心地看着小屏幕统计页数。"
+    },
+    {
+      "en": "Finally the machine prints a short confirmation page.",
+      "zh": "最后，机器打印出一张简短的确认页。"
+    },
+    {
+      "en": "He reads the report and sees the word \"OK\" clearly.",
+      "zh": "他读了那份报告，清楚地看到“OK”这个字样。"
+    },
+    {
+      "en": "He files the confirmation page safely in a folder.",
+      "zh": "他把确认页妥善地归档到文件夹里。"
+    }
+  ]
+}

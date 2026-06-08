@@ -1,0 +1,62 @@
+{
+  "uid": "s3-e08",
+  "sid": "s3",
+  "u": "e08",
+  "custom": true,
+  "title": {
+    "en": "Doing a Jigsaw Puzzle",
+    "zh": "拼拼图"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "After dinner, Pam took the jigsaw puzzle down from the shelf.",
+      "zh": "晚饭过后，帕姆从架子上把拼图取了下来。"
+    },
+    {
+      "en": "She cleared the coffee table and wiped it clean.",
+      "zh": "她清空了茶几，并把它擦干净了。"
+    },
+    {
+      "en": "She lifted the lid and tipped all the pieces out onto the table.",
+      "zh": "她掀开盒盖，把所有的拼图块都倒在了桌子上。"
+    },
+    {
+      "en": "She turned every piece face up so she could see the colors.",
+      "zh": "她把每一块都翻成正面朝上，这样就能看清上面的颜色。"
+    },
+    {
+      "en": "She propped the box up and studied the picture on the front.",
+      "zh": "她把盒子立了起来，仔细端详盒子正面的图案。"
+    },
+    {
+      "en": "First, she sorted out all the flat edge pieces.",
+      "zh": "她先把所有带平边的拼图块都挑了出来。"
+    },
+    {
+      "en": "She carefully built the border around the outside.",
+      "zh": "她小心地拼出了外围的边框。"
+    },
+    {
+      "en": "Next, she grouped the rest by color into small piles.",
+      "zh": "接着，她把剩下的拼图块按颜色分成了一小堆一小堆。"
+    },
+    {
+      "en": "She slowly filled in the bright blue sky at the top.",
+      "zh": "她慢慢地拼好了顶部那片明亮的蓝天。"
+    },
+    {
+      "en": "She pressed each piece down gently until it snapped into place.",
+      "zh": "她轻轻按下每一块，直到它咔哒一声卡进了位置。"
+    },
+    {
+      "en": "When one tricky piece would not fit, she patiently tried another.",
+      "zh": "有一块特别难拼，怎么也放不进去，她就耐心地换了另一块来试。"
+    },
+    {
+      "en": "At last she pressed in the final piece and admired the finished picture.",
+      "zh": "最后，她按上了最后一块，欣赏着拼好的完整图画。"
+    }
+  ]
+}

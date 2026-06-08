@@ -1,0 +1,70 @@
+{
+  "uid": "s3-e04",
+  "sid": "s3",
+  "u": "e04",
+  "custom": true,
+  "title": {
+    "en": "Baking Cookies",
+    "zh": "烤饼干"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Kate decided to bake cookies in the evening.",
+      "zh": "晚上，凯特决定烤些饼干。"
+    },
+    {
+      "en": "She tied on a clean apron and washed her hands.",
+      "zh": "她系上一条干净的围裙，洗了洗手。"
+    },
+    {
+      "en": "She gathered the flour, sugar, butter, and eggs.",
+      "zh": "她把面粉、糖、黄油和鸡蛋都拿了出来。"
+    },
+    {
+      "en": "She measured each ingredient carefully into a large bowl.",
+      "zh": "她仔细地把每样食材量好，倒进一个大碗里。"
+    },
+    {
+      "en": "She mixed the dough until it was smooth and thick.",
+      "zh": "她把面团搅拌到变得光滑又黏稠。"
+    },
+    {
+      "en": "She stirred in a handful of chocolate chips.",
+      "zh": "她又拌进了一把巧克力豆。"
+    },
+    {
+      "en": "She scooped up small lumps of dough with a spoon.",
+      "zh": "她用勺子舀起一小团一小团的面团。"
+    },
+    {
+      "en": "She rolled them gently and shaped them into round cookies.",
+      "zh": "她轻轻地把它们搓圆，做成一个个圆饼干。"
+    },
+    {
+      "en": "She placed the cookies neatly on a baking tray.",
+      "zh": "她把饼干整齐地摆在烤盘上。"
+    },
+    {
+      "en": "She preheated the oven to the right temperature.",
+      "zh": "她把烤箱预热到合适的温度。"
+    },
+    {
+      "en": "She slid the tray inside and baked them for ten minutes.",
+      "zh": "她把烤盘推进去，烤了十分钟。"
+    },
+    {
+      "en": "The kitchen soon smelled warm and sweet.",
+      "zh": "厨房里很快飘起了暖暖的甜香。"
+    },
+    {
+      "en": "She took out the golden cookies and let them cool.",
+      "zh": "她把金黄的饼干取出来，放着晾凉。"
+    },
+    {
+      "en": "Finally, she tasted one and smiled happily.",
+      "zh": "最后，她尝了一块，开心地笑了。"
+    }
+  ]
+}

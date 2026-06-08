@@ -1,0 +1,70 @@
+{
+  "uid": "s4-e06",
+  "sid": "s4",
+  "u": "e06",
+  "custom": true,
+  "title": {
+    "en": "Mowing the Lawn",
+    "zh": "修剪草坪"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Dan rolls the lawn mower out of the garage.",
+      "zh": "丹把割草机从车库里推出来。"
+    },
+    {
+      "en": "He checks the fuel tank and finds it nearly empty.",
+      "zh": "他检查油箱，发现里面快空了。"
+    },
+    {
+      "en": "He carefully pours fresh gasoline into the tank.",
+      "zh": "他小心地把新汽油倒进油箱里。"
+    },
+    {
+      "en": "He walks slowly around the yard to clear away sticks and stones.",
+      "zh": "他绕着院子慢慢走，把树枝和石头清理干净。"
+    },
+    {
+      "en": "He puts on a pair of sturdy work gloves.",
+      "zh": "他戴上一双结实的工作手套。"
+    },
+    {
+      "en": "He pulls the starter cord firmly, and the engine roars to life.",
+      "zh": "他用力拉动启动绳，发动机轰然发动起来。"
+    },
+    {
+      "en": "He pushes the mower forward in straight, even rows.",
+      "zh": "他推着割草机笔直、均匀地一排排向前走。"
+    },
+    {
+      "en": "He trims the tall grass along the fence and the flower beds.",
+      "zh": "他修剪栅栏和花坛旁边的长草。"
+    },
+    {
+      "en": "He stops the mower when the grass bag is full.",
+      "zh": "当集草袋装满时，他停下割草机。"
+    },
+    {
+      "en": "He empties the fresh clippings into the compost bin.",
+      "zh": "他把新割下的草屑倒进堆肥箱里。"
+    },
+    {
+      "en": "He rakes the loose grass off the driveway.",
+      "zh": "他把车道上散落的草耙到一起。"
+    },
+    {
+      "en": "He wipes the dusty blades clean with an old rag.",
+      "zh": "他用一块旧抹布把沾满灰尘的刀片擦干净。"
+    },
+    {
+      "en": "He rolls the mower neatly back into the garage.",
+      "zh": "他把割草机整整齐齐地推回车库里。"
+    },
+    {
+      "en": "Finally, he wipes the sweat off his forehead and rests.",
+      "zh": "最后，他擦掉额头上的汗水，休息一下。"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid": "s5-e08",
+  "sid": "s5",
+  "u": "e08",
+  "custom": true,
+  "title": {
+    "en": "Sending a Package",
+    "zh": "寄包裹"
+  },
+  "tense": "Simple Past",
+  "level": 3,
+  "phrases": [
+    {
+      "en": "Dan wanted to mail a birthday gift to his cousin.",
+      "zh": "丹想给他的表弟寄一份生日礼物。"
+    },
+    {
+      "en": "He found a sturdy cardboard box in the closet.",
+      "zh": "他在壁橱里找到了一个结实的纸箱。"
+    },
+    {
+      "en": "He wrapped the fragile gift in soft bubble wrap.",
+      "zh": "他用柔软的气泡膜把易碎的礼物包了起来。"
+    },
+    {
+      "en": "He gently placed the gift inside the box.",
+      "zh": "他把礼物轻轻地放进箱子里。"
+    },
+    {
+      "en": "He filled the empty space with crumpled paper.",
+      "zh": "他用揉皱的纸填满了空隙。"
+    },
+    {
+      "en": "He closed the flaps and sealed the box with strong tape.",
+      "zh": "他合上箱盖，用结实的胶带把箱子封好。"
+    },
+    {
+      "en": "He neatly wrote the address on the top.",
+      "zh": "他在箱子顶部工整地写上了地址。"
+    },
+    {
+      "en": "Then he drove to the nearby post office.",
+      "zh": "然后他开车去了附近的邮局。"
+    },
+    {
+      "en": "He waited patiently in the short line.",
+      "zh": "他在短短的队伍里耐心地等候。"
+    },
+    {
+      "en": "The clerk put the package on the scale to weigh it.",
+      "zh": "职员把包裹放到秤上称重。"
+    },
+    {
+      "en": "Dan chose the faster shipping option.",
+      "zh": "丹选择了更快的寄送方式。"
+    },
+    {
+      "en": "He paid for the postage with his card.",
+      "zh": "他用银行卡支付了邮费。"
+    },
+    {
+      "en": "The clerk handed him a receipt with a tracking number.",
+      "zh": "职员递给他一张带有追踪号码的收据。"
+    },
+    {
+      "en": "He carefully kept the receipt in his wallet.",
+      "zh": "他小心地把收据收进钱包里。"
+    }
+  ]
+}

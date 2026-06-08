@@ -1,0 +1,66 @@
+{
+  "uid": "s1-e10",
+  "sid": "s1",
+  "u": "e10",
+  "custom": true,
+  "title": {
+    "en": "Packing Your Bag for the Day",
+    "zh": "整理一天要带的包"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Kate sets her empty backpack on the bed.",
+      "zh": "凯特把空背包放在床上。"
+    },
+    {
+      "en": "She unzips the main pocket and opens the bag wide.",
+      "zh": "她拉开主隔层的拉链，把包敞开。"
+    },
+    {
+      "en": "First, she slides her thin laptop carefully inside.",
+      "zh": "首先，她把轻薄的笔记本电脑小心地放进去。"
+    },
+    {
+      "en": "Then she wraps the cord and packs the charger next to it.",
+      "zh": "然后她把电源线缠好，把充电器放在它旁边。"
+    },
+    {
+      "en": "She tucks her leather wallet into the small front pocket.",
+      "zh": "她把皮夹塞进前面的小口袋里。"
+    },
+    {
+      "en": "She drops her house keys in so she does not lose them.",
+      "zh": "她把家里的钥匙丢进去，免得弄丢。"
+    },
+    {
+      "en": "She slips a notebook and a blue pen along the side.",
+      "zh": "她把一本笔记本和一支蓝笔顺着侧边塞进去。"
+    },
+    {
+      "en": "She stands a full water bottle upright in the side mesh.",
+      "zh": "她把一瓶满满的水竖着放进侧边的网袋里。"
+    },
+    {
+      "en": "She also adds a snack and some tissues for later.",
+      "zh": "她还放了点零食和一些纸巾，留着待会儿用。"
+    },
+    {
+      "en": "She quickly checks that nothing important is missing.",
+      "zh": "她快速检查一下，确认没漏掉重要的东西。"
+    },
+    {
+      "en": "Then she zips the bag up tightly.",
+      "zh": "然后她把包的拉链拉紧。"
+    },
+    {
+      "en": "Finally, she slings the heavy backpack over her shoulder.",
+      "zh": "最后，她把沉甸甸的背包甩到肩上。"
+    },
+    {
+      "en": "Now she is ready to head out the door.",
+      "zh": "现在她准备好出门了。"
+    }
+  ]
+}

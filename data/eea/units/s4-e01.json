@@ -1,0 +1,62 @@
+{
+  "uid": "s4-e01",
+  "sid": "s4",
+  "u": "e01",
+  "custom": true,
+  "title": {
+    "en": "Loading the Dishwasher",
+    "zh": "使用洗碗机"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "I scrape the leftover food off every plate into the bin.",
+      "zh": "我把每个盘子上的剩饭剩菜刮进垃圾桶里。"
+    },
+    {
+      "en": "I open the dishwasher door and slide out both racks.",
+      "zh": "我打开洗碗机的门，把上下两层架子都拉出来。"
+    },
+    {
+      "en": "I load the dirty plates upright along the bottom rack.",
+      "zh": "我把脏盘子竖着摆进下层架子上。"
+    },
+    {
+      "en": "I stack the cups and glasses face down on the top rack.",
+      "zh": "我把杯子和玻璃杯口朝下地摆进上层架子里。"
+    },
+    {
+      "en": "I drop the forks, knives, and spoons into the cutlery basket.",
+      "zh": "我把叉子、刀子和勺子放进餐具篮里。"
+    },
+    {
+      "en": "I arrange the pots and pans loosely so the water reaches them.",
+      "zh": "我把锅具松松地摆开，好让水能冲到它们。"
+    },
+    {
+      "en": "I pour rinse aid into the small side compartment.",
+      "zh": "我把亮碟剂倒进旁边的小格子里。"
+    },
+    {
+      "en": "I pop a detergent tablet into the soap dispenser and shut the lid.",
+      "zh": "我把一片洗涤块放进皂液盒里，然后合上盖子。"
+    },
+    {
+      "en": "I select a normal cycle and switch the machine on.",
+      "zh": "我选择标准洗涤程序，然后开启机器。"
+    },
+    {
+      "en": "I wait quietly while the dishwasher runs through its cycle.",
+      "zh": "我安静地等待，洗碗机走完整个洗涤程序。"
+    },
+    {
+      "en": "I unload the warm, clean dishes once the cycle finishes.",
+      "zh": "程序结束后，我取出温热又干净的碗碟。"
+    },
+    {
+      "en": "I put the dry dishes away neatly in the cupboard.",
+      "zh": "我把干燥的碗碟整齐地收进橱柜里。"
+    }
+  ]
+}

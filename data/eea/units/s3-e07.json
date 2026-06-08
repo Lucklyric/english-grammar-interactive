@@ -1,0 +1,62 @@
+{
+  "uid": "s3-e07",
+  "sid": "s3",
+  "u": "e07",
+  "custom": true,
+  "title": {
+    "en": "Playing a Video Game",
+    "zh": "玩电子游戏"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "After dinner, Dan settled onto the couch to relax.",
+      "zh": "晚饭后，丹窝在沙发上放松。"
+    },
+    {
+      "en": "He switched on the console and the TV screen.",
+      "zh": "他打开了游戏机和电视屏幕。"
+    },
+    {
+      "en": "He picked up the wireless controller and checked its battery.",
+      "zh": "他拿起无线手柄，查看了它的电量。"
+    },
+    {
+      "en": "He slipped on his headset and adjusted the microphone.",
+      "zh": "他戴上耳机，调整了麦克风。"
+    },
+    {
+      "en": "He logged into his account with his username and password.",
+      "zh": "他用用户名和密码登录了自己的账号。"
+    },
+    {
+      "en": "He scrolled through the menu and loaded his saved game.",
+      "zh": "他浏览了菜单，载入了存档的游戏。"
+    },
+    {
+      "en": "He chose an easy level first to warm up quickly.",
+      "zh": "他先选了一个简单的关卡，迅速热身。"
+    },
+    {
+      "en": "He pressed the buttons rapidly to dodge the enemies.",
+      "zh": "他飞快地按着按键，躲避敌人。"
+    },
+    {
+      "en": "He chatted cheerfully with his friends through the headset.",
+      "zh": "他透过耳机愉快地和朋友们聊天。"
+    },
+    {
+      "en": "He finally beat the boss and earned a high score.",
+      "zh": "他终于打败了大头目，赢得了高分。"
+    },
+    {
+      "en": "He saved his progress and turned off the console.",
+      "zh": "他保存了进度，关掉了游戏机。"
+    },
+    {
+      "en": "He set the controller down and went to bed, tired but happy.",
+      "zh": "他放下手柄，去睡觉了，虽然累却很开心。"
+    }
+  ]
+}

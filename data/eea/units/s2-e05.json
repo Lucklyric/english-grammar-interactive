@@ -1,0 +1,66 @@
+{
+  "uid": "s2-e05",
+  "sid": "s2",
+  "u": "e05",
+  "custom": true,
+  "title": {
+    "en": "Parking the Car",
+    "zh": "停车"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Dan drove slowly down the busy street.",
+      "zh": "丹沿着繁忙的街道慢慢开车。"
+    },
+    {
+      "en": "He looked for an empty parking space.",
+      "zh": "他寻找一个空着的停车位。"
+    },
+    {
+      "en": "Finally, he spotted an open spot near the corner.",
+      "zh": "终于，他看到拐角附近有一个空位。"
+    },
+    {
+      "en": "He turned on his signal to warn the cars behind him.",
+      "zh": "他打开转向灯，提醒后面的车。"
+    },
+    {
+      "en": "He stopped just past the empty spot.",
+      "zh": "他停在那个空位刚过去一点的地方。"
+    },
+    {
+      "en": "He carefully backed into the parking space.",
+      "zh": "他小心地倒车进了停车位。"
+    },
+    {
+      "en": "He straightened the wheels so the car sat evenly.",
+      "zh": "他把车轮回正，让车停得端正。"
+    },
+    {
+      "en": "He shifted the gear into park.",
+      "zh": "他把挡位挂到驻车挡。"
+    },
+    {
+      "en": "He pulled up the hand brake firmly.",
+      "zh": "他用力拉起了手刹。"
+    },
+    {
+      "en": "He turned off the engine and took out the key.",
+      "zh": "他关掉发动机，拔出了钥匙。"
+    },
+    {
+      "en": "He fed some coins into the parking meter.",
+      "zh": "他往停车计时器里投了几枚硬币。"
+    },
+    {
+      "en": "He got out and closed the door.",
+      "zh": "他下了车，关上车门。"
+    },
+    {
+      "en": "Then, he locked the doors and walked away.",
+      "zh": "然后，他锁上车门，走开了。"
+    }
+  ]
+}

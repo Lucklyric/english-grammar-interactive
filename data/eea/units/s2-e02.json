@@ -1,0 +1,70 @@
+{
+  "uid": "s2-e02",
+  "sid": "s2",
+  "u": "e02",
+  "custom": true,
+  "title": {
+    "en": "Boarding an Airplane",
+    "zh": "登机"
+  },
+  "tense": "Simple Past",
+  "level": 3,
+  "phrases": [
+    {
+      "en": "Dan waited near the gate with his small carry-on bag.",
+      "zh": "丹拿着他的小手提行李在登机口附近等候。"
+    },
+    {
+      "en": "He sat in a row of seats and watched the departure screen.",
+      "zh": "他坐在一排座位上，看着出发航班的屏幕。"
+    },
+    {
+      "en": "The agent finally announced the boarding call for his flight.",
+      "zh": "工作人员终于广播了他航班的登机通知。"
+    },
+    {
+      "en": "Dan stood up and joined the line at the desk.",
+      "zh": "丹站起来，加入了柜台前的队伍。"
+    },
+    {
+      "en": "He opened the boarding pass on his phone.",
+      "zh": "他打开了手机上的登机牌。"
+    },
+    {
+      "en": "He scanned the barcode on the small scanner.",
+      "zh": "他在小扫描器上扫了条形码。"
+    },
+    {
+      "en": "The scanner beeped, and a green light turned on.",
+      "zh": "扫描器响了一声，绿灯亮了起来。"
+    },
+    {
+      "en": "He walked slowly down the narrow jet bridge.",
+      "zh": "他沿着狭窄的廊桥慢慢往前走。"
+    },
+    {
+      "en": "A flight attendant greeted him warmly at the door.",
+      "zh": "一位空乘在舱门口热情地跟他打招呼。"
+    },
+    {
+      "en": "Dan checked the numbers above the seats to find his row.",
+      "zh": "丹查看座位上方的号码，寻找自己那一排。"
+    },
+    {
+      "en": "He lifted his heavy carry-on into the overhead bin.",
+      "zh": "他把沉重的手提行李举到头顶的行李舱里。"
+    },
+    {
+      "en": "He closed the bin and squeezed into his window seat.",
+      "zh": "他关上行李舱，挤进了自己的靠窗座位。"
+    },
+    {
+      "en": "Dan sat down and got comfortable for the flight.",
+      "zh": "丹坐了下来，为这趟飞行让自己舒服一些。"
+    },
+    {
+      "en": "Then he buckled his seat belt tightly across his lap.",
+      "zh": "然后他把安全带紧紧地系在腰间。"
+    }
+  ]
+}

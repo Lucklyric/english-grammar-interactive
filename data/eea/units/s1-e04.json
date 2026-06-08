@@ -1,0 +1,62 @@
+{
+  "uid": "s1-e04",
+  "sid": "s1",
+  "u": "e04",
+  "custom": true,
+  "title": {
+    "en": "Putting on Makeup",
+    "zh": "化妆"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Kate sits down in front of the mirror.",
+      "zh": "凯特在镜子前坐下。"
+    },
+    {
+      "en": "She smooths a thin layer of moisturizer over her face.",
+      "zh": "她在脸上薄薄地涂一层保湿霜。"
+    },
+    {
+      "en": "Then she dabs some foundation onto her cheeks.",
+      "zh": "然后她在脸颊上轻拍一些粉底。"
+    },
+    {
+      "en": "She blends it in gently with a soft sponge.",
+      "zh": "她用一块柔软的海绵把它轻轻涂匀。"
+    },
+    {
+      "en": "Next, she brushes a little blush onto her cheekbones.",
+      "zh": "接着，她在颧骨上刷一点腮红。"
+    },
+    {
+      "en": "She closes one eye and draws a neat line along the lash with eyeliner.",
+      "zh": "她闭上一只眼睛，用眼线笔沿着睫毛画一条整齐的线。"
+    },
+    {
+      "en": "Carefully, she sweeps mascara over her upper lashes.",
+      "zh": "她小心地把睫毛膏刷在上睫毛上。"
+    },
+    {
+      "en": "She blinks slowly so the mascara dries.",
+      "zh": "她慢慢眨眼，让睫毛膏变干。"
+    },
+    {
+      "en": "Now she uncaps a tube of lipstick.",
+      "zh": "现在她打开一支口红的盖子。"
+    },
+    {
+      "en": "She colors her lips with a soft pink shade.",
+      "zh": "她用一种柔和的粉色涂抹嘴唇。"
+    },
+    {
+      "en": "Then she presses her lips together on a tissue.",
+      "zh": "然后她把嘴唇合在一张纸巾上抿一下。"
+    },
+    {
+      "en": "Finally, she checks her face in the mirror and smiles.",
+      "zh": "最后，她在镜子里检查自己的脸，露出微笑。"
+    }
+  ]
+}

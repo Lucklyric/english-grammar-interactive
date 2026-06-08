@@ -1,0 +1,70 @@
+{
+  "uid": "s5-e03",
+  "sid": "s5",
+  "u": "e03",
+  "custom": true,
+  "title": {
+    "en": "Sending a Voice Message",
+    "zh": "发送语音消息"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Pam picks up her phone and unlocks the screen.",
+      "zh": "帕姆拿起手机，解锁屏幕。"
+    },
+    {
+      "en": "She opens the chat app and taps her friend's name.",
+      "zh": "她打开聊天应用，点击朋友的名字。"
+    },
+    {
+      "en": "The empty chat window appears at the bottom.",
+      "zh": "底部出现了空白的聊天窗口。"
+    },
+    {
+      "en": "She finds the small microphone button beside the text box.",
+      "zh": "她在文本框旁边找到那个小小的麦克风按钮。"
+    },
+    {
+      "en": "Pam presses and holds the microphone button firmly.",
+      "zh": "帕姆稳稳地按住麦克风按钮。"
+    },
+    {
+      "en": "A timer starts to count the seconds.",
+      "zh": "计时器开始记录秒数。"
+    },
+    {
+      "en": "She speaks her message slowly and clearly.",
+      "zh": "她缓慢而清晰地说出自己的消息。"
+    },
+    {
+      "en": "She lets go of the button when she finishes talking.",
+      "zh": "说完后，她松开按钮。"
+    },
+    {
+      "en": "Pam taps the play arrow to listen back to the recording.",
+      "zh": "帕姆点击播放箭头，回听这段录音。"
+    },
+    {
+      "en": "Her own voice sounds a little quiet.",
+      "zh": "她自己的声音听起来有点小。"
+    },
+    {
+      "en": "She deletes the message and records it again.",
+      "zh": "她删掉这条消息，重新录了一遍。"
+    },
+    {
+      "en": "This time the voice message sounds clear and friendly.",
+      "zh": "这一次，语音消息听起来清晰又亲切。"
+    },
+    {
+      "en": "Pam taps the blue send button confidently.",
+      "zh": "帕姆自信地点击蓝色的发送按钮。"
+    },
+    {
+      "en": "The voice message appears in the chat right away.",
+      "zh": "语音消息立刻出现在聊天里。"
+    }
+  ]
+}

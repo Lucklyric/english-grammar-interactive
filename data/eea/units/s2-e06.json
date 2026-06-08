@@ -1,0 +1,66 @@
+{
+  "uid": "s2-e06",
+  "sid": "s2",
+  "u": "e06",
+  "custom": true,
+  "title": {
+    "en": "Taking a Ferry",
+    "zh": "坐渡轮"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Dan walked into the ferry terminal.",
+      "zh": "丹走进了轮渡码头。"
+    },
+    {
+      "en": "He bought a ticket at the counter.",
+      "zh": "他在售票窗口买了一张票。"
+    },
+    {
+      "en": "He checked the schedule for the next ferry.",
+      "zh": "他查看了下一班渡轮的时刻表。"
+    },
+    {
+      "en": "He waited at the dock with the other passengers.",
+      "zh": "他和其他乘客一起在码头等候。"
+    },
+    {
+      "en": "The big ferry slowly pulled in.",
+      "zh": "巨大的渡轮慢慢靠了岸。"
+    },
+    {
+      "en": "A worker lowered the metal ramp.",
+      "zh": "一名工作人员放下了金属舷梯。"
+    },
+    {
+      "en": "Dan showed his ticket and walked up the ramp to board.",
+      "zh": "丹出示了船票，走上舷梯登船。"
+    },
+    {
+      "en": "He found an empty seat on the upper deck.",
+      "zh": "他在上层甲板上找到了一个空座位。"
+    },
+    {
+      "en": "The ferry left the dock and crossed the wide bay.",
+      "zh": "渡轮离开码头，横渡宽阔的海湾。"
+    },
+    {
+      "en": "He quietly watched the blue water during the crossing.",
+      "zh": "渡海途中，他静静地望着蔚蓝的海水。"
+    },
+    {
+      "en": "A cool breeze blew across the deck.",
+      "zh": "一阵凉爽的微风吹过甲板。"
+    },
+    {
+      "en": "Soon, the ferry safely docked on the other side.",
+      "zh": "不久，渡轮平安地停靠在对岸。"
+    },
+    {
+      "en": "Dan walked off the ferry and onto the pier.",
+      "zh": "丹走下渡轮，踏上了码头栈桥。"
+    }
+  ]
+}

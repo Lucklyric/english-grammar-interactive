@@ -1,0 +1,70 @@
+{
+  "uid": "s2-e01",
+  "sid": "s2",
+  "u": "e01",
+  "custom": true,
+  "title": {
+    "en": "Riding the Subway",
+    "zh": "坐地铁"
+  },
+  "tense": "Simple Past",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Leo walked down the busy stairs into the subway station.",
+      "zh": "里奥走下繁忙的楼梯，进入地铁站。"
+    },
+    {
+      "en": "He tapped his transit card on the turnstile reader.",
+      "zh": "他用交通卡在闸机感应器上刷了一下。"
+    },
+    {
+      "en": "The gate beeped and the metal arm swung open.",
+      "zh": "闸机响了一声，金属杆随即打开。"
+    },
+    {
+      "en": "He checked the colorful line map on the wall.",
+      "zh": "他查看了墙上彩色的线路图。"
+    },
+    {
+      "en": "He needed the blue line going downtown.",
+      "zh": "他要坐开往市中心的蓝线。"
+    },
+    {
+      "en": "Leo waited patiently on the crowded platform.",
+      "zh": "里奥在拥挤的站台上耐心等候。"
+    },
+    {
+      "en": "A bright sign showed that the next train was two minutes away.",
+      "zh": "一块亮着的指示牌显示下一班车还有两分钟到。"
+    },
+    {
+      "en": "The train rushed in and stopped behind the safety doors.",
+      "zh": "列车飞驰进站，停在安全门后面。"
+    },
+    {
+      "en": "He stepped carefully over the gap and boarded the right train.",
+      "zh": "他小心地跨过缝隙，登上了正确的列车。"
+    },
+    {
+      "en": "The car was full, so he held on to a metal pole.",
+      "zh": "车厢里很满，所以他抓住了一根金属扶杆。"
+    },
+    {
+      "en": "He listened closely for his stop on the loud speaker.",
+      "zh": "他仔细留意广播里报出他要下的那一站。"
+    },
+    {
+      "en": "When the doors slid open, he stepped out quickly.",
+      "zh": "车门滑开时，他迅速走了出去。"
+    },
+    {
+      "en": "He followed the green signs toward the exit.",
+      "zh": "他顺着绿色的指示牌走向出口。"
+    },
+    {
+      "en": "Finally, Leo tapped his card again and went out through the gate.",
+      "zh": "最后，里奥再次刷卡，穿过闸机走了出去。"
+    }
+  ]
+}

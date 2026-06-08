@@ -1,0 +1,66 @@
+{
+  "uid": "s5-e05",
+  "sid": "s5",
+  "u": "e05",
+  "custom": true,
+  "title": {
+    "en": "Posting on Social Media",
+    "zh": "发布社交媒体动态"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Mia has exciting news to share with her friends.",
+      "zh": "米娅有令人兴奋的消息想和朋友们分享。"
+    },
+    {
+      "en": "She taps the social media app on her phone.",
+      "zh": "她点按手机上的社交媒体应用。"
+    },
+    {
+      "en": "The app opens quickly and shows her feed.",
+      "zh": "应用很快打开，显示出她的动态信息流。"
+    },
+    {
+      "en": "She presses the round button to start a new post.",
+      "zh": "她按下圆形按钮，开始写一条新动态。"
+    },
+    {
+      "en": "She types a short update about her busy day.",
+      "zh": "她打了一条关于自己忙碌一天的简短动态。"
+    },
+    {
+      "en": "She taps the camera icon to attach a photo.",
+      "zh": "她点按相机图标，去添加一张照片。"
+    },
+    {
+      "en": "She chooses a bright picture from her gallery.",
+      "zh": "她从相册里选了一张明亮的照片。"
+    },
+    {
+      "en": "She adds a funny caption under the photo.",
+      "zh": "她在照片下面加了一句有趣的说明文字。"
+    },
+    {
+      "en": "She carefully checks her spelling before posting.",
+      "zh": "发布前，她仔细检查了拼写。"
+    },
+    {
+      "en": "She picks a few friends to tag in the post.",
+      "zh": "她挑了几位朋友，在动态里标记他们。"
+    },
+    {
+      "en": "Then she presses the blue post button.",
+      "zh": "然后她按下蓝色的发布按钮。"
+    },
+    {
+      "en": "Her update appears right away on her page.",
+      "zh": "她的动态立刻出现在她的主页上。"
+    },
+    {
+      "en": "Soon her friends like and comment on it.",
+      "zh": "很快，朋友们给她点赞并留言评论。"
+    }
+  ]
+}

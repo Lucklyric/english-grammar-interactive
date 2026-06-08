@@ -1,0 +1,62 @@
+{
+  "uid": "s5-e02",
+  "sid": "s5",
+  "u": "e02",
+  "custom": true,
+  "title": {
+    "en": "Forwarding an Email",
+    "zh": "转发电子邮件"
+  },
+  "tense": "Simple Present",
+  "level": 2,
+  "phrases": [
+    {
+      "en": "Pam opens her inbox on the computer.",
+      "zh": "帕姆在电脑上打开她的收件箱。"
+    },
+    {
+      "en": "She finds an interesting email from her boss.",
+      "zh": "她找到一封老板发来的有趣邮件。"
+    },
+    {
+      "en": "She thinks her coworker should read it too.",
+      "zh": "她觉得她的同事也应该看看这封邮件。"
+    },
+    {
+      "en": "She clicks the message to open it.",
+      "zh": "她点击这条信息把它打开。"
+    },
+    {
+      "en": "She reads it carefully one more time.",
+      "zh": "她又仔细地读了一遍。"
+    },
+    {
+      "en": "Then she clicks the Forward button at the top.",
+      "zh": "然后她点击顶部的“转发”按钮。"
+    },
+    {
+      "en": "A blank box appears for the new address.",
+      "zh": "出现一个空白框，用来填写新的地址。"
+    },
+    {
+      "en": "She types her coworker's email address in the To field.",
+      "zh": "她在收件人栏里输入同事的电子邮箱地址。"
+    },
+    {
+      "en": "She adds a short note above the old message.",
+      "zh": "她在原邮件上方加了一句简短的留言。"
+    },
+    {
+      "en": "She writes, \"Please take a look at this.\"",
+      "zh": "她写道：“请看看这个。”"
+    },
+    {
+      "en": "She checks the address again to be sure it is right.",
+      "zh": "她再次核对地址，确保填写无误。"
+    },
+    {
+      "en": "Finally, she clicks Send and forwards the email.",
+      "zh": "最后，她点击“发送”，把邮件转发出去。"
+    }
+  ]
+}
